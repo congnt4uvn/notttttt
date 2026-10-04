@@ -53,9 +53,13 @@ Sau Day 12, bạn có thể:
 Hãy học thành **cụm/câu**:
 
 > **eat rice** → ăn cơm
+
 > **drink water** → uống nước
+
 > **drink coffee** → uống cà phê
+
 > **eat an apple** → ăn một quả táo
+
 > **eat some bread** → ăn một ít bánh mì
 
 Như vậy khi nói bạn sẽ nhớ **cả cụm**, không phải dịch từng từ.
@@ -666,3 +670,254 @@ Bạn hãy nói liên tục:
 > **I usually eat bread and eggs for breakfast. I also eat some fruit. I drink coffee every morning. I like chicken, but I don't like beef. I drink water every day.**
 
 Nếu có thể nói đoạn này **không nhìn bài**, Day 12 đã đạt mục tiêu.
+
+Dưới đây là 10 đoạn văn tiếng Anh về chủ đề Food & Drinks (Đồ ăn và thức uống), tương tự đoạn văn bạn đang luyện tập. Các đoạn sử dụng câu ngắn, cấu trúc đơn giản, phù hợp với trình độ A1–A2, giúp bạn luyện nói tiếng Anh tự nhiên trong cuộc sống hằng ngày.
+
+# 10 đoạn văn luyện Speaking – Food & Drinks
+
+## 1. 
+
+My Favorite Food (Món ăn yêu thích)
+
+Tôi thích ăn cơm, thịt gà và rau.
+
+I like eating rice every day. 
+
+My favorite food is chicken. 
+
+I usually eat chicken with vegetables. 
+
+I also like fish and eggs. 
+
+I don't like spicy food. 
+
+I drink water with every meal. 
+
+I usually cook dinner at home.
+
+## 2. 
+
+My Breakfast (Bữa sáng của tôi)
+
+I usually have breakfast at 7. 
+
+I eat bread with eggs. 
+
+Sometimes I eat noodles. 
+
+I also like eating bananas and apples. 
+
+I drink a cup of coffee every morning. 
+
+I don't eat too much for breakfast. 
+
+I have breakfast before going to work.
+
+## 3. 
+
+My Lunch (Bữa trưa của tôi)
+
+I usually have lunch at 12. 
+
+I eat rice with chicken and vegetables. 
+
+Sometimes I eat beef or fish. 
+
+I usually have lunch with my colleagues. 
+
+I drink water after lunch. 
+
+I like eating at home, but sometimes I eat at a restaurant. 
+
+I take a short break after lunch.
+
+## 4. 
+
+My Dinner (Bữa tối của tôi)
+
+I usually have dinner at 7. 
+
+I eat rice, meat, and vegetables. 
+
+My mother sometimes cooks dinner for my family. 
+
+I like eating soup. 
+
+I don't eat much at night. 
+
+I usually drink a glass of water after dinner. 
+
+I sometimes eat fruit for dessert.
+
+## 5. 
+
+My Favorite Drinks (Đồ uống yêu thích)
+
+My favorite drink is coffee. 
+
+I drink coffee every morning. 
+
+Sometimes I drink milk or orange juice. 
+
+I also like green tea. 
+
+I don't drink soft drinks very often. 
+
+I drink plenty of water every day. 
+
+I usually buy coffee at a coffee shop near my office.
+
+## 6. 
+
+Eating at a Restaurant (Ăn tại nhà hàng)
+
+I sometimes eat at restaurants with my friends. 
+
+We usually go out on weekends. 
+
+I like eating chicken, noodles, and seafood. 
+
+I often order a glass of orange juice. 
+
+The food is usually delicious. 
+
+We talk and enjoy our meals together. 
+
+After dinner, we sometimes drink coffee.
+
+## 7. 
+
+Healthy Food (Thức ăn lành mạnh)
+
+I try to eat healthy food every day. 
+
+I usually eat vegetables and fresh fruit. 
+
+I like chicken and fish because they are delicious. 
+
+I don't eat much fast food. 
+
+I drink a lot of water. 
+
+I try to eat less sugar. 
+
+I think healthy food is important for my body.
+
+## 8. 
+
+Cooking at Home (Nấu ăn tại nhà)
+
+I usually cook at home in the evening. 
+
+I often prepare rice, chicken, and vegetables. 
+
+I sometimes make soup for dinner. 
+
+I like cooking because it is fun. 
+
+I buy fresh food at the supermarket. 
+
+I usually spend thirty minutes cooking. 
+
+I enjoy eating with my family.
+
+## 9. 
+
+Food I Don't Like (Những món ăn tôi không thích)
+
+I like many kinds of food, but I don't like beef. 
+
+I don't like very spicy food either. 
+
+I prefer chicken and fish. 
+
+I usually eat rice for lunch and dinner. 
+
+I don't drink too much soda. 
+
+I prefer water and fresh juice. 
+
+I think simple food is delicious.
+
+## 10. 
+
+My Daily Eating Habits (Thói quen ăn uống hằng ngày)
+
+I usually eat three meals a day. 
+
+I have breakfast at 7. 
+
+I eat lunch at 12. 
+
+I have dinner at 7 in the evening. 
+
+I usually eat rice, meat, and vegetables. 
+
+I eat fruit after meals. 
+
+I drink coffee every morning and water throughout the day. 
+
+I try to eat healthy food every day.
+
+# Từ vựng quan trọng
+
+| Từ vựng     | Phát âm gần đúng                 | Nghĩa           |
+| ----------- | -------------------------------- | --------------- |
+| Breakfast   | /ˈbrekfəst/ (brek-fợst)          | Bữa sáng        |
+| Lunch       | /lʌntʃ/ (lânch)                  | Bữa trưa        |
+| Dinner      | /ˈdɪnər/ (đi-nờ)                 | Bữa tối         |
+| Delicious   | /dɪˈlɪʃəs/ (đi-li-shợs)          | Ngon            |
+| Vegetables  | /ˈvedʒtəbəlz/ (ve-jờ-tờ-bồlz)    | Rau củ          |
+| Seafood     | /ˈsiːfuːd/ (sii-fuud)            | Hải sản         |
+| Noodles     | /ˈnuːdəlz/ (nuu-đồlz)            | Mì              |
+| Spicy       | /ˈspaɪsi/ (spai-si)              | Cay             |
+| Healthy     | /ˈhelθi/ (hel-thi)               | Lành mạnh       |
+| Fresh       | /freʃ/ (fresh)                   | Tươi            |
+| Meal        | /miːl/ (miil)                    | Bữa ăn          |
+| Dessert     | /dɪˈzɜːrt/ (đi-zợrt)             | Món tráng miệng |
+| Cook        | /kʊk/ (kuk)                      | Nấu ăn          |
+| Prefer      | /prɪˈfɜːr/ (pri-fơr)             | Thích hơn       |
+| Supermarket | /ˈsuːpərmɑːrkɪt/ (suu-pờ-ma-kịt) | Siêu thị        |
+
+# 10 cấu trúc câu nên luyện nói
+
+| Cấu trúc               | Ví dụ                          | Nghĩa                           |
+| ---------------------- | ------------------------------ | ------------------------------- |
+| I usually eat...       | I usually eat rice.            | Tôi thường ăn cơm.              |
+| I like eating...       | I like eating chicken.         | Tôi thích ăn thịt gà.           |
+| My favorite food is... | My favorite food is fish.      | Món ăn yêu thích của tôi là cá. |
+| I don't like...        | I don't like beef.             | Tôi không thích thịt bò.        |
+| I prefer... to...      | I prefer coffee to tea.        | Tôi thích cà phê hơn trà.       |
+| I sometimes drink...   | I sometimes drink milk.        | Đôi khi tôi uống sữa.           |
+| I usually have...      | I usually have breakfast at 7. | Tôi thường ăn sáng lúc 7 giờ.   |
+| I try to eat...        | I try to eat healthy food.     | Tôi cố gắng ăn đồ ăn lành mạnh. |
+| I enjoy cooking...     | I enjoy cooking at home.       | Tôi thích nấu ăn tại nhà.       |
+| I often go to...       | I often go to restaurants.     | Tôi thường đi nhà hàng.         |
+
+# Phương pháp luyện Speaking mỗi ngày
+
+1
+
+Đọc và phát âm
+
+Đọc mỗi đoạn 3–5 lần, chú ý phát âm rõ từng từ và nối âm giữa các từ.
+
+2
+
+Luyện nói theo trí nhớ
+
+Đọc đoạn văn, che nội dung tiếng Anh và tự nói lại theo ý hiểu của mình.
+
+3
+
+Thay đổi nội dung
+
+Thay thế món ăn, đồ uống và thời gian bằng thông tin thực tế của bạn để tạo thành đoạn văn của riêng mình.
+
+4
+
+Tự nói trong 1 phút
+
+Chọn một chủ đề và nói liên tục trong một phút, cố gắng không dừng lại để dịch từng câu từ tiếng Việt sang tiếng Anh.
+
+Gợi ý: Bạn nên luyện mỗi ngày 2 đoạn, đọc thành tiếng và thay đổi câu theo thói quen ăn uống của bản thân. Khi đã quen với các cấu trúc này, bạn có thể kết hợp chúng thành một bài nói dài từ 2–3 phút về chủ đề Food & Drinks.
