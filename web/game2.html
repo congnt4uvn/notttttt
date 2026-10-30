@@ -1,0 +1,1475 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gamblers Wheel</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.4/p5.min.js"></script>
+  <style>
+* { box-sizing: border-box; }
+[hidden] { display: none !important; }
+
+:root {
+  --bg: #1c1a24;
+  --panel: #2a2736;
+  --panel-2: #353144;
+  --text: #f1ecff;
+  --muted: #a49cbc;
+  --accent: #f4c542;
+  --good: #5fd38d;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: var(--bg);
+  color: var(--text);
+  font-family: "Comic Sans MS", "Chalkboard SE", "Segoe UI", system-ui, sans-serif;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 14px 24px;
+  background: var(--panel);
+  border-bottom: 3px solid #000;
+}
+
+h1 { margin: 0; font-size: 1.6rem; letter-spacing: 1px; color: var(--accent); margin-right: auto; }
+.stats { text-align: right; }
+.cash { font-size: 2rem; font-weight: 700; color: var(--good); }
+.sub { color: var(--muted); font-size: .85rem; }
+
+main {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 340px;
+  gap: 20px;
+  padding: 20px 24px;
+  max-width: 1300px;
+  margin: 0 auto;
+}
+
+.table-wrap { min-width: 0; }
+
+canvas {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 4px solid #5a3a1c;
+  border-radius: 10px;
+  background: #1f6b43;
+  cursor: pointer;
+  touch-action: none;
+}
+
+.table-actions { display: flex; align-items: center; gap: 14px; margin-top: 12px; flex-wrap: wrap; }
+.hint { color: var(--muted); font-size: .9rem; }
+
+button { font: inherit; cursor: pointer; }
+
+.spin, .auto {
+  padding: 10px 22px;
+  background: var(--accent);
+  color: #2b2100;
+  border: 0;
+  border-radius: 8px;
+  font-weight: 700;
+}
+.spin:disabled { opacity: .5; cursor: not-allowed; }
+.auto { background: transparent; color: var(--accent); border: 2px solid var(--accent); }
+.auto.on { background: var(--accent); color: #2b2100; }
+
+.shop {
+  background: var(--panel);
+  border-radius: 10px;
+  padding: 16px;
+  align-self: start;
+  max-height: calc(100vh - 140px);
+  overflow-y: auto;
+}
+.shop h2 { margin: 0 0 12px; font-size: 1.1rem; }
+.shop h2:not(:first-child) { margin-top: 16px; }
+
+.item {
+  display: block;
+  width: 100%;
+  margin-bottom: 8px;
+  padding: 10px 12px;
+  text-align: left;
+  background: var(--panel-2);
+  color: var(--text);
+  border: 2px solid transparent;
+  border-radius: 8px;
+}
+.item:hover:not(:disabled) { border-color: var(--accent); }
+.item:disabled { opacity: .45; cursor: not-allowed; }
+.item .row { display: flex; justify-content: space-between; gap: 8px; font-weight: 600; }
+.item .cost { color: var(--accent); white-space: nowrap; }
+.item .desc { margin-top: 3px; font-size: .8rem; color: var(--muted); font-weight: 400; }
+
+.btn {
+  padding: 8px 16px;
+  border: 2px solid #c07cff;
+  border-radius: 8px;
+  background: #3a2a5a;
+  color: #e8d6ff;
+  font-weight: 700;
+}
+.btn:hover { background: #523a80; }
+.danger { border: 0; background: #5b2430; color: #ffd6dd; }
+.danger:hover { background: #7a2f40; }
+
+header { position: relative; }
+.cheat-toggle {
+  padding: 8px 12px;
+  border: 2px dashed #8a6bff;
+  border-radius: 8px;
+  background: transparent;
+  color: #c8b8ff;
+}
+.cheat-toggle.on { background: #8a6bff; color: #fff; border-style: solid; }
+.cheat-panel {
+  position: absolute;
+  top: 100%;
+  right: 24px;
+  z-index: 5;
+  width: 300px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 6px;
+  padding: 10px;
+  background: var(--panel);
+  border: 2px solid #8a6bff;
+  border-radius: 0 0 10px 10px;
+}
+.cheat-panel button {
+  padding: 7px;
+  border: 0;
+  border-radius: 6px;
+  background: #4a3d7a;
+  color: #fff;
+  font-size: .8rem;
+}
+.cheat-panel button:hover { background: #6a58b0; }
+
+.float { position: fixed; pointer-events: none; font-weight: 800; text-shadow: 0 2px 2px #000; transition: transform 1s ease-out, opacity 1s ease-out; z-index: 20; }
+
+.modal {
+  position: fixed;
+  inset: 0;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.65);
+}
+.modal-box {
+  width: min(520px, 94vw);
+  max-height: 88vh;
+  overflow-y: auto;
+  padding: 18px;
+  background: var(--panel);
+  border: 3px solid #c07cff;
+  border-radius: 12px;
+}
+.modal-head { display: flex; justify-content: space-between; align-items: center; }
+.modal-head h2 { margin: 0; color: #e8d6ff; }
+.modal-head button { border: 0; border-radius: 6px; padding: 4px 10px; background: var(--panel-2); color: var(--text); }
+.rb-info { color: var(--muted); font-size: .85rem; }
+.rb-stats { margin: 8px 0; }
+.rebirth-do {
+  width: 100%;
+  margin: 6px 0 4px;
+  padding: 12px;
+  border: 0;
+  border-radius: 8px;
+  background: #c07cff;
+  color: #1c0a33;
+  font-weight: 800;
+  font-size: 1rem;
+}
+.rebirth-do:disabled { opacity: .45; cursor: not-allowed; }
+
+h1 { display: inline-block; transform-origin: 50% 80%; animation: wobble 2.5s ease-in-out infinite; }
+@keyframes wobble { 0%, 100% { transform: rotate(-3deg); } 50% { transform: rotate(3deg) scale(1.06); } }
+@keyframes jiggle { 0%, 100% { transform: rotate(-2deg); } 50% { transform: rotate(2deg) scale(1.05); } }
+.spin:hover:not(:disabled), .auto:hover, .btn:hover { animation: jiggle .25s infinite; }
+.item:hover:not(:disabled) { transform: translateX(-4px) rotate(-0.6deg); }
+.item { transition: transform .15s; }
+#wheelHost canvas { box-shadow: 0 8px 0 #3a2410; }
+@media (prefers-reduced-motion: reduce) {
+  h1, .spin:hover, .auto:hover, .btn:hover { animation: none; }
+}
+
+header { flex-wrap: wrap; }
+.modal-box.wide { width: min(760px, 96vw); }
+.gcards { display: flex; flex-wrap: wrap; gap: 8px; margin: 10px 0; }
+.gcard { width: 118px; padding: 8px 6px; text-align: center; font-size: .75rem; background: var(--panel-2); border: 3px solid var(--rc, #9aa3b5); border-radius: 8px; animation: gpop .45s both; animation-delay: var(--d, 0s); }
+.gcard .ico { font-size: 1.9rem; }
+.gcard .gn { font-weight: 700; margin-top: 2px; }
+.gcard .gr { color: var(--rc); font-size: .7rem; font-weight: 700; text-transform: uppercase; }
+.gcard .gs { color: var(--accent); letter-spacing: 1px; }
+.gcard .gd { color: var(--muted); margin-top: 2px; }
+.gcard .nw { display: inline-block; margin-top: 3px; padding: 0 6px; border-radius: 6px; background: var(--good); color: #062; font-weight: 800; }
+.gcard.legendary { box-shadow: 0 0 14px 3px #ffb830; }
+.gcard.mythic { animation: gpop .45s both, mglow 1.6s ease-in-out infinite; animation-delay: var(--d, 0s), 0s; }
+.gcards.static .gcard.mythic { animation: mglow 1.6s ease-in-out infinite; }
+.gcard.locked.mythic { animation: none; }
+@keyframes mglow { 0%, 100% { box-shadow: 0 0 8px 2px #ff5a8a; } 50% { box-shadow: 0 0 20px 6px #7aa8ff; } }
+.banner { margin: 8px 0; padding: 8px 10px; border: 2px dashed var(--accent); border-radius: 8px; font-size: .85rem; }
+.banner b { color: var(--accent); }
+.gcard.epic { box-shadow: 0 0 10px 2px #c07cff; }
+.gcard.locked { opacity: .35; animation: none; }
+.gcards.static .gcard { animation: none; }
+@keyframes gpop { from { transform: scale(.3) rotate(-12deg); opacity: 0; } to { transform: none; opacity: 1; } }
+@media (prefers-reduced-motion: reduce) { .gcard { animation: none; } }
+.perk-list { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+.perk-list .item { margin-bottom: 0; border-color: #4a3d7a; }
+.perk-list .item:hover:not(:disabled) { border-color: #c07cff; }
+.perk-list .cost { color: #d9b8ff; }
+@media (max-width: 640px) { .perk-list { grid-template-columns: 1fr; } }
+.recent { display: flex; gap: 6px; margin-top: 10px; min-height: 28px; flex-wrap: wrap; align-items: center; }
+.recent .lbl { color: var(--muted); font-size: .8rem; margin-right: 4px; }
+.chip { padding: 3px 9px; border-radius: 12px; font-size: .8rem; font-weight: 700; color: #10101a; border: 2px solid #000; }
+.chip.bust { color: #e6b0b0; }
+.chip.gold { box-shadow: 0 0 8px 2px #ffd34d; }
+
+.stat-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 6px 14px; margin: 10px 0; font-size: .9rem; }
+.stat-grid b { color: var(--accent); float: right; }
+.ach-head { margin: 14px 0 6px; font-size: 1rem; }
+.ach { display: flex; gap: 8px; align-items: baseline; padding: 6px 8px; margin-bottom: 4px; border-radius: 6px; background: var(--panel-2); opacity: .5; font-size: .85rem; }
+.ach.done { opacity: 1; border-left: 4px solid var(--good); }
+.ach .an { font-weight: 700; }
+.ach .ad { color: var(--muted); margin-left: auto; text-align: right; }
+.data-box { width: 100%; height: 70px; margin-top: 6px; background: var(--panel-2); color: var(--text); border: 2px solid var(--panel-2); border-radius: 6px; font-size: .75rem; resize: vertical; }
+.data-row { display: flex; gap: 8px; margin-top: 6px; }
+
+#toasts { position: fixed; right: 16px; bottom: 16px; z-index: 30; display: flex; flex-direction: column; gap: 8px; pointer-events: none; }
+.toast { padding: 10px 14px; background: var(--panel); border: 2px solid var(--accent); border-radius: 8px; font-weight: 700; box-shadow: 0 4px 12px rgba(0,0,0,.5); animation: toastIn .3s ease-out; max-width: 300px; }
+.toast small { display: block; font-weight: 400; color: var(--muted); }
+@keyframes toastIn { from { transform: translateX(40px); opacity: 0; } to { transform: none; opacity: 1; } }
+
+@media (max-width: 900px) {
+  main { grid-template-columns: 1fr; }
+  .shop { max-height: none; }
+}
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Gamblers Wheel 🎰</h1>
+    <button id="rebirthOpen" class="btn">Rebirth</button>
+    <button id="statsOpen" class="btn">Stats &amp; Awards</button>
+    <button id="gachaOpen" class="btn">Gacha 🎟 <span id="gachaCount">0</span></button>
+    <button id="mute" class="btn">Sound: ON</button>
+    <button id="cheatToggle" class="cheat-toggle">Cheat Mode: OFF</button>
+    <button id="reset" class="btn danger">New Game</button>
+    <div id="cheatPanel" class="cheat-panel" hidden>
+      <button data-cheat="cash1k">+$1K</button>
+      <button data-cheat="cash1m">+$1M</button>
+      <button data-cheat="cash1b">+$1B</button>
+      <button data-cheat="cash1t">+$1T</button>
+      <button data-cheat="bet">Max bet</button>
+      <button data-cheat="upgrades">Max upgrades</button>
+      <button data-cheat="spinners">Max spinners</button>
+      <button data-cheat="streak">Streak 30</button>
+      <button data-cheat="jackpot">Next spin: x25</button>
+      <button data-cheat="rp">+100 RP</button>
+      <button data-cheat="tickets">+10 tickets</button>
+    </div>
+    <div class="stats">
+      <div class="cash">$<span id="cash">0</span></div>
+      <div class="sub"><span id="rate">0</span>/s &middot; bet $<span id="bet">1</span> &middot; streak <span id="streak">0</span></div>
+    </div>
+  </header>
+
+  <main>
+    <section class="table-wrap">
+      <div id="wheelHost"></div>
+      <div class="table-actions">
+        <button id="spin" class="spin">Spin (Space)</button>
+        <button id="auto" class="auto">Auto Spin: OFF</button>
+        <span class="hint" id="hint">Spin the wheel. Wins build a streak that boosts payouts. Keys: Space spin, A auto, M mute.</span>
+      </div>
+      <div class="recent" id="recent"></div>
+    </section>
+
+    <aside class="shop">
+      <h2>Upgrades</h2>
+      <div id="upgradeList"></div>
+      <h2>Auto Spinners</h2>
+      <div id="spinnerList"></div>
+    </aside>
+  </main>
+
+  <div id="rebirthModal" class="modal" hidden>
+    <div class="modal-box wide">
+      <div class="modal-head"><h2>Rebirth</h2><button id="rebirthClose">Close</button></div>
+      <p class="rb-info">Start over to earn Rebirth Points (RP) from the cash made this life. Every RP earned gives a permanent +10% to all payouts, and can also be spent in the shop below on permanent perks.</p>
+      <div class="rb-stats">RP to spend: <b id="rpAvail">0</b> (total earned <b id="rpNow">0</b>) &middot; Rebirths: <b id="rbCount">0</b> &middot; Earned this life: $<b id="rbEarned">0</b></div>
+      <button id="rebirthDo" class="rebirth-do">Rebirth</button>
+      <h3 class="ach-head">Rebirth Shop</h3>
+      <div id="perkList" class="perk-list"></div>
+    </div>
+  </div>
+
+  <div id="statsModal" class="modal" hidden>
+    <div class="modal-box">
+      <div class="modal-head"><h2>Stats &amp; Awards</h2><button id="statsClose">Close</button></div>
+      <div class="stat-grid" id="statGrid"></div>
+      <h3 class="ach-head">Achievements <span class="rb-info" id="achSummary"></span></h3>
+      <div id="achList"></div>
+      <h3 class="ach-head">Save data</h3>
+      <textarea id="saveText" class="data-box" spellcheck="false" placeholder="Export, then copy this text. Paste a save here and press Import."></textarea>
+      <div class="data-row">
+        <button id="exportBtn" class="btn">Export</button>
+        <button id="importBtn" class="btn">Import</button>
+      </div>
+    </div>
+  </div>
+
+  <div id="gachaModal" class="modal" hidden>
+    <div class="modal-box wide">
+      <div class="modal-head"><h2>Charm Gacha</h2><button id="gachaClose">Close</button></div>
+      <p class="rb-info">Earn a ticket every 20 spins, +3 for a manual x25, +3 per achievement and +2 per rebirth. Charms are permanent and survive rebirth. Duplicates add a star (max 5). A rare-or-better is guaranteed in every 10-pull, an epic-or-better in every 50-pull and at least every 30 pulls. Collecting 4 different charms gives a permanent +5% payouts. Tickets can also be bought with cash (price resets each rebirth).</p>
+      <div class="rb-stats">Tickets: <b id="gTickets">0</b> &middot; Pulls: <b id="gPulls">0</b> &middot; Epic pity: <b id="gPity">0</b>/30 &middot; Next ticket: <b id="gProg">0</b>/20 spins</div>
+      <div class="data-row">
+        <button id="pull1" class="btn">Pull x1 (1 ticket)</button>
+        <button id="pull10" class="btn">Pull x10 (10 tickets)</button>
+        <button id="pull50" class="btn">Pull x50 (50 tickets)</button>
+        <button id="buyTicket" class="btn">Buy ticket</button>
+      </div>
+      <div class="banner" id="gBanner"></div>
+      <div id="pullResults" class="gcards"></div>
+      <h3 class="ach-head">Collection <span class="rb-info" id="gSummary"></span></h3>
+      <div id="charmList" class="gcards"></div>
+    </div>
+  </div>
+
+  <div id="toasts"></div>
+
+  <script>
+(() => {
+  'use strict';
+
+  const W = 800, H = 500, SAVE_KEY = 'gamblersWheelSave', MUTE_KEY = 'gamblersWheelMuted';
+  const CX = 400, CY = 260, R = 220;
+
+  // Segment layout around the wheel (clockwise from the top)
+  const SEG_TYPES = {
+    bust: { label: 'BUST', mult: 0,  color: '#3a2a2a', weight: 6 },
+    x1:   { label: 'x1',   mult: 1,  color: '#5d86ff', weight: 4 },
+    x2:   { label: 'x2',   mult: 2,  color: '#45d68b', weight: 3 },
+    x3:   { label: 'x3',   mult: 3,  color: '#f4c542', weight: 2 },
+    x5:   { label: 'x5',   mult: 5,  color: '#e5445a', weight: 1.5 },
+    x10:  { label: 'x10',  mult: 10, color: '#c07cff', weight: 0.7 },
+    x25:  { label: 'x25',  mult: 25, color: '#8fe8ff', weight: 0.2 },
+  };
+  const LAYOUT = ['bust','x1','x2','bust','x1','x3','bust','x2','x1','x5','bust','x1','x2','x10','bust','x3','x1','x2','bust','x25'];
+  const SEG = LAYOUT.length, SEG_ANGLE = Math.PI * 2 / SEG;
+
+  const SPINNER_MAX = 20;
+  const MAX_LVL = { bet: 200, luck: 60, speed: 25, streak: 40, crit: 40, autoSpeed: 30, gold: 30,
+    jackpot: 40, interest: 20, insurance: 20, ticket: 25, rpSave: 25, bulk: 25, small: 40 };
+
+  const UPGRADES = [
+    { key: 'bet',       name: 'Bigger Bet',   base: 12,   grow: 1.55, desc: l => `Bet $${fmt(betFor(l))} per spin` },
+    { key: 'luck',      name: 'Lucky Wheel',  base: 60,   grow: 1.45, desc: l => `Bust weight x${(0.95 ** l).toFixed(2)}, big wins more likely` },
+    { key: 'speed',     name: 'Fast Wheel',   base: 40,   grow: 1.5,  desc: l => `Spin time ${spinTimeFor(l).toFixed(2)}s` },
+    { key: 'streak',    name: 'Hot Streak',   base: 150,  grow: 1.5,  desc: l => `+${(2 + l * 0.5).toFixed(1)}% per streak win (max 30 wins)` },
+    { key: 'crit',      name: 'Critical Spin', base: 500, grow: 1.6,  desc: l => `${l * 1}% chance to double a win` },
+    { key: 'autoSpeed', name: 'Auto Tempo',   base: 400,  grow: 1.55, desc: l => `Spinners work ${(1 + 0.25 * l).toFixed(2)}x faster` },
+    { key: 'gold',      name: 'Golden Touch', base: 1200, grow: 1.6,  desc: l => `${l}% chance a win pays x3 (stacks with crit)` },
+    { key: 'small',     name: 'Small Wins',   base: 90,   grow: 1.5,  desc: l => `x1 and x2 payouts +${l * 5}%` },
+    { key: 'insurance', name: 'Insurance',    base: 700,  grow: 1.55, desc: l => `Bust refunds ${l * 5}% of your bet` },
+    { key: 'jackpot',   name: 'Jackpot Hunter', base: 2500, grow: 1.5, desc: l => `x10 and x25 ${l * 4}% more likely` },
+    { key: 'interest',  name: 'Compound Interest', base: 5000, grow: 1.6, desc: l => `Cash on hand grows ${(l * 0.01).toFixed(2)}%/s (not counted for RP)` },
+    { key: 'bulk',      name: 'Bulk Discount', base: 3000, grow: 1.5, desc: l => `Auto spinners ${Math.round((1 - 0.98 ** l) * 100)}% cheaper` },
+    { key: 'ticket',    name: 'Ticket Printer', base: 8000, grow: 1.6, desc: l => `${l}% chance a manual spin drops a gacha ticket` },
+    { key: 'rpSave',    name: 'Rebirth Savvy', base: 20000, grow: 1.65, desc: l => `+${l * 2}% RP from rebirths` },
+  ];
+  const SPINNERS = [
+    { name: 'Intern',    base: 100,    grow: 1.25, per: 0.2,  color: '#7a5cff' },
+    { name: 'Dealer',    base: 2500,   grow: 1.3,  per: 1,    color: '#3fc1ff' },
+    { name: 'Pit Boss',  base: 60000,  grow: 1.35, per: 5,    color: '#5fd38d' },
+    { name: 'High Roller', base: 1.5e6, grow: 1.4, per: 25,   color: '#f4a23a' },
+    { name: 'Casino Owner', base: 4e7,  grow: 1.45, per: 150,  color: '#ff6b8b' },
+    { name: 'Tycoon',    base: 1e9,    grow: 1.5,  per: 1000, color: '#ffd34d' },
+  ];
+
+  // Each achievement gives a permanent +2% to all payouts
+  const ACHIEVEMENTS = [
+    { id: 'spin1',    name: 'First Spin',     desc: 'Spin once',                test: () => state.meta.spins >= 1 },
+    { id: 'spin100',  name: 'Regular',        desc: 'Spin 100 times',           test: () => state.meta.spins >= 100 },
+    { id: 'spin1k',   name: 'Addicted',       desc: 'Spin 1,000 times',         test: () => state.meta.spins >= 1000 },
+    { id: 'streak10', name: 'Heating Up',     desc: 'Reach a 10 win streak',    test: () => state.meta.bestStreak >= 10 },
+    { id: 'streak30', name: 'Unstoppable',    desc: 'Reach a 30 win streak',    test: () => state.meta.bestStreak >= 30 },
+    { id: 'jackpot',  name: 'Jackpot!',       desc: 'Land an x25',              test: () => state.meta.jackpots >= 1 },
+    { id: 'crit10',   name: 'Crit Happens',   desc: 'Land 10 critical spins',   test: () => state.meta.crits >= 10 },
+    { id: 'gold10',   name: 'Midas',          desc: 'Land 10 golden spins',     test: () => state.meta.golds >= 10 },
+    { id: 'crew',     name: 'Crew',           desc: 'Own 10 auto spinners',     test: () => spinnerCount() >= 10 },
+    { id: 'mil',      name: 'Millionaire',    desc: 'Earn $1M in total',        test: () => state.meta.lifetime >= 1e6 },
+    { id: 'bil',      name: 'Billionaire',    desc: 'Earn $1B in total',        test: () => state.meta.lifetime >= 1e9 },
+    { id: 'reborn',   name: 'Born Again',     desc: 'Rebirth once',             test: () => state.rebirths >= 1 },
+  ];
+
+  // Rebirth shop: permanent perks bought with spendable RP (cost = base * grow^level)
+  const PERKS = [
+    { key: 'payBoost',  name: 'Fat Stacks',      base: 2, grow: 1.35, max: 20, desc: l => `+${l * 15}% to all payouts` },
+    { key: 'startCash', name: 'Head Start',      base: 1, grow: 1.5,  max: 10, desc: l => `Start each life with $${fmt(startCashFor(l))}` },
+    { key: 'startBet',  name: 'Loaded Pockets',  base: 2, grow: 1.5,  max: 10, desc: l => `Start each life at Bigger Bet Lv ${l * 3}` },
+    { key: 'startIntern', name: 'Free Interns',  base: 2, grow: 1.5,  max: 10, desc: l => `Start each life with ${l} Intern${l === 1 ? '' : 's'}` },
+    { key: 'luck',      name: "Rabbit's Foot",   base: 3, grow: 1.4,  max: 10, desc: l => `+${l * 2} free Lucky Wheel levels` },
+    { key: 'magnet',    name: 'Jackpot Magnet',  base: 5, grow: 1.5,  max: 10, desc: l => `x10 and x25 are ${l * 10}% more likely` },
+    { key: 'crit',      name: 'Sharpshooter',    base: 4, grow: 1.4,  max: 15, desc: l => `+${l}% critical chance` },
+    { key: 'gold',      name: 'Gilded Fingers',  base: 4, grow: 1.4,  max: 15, desc: l => `+${l}% golden spin chance` },
+    { key: 'streakCap', name: 'Streak Keeper',   base: 6, grow: 1.5,  max: 6,  desc: l => `Streak bonus caps at ${30 + l * 5} wins` },
+    { key: 'shield',    name: 'Safety Net',      base: 6, grow: 1.5,  max: 10, desc: l => `${l * 3}% chance a bust keeps your streak` },
+    { key: 'union',     name: 'Spinner Union',   base: 5, grow: 1.4,  max: 20, desc: l => `Auto spinners +${l * 10}% output` },
+    { key: 'discount',  name: 'Haggler',         base: 4, grow: 1.45, max: 10, desc: l => `Shop prices ${Math.round((1 - 0.97 ** l) * 100)}% cheaper` },
+    { key: 'turbo',     name: 'Turbo Wheel',     base: 3, grow: 1.4,  max: 10, desc: l => `Wheel spins ${Math.round((1 - 0.97 ** l) * 100)}% faster` },
+    { key: 'night',     name: 'Night Shift',     base: 3, grow: 1.4,  max: 5,  desc: l => `Offline earnings: ${50 + l * 10}% efficiency, ${2 + l}h cap` },
+    { key: 'wisdom',    name: 'Wisdom',          base: 8, grow: 1.5,  max: 10, desc: l => `+${l * 10}% RP from rebirths` },
+  ];
+  const startCashFor = l => (l ? 200 * 3 ** l : 0);
+
+  // Gacha charms: permanent, gain a star per duplicate (up to STAR_MAX)
+  const RARITIES = {
+    common:    { label: 'Common',    color: '#9aa3b5', w: 60 },
+    rare:      { label: 'Rare',      color: '#4aa8ff', w: 28 },
+    epic:      { label: 'Epic',      color: '#c07cff', w: 10 },
+    legendary: { label: 'Legendary', color: '#ffb830', w: 2 },
+    mythic:    { label: 'Mythic',    color: '#ff5a8a', w: 0.4 },
+  };
+  const RARITY_ORDER = ['common', 'rare', 'epic', 'legendary', 'mythic'];
+  const STAR_MAX = 5, PITY_EPIC = 30, SPINS_PER_TICKET = 20;
+  const CHARMS = [
+    { key: 'penny',   name: 'Lucky Penny',      icon: '🪙', rar: 'common',    desc: s => `+${s * 4}% payouts` },
+    { key: 'dice',    name: 'Loaded Dice',      icon: '🎲', rar: 'common',    desc: s => `+${s}% crit chance` },
+    { key: 'clover',  name: 'Four-Leaf Clover', icon: '🍀', rar: 'common',    desc: s => `+${s} Lucky Wheel level${s === 1 ? '' : 's'}` },
+    { key: 'chip',    name: 'Poker Chip',       icon: '🔵', rar: 'common',    desc: s => `Auto spinners +${s * 3}%` },
+    { key: 'horseshoe', name: 'Horseshoe',      icon: '🧲', rar: 'rare',      desc: s => `+${s * 2}% golden spin chance` },
+    { key: 'cards',   name: 'Marked Cards',     icon: '🃏', rar: 'rare',      desc: s => `Streak cap +${s * 3} wins` },
+    { key: 'piggy',   name: 'Piggy Bank',       icon: '🐷', rar: 'rare',      desc: s => `Shop prices ${Math.round((1 - 0.98 ** s) * 100)}% cheaper` },
+    { key: 'clock',   name: 'Pocket Watch',     icon: '⌚',       rar: 'rare',      desc: s => `Wheel ${Math.round((1 - 0.97 ** s) * 100)}% faster` },
+    { key: 'crown',   name: "Gambler's Crown",  icon: '👑', rar: 'epic',      desc: s => `+${s * 10}% payouts` },
+    { key: 'eye',     name: 'Third Eye',        icon: '🧿', rar: 'epic',      desc: s => `+${s * 3}% bust keeps streak` },
+    { key: 'aces',    name: 'Four Aces',        icon: '♠️', rar: 'epic',      desc: s => `x10/x25 ${s * 8}% more likely` },
+    { key: 'dragon',  name: 'Golden Dragon',    icon: '🐉', rar: 'legendary', desc: s => `+${s * 25}% payouts` },
+    { key: 'cherry',  name: 'Cherry',           icon: '🍒', rar: 'common',    desc: s => `x1/x2 payouts +${s * 5}%` },
+    { key: 'bell',    name: 'Lucky Bell',       icon: '🔔', rar: 'common',    desc: s => `+${s}% ticket drop per manual spin` },
+    { key: 'rabbit',  name: 'Lucky Rabbit',     icon: '🐇', rar: 'rare',      desc: s => `+${s * 2} Lucky Wheel levels` },
+    { key: 'safe',    name: 'Vault',            icon: '🔒', rar: 'rare',      desc: s => `Cash grows +${(s * 0.01).toFixed(2)}%/s` },
+    { key: 'umbrella', name: 'Rain Check',      icon: '☂️', rar: 'rare',      desc: s => `Bust refunds +${s * 5}% of bet` },
+    { key: 'star',    name: 'Shooting Star',    icon: '🌠', rar: 'epic',      desc: s => `+${s * 2}% crit chance` },
+    { key: 'gem',     name: 'Diamond',          icon: '💎', rar: 'epic',      desc: s => `+${s * 8}% RP from rebirths` },
+    { key: 'robot',   name: 'Spinbot',          icon: '🤖', rar: 'epic',      desc: s => `Auto spinners +${s * 10}%` },
+    { key: 'phoenix', name: 'Phoenix',          icon: '🔥', rar: 'legendary', desc: s => `+${(s * 0.5).toFixed(1)}% bonus per streak win` },
+    { key: 'unicorn', name: 'Unicorn',          icon: '🦄', rar: 'legendary', desc: s => `+${s * 3}% golden spin chance` },
+    { key: 'infinity', name: 'Infinity Loop',   icon: '♾️', rar: 'mythic',    desc: s => `+${s * 60}% payouts` },
+    { key: 'cosmos',  name: 'Cosmic Wheel',     icon: '🌌', rar: 'mythic',    desc: s => `+${s * 5} Lucky Wheel levels` },
+  ];
+
+  const $ = id => document.getElementById(id);
+  let canvas = null; // p5 canvas element, set in the sketch setup
+
+  // ---------- State ----------
+  const fresh = () => ({
+    cash: 0,
+    lvl: Object.fromEntries(Object.keys(MAX_LVL).map(k => [k, 0])),
+    spinners: SPINNERS.map(() => 0),
+    streak: 0,
+    rp: 0,
+    rpSpent: 0,
+    perks: Object.fromEntries(PERKS.map(p => [p.key, 0])),
+    rebirths: 0,
+    runEarned: 0,
+    auto: false,
+    lastSeen: 0,
+    meta: { spins: 0, bestWin: 0, bestStreak: 0, lifetime: 0, crits: 0, golds: 0, jackpots: 0, ach: {} },
+    gacha: { tickets: 0, pulls: 0, pity: 0, progress: 0, bought: 0, owned: {} },
+  });
+  let state = fresh();
+  let angle = 0;
+  let spinning = null; // { from, to, start, dur, result }
+  let lastResult = null;
+  let autoAcc = 0;
+  let history = [];
+  let recent = [];
+
+  // ---------- Formulas ----------
+  function fmt(n) {
+    if (!isFinite(n)) return '0';
+    if (n < 1000) return n < 10 && n % 1 ? n.toFixed(1) : String(Math.floor(n));
+    const u = ['K','M','B','T','Qa','Qi','Sx'];
+    let i = -1;
+    while (n >= 1000 && i < u.length - 1) { n /= 1000; i++; }
+    return n.toFixed(n < 10 ? 2 : n < 100 ? 1 : 0) + u[i];
+  }
+  const betFor = l => Math.floor(1.3 ** l);
+  const pk = k => state.perks[k] || 0;
+  const ch = k => state.gacha.owned[k] || 0;
+  const collected = () => CHARMS.filter(c => ch(c.key) > 0).length;
+  const spinTimeFor = l => Math.max(0.35, 2.2 * 0.92 ** l * 0.97 ** pk('turbo') * 0.97 ** ch('clock'));
+  const achMult = () => 1 + 0.02 * Object.keys(state.meta.ach).length;
+  const charmMult = () => 1 + 0.04 * ch('penny') + 0.1 * ch('crown') + 0.25 * ch('dragon') + 0.6 * ch('infinity') + 0.05 * Math.floor(collected() / 4);
+  const rpMult = () => (1 + 0.1 * state.rp) * achMult() * (1 + 0.15 * pk('payBoost')) * charmMult();
+  const streakCap = () => 30 + 5 * pk('streakCap') + 3 * ch('cards');
+  const streakBonus = () => 1 + Math.min(state.streak, streakCap()) * (0.02 + 0.005 * state.lvl.streak + 0.005 * ch('phoenix'));
+  const critChance = () => (state.lvl.crit + pk('crit') + ch('dice') + 2 * ch('star')) * 0.01;
+  const goldChance = () => (state.lvl.gold + pk('gold') + 2 * ch('horseshoe') + 3 * ch('unicorn')) * 0.01;
+  const shieldChance = () => pk('shield') * 0.03 + ch('eye') * 0.03;
+  const bet = () => betFor(state.lvl.bet);
+
+  function weights() {
+    const l = state.lvl.luck + 2 * pk('luck') + ch('clover') + 2 * ch('rabbit') + 5 * ch('cosmos');
+    return LAYOUT.map(k => {
+      const t = SEG_TYPES[k];
+      if (k === 'bust') return t.weight * 0.95 ** l;
+      const magnet = k === 'x10' || k === 'x25' ? 1 + 0.1 * pk('magnet') + 0.08 * ch('aces') + 0.04 * state.lvl.jackpot : 1;
+      return t.weight * (1 + 0.03 * l) * magnet;
+    });
+  }
+  let forceJackpot = false;
+  function pickSegment() {
+    if (forceJackpot) { forceJackpot = false; return LAYOUT.indexOf('x25'); }
+    const w = weights();
+    let r = Math.random() * w.reduce((a, b) => a + b, 0);
+    for (let i = 0; i < SEG; i++) { r -= w[i]; if (r <= 0) return i; }
+    return SEG - 1;
+  }
+  function payout(i) {
+    const mult = SEG_TYPES[LAYOUT[i]].mult;
+    const m = state.meta;
+    m.spins++;
+    if (mult === 0) {
+      if (!(Math.random() < shieldChance())) state.streak = 0;
+      return { amount: 0, crit: false, gold: false, refund: bet() * 0.05 * (state.lvl.insurance + ch('umbrella')) };
+    }
+    let amount = bet() * mult * streakBonus() * rpMult();
+    if (mult <= 2) amount *= 1 + 0.05 * (state.lvl.small + ch('cherry'));
+    const crit = Math.random() < critChance();
+    if (crit) { amount *= 2; m.crits++; }
+    const gold = Math.random() < goldChance();
+    if (gold) { amount *= 3; m.golds++; }
+    if (mult >= 25) m.jackpots++;
+    state.streak++;
+    if (state.streak > m.bestStreak) m.bestStreak = state.streak;
+    if (amount > m.bestWin) m.bestWin = amount;
+    return { amount, crit, gold, refund: 0 };
+  }
+  function addCash(n) {
+    state.cash += n;
+    state.runEarned += n;
+    state.meta.lifetime += n;
+    if (n > 0) history.push([performance.now(), n]);
+  }
+  const discount = () => 0.97 ** pk('discount') * 0.98 ** ch('piggy');
+  const cost = (u, lvl) => Math.ceil(u.base * u.grow ** lvl * discount());
+  const spinnerCost = i => Math.ceil(SPINNERS[i].base * SPINNERS[i].grow ** state.spinners[i] * discount() * 0.98 ** state.lvl.bulk);
+  const perkCost = (p, l) => Math.ceil(p.base * p.grow ** l);
+  const rpAvail = () => Math.max(0, state.rp - state.rpSpent);
+  const spinnerCount = () => state.spinners.reduce((a, b) => a + b, 0);
+  const autoPower = () => state.spinners.reduce((s, c, i) => s + c * SPINNERS[i].per, 0) * (1 + 0.25 * state.lvl.autoSpeed) * (1 + 0.1 * pk('union') + 0.03 * ch('chip') + 0.1 * ch('robot'));
+  const rpGain = () => Math.floor(Math.sqrt(state.runEarned / 20000) * (1 + 0.1 * pk('wisdom') + 0.02 * state.lvl.rpSave + 0.08 * ch('gem')));
+
+  // ---------- Sound ----------
+  let audio = null, muted = false;
+  try { muted = localStorage.getItem(MUTE_KEY) === '1'; } catch (e) { /* ignore */ }
+  function beep(freq, dur, type = 'sine', vol = 0.06, delay = 0) {
+    if (muted) return;
+    try {
+      audio = audio || new (window.AudioContext || window.webkitAudioContext)();
+      if (audio.state === 'suspended') audio.resume();
+      const t = audio.currentTime + delay;
+      const o = audio.createOscillator(), g = audio.createGain();
+      o.type = type;
+      o.frequency.setValueAtTime(freq, t);
+      g.gain.setValueAtTime(vol, t);
+      g.gain.exponentialRampToValueAtTime(0.001, t + dur);
+      o.connect(g).connect(audio.destination);
+      o.start(t);
+      o.stop(t + dur);
+    } catch (e) { /* audio unavailable */ }
+  }
+  function jingle(notes, type = 'triangle', gap = 0.09) {
+    notes.forEach((f, i) => beep(f, 0.18, type, 0.07, i * gap));
+  }
+  function updateMute() {
+    $('mute').textContent = 'Sound: ' + (muted ? 'OFF' : 'ON');
+  }
+  function toggleMute() {
+    muted = !muted;
+    try { localStorage.setItem(MUTE_KEY, muted ? '1' : '0'); } catch (e) { /* ignore */ }
+    updateMute();
+  }
+
+  // ---------- Toasts, recent results, achievements ----------
+  function toast(title, sub) {
+    const el = document.createElement('div');
+    el.className = 'toast';
+    el.textContent = title;
+    if (sub) { const s = document.createElement('small'); s.textContent = sub; el.appendChild(s); }
+    $('toasts').appendChild(el);
+    setTimeout(() => el.remove(), 4000);
+  }
+
+  function renderRecent() {
+    const box = $('recent');
+    box.replaceChildren();
+    if (!recent.length) return;
+    const lbl = document.createElement('span');
+    lbl.className = 'lbl';
+    lbl.textContent = 'Recent:';
+    box.appendChild(lbl);
+    for (const r of recent) {
+      const c = document.createElement('span');
+      c.className = 'chip' + (r.bust ? ' bust' : '') + (r.gold ? ' gold' : '');
+      c.style.background = r.color;
+      c.textContent = r.label;
+      box.appendChild(c);
+    }
+  }
+
+  function checkAchievements() {
+    for (const a of ACHIEVEMENTS) {
+      if (state.meta.ach[a.id] || !a.test()) continue;
+      state.meta.ach[a.id] = true;
+      toast('Achievement: ' + a.name, a.desc + ' (+2% payouts, +3 tickets)');
+      state.gacha.tickets += 3;
+      jingle([784, 988, 1175, 1568], 'sine', 0.08);
+    }
+  }
+
+  function offlineEarnings() {
+    if (!state.lastSeen) return;
+    const secs = Math.min(7200 + 3600 * pk('night'), (Date.now() - state.lastSeen) / 1000);
+    const power = autoPower();
+    if (secs < 60 || power <= 0) return;
+    const w = weights(), tw = w.reduce((a, b) => a + b, 0);
+    const ev = w.reduce((s, x, i) => s + x * SEG_TYPES[LAYOUT[i]].mult, 0) / tw;
+    const amount = secs * power * (0.5 + 0.1 * pk('night')) * ev * bet() * rpMult() * (1 + critChance());
+    if (amount <= 0) return;
+    addCash(amount);
+    toast('Welcome back!', `Your spinners earned $${fmt(amount)} while you were away`);
+  }
+
+  // ---------- Gacha ----------
+  function earnTickets(n, why) {
+    state.gacha.tickets += n;
+    if (why) toast(`+${n} gacha ticket${n > 1 ? 's' : ''}`, why);
+  }
+  function gachaProgress(i) {
+    const g = state.gacha;
+    if (++g.progress >= SPINS_PER_TICKET) { g.progress = 0; earnTickets(1); }
+    if (Math.random() < (state.lvl.ticket + ch('bell')) * 0.01) earnTickets(1);
+    if (LAYOUT[i] === 'x25') earnTickets(3, 'Jackpot bonus');
+  }
+
+  // Daily featured banner: one epic-or-better charm gets 50% of its rarity's pulls
+  function featured() {
+    const pool = CHARMS.filter(c => RARITY_ORDER.indexOf(c.rar) >= 2);
+    return pool[Math.floor(Date.now() / 864e5) % pool.length];
+  }
+  const ticketCost = () => Math.ceil(5000 * 1.35 ** state.gacha.bought);
+  function buyTicket() {
+    const c = ticketCost();
+    if (state.cash < c) return;
+    state.cash -= c;
+    state.gacha.bought++;
+    state.gacha.tickets++;
+    save();
+    updateUI();
+  }
+
+  // minIdx is the lowest rarity index this pull may roll
+  function rollCharm(minIdx) {
+    const g = state.gacha;
+    let r = Math.random() * RARITY_ORDER.reduce((s, k) => s + RARITIES[k].w, 0), idx = 0;
+    for (let k = 0; k < RARITY_ORDER.length; k++) { r -= RARITIES[RARITY_ORDER[k]].w; if (r <= 0) { idx = k; break; } }
+    idx = Math.max(idx, minIdx);
+    if (g.pity >= PITY_EPIC - 1) idx = Math.max(idx, 2);
+    g.pity = idx >= 2 ? 0 : g.pity + 1;
+    g.pulls++;
+    const pool = CHARMS.filter(c => c.rar === RARITY_ORDER[idx]);
+    let charm = pool[Math.floor(Math.random() * pool.length)];
+    const feat = featured();
+    if (feat.rar === RARITY_ORDER[idx] && Math.random() < 0.5) charm = feat; // banner rate-up
+    const stars = g.owned[charm.key] || 0;
+    const isNew = stars === 0;
+    const maxed = stars >= STAR_MAX;
+    if (!maxed) g.owned[charm.key] = stars + 1;
+    else if (idx >= 1) g.tickets++; // maxed duplicate of a rare+ refunds a ticket
+    return { charm, idx, isNew, maxed, stars: g.owned[charm.key] };
+  }
+
+  function charmCard(c, stars, extra) {
+    const r = RARITIES[c.rar];
+    const d = document.createElement('div');
+    d.className = 'gcard ' + c.rar + (stars ? '' : ' locked');
+    d.style.setProperty('--rc', r.color);
+    const parts = [
+      ['ico', c.icon], ['gr', r.label], ['gn', c.name],
+      ['gs', '\u2605'.repeat(stars) + '\u2606'.repeat(STAR_MAX - stars)],
+      ['gd', c.desc(Math.max(stars, 1))],
+    ];
+    for (const [cls, txt] of parts) {
+      const e = document.createElement('div');
+      e.className = cls;
+      e.textContent = txt;
+      d.appendChild(e);
+    }
+    if (extra) { const e = document.createElement('span'); e.className = 'nw'; e.textContent = extra; d.appendChild(e); }
+    return d;
+  }
+
+  function doPull(n) {
+    const g = state.gacha;
+    if (g.tickets < n) return;
+    g.tickets -= n;
+    const results = [];
+    let gotRare = false, gotEpic = false;
+    for (let i = 0; i < n; i++) {
+      let minIdx = 0;
+      if (i === n - 1) {
+        if (n >= 50 && !gotEpic) minIdx = 2;
+        else if (n >= 10 && !gotRare) minIdx = 1;
+      }
+      const res = rollCharm(minIdx);
+      if (res.idx >= 1) gotRare = true;
+      if (res.idx >= 2) gotEpic = true;
+      results.push(res);
+    }
+    const box = $('pullResults');
+    box.replaceChildren(...results.map((r, i) => {
+      const card = charmCard(r.charm, r.stars, r.isNew ? 'NEW' : r.maxed ? (r.idx >= 1 ? 'MAX +1 \ud83c\udf9f' : 'MAX') : '\u2605 UP');
+      card.style.setProperty('--d', (i * 0.08) + 's');
+      return card;
+    }));
+    const best = Math.max(...results.map(r => r.idx));
+    if (best >= 3) { jingle([523, 659, 784, 1047, 1319, 1568], 'triangle', 0.1); const top = results.find(r => r.idx === best); toast(RARITIES[RARITY_ORDER[best]].label.toUpperCase() + '!', top.charm.name); }
+    else if (best === 2) jingle([523, 659, 784, 1047]);
+    else if (best === 1) jingle([523, 659, 784]);
+    else jingle([523, 659]);
+    checkAchievements();
+    save();
+    updateUI();
+  }
+
+  function updateGacha() {
+    const g = state.gacha;
+    $('gTickets').textContent = g.tickets;
+    $('gPulls').textContent = g.pulls;
+    $('gPity').textContent = g.pity;
+    $('gProg').textContent = g.progress;
+    $('pull1').disabled = g.tickets < 1;
+    $('pull10').disabled = g.tickets < 10;
+    $('pull50').disabled = g.tickets < 50;
+    $('buyTicket').textContent = 'Buy ticket ($' + fmt(ticketCost()) + ')';
+    $('buyTicket').disabled = state.cash < ticketCost();
+    const feat = featured();
+    $('gBanner').textContent = `Featured today: ${feat.icon} ${feat.name} (${RARITIES[feat.rar].label}) \u2014 50% of ${RARITIES[feat.rar].label} pulls`;
+    const owned = collected();
+    $('gSummary').textContent = `${owned}/${CHARMS.length} collected, set bonus +${5 * Math.floor(owned / 4)}% payouts`;
+    const list = $('charmList');
+    list.classList.add('static');
+    list.replaceChildren(...CHARMS.map(c => charmCard(c, ch(c.key))));
+  }
+
+  // ---------- Spinning ----------
+  function startSpin() {
+    if (spinning) return;
+    const result = pickSegment();
+    // segment i spans [i*SEG_ANGLE - PI/2 ... ) clockwise; pointer at top (-PI/2)
+    const center = result * SEG_ANGLE + SEG_ANGLE / 2;
+    const jitter = (Math.random() - 0.5) * SEG_ANGLE * 0.7;
+    const targetMod = ((-center - jitter) % (Math.PI * 2) + Math.PI * 2) % (Math.PI * 2);
+    const curMod = ((angle % (Math.PI * 2)) + Math.PI * 2) % (Math.PI * 2);
+    let delta = targetMod - curMod;
+    if (delta < 0) delta += Math.PI * 2;
+    delta += Math.PI * 2 * (3 + Math.floor(Math.random() * 2));
+    spinning = { from: angle, to: angle + delta, start: performance.now(), dur: spinTimeFor(state.lvl.speed) * 1000, result };
+    $('spin').disabled = true;
+    if (!state.auto || Math.random() < 0.15) say(pick(Q_SPIN));
+  }
+
+  function finishSpin() {
+    const i = spinning.result;
+    spinning = null;
+    $('spin').disabled = false;
+    const p = payout(i);
+    addCash(p.amount + p.refund);
+    gachaProgress(i);
+    lastResult = { i, amount: p.amount, crit: p.crit };
+    recent.push({ label: SEG_TYPES[LAYOUT[i]].label, color: SEG_TYPES[LAYOUT[i]].color, bust: p.amount === 0, gold: p.gold });
+    if (recent.length > 12) recent.shift();
+    renderRecent();
+    onResult(i, p);
+    checkAchievements();
+    const rect = canvas.getBoundingClientRect();
+    const sx = rect.width / W;
+    if (p.amount > 0) floatText(rect.left + CX * sx, rect.top + (CY - R - 10) * sx, '+$' + fmt(p.amount) + (p.crit ? ' CRIT!' : '') + (p.gold ? ' GOLD!' : ''), SEG_TYPES[LAYOUT[i]].color);
+    else floatText(rect.left + CX * sx, rect.top + (CY - R - 10) * sx, 'Bust', '#ff8a8a');
+    updateUI();
+  }
+
+  function floatText(x, y, text, color) {
+    const el = document.createElement('div');
+    el.className = 'float';
+    el.textContent = text;
+    el.style.left = x + 'px';
+    el.style.top = y + 'px';
+    el.style.color = color;
+    el.style.fontSize = '1.4rem';
+    document.body.appendChild(el);
+    requestAnimationFrame(() => {
+      el.style.transform = 'translate(-30%, -60px)';
+      el.style.opacity = '0';
+    });
+    setTimeout(() => el.remove(), 1000);
+  }
+
+  // ---------- p5.js funny layer ----------
+  const TAU = Math.PI * 2;
+  const BG_EMOJI = ['💰', '🎲', '🍀', '🃏', '🪙', '🤑', '💸', '🎰'];
+  const Q_SPIN = ['Wheeeee!', 'Round and round!', 'Spin it like you mean it', 'Please be x25...', 'Mom, look at me!', 'Feeling lucky? Me neither'];
+  const Q_WIN = ['Ka-ching!', 'Told you so!', 'I knew it!', 'Drinks on me!', 'Easy money', 'Do a little dance'];
+  const Q_BUST = ['Ouch. My wallet.', 'That was a practice spin', 'Skill issue', 'Blame the wheel', 'Sir, this is a casino', 'The house always wins'];
+  const Q_BIG = ['JACKPOT?!', 'I CAN SEE MY HOUSE', 'I am rich!!', 'Call my lawyer'];
+  const Q_POKE = ['Hey, my eyes are up here', 'Boop!', 'Do not touch the face', 'Click the wheel, not me'];
+  const pick = a => a[Math.floor(Math.random() * a.length)];
+
+  let fx = [], floaties = [], shake = 0;
+  let mood = 'idle', moodT = 0;
+  let speech = { t: 0, text: '' };
+  let ptrAng = 0, ptrVel = 0, lastSeg = 0;
+
+  function say(txt) { speech = { t: 160, text: txt }; }
+  function setMood(m, t) { mood = m; moodT = t; }
+
+  function spawnConfetti(n) {
+    for (let i = 0; i < n; i++) {
+      fx.push({ x: CX, y: CY - R, vx: (Math.random() - 0.5) * 14, vy: -3 - Math.random() * 10, g: 0.35,
+        life: 90 + Math.random() * 50, rot: Math.random() * TAU, vr: (Math.random() - 0.5) * 0.4,
+        size: 6 + Math.random() * 8, col: `hsl(${Math.floor(Math.random() * 360)}, 90%, 60%)`, ch: null });
+    }
+  }
+  function spawnEmojiBurst(ch, n) {
+    for (let i = 0; i < n; i++) {
+      const a = Math.random() * TAU, s = 3 + Math.random() * 7;
+      fx.push({ x: CX, y: CY, vx: Math.cos(a) * s, vy: Math.sin(a) * s - 3, g: 0.2, life: 80 + Math.random() * 40,
+        rot: 0, vr: (Math.random() - 0.5) * 0.2, size: 22 + Math.random() * 12, col: null, ch });
+    }
+  }
+  function spawnRain(ch, n) {
+    for (let i = 0; i < n; i++) {
+      fx.push({ x: Math.random() * W, y: -Math.random() * 200, vx: 0, vy: 2 + Math.random() * 3, g: 0.1, life: 150,
+        rot: 0, vr: (Math.random() - 0.5) * 0.1, size: 24 + Math.random() * 10, col: null, ch });
+    }
+  }
+
+  function onResult(i, pay) {
+    const m = SEG_TYPES[LAYOUT[i]].mult;
+    if (m === 0) {
+      setMood('sad', 150); say(pick(Q_BUST)); spawnRain(pick(['💩', '😭', '💀']), 14); shake = 6;
+      beep(220, 0.25, 'sawtooth', 0.05); beep(165, 0.35, 'sawtooth', 0.05, 0.18);
+    } else if (m >= 10) {
+      setMood('wow', 220); say(pick(Q_BIG)); spawnConfetti(180); spawnEmojiBurst('🤑', 14); shake = 22;
+      jingle([523, 659, 784, 1047, 1319]);
+    } else if (m >= 3) {
+      setMood('happy', 150); say(pick(Q_WIN)); spawnConfetti(80); spawnEmojiBurst('💰', 6); shake = 8;
+      jingle([523, 659, 784]);
+    } else {
+      setMood('happy', 100); say(pick(Q_WIN)); spawnConfetti(25);
+      jingle([660, 880]);
+    }
+    if (pay.crit) { say('CRITICAL HIT! Ow, my bank account'); spawnEmojiBurst('💥', 8); }
+    if (pay.gold) { say('GOLDEN SPIN! x3'); spawnEmojiBurst('🌟', 10); }
+  }
+
+  function onWheelClick(e) {
+    const rect = canvas.getBoundingClientRect();
+    const mx = (e.clientX - rect.left) * W / rect.width;
+    const my = (e.clientY - rect.top) * H / rect.height;
+    if (Math.hypot(mx - CX, my - CY) < 50) { say(pick(Q_POKE)); setMood('wow', 40); shake = 4; return; }
+    startSpin();
+  }
+
+  const sketch = p => {
+    p.setup = () => {
+      const c = p.createCanvas(W, H);
+      canvas = c.elt;
+      canvas.style.width = '100%';
+      canvas.style.height = 'auto';
+      canvas.addEventListener('click', onWheelClick);
+      p.textFont('Comic Sans MS, Segoe UI, sans-serif');
+      for (let i = 0; i < 14; i++) {
+        floaties.push({ x: p.random(W), y: p.random(H), vx: p.random(-0.4, 0.4), vy: p.random(-0.4, 0.4),
+          ch: pick(BG_EMOJI), r: p.random(TAU), vr: p.random(-0.02, 0.02), s: p.random(24, 44) });
+      }
+    };
+
+    p.draw = () => {
+      tick(performance.now());
+      const now = p.millis();
+
+      // felt background
+      const c2 = p.drawingContext;
+      c2.save();
+      const g = c2.createRadialGradient(CX, CY, 50, CX, CY, 520);
+      g.addColorStop(0, '#2a8557');
+      g.addColorStop(1, '#134a2e');
+      c2.fillStyle = g;
+      c2.fillRect(0, 0, W, H);
+      c2.globalAlpha = 0.22;
+      p.textAlign(p.CENTER, p.CENTER);
+      for (const f of floaties) {
+        f.x += f.vx; f.y += f.vy; f.r += f.vr;
+        if (f.x < -40) f.x = W + 40; if (f.x > W + 40) f.x = -40;
+        if (f.y < -40) f.y = H + 40; if (f.y > H + 40) f.y = -40;
+        p.push(); p.translate(f.x, f.y); p.rotate(f.r); p.textSize(f.s); p.text(f.ch, 0, 0); p.pop();
+      }
+      c2.restore();
+
+      p.push();
+      if (shake > 0.3) { p.translate(p.random(-shake, shake), p.random(-shake, shake)); shake *= 0.9; } else shake = 0;
+
+      drawWheel(p, now);
+      drawPointer(p);
+      drawHub(p, now);
+      drawHud(p, now);
+      drawFx(p);
+      drawBubble(p);
+      p.pop();
+
+      if (moodT > 0 && --moodT === 0) mood = 'idle';
+      if (speech.t > 0) speech.t--;
+    };
+
+    function drawWheel(p, now) {
+      p.push();
+      p.translate(CX, CY + Math.sin(now * 0.003) * 3);
+      const wob = spinning ? 1 + Math.sin(now * 0.03) * 0.012 : 1 + Math.sin(now * 0.004) * 0.006;
+      p.scale(wob, 2 - wob);
+      p.rotate(angle - Math.PI / 2);
+      p.noStroke();
+      p.fill('#5a3a1c');
+      p.circle(0, 0, (R + 10) * 2);
+      for (let i = 0; i < SEG; i++) {
+        const key = LAYOUT[i], t = SEG_TYPES[key];
+        const a0 = i * SEG_ANGLE, a1 = a0 + SEG_ANGLE;
+        p.fill(t.color);
+        p.stroke(0);
+        p.strokeWeight(2);
+        p.arc(0, 0, R * 2, R * 2, a0, a1, p.PIE);
+        p.push();
+        p.rotate(a0 + SEG_ANGLE / 2);
+        p.noStroke();
+        p.fill(key === 'bust' ? '#e6b0b0' : '#10101a');
+        p.textStyle(p.BOLD);
+        p.textSize(18);
+        p.textAlign(p.RIGHT, p.CENTER);
+        p.text(key === 'bust' ? 'BUST \u{1F480}' : t.label, R - 14, 0);
+        p.pop();
+      }
+      // pegs on the rim
+      p.fill('#f4c542');
+      p.stroke(0);
+      p.strokeWeight(1);
+      for (let i = 0; i < SEG; i++) p.circle(Math.cos(i * SEG_ANGLE) * (R + 1), Math.sin(i * SEG_ANGLE) * (R + 1), 9);
+      p.pop();
+    }
+
+    function drawPointer(p) {
+      const seg = Math.floor((((-angle) % TAU) + TAU) % TAU / SEG_ANGLE);
+      if (seg !== lastSeg) { if (spinning) { ptrVel += 0.14; beep(880 + (seg % 4) * 40, 0.04, 'square', 0.025); } lastSeg = seg; }
+      ptrVel += -ptrAng * 0.2;
+      ptrVel *= 0.8;
+      ptrAng += ptrVel;
+      p.push();
+      p.translate(CX, CY - R - 28);
+      p.rotate(ptrAng);
+      p.fill('#f4c542');
+      p.stroke(0);
+      p.strokeWeight(2);
+      p.triangle(-16, 0, 16, 0, 0, 34);
+      // googly eyes on the pointer
+      p.fill(255); p.strokeWeight(1);
+      p.circle(-5, 8, 10); p.circle(5, 8, 10);
+      p.fill(0); p.noStroke();
+      p.circle(-5, 10, 4); p.circle(5, 10, 4);
+      p.pop();
+    }
+
+    function drawHub(p, now) {
+      p.push();
+      p.translate(CX, CY + (spinning ? Math.sin(now * 0.05) * 3 : Math.sin(now * 0.005) * 1.5));
+      p.fill('#2a2736');
+      p.stroke('#f4c542');
+      p.strokeWeight(4);
+      p.circle(0, 0, 100);
+
+      const m = spinning ? 'spin' : mood;
+      // eyes
+      for (const s of [-1, 1]) {
+        const ex = s * 17, ey = -8;
+        const big = m === 'wow' ? 34 : 28;
+        p.fill(255);
+        p.stroke(0);
+        p.strokeWeight(2);
+        p.circle(ex, ey, big);
+        if (m === 'spin') {
+          p.noFill(); p.stroke(0); p.strokeWeight(1.5);
+          p.beginShape();
+          for (let t = 0; t < 12; t += 0.4) {
+            const rr = t * 1.1;
+            p.vertex(ex + Math.cos(t + now * 0.02 * s) * rr, ey + Math.sin(t + now * 0.02 * s) * rr);
+          }
+          p.endShape();
+        } else if (m === 'happy' || m === 'wow') {
+          p.noStroke(); p.fill('#1f9d55');
+          p.textSize(m === 'wow' ? 26 : 20); p.textStyle(p.BOLD);
+          p.textAlign(p.CENTER, p.CENTER);
+          p.text('$', ex, ey + 1);
+        } else {
+          const a = Math.atan2(p.mouseY - (CY + ey), p.mouseX - (CX + ex));
+          p.noStroke(); p.fill(0);
+          p.circle(ex + Math.cos(a) * 5, ey + Math.sin(a) * 5, 13);
+          p.fill(255);
+          p.circle(ex + Math.cos(a) * 5 - 2, ey + Math.sin(a) * 5 - 2, 4);
+        }
+        if (m === 'sad') {
+          p.noStroke(); p.fill('#78c8ff');
+          p.ellipse(ex, ey + 10 + ((now * 0.05) % 16), 5, 8);
+        }
+      }
+      // mouth
+      p.stroke(255); p.strokeWeight(3); p.noFill();
+      if (m === 'spin') {
+        p.fill(0); p.circle(0, 20, 14 + Math.sin(now * 0.04) * 4);
+      } else if (m === 'happy') {
+        p.fill(255); p.stroke(0); p.strokeWeight(2);
+        p.arc(0, 12, 40, 30, 0, Math.PI, p.CHORD);
+        p.noStroke(); p.fill('#ff5a82');
+        p.arc(0, 22, 18, 14, 0, Math.PI);
+      } else if (m === 'wow') {
+        p.fill(0); p.stroke(255); p.circle(0, 23, 22);
+      } else if (m === 'sad') {
+        p.arc(0, 28, 30, 16, Math.PI, TAU);
+      } else {
+        p.arc(0, 14, 30, 14, 0, Math.PI);
+      }
+      p.pop();
+
+      // bet chip
+      p.noStroke(); p.fill(0, 0, 0, 170);
+      p.rectMode(p.CENTER);
+      p.rect(CX, CY + 70, 70, 22, 8);
+      p.rectMode(p.CORNER);
+      p.fill('#f1ecff'); p.textStyle(p.BOLD); p.textSize(14);
+      p.textAlign(p.CENTER, p.CENTER);
+      p.text('$' + fmt(bet()), CX, CY + 70);
+    }
+
+    function drawHud(p, now) {
+      p.noStroke();
+      p.textStyle(p.NORMAL);
+      p.textSize(16);
+      if (lastResult) {
+        p.textAlign(p.LEFT, p.CENTER);
+        p.fill('#f1ecff');
+        p.text('Last: ' + SEG_TYPES[LAYOUT[lastResult.i]].label + (lastResult.amount ? '  +$' + fmt(lastResult.amount) : ''), 16, 24);
+      }
+      p.textAlign(p.RIGHT, p.CENTER);
+      p.fill('#ffeaa0');
+      p.text('Streak bonus x' + streakBonus().toFixed(2), W - 16, 24);
+      if (state.streak >= 3) {
+        p.textSize(20);
+        p.push();
+        p.translate(W - 16, 50 + Math.sin(now * 0.01) * 3);
+        p.text('\u{1F525}'.repeat(Math.min(state.streak, 10)), 0, 0);
+        p.pop();
+      }
+    }
+
+    function drawFx(p) {
+      p.noStroke();
+      p.textAlign(p.CENTER, p.CENTER);
+      for (let i = fx.length - 1; i >= 0; i--) {
+        const f = fx[i];
+        f.x += f.vx; f.y += f.vy; f.vy += f.g; f.rot += f.vr; f.life--;
+        if (f.life <= 0 || f.y > H + 50) { fx.splice(i, 1); continue; }
+        p.push();
+        p.translate(f.x, f.y);
+        p.rotate(f.rot);
+        if (f.ch) { p.textSize(f.size); p.text(f.ch, 0, 0); }
+        else { p.fill(f.col); p.rectMode(p.CENTER); p.rect(0, 0, f.size, f.size * 0.5); }
+        p.pop();
+      }
+      if (fx.length > 500) fx.splice(0, fx.length - 500);
+    }
+
+    function drawBubble(p) {
+      if (speech.t <= 0) return;
+      const pop = Math.min(1, (160 - speech.t) / 10);
+      const fade = Math.min(1, speech.t / 20);
+      const k = 1 + Math.sin(pop * Math.PI) * 0.15;
+      p.push();
+      p.translate(100, 410);
+      p.scale(pop * k);
+      p.drawingContext.globalAlpha = fade;
+      p.fill('#fff'); p.stroke(0); p.strokeWeight(2);
+      p.rectMode(p.CENTER);
+      p.rect(0, 0, 170, 70, 14);
+      p.noStroke();
+      p.triangle(84, -2, 84, 16, 104, 24);
+      p.fill(0); p.textStyle(p.BOLD); p.textSize(15);
+      p.textAlign(p.CENTER, p.CENTER);
+      p.text(speech.text, 0, 0, 150, 60);
+      p.pop();
+    }
+  };
+
+  // ---------- UI ----------
+  function buildShop() {
+    $('perkList').innerHTML = PERKS.map(p =>
+      `<button class="item" data-perk="${p.key}"><div class="row"><span class="nm"></span><span class="cost"></span></div><div class="desc"></div></button>`).join('');
+    $('upgradeList').innerHTML = UPGRADES.map(u =>
+      `<button class="item" data-up="${u.key}"><div class="row"><span class="nm"></span><span class="cost"></span></div><div class="desc"></div></button>`).join('');
+    $('spinnerList').innerHTML = SPINNERS.map((s, i) =>
+      `<button class="item" data-sp="${i}"><div class="row"><span class="nm"></span><span class="cost"></span></div><div class="desc"></div></button>`).join('');
+  }
+
+  function updateShop() {
+    document.querySelectorAll('[data-up]').forEach(b => {
+      const u = UPGRADES.find(x => x.key === b.dataset.up);
+      const l = state.lvl[u.key], max = MAX_LVL[u.key];
+      const maxed = l >= max, c = cost(u, l);
+      b.querySelector('.nm').textContent = `${u.name} (Lv ${l}${maxed ? ' MAX' : ''})`;
+      b.querySelector('.cost').textContent = maxed ? '' : '$' + fmt(c);
+      b.querySelector('.desc').textContent = u.desc(l);
+      b.disabled = maxed || state.cash < c;
+    });
+    document.querySelectorAll('[data-sp]').forEach(b => {
+      const i = +b.dataset.sp, s = SPINNERS[i];
+      const n = state.spinners[i], maxed = n >= SPINNER_MAX;
+      const c = spinnerCost(i);
+      b.querySelector('.nm').innerHTML = `<span style="color:${s.color}">&#9679;</span> ${s.name} (${n}/${SPINNER_MAX})`;
+      b.querySelector('.cost').textContent = maxed ? 'MAX' : '$' + fmt(c);
+      b.querySelector('.desc').textContent = `${s.per} spin/s each at base speed`;
+      b.disabled = maxed || state.cash < c;
+    });
+  }
+
+  function currentRate() {
+    const now = performance.now();
+    history = history.filter(h => now - h[0] < 5000);
+    return history.reduce((s, h) => s + h[1], 0) / 5;
+  }
+
+  function updateUI() {
+    $('cash').textContent = fmt(state.cash);
+    $('bet').textContent = fmt(bet());
+    $('streak').textContent = state.streak;
+    $('rate').textContent = fmt(currentRate());
+    $('auto').textContent = 'Auto Spin: ' + (state.auto ? 'ON' : 'OFF');
+    $('auto').classList.toggle('on', state.auto);
+    $('gachaCount').textContent = state.gacha.tickets;
+    updateShop();
+    if (!$('rebirthModal').hidden) updateRebirth();
+    if (!$('statsModal').hidden) updateStats();
+    if (!$('gachaModal').hidden) updateGacha();
+  }
+
+  function updateRebirth() {
+    const g = rpGain();
+    $('rpNow').textContent = state.rp;
+    $('rpAvail').textContent = rpAvail();
+    $('rbCount').textContent = state.rebirths;
+    $('rbEarned').textContent = fmt(state.runEarned);
+    $('rebirthDo').textContent = g > 0 ? `Rebirth for +${g} RP` : 'Earn more cash to rebirth';
+    $('rebirthDo').disabled = g < 1;
+    document.querySelectorAll('[data-perk]').forEach(b => {
+      const p = PERKS.find(x => x.key === b.dataset.perk);
+      const l = pk(p.key), maxed = l >= p.max, c = perkCost(p, l);
+      b.querySelector('.nm').textContent = `${p.name} (Lv ${l}/${p.max})`;
+      b.querySelector('.cost').textContent = maxed ? 'MAX' : c + ' RP';
+      b.querySelector('.desc').textContent = maxed ? p.desc(l) : `${p.desc(l)} \u2192 next: ${p.desc(l + 1)}`;
+      b.disabled = maxed || rpAvail() < c;
+    });
+  }
+
+  function buyPerk(key) {
+    const p = PERKS.find(x => x.key === key);
+    const l = pk(key);
+    if (l >= p.max) return;
+    const c = perkCost(p, l);
+    if (rpAvail() < c) return;
+    state.rpSpent += c;
+    state.perks[key] = l + 1;
+    save();
+    updateUI();
+  }
+
+  // ---------- Stats ----------
+  function updateStats() {
+    const m = state.meta;
+    const rows = [
+      ['Total spins', m.spins.toLocaleString()],
+      ['Lifetime earnings', '$' + fmt(m.lifetime)],
+      ['Best win', '$' + fmt(m.bestWin)],
+      ['Best streak', m.bestStreak],
+      ['Critical spins', m.crits.toLocaleString()],
+      ['Golden spins', m.golds.toLocaleString()],
+      ['Jackpots (x25)', m.jackpots.toLocaleString()],
+      ['Payout multiplier', 'x' + rpMult().toFixed(2)],
+    ];
+    $('statGrid').replaceChildren(...rows.map(([k, v]) => {
+      const d = document.createElement('div');
+      d.textContent = k;
+      const b = document.createElement('b');
+      b.textContent = v;
+      d.appendChild(b);
+      return d;
+    }));
+    const done = Object.keys(m.ach).length;
+    $('achSummary').textContent = `${done}/${ACHIEVEMENTS.length} unlocked`;
+    $('achList').replaceChildren(...ACHIEVEMENTS.map(a => {
+      const d = document.createElement('div');
+      d.className = 'ach' + (m.ach[a.id] ? ' done' : '');
+      const n = document.createElement('span');
+      n.className = 'an';
+      n.textContent = a.name;
+      const s = document.createElement('span');
+      s.className = 'ad';
+      s.textContent = a.desc;
+      d.append(n, s);
+      return d;
+    }));
+  }
+
+  // ---------- Actions ----------
+  function buyUpgrade(key) {
+    const u = UPGRADES.find(x => x.key === key);
+    const l = state.lvl[key];
+    if (l >= MAX_LVL[key]) return;
+    const c = cost(u, l);
+    if (state.cash < c) return;
+    state.cash -= c;
+    state.lvl[key]++;
+    save();
+    updateUI();
+  }
+
+  function buySpinner(i) {
+    const s = SPINNERS[i], n = state.spinners[i];
+    if (n >= SPINNER_MAX) return;
+    const c = spinnerCost(i);
+    if (state.cash < c) return;
+    state.cash -= c;
+    state.spinners[i]++;
+    save();
+    updateUI();
+  }
+
+  function rebirth() {
+    const g = rpGain();
+    if (g < 1) return;
+    const keep = { rp: state.rp + g, rpSpent: state.rpSpent, perks: state.perks, rebirths: state.rebirths + 1, meta: state.meta, gacha: state.gacha };
+    state = fresh();
+    Object.assign(state, keep);
+    earnTickets(2, 'Rebirth bonus');
+    state.gacha.bought = 0;
+    state.cash = startCashFor(pk('startCash'));
+    state.lvl.bet = pk('startBet') * 3;
+    state.spinners[0] = pk('startIntern');
+    spinning = null;
+    $('spin').disabled = false;
+    lastResult = null;
+    recent = [];
+    renderRecent();
+    checkAchievements();
+    save();
+    updateUI();
+    $('rebirthModal').hidden = true;
+  }
+
+  // ---------- Cheats ----------
+  const CHEATS = {
+    cash1k: () => addCash(1e3),
+    cash1m: () => addCash(1e6),
+    cash1b: () => addCash(1e9),
+    cash1t: () => addCash(1e12),
+    bet: () => { state.lvl.bet = MAX_LVL.bet; },
+    upgrades: () => { for (const k in MAX_LVL) state.lvl[k] = MAX_LVL[k]; },
+    spinners: () => { state.spinners = SPINNERS.map(() => SPINNER_MAX); },
+    streak: () => { state.streak = 30; },
+    jackpot: () => { forceJackpot = true; },
+    rp: () => { state.rp += 100; },
+    tickets: () => { state.gacha.tickets += 10; },
+  };
+  let cheatOn = false;
+  $('cheatToggle').addEventListener('click', () => {
+    cheatOn = !cheatOn;
+    $('cheatToggle').textContent = 'Cheat Mode: ' + (cheatOn ? 'ON' : 'OFF');
+    $('cheatToggle').classList.toggle('on', cheatOn);
+    $('cheatPanel').hidden = !cheatOn;
+  });
+  $('cheatPanel').addEventListener('click', e => {
+    const b = e.target.closest('[data-cheat]');
+    if (!b || !cheatOn) return;
+    CHEATS[b.dataset.cheat]();
+    save();
+    updateUI();
+  });
+
+  // ---------- Save / Load ----------
+  function save() {
+    state.lastSeen = Date.now();
+    try { localStorage.setItem(SAVE_KEY, JSON.stringify(state)); } catch (e) { /* ignore */ }
+  }
+  // Rebuild state from untrusted data (localStorage or pasted text), keeping only valid values
+  function applySave(s) {
+    if (!s || typeof s !== 'object') throw new Error('bad save');
+    const f = fresh();
+    const num = v => (typeof v === 'number' && isFinite(v) && v >= 0 ? v : 0);
+    for (const k of ['cash', 'rp', 'rpSpent', 'rebirths', 'runEarned', 'streak', 'lastSeen']) f[k] = num(s[k]);
+    const perks = s.perks && typeof s.perks === 'object' ? s.perks : {};
+    for (const p of PERKS) f.perks[p.key] = Math.min(p.max, Math.floor(num(perks[p.key])));
+    f.auto = !!s.auto;
+    const lvl = s.lvl && typeof s.lvl === 'object' ? s.lvl : {};
+    for (const k in MAX_LVL) f.lvl[k] = Math.min(MAX_LVL[k], Math.floor(num(lvl[k])));
+    if (Array.isArray(s.spinners)) {
+      f.spinners = SPINNERS.map((_, i) => Math.min(SPINNER_MAX, Math.floor(num(s.spinners[i]))));
+    }
+    const meta = s.meta && typeof s.meta === 'object' ? s.meta : {};
+    for (const k in f.meta) if (k !== 'ach') f.meta[k] = num(meta[k]);
+    const ach = meta.ach && typeof meta.ach === 'object' ? meta.ach : {};
+    for (const a of ACHIEVEMENTS) if (ach[a.id] === true) f.meta.ach[a.id] = true;
+    const gc = s.gacha && typeof s.gacha === 'object' ? s.gacha : {};
+    for (const k of ['tickets', 'pulls', 'pity', 'progress', 'bought']) f.gacha[k] = Math.floor(num(gc[k]));
+    const owned = gc.owned && typeof gc.owned === 'object' ? gc.owned : {};
+    for (const c of CHARMS) { const n = Math.min(STAR_MAX, Math.floor(num(owned[c.key]))); if (n > 0) f.gacha.owned[c.key] = n; }
+    state = f;
+  }
+  function load() {
+    try {
+      const raw = localStorage.getItem(SAVE_KEY);
+      if (!raw) return;
+      applySave(JSON.parse(raw));
+    } catch (e) { state = fresh(); }
+  }
+
+  // ---------- Events ----------
+  $('spin').addEventListener('click', startSpin);
+  $('auto').addEventListener('click', () => { state.auto = !state.auto; updateUI(); });
+  document.addEventListener('keydown', e => {
+    if (e.target !== document.body) return;
+    if (e.code === 'Space') { e.preventDefault(); startSpin(); }
+    else if (e.code === 'KeyA') { state.auto = !state.auto; updateUI(); }
+    else if (e.code === 'KeyM') toggleMute();
+  });
+  $('mute').addEventListener('click', toggleMute);
+  $('gachaOpen').addEventListener('click', () => { $('gachaModal').hidden = false; $('pullResults').replaceChildren(); updateGacha(); });
+  $('gachaClose').addEventListener('click', () => { $('gachaModal').hidden = true; });
+  $('pull1').addEventListener('click', () => doPull(1));
+  $('pull10').addEventListener('click', () => doPull(10));
+  $('pull50').addEventListener('click', () => doPull(50));
+  $('buyTicket').addEventListener('click', buyTicket);
+  $('statsOpen').addEventListener('click', () => { $('statsModal').hidden = false; updateStats(); });
+  $('statsClose').addEventListener('click', () => { $('statsModal').hidden = true; });
+  $('exportBtn').addEventListener('click', () => {
+    save();
+    $('saveText').value = btoa(JSON.stringify(state));
+    $('saveText').select();
+  });
+  $('importBtn').addEventListener('click', () => {
+    try {
+      applySave(JSON.parse(atob($('saveText').value.trim())));
+    } catch (e) { toast('Import failed', 'That text is not a valid save'); return; }
+    spinning = null;
+    $('spin').disabled = false;
+    lastResult = null;
+    recent = [];
+    renderRecent();
+    save();
+    updateUI();
+    toast('Save imported');
+  });
+  $('upgradeList').addEventListener('click', e => {
+    const b = e.target.closest('[data-up]'); if (b) buyUpgrade(b.dataset.up);
+  });
+  $('spinnerList').addEventListener('click', e => {
+    const b = e.target.closest('[data-sp]'); if (b) buySpinner(+b.dataset.sp);
+  });
+  $('rebirthOpen').addEventListener('click', () => { $('rebirthModal').hidden = false; updateRebirth(); });
+  $('rebirthClose').addEventListener('click', () => { $('rebirthModal').hidden = true; });
+  $('rebirthDo').addEventListener('click', rebirth);
+  $('perkList').addEventListener('click', e => {
+    const b = e.target.closest('[data-perk]'); if (b) buyPerk(b.dataset.perk);
+  });
+  $('reset').addEventListener('click', () => {
+    if (!confirm('Delete all progress and start a new game?')) return;
+    state = fresh();
+    spinning = null;
+    lastResult = null;
+    recent = [];
+    renderRecent();
+    $('spin').disabled = false;
+    save();
+    updateUI();
+  });
+
+  // ---------- Main loop ----------
+  let last = performance.now(), uiTimer = 0, saveTimer = 0;
+  function tick(now) {
+    const dt = Math.min(0.25, (now - last) / 1000);
+    last = now;
+
+    if (spinning) {
+      const t = Math.min(1, (now - spinning.start) / spinning.dur);
+      const e = 1 - Math.pow(1 - t, 3);
+      angle = spinning.from + (spinning.to - spinning.from) * e;
+      if (t >= 1) finishSpin();
+    } else if (state.auto) {
+      startSpin();
+    }
+
+    // auto spinners resolve instantly
+    const power = autoPower();
+    if (power > 0) {
+      autoAcc += power * dt;
+      let n = 0;
+      while (autoAcc >= 1 && n < 200) {
+        autoAcc -= 1; n++;
+        const p = payout(pickSegment());
+        addCash(p.amount + p.refund);
+      }
+      if (autoAcc > 200) autoAcc = 0;
+    }
+
+    uiTimer += dt; saveTimer += dt;
+    if (state.lvl.interest + ch('safe') > 0 && state.cash > 0) {
+      const gain = state.cash * 0.0001 * (state.lvl.interest + ch('safe')) * dt;
+      state.cash += gain;
+      state.meta.lifetime += gain;
+      history.push([now, gain]);
+    }
+    if (uiTimer >= 0.2) { uiTimer = 0; checkAchievements(); updateUI(); }
+    if (saveTimer >= 5) { saveTimer = 0; save(); }
+  }
+
+  window.addEventListener('beforeunload', save);
+
+  load();
+  buildShop();
+  updateMute();
+  offlineEarnings();
+  updateUI();
+  new p5(sketch, 'wheelHost');
+})();
+  </script>
+</body>
+</html>

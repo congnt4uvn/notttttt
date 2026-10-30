@@ -1,0 +1,1564 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gamblers Table</title>
+  <style>
+* { box-sizing: border-box; }
+
+[hidden] { display: none !important; }
+
+:root {
+  --bg: #1b1b2f;
+  --panel: #2a2745;
+  --panel-2: #38345c;
+  --text: #f1ecff;
+  --muted: #a49cbc;
+  --accent: #f4c542;
+  --good: #5fd38d;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: var(--bg);
+  color: var(--text);
+  font-family: "Segoe UI", system-ui, sans-serif;
+}
+
+header {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 14px 24px;
+  background: var(--panel);
+  border-bottom: 3px solid #000;
+}
+
+h1 { margin: 0; font-size: 1.6rem; letter-spacing: 1px; color: var(--accent); text-shadow: 3px 3px 0 #000; display: inline-block; transform: rotate(-2deg); }
+
+.stats { text-align: right; }
+.cash { font-size: 2rem; font-weight: 700; color: var(--good); }
+.sub { color: var(--muted); font-size: .85rem; }
+
+main {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 340px;
+  gap: 20px;
+  padding: 20px 24px;
+  max-width: 1300px;
+  margin: 0 auto;
+}
+
+.table-wrap { min-width: 0; }
+
+canvas {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 4px solid #000;
+  border-radius: 24px;
+  box-shadow: 6px 6px 0 #000;
+  background: #1f6b43;
+  image-rendering: pixelated;
+  cursor: pointer;
+  touch-action: none;
+}
+
+.table-actions {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  margin-top: 12px;
+}
+
+.hint { color: var(--muted); font-size: .9rem; }
+
+.shop {
+  background: var(--panel);
+  border: 3px solid #000;
+  box-shadow: 6px 6px 0 #000;
+  border-radius: 20px;
+  padding: 16px;
+  align-self: start;
+}
+
+.shop h2 { margin: 0 0 12px; font-size: 1.1rem; }
+
+.coin-row { display: flex; gap: 6px; margin-bottom: 8px; }
+.coin-row .item { margin-bottom: 0; }
+.coin-row .buy { flex: 1; min-width: 0; }
+.coin-row .sell { width: auto; flex: 0 0 auto; font-size: .8rem; text-align: center; align-self: stretch; white-space: nowrap; }
+.dot {
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  margin-right: 6px;
+  border: 2px solid;
+  border-radius: 50%;
+  vertical-align: -1px;
+  box-shadow: 0 0 0 1.5px #000;
+}
+.shop h2:not(:first-child) { margin-top: 16px; }
+.shop { max-height: calc(100vh - 140px); overflow-y: auto; }
+
+.item {
+  display: block;
+  width: 100%;
+  margin-bottom: 8px;
+  padding: 10px 12px;
+  text-align: left;
+  background: var(--panel-2);
+  color: var(--text);
+  border: 2px solid #000;
+  border-radius: 14px;
+  box-shadow: 3px 3px 0 #000;
+  cursor: pointer;
+  font: inherit;
+  transition: transform .12s;
+}
+
+.item:hover:not(:disabled) { border-color: var(--accent); transform: rotate(-1deg) scale(1.02); }
+.item:active:not(:disabled) { transform: scale(.96, .92); }
+.item:disabled { opacity: .45; cursor: not-allowed; }
+.item .row { display: flex; justify-content: space-between; gap: 8px; font-weight: 600; }
+.item .cost { color: var(--accent); white-space: nowrap; }
+.item .desc { margin-top: 3px; font-size: .8rem; color: var(--muted); font-weight: 400; }
+
+button {
+  font: inherit;
+  cursor: pointer;
+}
+
+.thump, #hat {
+  padding: 8px 16px;
+  background: var(--accent);
+  color: #2b2100;
+  border: 2px solid #000;
+  border-radius: 999px;
+  box-shadow: 3px 3px 0 #000;
+  font-weight: 700;
+  transition: transform .12s;
+}
+.thump:hover:not(:disabled), #hat:hover { transform: rotate(-2deg) scale(1.06); }
+.thump:active:not(:disabled), #hat:active { transform: scale(.92, .85); }
+
+.thump:disabled { opacity: .5; cursor: not-allowed; }
+
+.shop-footer { display: flex; gap: 8px; margin-top: 12px; }
+.shop-footer button { flex: 1; padding: 8px; border-radius: 8px; border: 0; }
+.danger { background: #5b2430; color: #ffd6dd; }
+
+.cheat-toggle {
+  padding: 8px 12px;
+  border: 2px dashed #8a6bff;
+  border-radius: 8px;
+  background: transparent;
+  color: #c8b8ff;
+}
+.cheat-toggle.on { background: #8a6bff; color: #fff; border-style: solid; }
+
+.top-tools { display: flex; gap: 8px; margin-right: 24px; }
+.top-tools .danger { padding: 8px 12px; border: 0; border-radius: 8px; }
+
+.cheat-panel {
+  position: absolute;
+  top: 100%;
+  right: 24px;
+  z-index: 5;
+  width: 300px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 6px;
+  padding: 10px;
+  background: var(--panel);
+  border: 2px solid #8a6bff;
+  border-radius: 0 0 10px 10px;
+}
+.cheat-panel button {
+  padding: 7px;
+  border: 0;
+  border-radius: 6px;
+  background: #4a3d7a;
+  color: #fff;
+  font-size: .8rem;
+}
+.cheat-panel button:hover { background: #6a58b0; }
+
+.float {
+  position: fixed;
+  pointer-events: none;
+}
+
+.rebirth-btn {
+  margin-left: auto;
+  margin-right: 24px;
+  padding: 8px 16px;
+  border: 2px solid #c07cff;
+  border-radius: 8px;
+  background: #3a2a5a;
+  color: #e8d6ff;
+  font-weight: 700;
+}
+.rebirth-btn:hover { background: #523a80; }
+
+.modal {
+  position: fixed;
+  inset: 0;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.65);
+}
+.modal[hidden] { display: none; }
+.modal-box {
+  width: min(560px, 94vw);
+  max-height: 88vh;
+  overflow-y: auto;
+  padding: 18px;
+  background: var(--panel);
+  border: 3px solid #c07cff;
+  border-radius: 12px;
+}
+.modal-head { display: flex; justify-content: space-between; align-items: center; }
+.modal-head h2 { margin: 0; color: #e8d6ff; }
+.modal-head button { border: 0; border-radius: 6px; padding: 4px 10px; background: var(--panel-2); color: var(--text); }
+.rb-info { color: var(--muted); font-size: .85rem; }
+.rb-stats { margin: 8px 0; }
+.rebirth-do {
+  width: 100%;
+  margin: 6px 0 14px;
+  padding: 12px;
+  border: 0;
+  border-radius: 8px;
+  background: #c07cff;
+  color: #1c0a33;
+  font-weight: 800;
+  font-size: 1rem;
+}
+.rebirth-do:disabled { opacity: .45; cursor: not-allowed; }
+.modal h3 { margin: 0 0 8px; }
+
+.rebirth-btn { margin-right: 10px; }
+.gacha-btn { margin-left: 0; margin-right: 10px; border-color: #f4c542; background: #4a3d12; color: #ffeaa0; }
+.gacha-btn:hover { background: #6b5a1c; }
+.pull-row { display: flex; gap: 8px; }
+.pull-row .gacha-pull { margin: 6px 0 10px; background: #f4c542; }
+.gacha-results { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 14px; min-height: 8px; }
+.chip {
+  padding: 5px 9px;
+  border: 2px solid;
+  border-radius: 999px;
+  background: #1c1a24;
+  font-size: .8rem;
+  font-weight: 700;
+  animation: pop .35s ease-out both;
+}
+@keyframes pop {
+  from { transform: scale(0.3); opacity: 0; }
+  to { transform: scale(1); opacity: 1; }
+}
+.charm { margin-bottom: 8px; padding: 8px 12px; background: var(--panel-2); border-radius: 8px; }
+.charm.locked { opacity: .5; }
+.charm .row { display: flex; justify-content: space-between; gap: 8px; font-weight: 600; }
+.charm .desc { margin-top: 3px; font-size: .8rem; color: var(--muted); }
+
+@media (max-width: 900px) {
+  main { grid-template-columns: 1fr; }
+}
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Gamblers Table</h1>
+    <button id="rebirthOpen" class="rebirth-btn">Rebirth</button>
+    <button id="gachaOpen" class="rebirth-btn gacha-btn">Gacha</button>
+    <div class="top-tools">
+      <button id="cheatToggle" class="cheat-toggle">Cheat Mode: OFF</button>
+      <button id="reset" class="danger">New Game</button>
+    </div>
+    <div id="cheatPanel" class="cheat-panel" hidden>
+      <button data-cheat="cash1k">+$1K</button>
+      <button data-cheat="cash1m">+$1M</button>
+      <button data-cheat="cash1b">+$1B</button>
+      <button data-cheat="cash1t">+$1T</button>
+      <button data-cheat="tiers">Unlock all coins</button>
+      <button data-cheat="cap">Max capacity</button>
+      <button data-cheat="helpers">Max helpers</button>
+      <button data-cheat="fill">Fill table (best coin)</button>
+      <button data-cheat="upgrades">Max upgrades</button>
+      <button data-cheat="thump">Reset thump</button>
+      <button data-cheat="rp">+100 RP</button>
+    </div>
+    <div class="stats">
+      <div class="cash">$<span id="cash">0</span></div>
+      <div class="sub"><span id="rate">0</span>/s &middot; <span id="coinCount">0</span> coins &middot; <span id="helperCount">0</span> helpers</div>
+    </div>
+  </header>
+
+  <main>
+    <section class="table-wrap">
+      <canvas id="table" width="800" height="500"></canvas>
+      <div class="table-actions">
+        <button id="thump" class="thump" hidden>Thump Table</button>
+        <span class="hint" id="hint">Move the mouse over coins to flip them. Land on $ to earn cash.</span>
+      </div>
+    </section>
+
+    <aside class="shop">
+      <h2>Coins</h2>
+      <div id="coinList"></div>
+      <h2>Helpers</h2>
+      <div id="helperList"></div>
+      <h2>Upgrades</h2>
+      <div id="shopList"></div>
+      <div class="shop-footer">
+        <button id="hat" hidden>Change Hat</button>
+      </div>
+    </aside>
+  </main>
+
+  <div id="rebirthModal" class="modal" hidden>
+    <div class="modal-box">
+      <div class="modal-head"><h2>Rebirth</h2><button id="rebirthClose">Close</button></div>
+      <p class="rb-info">Start over to earn Rebirth Points (RP) from the cash you made this life. Cash, coins, helpers and upgrades reset; RP and skills are permanent.</p>
+      <div class="rb-stats">RP: <b id="rpNow">0</b> &middot; Rebirths: <b id="rbCount">0</b> &middot; Earned this life: $<b id="rbEarned">0</b></div>
+      <button id="rebirthDo" class="rebirth-do">Rebirth</button>
+      <h3>Skills</h3>
+      <div id="skillList"></div>
+    </div>
+  </div>
+
+  <div id="gachaModal" class="modal" hidden>
+    <div class="modal-box gacha-box">
+      <div class="modal-head"><h2>Gacha</h2><button id="gachaClose">Close</button></div>
+      <p class="rb-info">Spend cash to pull lucky charms. Charms are permanent (they survive rebirth) and each duplicate raises their level up to 150. Maxed duplicates refund half the price.</p>
+      <div class="rb-stats">Cash: $<b id="gachaCash">0</b> &middot; Pulls: <b id="gachaPulls">0</b></div>
+      <div class="rb-stats">Guaranteed Epic+ in <b id="pityE">20</b> pulls &middot; Legendary+ in <b id="pityL">100</b></div>
+      <div class="pull-row">
+        <button id="pull1" class="rebirth-do gacha-pull">Pull x1</button>
+        <button id="pull10" class="rebirth-do gacha-pull">Pull x10</button>
+      </div>
+      <div id="gachaResults" class="gacha-results"></div>
+      <h3>Collection</h3>
+      <div id="charmList"></div>
+    </div>
+  </div>
+
+  <script>
+(() => {
+  'use strict';
+
+  const W = 800, H = 500, COIN_R = 12, ABS_MAX_COINS = 150, MAX_LVL = 150, SAVE_KEY = 'gamblersTableSave';
+  const TIERS = [
+    { name: 'Copper',  value: 1,    color: '#c9763b', edge: '#8a4a1f' },
+    { name: 'Silver',  value: 5,    color: '#d5dbe3', edge: '#8d96a3' },
+    { name: 'Gold',    value: 25,   color: '#f4c542', edge: '#a77c0c' },
+    { name: 'Emerald', value: 125,  color: '#45d68b', edge: '#1d8a54' },
+    { name: 'Ruby',    value: 625,  color: '#e5445a', edge: '#8e1527' },
+    { name: 'Sapphire', value: 3125, color: '#5d86ff', edge: '#243f9e' },
+    { name: 'Diamond', value: 15625, color: '#8fe8ff', edge: '#3a9cb8' },
+    { name: 'Obsidian', value: 78125, color: '#5b4d7a', edge: '#17111f' },
+    { name: 'Demon',   value: 390625, color: '#ff5a1f', edge: '#5a0d00' },
+    { name: 'Celestial', value: 1953125, color: '#fff3a8', edge: '#c07cff' },
+  ];
+  const HELPER_MAX = 6;
+  const HELPER_TYPES = [
+    { name: 'Cat',      animal: 'cat',      size: 1.0,  speed: 1.0, radius: 0,  luck: 0,    color: '#f4a23a', cost: 120,   info: 'Balanced' },
+    { name: 'Bunny',    animal: 'bunny',    size: 0.7,  speed: 2.0, radius: 0,  luck: 0,    color: '#ececf4', cost: 600,   info: 'Small and very fast', glasses: true },
+    { name: 'Frog',     animal: 'frog',     size: 1.0,  speed: 0.9, radius: 0,  luck: 0.15, color: '#5fd38d', cost: 2500,  info: '+15% chance of $' },
+    { name: 'Bear',     animal: 'bear',     size: 1.4,  speed: 0.7, radius: 45, luck: 0,    color: '#a8693e', cost: 8000,  info: 'Big, flips nearby coins' },
+    { name: 'Elephant', animal: 'elephant', size: 1.9,  speed: 0.5, radius: 90, luck: 0.05, color: '#9aa8c0', cost: 40000, info: 'Huge, flips a wide area' },
+  ];
+  const HATS = ['none', 'cap', 'tophat', 'crown', 'cone', 'propeller'];  const HAT_COSTS = [0, 150, 600, 2500, 8000, 30000];
+  const QUIPS = ['boing!', 'hehe', 'wheee', 'yeet', 'blorp', 'bonk', 'skill issue', 'send snacks', 'I regret nothing',
+    'my cousin did that', 'sir, this is a casino', 'No thoughts, just flip', 'tickle!', 'cha-ching!'];
+
+  const canvas = document.getElementById('table');
+  const ctx = canvas.getContext('2d');
+  const $ = id => document.getElementById(id);
+
+  // ---------- State ----------
+  const fresh = () => ({
+    cash: 0,
+    coins: [],
+    lvl: { value: 0, luck: 0, speed: 0, thump: 0, tier: 0, cap: 0,
+      polish: 0, tip: 0, sticky: 0, espresso: 0, dbl: 0, jackpot: 0, pity: 0, helium: 0, slam: 0, bribe: 0 },
+    hired: HELPER_TYPES.map(() => 0),
+    hatsOwned: 1,
+    hat: 0,
+    thumpReadyAt: 0,
+    rp: 0,
+    rebirths: 0,
+    runEarned: 0,
+    skills: {},
+    charms: {},
+    pulls: 0,
+    pityE: 0,
+    pityL: 0,
+  });
+  let state = fresh();
+  let helpers = [];
+  let floaters = [];
+  let particles = [];
+  let clock = 0;
+  const mouse = { x: -999, y: -999 };
+  let history = []; // [time, amount] for rate calc
+
+  // ---------- Formulas ----------
+  const sk = key => (state.skills && state.skills[key]) || 0;
+  const CHARM_MAX = 150;
+  const ch = key => Math.min(CHARM_MAX, (state.charms && state.charms[key]) || 0);
+  const valueMult = () => 1 + 0.5 * state.lvl.value;
+  const winChance = () => Math.min(0.95, 0.5 + 0.003 * state.lvl.luck + 0.01 * sk('fortune') + 0.0005 * ch('penny'));
+  const helperSpeed = () => 70 + 8 * state.lvl.speed;
+  const coinValue = c => TIERS[c.tier].value * payMult();
+  const payMult = () => valueMult() * (1 + 0.04 * state.lvl.polish) * (1 + 0.25 * sk('midas'))
+    * (1 + 0.005 * ch('duck') + 0.01 * ch('tooth') + 0.025 * ch('egg') + 0.05 * ch('cat') + 0.04 * ch('void'));
+  const tipIncome = () => (state.lvl.tip * 0.05 + ch('piggy') * 0.005) * (1 + 0.02 * ch('comet')) * state.coins.length * TIERS[state.lvl.tier].value;
+  const flipTime = () => Math.max(0.15, Math.pow(0.99, state.lvl.helium) * Math.pow(0.97, sk('warp')) * Math.pow(0.998, ch('clover')));
+  const thumpCooldown = () => Math.max(3, 15 - 0.08 * state.lvl.slam - 0.03 * ch('hammer'));
+  const discount = () => 1 - 0.002 * state.lvl.bribe - 0.001 * ch('coupon');
+  const upCost = (base, lvl) => Math.floor(base * Math.pow(1.1, lvl));
+  const price = item => Math.floor(item.cost() * discount());
+  const buyCoinCost = tier => Math.floor(10 * Math.pow(5.5, tier) * Math.pow(1.03, state.coins.length));
+  const maxCoins = () => Math.min(ABS_MAX_COINS, 10 + 10 * state.lvl.cap + 5 * sk('table') + Math.floor(ch('vault') / 10));
+  const sellValue = tier => Math.floor(10 * Math.pow(5.5, tier) * 0.5 * (1 + 0.01 * ch('wallet')));
+  const unlockCost = () => Math.floor(100 * Math.pow(7, state.lvl.tier));
+
+  function fmt(n) {
+    if (n < 1000) return n >= 100 ? Math.floor(n).toString() : (Math.round(n * 10) / 10).toString();
+    const units = ['K', 'M', 'B', 'T', 'Qa', 'Qi'];
+    let i = -1;
+    while (n >= 1000 && i < units.length - 1) { n /= 1000; i++; }
+    return n.toFixed(2) + units[i];
+  }
+
+  // ---------- Coins ----------
+  function makeCoin(tier = 0) {
+    for (let tries = 0; tries < 60; tries++) {
+      const x = 40 + Math.random() * (W - 80);
+      const y = 40 + Math.random() * (H - 80);
+      if (state.coins.every(c => Math.hypot(c.x - x, c.y - y) > COIN_R * 2.4) || tries === 59) {
+        return { x, y, tier, side: Math.random() < 0.5, flipping: false, t: 0, dur: 0, half: 0, result: false, start: false, delay: 0, squash: 0 };
+      }
+    }
+  }
+
+  function flipCoin(c, delay = 0, bonus = 0) {
+    if (c.flipping || c.delay > 0) return false;
+    c.result = Math.random() < Math.min(0.95, winChance() + bonus);
+    c.start = c.side;
+    c.half = 2 * (2 + Math.floor(Math.random() * 2)) + (c.result === c.start ? 0 : 1);
+    c.dur = (0.55 + Math.random() * 0.2) * flipTime();
+    c.t = 0;
+    c.delay = delay;
+    c.flipping = true;
+    return true;
+  }
+
+  function landCoin(c) {
+    c.flipping = false;
+    c.side = c.result;
+    c.squash = 0.35;
+    if (c.side) {
+      let v = coinValue(c), big = false;
+      if (Math.random() < 0.005 * state.lvl.dbl + 0.002 * ch('dice')) v *= 2;
+      if (Math.random() < 0.002 * state.lvl.jackpot + 0.0005 * ch('infinity')) { v *= 10 + 0.1 * ch('star'); big = true; }
+      earn(v, c.x, c.y, big);
+    } else if (state.lvl.pity || ch('sock')) {
+      earn(coinValue(c) * (0.005 * state.lvl.pity + 0.001 * ch('sock')), c.x, c.y);
+    }
+  }
+
+  function earn(v, x, y, big) {
+    state.cash += v;
+    state.runEarned += v;
+    history.push([performance.now(), v]);
+    floaters.push({ x, y, text: (big ? 'JACKPOT! ' : '') + '+$' + fmt(v), life: big ? 1.6 : 1, big: !!big });
+    burst(x, y, big ? 40 : 6);
+  }
+
+  function burst(x, y, n) {
+    for (let i = 0; i < n; i++) {
+      particles.push({
+        x, y,
+        vx: (Math.random() - 0.5) * 8, vy: -Math.random() * 7 - 1,
+        life: 0.7 + Math.random() * 0.6,
+        size: 4 + Math.random() * 5,
+        col: 'hsl(' + Math.floor(Math.random() * 360) + ',90%,60%)',
+        g: 0.25, spin: Math.random() * Math.PI * 2,
+      });
+    }
+    if (particles.length > 500) particles.splice(0, particles.length - 500);
+  }
+
+  function coinAt(x, y) {
+    let best = null, bd = COIN_R * 1.4 + 0.3 * state.lvl.sticky + 0.2 * ch('magnet');
+    for (const c of state.coins) {
+      const d = Math.hypot(c.x - x, c.y - y);
+      if (d < bd) { bd = d; best = c; }
+    }
+    return best;
+  }
+
+  // ---------- Helpers ----------
+  const totalHelpers = () => state.hired.reduce((a, b) => a + b, 0);
+
+  function syncHelpers() {
+    HELPER_TYPES.forEach((t, i) => {
+      let have = helpers.filter(h => h.type === t).length;
+      for (; have < state.hired[i]; have++) {
+        helpers.push({ type: t, x: Math.random() * W, y: Math.random() * H, target: null, wait: 0, dir: 1,
+          phase: Math.random() * Math.PI * 2, squash: 0, words: '', wordTimer: 0 });
+      }
+    });
+  }
+
+  function updateHelper(h, dt) {
+    h.squash *= Math.pow(0.88, dt * 60);
+    if (h.wordTimer > 0) h.wordTimer -= dt;
+    if (h.wait > 0) { h.wait -= dt; return; }
+    if (!h.target || h.target.flipping || h.target.delay > 0) {
+      const claimed = new Set(helpers.map(o => o.target));
+      const idle = state.coins.filter(c => !c.flipping && c.delay <= 0 && !claimed.has(c));
+      h.target = idle.length ? idle[Math.floor(Math.random() * idle.length)] : null;
+    }
+    if (!h.target) return;
+    const dx = h.target.x - h.x, dy = h.target.y - h.y;
+    const d = Math.hypot(dx, dy);
+    if (d < 12) {
+      const t = h.type;
+      const hit = t.radius
+        ? state.coins.filter(c => Math.hypot(c.x - h.target.x, c.y - h.target.y) <= t.radius)
+        : [h.target];
+      hit.forEach(c => flipCoin(c, 0, t.luck));
+      h.target = null;
+      h.wait = 0.15;
+      h.squash = 0.3;
+      if (Math.random() < 0.15) { h.words = QUIPS[Math.floor(Math.random() * QUIPS.length)]; h.wordTimer = 1.3; }
+    } else {
+      const step = Math.min(d, helperSpeed() * h.type.speed * (1 + 0.02 * state.lvl.espresso + 0.005 * ch('tinyhat')) * dt);
+      h.x += dx / d * step;
+      h.y += dy / d * step;
+      h.dir = dx >= 0 ? 1 : -1;
+    }
+  }
+
+  // ---------- Shop ----------
+  const shopItems = [
+    {
+      id: 'unlock',
+      name: () => `Coin Level ${state.lvl.tier + 1}/${TIERS.length}`,
+      desc: () => `Unlock ${TIERS[Math.min(state.lvl.tier + 1, TIERS.length - 1)].name} coins`,
+      cost: unlockCost,
+      avail: () => state.lvl.tier < TIERS.length - 1,
+      buy: () => { state.lvl.tier++; },
+    },
+    {
+      id: 'cap',
+      name: () => `Table Capacity Lv ${state.lvl.cap}`,
+      desc: () => `Max coins: ${maxCoins()}` + (maxCoins() >= ABS_MAX_COINS ? ' (max)' : ` -> ${Math.min(ABS_MAX_COINS, maxCoins() + 10)}`),
+      cost: () => Math.floor(30 * Math.pow(1.6, state.lvl.cap)),
+      avail: () => maxCoins() < ABS_MAX_COINS,
+      buy: () => state.lvl.cap++,
+    },
+    {
+      id: 'value',
+      name: () => `Value Boost Lv ${state.lvl.value}/${MAX_LVL}`,
+      desc: () => `Payout x${valueMult().toFixed(1)} -> x${(valueMult() + 0.5).toFixed(1)}`,
+      cost: () => upCost(60, state.lvl.value),
+      avail: () => state.lvl.value < MAX_LVL,
+      buy: () => state.lvl.value++,
+    },
+    {
+      id: 'luck',
+      name: () => `Lucky Coins Lv ${state.lvl.luck}/${MAX_LVL}`,
+      desc: () => `Chance of $: ${(winChance() * 100).toFixed(1)}%` + (state.lvl.luck >= MAX_LVL ? ' (max)' : ` -> ${(Math.min(0.95, winChance() + 0.003) * 100).toFixed(1)}%`),
+      cost: () => upCost(100, state.lvl.luck),
+      avail: () => state.lvl.luck < MAX_LVL,
+      buy: () => state.lvl.luck++,
+    },
+    ...HELPER_TYPES.map((t, i) => ({
+      group: 'helper',
+      name: () => `${t.name} (${state.hired[i]}/${HELPER_MAX})`,
+      desc: () => `${t.info} \u00b7 size ${t.size}x \u00b7 speed ${t.speed}x` + (t.radius ? ` \u00b7 area ${t.radius}px` : ''),
+      cost: () => Math.floor(t.cost * Math.pow(2.4, state.hired[i])),
+      avail: () => state.hired[i] < HELPER_MAX,
+      buy: () => { state.hired[i]++; syncHelpers(); },
+      color: t.color,
+    })),
+    {
+      id: 'speed',
+      name: () => `Helper Speed Lv ${state.lvl.speed}/${MAX_LVL}`,
+      desc: () => `Helpers run faster (base ${Math.round(helperSpeed())}px/s)`,
+      cost: () => upCost(150, state.lvl.speed),
+      avail: () => totalHelpers() > 0 && state.lvl.speed < MAX_LVL,
+      buy: () => state.lvl.speed++,
+    },
+    {
+      id: 'polish',
+      name: () => `Wax On, Wax Off Lv ${state.lvl.polish}/${MAX_LVL}`,
+      desc: () => `Polish coins until they shine: +4% payout per level (now x${(1 + 0.04 * state.lvl.polish).toFixed(2)})`,
+      cost: () => upCost(80, state.lvl.polish),
+      avail: () => state.lvl.polish < MAX_LVL,
+      buy: () => state.lvl.polish++,
+    },
+    {
+      id: 'tip',
+      name: () => `Tip Jar Lv ${state.lvl.tip}/${MAX_LVL}`,
+      desc: () => `Coins feel sorry for you and tip $${fmt(tipIncome())}/s`,
+      cost: () => upCost(200, state.lvl.tip),
+      avail: () => state.lvl.tip < MAX_LVL,
+      buy: () => state.lvl.tip++,
+    },
+    {
+      id: 'sticky',
+      name: () => `Sticky Fingers Lv ${state.lvl.sticky}/${MAX_LVL}`,
+      desc: () => `Your cursor gets handsy: +${(0.3 * state.lvl.sticky).toFixed(1)}px flip reach`,
+      cost: () => upCost(50, state.lvl.sticky),
+      avail: () => state.lvl.sticky < MAX_LVL,
+      buy: () => state.lvl.sticky++,
+    },
+    {
+      id: 'espresso',
+      name: () => `Triple Espresso Lv ${state.lvl.espresso}/${MAX_LVL}`,
+      desc: () => `Helpers are jittery: +${2 * state.lvl.espresso}% speed`,
+      cost: () => upCost(300, state.lvl.espresso),
+      avail: () => state.lvl.espresso < MAX_LVL && totalHelpers() > 0,
+      buy: () => state.lvl.espresso++,
+    },
+    {
+      id: 'dbl',
+      name: () => `Double or Nothing Lv ${state.lvl.dbl}/${MAX_LVL}`,
+      desc: () => `${(0.5 * state.lvl.dbl).toFixed(1)}% of winning flips pay x2`,
+      cost: () => upCost(400, state.lvl.dbl),
+      avail: () => state.lvl.dbl < MAX_LVL,
+      buy: () => state.lvl.dbl++,
+    },
+    {
+      id: 'jackpot',
+      name: () => `Slot Machine Brain Lv ${state.lvl.jackpot}/${MAX_LVL}`,
+      desc: () => `Ding ding ding! ${(0.2 * state.lvl.jackpot).toFixed(1)}% of wins hit a x10 JACKPOT`,
+      cost: () => upCost(1000, state.lvl.jackpot),
+      avail: () => state.lvl.jackpot < MAX_LVL,
+      buy: () => state.lvl.jackpot++,
+    },
+    {
+      id: 'pity',
+      name: () => `Pity Payment Lv ${state.lvl.pity}/${MAX_LVL}`,
+      desc: () => `Tails still hurt less: pays ${(0.5 * state.lvl.pity).toFixed(1)}% of the coin value`,
+      cost: () => upCost(150, state.lvl.pity),
+      avail: () => state.lvl.pity < MAX_LVL,
+      buy: () => state.lvl.pity++,
+    },
+    {
+      id: 'helium',
+      name: () => `Helium Coins Lv ${state.lvl.helium}/${MAX_LVL}`,
+      desc: () => `Coins float down slowly... no wait, faster: flips ${Math.round((1 - flipTime()) * 100)}% quicker`,
+      cost: () => upCost(120, state.lvl.helium),
+      avail: () => state.lvl.helium < MAX_LVL,
+      buy: () => state.lvl.helium++,
+    },
+    {
+      id: 'slam',
+      name: () => `Angry Table Slammer Lv ${state.lvl.slam}/${MAX_LVL}`,
+      desc: () => `Rage management: Thump cooldown ${thumpCooldown().toFixed(1)}s`,
+      cost: () => upCost(700, state.lvl.slam),
+      avail: () => state.lvl.thump > 0 && state.lvl.slam < MAX_LVL,
+      buy: () => state.lvl.slam++,
+    },
+    {
+      id: 'bribe',
+      name: () => `Bribe the Dealer Lv ${state.lvl.bribe}/${MAX_LVL}`,
+      desc: () => `Shhh. ${(0.2 * state.lvl.bribe).toFixed(1)}% discount on upgrades and helpers`,
+      cost: () => upCost(1000, state.lvl.bribe),
+      avail: () => state.lvl.bribe < MAX_LVL,
+      buy: () => state.lvl.bribe++,
+    },
+    {
+      id: 'thump',
+      name: () => 'Table Thump',
+      desc: () => `Shake the table to flip every coin (${thumpCooldown()}s cooldown)`,
+      cost: () => 500,
+      avail: () => state.lvl.thump === 0,
+      buy: () => state.lvl.thump = 1,
+    },
+    {
+      id: 'hat',
+      name: () => 'Helper Hat',
+      desc: () => 'Cosmetic: ' + (HATS[state.hatsOwned] || ''),
+      cost: () => HAT_COSTS[state.hatsOwned],
+      avail: () => state.hatsOwned < HATS.length,
+      buy: () => { state.hat = state.hatsOwned; state.hatsOwned++; },
+    },
+  ];
+
+  const coinList = $('coinList');
+  const coinRows = TIERS.map((t, i) => {
+    const row = document.createElement('div');
+    row.className = 'coin-row';
+    row.innerHTML =
+      '<button class="item buy"><div class="row"><span class="n"><i class="dot"></i>' + t.name +
+      '</span><span class="cost"></span></div><div class="desc"></div></button>' +
+      '<button class="item sell"></button>';
+    row.querySelector('.dot').style.background = t.color;
+    row.querySelector('.dot').style.borderColor = t.edge;
+    row.querySelector('.buy').addEventListener('click', () => {
+      const cost = buyCoinCost(i);
+      if (i > state.lvl.tier || state.coins.length >= maxCoins() || state.cash < cost) return;
+      state.cash -= cost;
+      state.coins.push(makeCoin(i));
+      save();
+      updateUI();
+    });
+    row.querySelector('.sell').addEventListener('click', () => {
+      if (state.coins.length <= 1) return;
+      const list = state.coins.filter(c => c.tier === i);
+      if (!list.length) return;
+      const c = list.find(o => !o.flipping) || list[0];
+      state.coins.splice(state.coins.indexOf(c), 1);
+      helpers.forEach(h => { if (h.target === c) h.target = null; });
+      state.cash += sellValue(i);
+      save();
+      updateUI();
+    });
+    coinList.appendChild(row);
+    return row;
+  });
+
+  const shopList = $('shopList');
+  const helperList = $('helperList');
+  shopItems.forEach(item => {
+    const b = document.createElement('button');
+    b.className = 'item';
+    b.innerHTML = '<div class="row"><span class="n"></span><span class="cost"></span></div><div class="desc"></div>';
+    if (item.color) {
+      b.style.borderLeft = '6px solid ' + item.color;
+    }
+    b.addEventListener('click', () => {
+      if (!item.avail() || state.cash < price(item)) return;
+      state.cash -= price(item);
+      item.buy();
+      save();
+      updateUI();
+    });
+    item.el = b;
+    (item.group === 'helper' ? helperList : shopList).appendChild(b);
+  });
+
+  function updateUI() {
+    $('cash').textContent = fmt(state.cash);
+    $('coinCount').textContent = state.coins.length;
+    $('helperCount').textContent = totalHelpers();
+
+    const now = performance.now();
+    history = history.filter(h => now - h[0] < 10000);
+    $('rate').textContent = fmt(history.reduce((s, h) => s + h[1], 0) / 10);
+
+    coinRows.forEach((row, i) => {
+      const owned = state.coins.filter(c => c.tier === i).length;
+      const locked = i > state.lvl.tier;
+      const full = state.coins.length >= maxCoins();
+      const cost = buyCoinCost(i);
+      const buy = row.querySelector('.buy');
+      buy.disabled = locked || full || state.cash < cost;
+      row.querySelector('.cost').textContent = locked ? 'Locked' : full ? 'FULL' : '$' + fmt(cost);
+      row.querySelector('.desc').textContent =
+        `$${fmt(TIERS[i].value * payMult())}/flip \u00b7 owned ${owned} \u00b7 ${state.coins.length}/${maxCoins()}`;
+      const sell = row.querySelector('.sell');
+      sell.disabled = owned === 0 || state.coins.length <= 1;
+      sell.textContent = 'Sell +$' + fmt(sellValue(i));
+    });
+
+    for (const item of shopItems) {
+      const avail = item.avail();
+      item.el.disabled = !avail || state.cash < price(item);
+      item.el.querySelector('.n').textContent = item.name();
+      item.el.querySelector('.cost').textContent = avail ? '$' + fmt(price(item)) : 'MAX';
+      item.el.querySelector('.desc').textContent = item.desc();
+    }
+
+    $('thump').hidden = !state.lvl.thump;
+    $('hat').hidden = state.hatsOwned < 2;
+    const left = Math.max(0, (state.thumpReadyAt - Date.now()) / 1000);
+    $('thump').disabled = left > 0;
+    $('thump').textContent = left > 0 ? `Thump Table (${Math.ceil(left)}s)` : 'Thump Table';
+    updateRebirthUI();
+    updateGachaUI();
+  }
+
+  $('thump').addEventListener('click', () => {
+    if (Date.now() < state.thumpReadyAt) return;
+    state.thumpReadyAt = Date.now() + thumpCooldown() * 1000;
+    state.coins.forEach(c => flipCoin(c, Math.random() * 0.4));
+    canvas.animate(
+      [{ transform: 'translate(0,0)' }, { transform: 'translate(-6px,4px)' }, { transform: 'translate(6px,-4px)' }, { transform: 'translate(0,0)' }],
+      { duration: 300 }
+    );
+  });
+
+  $('hat').addEventListener('click', () => {
+    state.hat = (state.hat + 1) % state.hatsOwned;
+    save();
+  });
+
+  // ---------- Rebirth ----------
+  const SKILLS = [
+    { key: 'midas',   name: 'Eternal Midas',      max: 20, base: 1, desc: l => `+25% payout per level (now x${(1 + 0.25 * l).toFixed(2)})` },
+    { key: 'wisdom',  name: 'Rebirth Wisdom',     max: 10, base: 2, desc: l => `+10% RP from rebirths (now +${10 * l}%)` },
+    { key: 'head',    name: 'Head Start',         max: 10, base: 1, desc: l => `Start each life with $${fmt(250 * l)} (+$250 per level)` },
+    { key: 'pack',    name: 'Starter Pack',       max: 9,  base: 2, desc: l => `Start with ${1 + l} coins (+1 per level)` },
+    { key: 'heritage', name: 'Coin Heritage',     max: 9,  base: 3, desc: l => `Start with coin level ${l + 1} unlocked` },
+    { key: 'loyal',   name: 'Loyal Cats',        max: 5,  base: 3, desc: l => `Start with ${l} Cat helper${l === 1 ? '' : 's'}` },
+    { key: 'fortune', name: 'Fortune\'s Favor',   max: 10, base: 2, desc: l => `+${l}% chance of landing on $` },
+    { key: 'table',   name: 'Big Table Energy',   max: 20, base: 1, desc: l => `+${5 * l} coin capacity` },
+    { key: 'warp',    name: 'Time Warp',          max: 10, base: 2, desc: l => `Coins flip ${Math.round((1 - Math.pow(0.97, l)) * 100)}% faster` },
+    { key: 'ghost',   name: 'Ghost Hand',         max: 10, base: 4, desc: l => l ? `A friendly ghost flips a random coin every ${Math.max(0.5, 3 - 0.25 * l).toFixed(2)}s` : 'A friendly ghost flips a random coin every few seconds' },
+  ];
+  const skillCost = s => Math.ceil(s.base * Math.pow(1.6, sk(s.key)));
+  const rpGain = () => Math.floor(Math.sqrt(state.runEarned / 20000) * (1 + 0.1 * sk('wisdom') + 0.01 * ch('bell')));
+
+  const skillList = $('skillList');
+  SKILLS.forEach(s => {
+    const b = document.createElement('button');
+    b.className = 'item';
+    b.innerHTML = '<div class="row"><span class="n"></span><span class="cost"></span></div><div class="desc"></div>';
+    b.addEventListener('click', () => {
+      if (sk(s.key) >= s.max || state.rp < skillCost(s)) return;
+      state.rp -= skillCost(s);
+      state.skills[s.key] = sk(s.key) + 1;
+      save();
+      updateUI();
+    });
+    s.el = b;
+    skillList.appendChild(b);
+  });
+
+  function updateRebirthUI() {
+    $('rebirthOpen').textContent = `Rebirth \u00b7 ${state.rp} RP`;
+    if ($('rebirthModal').hidden) return;
+    $('rpNow').textContent = state.rp;
+    $('rbCount').textContent = state.rebirths;
+    const gain = rpGain();
+    $('rebirthDo').disabled = gain < 1;
+    $('rebirthDo').textContent = gain < 1
+      ? 'Rebirth (earn more cash first)'
+      : `Rebirth now: +${gain} RP`;
+    $('rbEarned').textContent = fmt(state.runEarned);
+    for (const s of SKILLS) {
+      const lvl = sk(s.key), maxed = lvl >= s.max;
+      s.el.disabled = maxed || state.rp < skillCost(s);
+      s.el.querySelector('.n').textContent = `${s.name} Lv ${lvl}/${s.max}`;
+      s.el.querySelector('.cost').textContent = maxed ? 'MAX' : skillCost(s) + ' RP';
+      s.el.querySelector('.desc').textContent = s.desc(lvl);
+    }
+  }
+
+  function doRebirth() {
+    const gain = rpGain();
+    if (gain < 1) return;
+    if (!confirm(`Rebirth? You will lose cash, coins, helpers and upgrades, and gain ${gain} RP. Skills are kept.`)) return;
+    const keep = { rp: state.rp + gain, rebirths: state.rebirths + 1, skills: state.skills, hatsOwned: state.hatsOwned, hat: state.hat,
+      charms: state.charms, pulls: state.pulls, pityE: state.pityE, pityL: state.pityL };
+    state = { ...fresh(), ...keep };
+    state.cash = 250 * sk('head');
+    state.lvl.tier = sk('heritage');
+    for (let i = 0; i < 1 + sk('pack'); i++) state.coins.push(makeCoin(0));
+    state.hired[0] = sk('loyal');
+    helpers = [];
+    floaters = [];
+    history = [];
+    syncHelpers();
+    save();
+    updateUI();
+  }
+
+  $('rebirthOpen').addEventListener('click', () => { $('rebirthModal').hidden = false; updateUI(); });
+  $('rebirthClose').addEventListener('click', () => { $('rebirthModal').hidden = true; });
+  $('rebirthModal').addEventListener('click', e => { if (e.target === $('rebirthModal')) $('rebirthModal').hidden = true; });
+  $('rebirthDo').addEventListener('click', doRebirth);
+
+  // ---------- Gacha ----------
+  const RARITIES = [
+    { name: 'Common',    w: 60, color: '#b9b9c9' },
+    { name: 'Rare',      w: 25, color: '#4aa3ff' },
+    { name: 'Epic',      w: 10, color: '#b36bff' },
+    { name: 'Legendary', w: 4,  color: '#ffb43a' },
+    { name: 'Mythic',    w: 1,  color: '#ff5a8a' },
+  ];
+  const CHARMS = [
+    { key: 'penny',    name: 'Lucky Penny',    r: 0, desc: l => `+${(0.05 * l).toFixed(2)}% chance of $` },
+    { key: 'duck',     name: 'Rubber Duck',    r: 0, desc: l => `+${(0.5 * l).toFixed(1)}% payout` },
+    { key: 'clover',   name: 'Four-Leaf Clover', r: 0, desc: l => `Coins flip ${((1 - Math.pow(0.998, l)) * 100).toFixed(1)}% faster` },
+    { key: 'sock',     name: 'Smelly Sock',    r: 0, desc: l => `Tails pay an extra ${(0.1 * l).toFixed(1)}% of the coin value` },
+    { key: 'tinyhat',  name: 'Tiny Hat',       r: 1, desc: l => `+${(0.5 * l).toFixed(1)}% helper speed` },
+    { key: 'tooth',    name: 'Golden Tooth',   r: 1, desc: l => `+${l}% payout` },
+    { key: 'coupon',   name: 'Coupon Book',    r: 1, desc: l => `${(0.1 * l).toFixed(1)}% discount on upgrades and helpers` },
+    { key: 'hammer',   name: 'Rusty Hammer',   r: 1, desc: l => `Thump cooldown -${(0.03 * l).toFixed(2)}s` },
+    { key: 'magnet',   name: 'Magic Magnet',   r: 2, desc: l => `+${(0.2 * l).toFixed(1)}px flip reach` },
+    { key: 'piggy',    name: 'Piggy Bank',     r: 2, desc: l => `+${(0.5 * l).toFixed(1)}% of coin value per coin each second` },
+    { key: 'wallet',   name: 'Fat Wallet',     r: 2, desc: l => `+${l}% coin sell value` },
+    { key: 'bell',     name: 'Dealer\'s Bell', r: 2, desc: l => `+${l}% RP from rebirths` },
+    { key: 'egg',      name: 'Dragon Egg',     r: 3, desc: l => `+${(2.5 * l).toFixed(1)}% payout` },
+    { key: 'dice',     name: 'Cursed Dice',    r: 3, desc: l => `+${(0.2 * l).toFixed(1)}% chance of x2 wins` },
+    { key: 'comet',    name: 'Comet Tail',     r: 3, desc: l => `+${2 * l}% tip income` },
+    { key: 'vault',    name: 'Vault Key',      r: 3, desc: l => `+${Math.floor(l / 10)} coin capacity (1 per 10 levels)` },
+    { key: 'cat',      name: 'Cosmic Cat',     r: 4, desc: l => `+${5 * l}% payout` },
+    { key: 'infinity', name: 'Infinity Coin',  r: 4, desc: l => `+${(0.05 * l).toFixed(2)}% chance of x10 jackpot` },
+    { key: 'void',     name: 'Void Coin',      r: 4, desc: l => `+${4 * l}% payout` },
+    { key: 'star',     name: 'Shooting Star',  r: 4, desc: l => `Jackpots pay x${(10 + 0.1 * l).toFixed(1)} instead of x10` },
+  ];
+  const pullCost = (extra = 0) => Math.floor(500 * Math.pow(1.005, state.pulls + extra));
+
+  function pickRarity(min) {
+    const pool = RARITIES.map((r, i) => (i >= min ? r.w : 0));
+    let roll = Math.random() * pool.reduce((a, b) => a + b, 0);
+    for (let i = 0; i < pool.length; i++) {
+      roll -= pool[i];
+      if (roll < 0) return i;
+    }
+    return RARITIES.length - 1;
+  }
+
+  function pullOnce() {
+    const cost = pullCost();
+    state.cash -= cost;
+    state.pulls++;
+    state.pityE++;
+    state.pityL++;
+    const r = pickRarity(state.pityL >= 100 ? 3 : state.pityE >= 20 ? 2 : 0);
+    if (r >= 2) state.pityE = 0;
+    if (r >= 3) state.pityL = 0;
+    const options = CHARMS.filter(c => c.r === r);
+    const charm = options[Math.floor(Math.random() * options.length)];
+    const have = ch(charm.key);
+    if (have >= CHARM_MAX) {
+      const refund = Math.floor(cost * 0.5);
+      state.cash += refund;
+      return { charm, r, dup: true, refund };
+    }
+    state.charms[charm.key] = have + 1;
+    return { charm, r, dup: false, level: have + 1 };
+  }
+
+  function pull(n) {
+    let total = 0;
+    for (let i = 0; i < n; i++) total += pullCost(i);
+    if (state.cash < total) return;
+    const results = [];
+    for (let i = 0; i < n; i++) results.push(pullOnce());
+    showGachaResults(results);
+    save();
+    updateUI();
+  }
+
+  function showGachaResults(results) {
+    const box = $('gachaResults');
+    box.innerHTML = '';
+    results.forEach((res, i) => {
+      const chip = document.createElement('div');
+      chip.className = 'chip';
+      chip.style.borderColor = RARITIES[res.r].color;
+      chip.style.color = RARITIES[res.r].color;
+      chip.style.animationDelay = (i * 0.06) + 's';
+      chip.textContent = `${RARITIES[res.r].name}: ${res.charm.name} ` +
+        (res.dup ? `(MAX, +$${fmt(res.refund)})` : (res.level === 1 ? '(NEW!)' : `Lv ${res.level}`));
+      box.appendChild(chip);
+    });
+  }
+
+  const charmList = $('charmList');
+  CHARMS.forEach(c => {
+    const row = document.createElement('div');
+    row.className = 'charm';
+    row.innerHTML = '<div class="row"><span class="n"></span><span class="lv"></span></div><div class="desc"></div>';
+    row.querySelector('.n').style.color = RARITIES[c.r].color;
+    c.el = row;
+    charmList.appendChild(row);
+  });
+
+  function updateGachaUI() {
+    if ($('gachaModal').hidden) return;
+    const c1 = pullCost(), total10 = Array.from({ length: 10 }, (_, i) => pullCost(i)).reduce((a, b) => a + b, 0);
+    $('pull1').textContent = `Pull x1 ($${fmt(c1)})`;
+    $('pull10').textContent = `Pull x10 ($${fmt(total10)})`;
+    $('pull1').disabled = state.cash < c1;
+    $('pull10').disabled = state.cash < total10;
+    $('gachaCash').textContent = fmt(state.cash);
+    $('gachaPulls').textContent = state.pulls;
+    $('pityE').textContent = Math.max(0, 20 - state.pityE);
+    $('pityL').textContent = Math.max(0, 100 - state.pityL);
+    for (const c of CHARMS) {
+      const lvl = ch(c.key);
+      c.el.classList.toggle('locked', lvl === 0);
+      c.el.querySelector('.n').textContent = `${c.name} (${RARITIES[c.r].name})`;
+      c.el.querySelector('.lv').textContent = lvl ? `Lv ${lvl}/${CHARM_MAX}` : 'Not found';
+      c.el.querySelector('.desc').textContent = lvl ? c.desc(lvl) : c.desc(1) + ' per copy';
+    }
+  }
+
+  $('gachaOpen').addEventListener('click', () => { $('gachaModal').hidden = false; updateUI(); });
+  $('gachaClose').addEventListener('click', () => { $('gachaModal').hidden = true; });
+  $('gachaModal').addEventListener('click', e => { if (e.target === $('gachaModal')) $('gachaModal').hidden = true; });
+  $('pull1').addEventListener('click', () => pull(1));
+  $('pull10').addEventListener('click', () => pull(10));
+
+  // ---------- Cheat mode ----------
+  const CHEATS = {
+    cash1k: () => { state.cash += 1e3; },
+    cash1m: () => { state.cash += 1e6; },
+    cash1b: () => { state.cash += 1e9; },
+    cash1t: () => { state.cash += 1e12; },
+    tiers: () => { state.lvl.tier = TIERS.length - 1; },
+    cap: () => { state.lvl.cap = Math.ceil((ABS_MAX_COINS - 10) / 10); },
+    helpers: () => { state.hired = HELPER_TYPES.map(() => HELPER_MAX); syncHelpers(); },
+    fill: () => {
+      while (state.coins.length < maxCoins()) state.coins.push(makeCoin(state.lvl.tier));
+    },
+    upgrades: () => {
+      Object.assign(state.lvl, { value: MAX_LVL, luck: MAX_LVL, speed: MAX_LVL, thump: 1,
+        polish: MAX_LVL, tip: MAX_LVL, sticky: MAX_LVL, espresso: MAX_LVL, dbl: MAX_LVL, jackpot: MAX_LVL,
+        pity: MAX_LVL, helium: MAX_LVL, slam: MAX_LVL, bribe: MAX_LVL });
+      state.hatsOwned = HATS.length;
+    },
+    thump: () => { state.thumpReadyAt = 0; },
+    rp: () => { state.rp += 100; },
+  };
+
+  $('cheatToggle').addEventListener('click', () => {
+    const panel = $('cheatPanel');
+    panel.hidden = !panel.hidden;
+    $('cheatToggle').classList.toggle('on', !panel.hidden);
+    $('cheatToggle').textContent = 'Cheat Mode: ' + (panel.hidden ? 'OFF' : 'ON');
+  });
+
+  $('cheatPanel').addEventListener('click', e => {
+    const fn = CHEATS[e.target.dataset.cheat];
+    if (!fn) return;
+    fn();
+    save();
+    updateUI();
+  });
+
+  $('reset').addEventListener('click', () => {
+    if (!confirm('Start a new game? ALL progress (including RP, skills and charms) will be erased.')) return;
+    state = fresh();
+    state.coins.push(makeCoin(0));
+    helpers = [];
+    floaters = [];
+    history = [];
+    $('rebirthModal').hidden = true;
+    $('gachaModal').hidden = true;
+    save();
+    updateUI();
+  });
+
+  // ---------- Input ----------
+  function pointer(e) {
+    const r = canvas.getBoundingClientRect();
+    return { x: (e.clientX - r.left) * W / r.width, y: (e.clientY - r.top) * H / r.height };
+  }
+
+  canvas.addEventListener('pointermove', e => {
+    const p = pointer(e);
+    mouse.x = p.x;
+    mouse.y = p.y;
+    const c = coinAt(p.x, p.y);
+    if (c) flipCoin(c);
+  });
+  canvas.addEventListener('pointerleave', () => { mouse.x = mouse.y = -999; });
+
+  // ---------- Drawing ----------
+  function drawTable() {
+    ctx.fillStyle = '#1f6b43';
+    ctx.fillRect(0, 0, W, H);
+    ctx.fillStyle = 'rgba(0,0,0,0.07)';
+    for (let x = 0; x < W; x += 20) for (let y = 0; y < H; y += 20) if ((x + y) % 40 === 0) ctx.fillRect(x, y, 20, 20);
+    ctx.strokeStyle = 'rgba(255,255,255,0.12)';
+    ctx.lineWidth = 3;
+    ctx.strokeRect(14, 14, W - 28, H - 28);
+    ctx.strokeStyle = '#000';
+    ctx.lineWidth = 6;
+    ctx.strokeRect(0, 0, W, H);
+  }
+
+  function googlyEye(x, y, r, pupil) {
+    ctx.fillStyle = '#fff';
+    ctx.strokeStyle = '#000';
+    ctx.lineWidth = 1;
+    ctx.beginPath();
+    ctx.arc(x, y, r, 0, Math.PI * 2);
+    ctx.fill();
+    ctx.stroke();
+    ctx.fillStyle = '#000';
+    ctx.beginPath();
+    ctx.arc(x + pupil.x * r * 0.45, y + pupil.y * r * 0.45, r * 0.5, 0, Math.PI * 2);
+    ctx.fill();
+  }
+
+  function lookDir(fromX, fromY, toX, toY) {
+    const a = Math.atan2(toY - fromY, toX - fromX);
+    return { x: Math.cos(a), y: Math.sin(a) };
+  }
+
+  function drawCoin(c) {
+    const tier = TIERS[c.tier];
+    let sy = 1, lift = 0, face = c.side;
+    if (c.flipping) {
+      const p = Math.min(1, c.t / c.dur);
+      const ang = p * c.half * Math.PI;
+      const cos = Math.cos(ang);
+      sy = Math.max(0.08, Math.abs(cos));
+      face = cos >= 0 ? c.start : !c.start;
+      lift = Math.sin(p * Math.PI) * 46;
+    }
+    const wob = c.flipping ? 0 : Math.sin(clock * 3 + c.x * 0.1) * 0.04;
+
+    // shadow
+    ctx.fillStyle = 'rgba(0,0,0,0.3)';
+    ctx.beginPath();
+    ctx.ellipse(c.x + lift * 0.3 + 2, c.y + COIN_R * 0.7 + 2, COIN_R * (1 - lift / 150), COIN_R * 0.45, 0, 0, Math.PI * 2);
+    ctx.fill();
+
+    ctx.save();
+    ctx.translate(c.x, c.y - lift);
+    ctx.scale(1 + c.squash + wob, sy * (1 - c.squash - wob));
+    ctx.beginPath();
+    ctx.arc(0, 0, COIN_R, 0, Math.PI * 2);
+    ctx.fillStyle = tier.color;
+    ctx.fill();
+    ctx.lineWidth = 2.5;
+    ctx.strokeStyle = '#000';
+    ctx.stroke();
+    ctx.beginPath();
+    ctx.arc(0, 0, COIN_R - 3, 0, Math.PI * 2);
+    ctx.lineWidth = 1.5;
+    ctx.strokeStyle = tier.edge;
+    ctx.stroke();
+
+    if (face) {
+      ctx.font = 'bold 15px "Comic Sans MS", monospace';
+      ctx.textAlign = 'center';
+      ctx.textBaseline = 'alphabetic';
+      const m = ctx.measureText('$');
+      const ty = (m.actualBoundingBoxAscent - m.actualBoundingBoxDescent) / 2;
+      ctx.lineWidth = 3;
+      ctx.strokeStyle = '#000';
+      ctx.strokeText('$', 0, ty);
+      ctx.fillStyle = '#fff';
+      ctx.fillText('$', 0, ty);
+    } else {
+      // tails: knocked-out face (X eyes, tongue out)
+      ctx.strokeStyle = '#000';
+      ctx.lineWidth = 1.8;
+      ctx.lineCap = 'round';
+      ctx.beginPath();
+      for (const ex of [-4.2, 4.2]) {
+        ctx.moveTo(ex - 2.2, -4.7);
+        ctx.lineTo(ex + 2.2, -0.3);
+        ctx.moveTo(ex + 2.2, -4.7);
+        ctx.lineTo(ex - 2.2, -0.3);
+      }
+      ctx.stroke();
+      ctx.lineCap = 'butt';
+      ctx.beginPath();
+      ctx.moveTo(-3, 3.5);
+      ctx.lineTo(3, 3.5);
+      ctx.stroke();
+      ctx.fillStyle = '#ff5a82';
+      ctx.beginPath();
+      ctx.arc(1.5, 4.5, 1.8, 0, Math.PI);
+      ctx.fill();
+      ctx.stroke();
+    }
+    ctx.restore();
+  }
+
+  function drawHat(kind, x, y) {
+    ctx.strokeStyle = '#000';
+    ctx.lineWidth = 1.5;
+    if (kind === 'cap') {
+      ctx.fillStyle = '#3a7bff';
+      ctx.beginPath();
+      ctx.arc(x, y + 2, 9, Math.PI, 0);
+      ctx.closePath();
+      ctx.fill();
+      ctx.stroke();
+      ctx.fillStyle = '#ff5050';
+      ctx.fillRect(x, y, 12, 3);
+      ctx.strokeRect(x, y, 12, 3);
+    } else if (kind === 'tophat') {
+      ctx.fillStyle = '#1e1e1e';
+      ctx.fillRect(x - 10, y - 2, 20, 4);
+      ctx.strokeRect(x - 10, y - 2, 20, 4);
+      ctx.fillRect(x - 6, y - 14, 12, 12);
+      ctx.strokeRect(x - 6, y - 14, 12, 12);
+      ctx.fillStyle = '#e33';
+      ctx.fillRect(x - 6, y - 6, 12, 3);
+    } else if (kind === 'crown') {
+      ctx.fillStyle = '#ffd700';
+      ctx.beginPath();
+      ctx.moveTo(x - 8, y + 2);
+      ctx.lineTo(x - 8, y - 10);
+      ctx.lineTo(x - 4, y - 5);
+      ctx.lineTo(x, y - 12);
+      ctx.lineTo(x + 4, y - 5);
+      ctx.lineTo(x + 8, y - 10);
+      ctx.lineTo(x + 8, y + 2);
+      ctx.closePath();
+      ctx.fill();
+      ctx.stroke();
+    } else if (kind === 'cone') {
+      ctx.fillStyle = '#ff50a0';
+      ctx.beginPath();
+      ctx.moveTo(x - 7, y + 2);
+      ctx.lineTo(x + 7, y + 2);
+      ctx.lineTo(x, y - 20);
+      ctx.closePath();
+      ctx.fill();
+      ctx.stroke();
+      ctx.fillStyle = '#ffe600';
+      ctx.beginPath();
+      ctx.arc(x, y - 20, 3.5, 0, Math.PI * 2);
+      ctx.fill();
+      ctx.stroke();
+    } else if (kind === 'propeller') {
+      ctx.fillStyle = '#3c78ff';
+      ctx.beginPath();
+      ctx.arc(x, y + 2, 9, Math.PI, 0);
+      ctx.closePath();
+      ctx.fill();
+      ctx.stroke();
+      ctx.beginPath();
+      ctx.moveTo(x, y - 7);
+      ctx.lineTo(x, y - 12);
+      ctx.stroke();
+      ctx.save();
+      ctx.translate(x, y - 12);
+      ctx.rotate(clock * 15);
+      ctx.fillStyle = '#ff3c3c';
+      ctx.beginPath();
+      ctx.ellipse(0, 0, 11, 2.5, 0, 0, Math.PI * 2);
+      ctx.fill();
+      ctx.stroke();
+      ctx.restore();
+    }
+  }
+
+  function drawHelper(h) {
+    const t = h.type, s = t.size, R = 12;
+    const moving = !!h.target && h.wait <= 0;
+    const wob = Math.sin(clock * 6 + h.phase) * 0.06;
+    const hop = moving ? Math.abs(Math.sin(clock * 10 + h.phase)) * 5 : 0;
+
+    ctx.fillStyle = 'rgba(0,0,0,0.3)';
+    ctx.beginPath();
+    ctx.ellipse(h.x + 2, h.y + R * s, R * s * (1 - hop / 25), 4 * s, 0, 0, Math.PI * 2);
+    ctx.fill();
+
+    ctx.save();
+    ctx.translate(h.x, h.y - hop * s);
+    ctx.scale(s * (1 + wob + h.squash), s * (1 - wob - h.squash));
+    const an = t.animal;
+    const ey = an === 'frog' ? -8 : -3;
+
+    // ears / bulging eyes sit behind the body
+    ctx.fillStyle = t.color;
+    ctx.strokeStyle = '#000';
+    ctx.lineWidth = 1.5;
+    for (const sx of [-1, 1]) {
+      ctx.beginPath();
+      if (an === 'cat') {
+        ctx.moveTo(sx * 3, -10);
+        ctx.lineTo(sx * 10, -19);
+        ctx.lineTo(sx * 12, -5);
+        ctx.closePath();
+      } else if (an === 'bunny') {
+        ctx.ellipse(sx * 5, -18, 3.5, 9, sx * 0.15, 0, Math.PI * 2);
+      } else if (an === 'bear') {
+        ctx.arc(sx * 9, -9, 4.5, 0, Math.PI * 2);
+      } else if (an === 'elephant') {
+        ctx.ellipse(sx * 13, -1 + Math.sin(clock * 3 + h.phase) * 1.2, 6, 9.5, sx * 0.2, 0, Math.PI * 2);
+      } else if (an === 'frog') {
+        ctx.arc(sx * 5, ey, 5.6, 0, Math.PI * 2);
+      }
+      ctx.fill();
+      ctx.stroke();
+      if (an === 'cat' || an === 'bunny') {
+        ctx.fillStyle = '#ff9ab8';
+        ctx.beginPath();
+        if (an === 'cat') {
+          ctx.moveTo(sx * 4.5, -9.5);
+          ctx.lineTo(sx * 9.5, -15);
+          ctx.lineTo(sx * 10, -7);
+        } else {
+          ctx.ellipse(sx * 5, -17, 1.6, 6, sx * 0.15, 0, Math.PI * 2);
+        }
+        ctx.closePath();
+        ctx.fill();
+        ctx.fillStyle = t.color;
+      }
+    }
+
+    // paws
+    ctx.fillStyle = t.color;
+    ctx.strokeStyle = '#000';
+    ctx.lineWidth = 1.5;
+    const step = moving ? Math.sin(clock * 14 + h.phase) * 2.5 : 0;
+    for (const sx of [-1, 1]) {
+      ctx.beginPath();
+      ctx.ellipse(sx * 5, R - 1 + sx * step, 3.5, 2.5, 0, 0, Math.PI * 2);
+      ctx.fill();
+      ctx.stroke();
+      ctx.beginPath();
+      ctx.arc(sx * (R + 2), 2 - sx * step, 3, 0, Math.PI * 2);
+      ctx.fill();
+      ctx.stroke();
+    }
+
+    // body
+    ctx.fillStyle = t.color;
+    ctx.strokeStyle = '#000';
+    ctx.lineWidth = 2;
+    ctx.beginPath();
+    ctx.arc(0, 0, R, 0, Math.PI * 2);
+    ctx.fill();
+    ctx.stroke();
+
+    // googly eyes look at the target, or the mouse when idle
+    const tx = h.target ? h.target.x : mouse.x, ty = h.target ? h.target.y : mouse.y;
+    const look = lookDir(h.x, h.y, tx, ty);
+    googlyEye(-4.5, ey, 4.2, look);
+    googlyEye(4.5, ey, 4.2, look);
+
+    if (t.glasses) {
+      ctx.strokeStyle = '#141414';
+      ctx.lineWidth = 1.5;
+      ctx.beginPath();
+      ctx.arc(-4.5, ey, 5.4, 0, Math.PI * 2);
+      ctx.moveTo(9.9, ey);
+      ctx.arc(4.5, ey, 5.4, 0, Math.PI * 2);
+      ctx.moveTo(-0.9, ey);
+      ctx.lineTo(0.9, ey);
+      ctx.stroke();
+    }
+
+    // mouth: opens wider while running, tongue out
+    const open = moving ? 3.5 : 1.5;
+    ctx.strokeStyle = '#000';
+    ctx.lineWidth = 1.5;
+    ctx.beginPath();
+    ctx.ellipse(0, 5, 3.5, open, 0, 0, Math.PI);
+    ctx.stroke();
+    if (moving) {
+      ctx.fillStyle = '#ff5a82';
+      ctx.fillRect(-1.2, 5 + open - 1, 2.4, 3 + Math.sin(clock * 12 + h.phase) * 1.2);
+    }
+
+    if (an === 'cat' || an === 'bunny') {
+      ctx.fillStyle = '#ff7aa0';
+      ctx.strokeStyle = '#000';
+      ctx.lineWidth = 1;
+      ctx.beginPath();
+      ctx.moveTo(-1.8, 1);
+      ctx.lineTo(1.8, 1);
+      ctx.lineTo(0, 3);
+      ctx.closePath();
+      ctx.fill();
+      ctx.stroke();
+    }
+    if (an === 'cat') {
+      ctx.strokeStyle = '#000';
+      ctx.lineWidth = 1;
+      ctx.beginPath();
+      for (const sx of [-1, 1]) {
+        ctx.moveTo(sx * 4, 2.5); ctx.lineTo(sx * 12, 0.5);
+        ctx.moveTo(sx * 4, 4); ctx.lineTo(sx * 12, 5.5);
+      }
+      ctx.stroke();
+    } else if (an === 'bunny') {
+      ctx.fillStyle = '#fff';
+      ctx.strokeStyle = '#000';
+      ctx.lineWidth = 1;
+      ctx.fillRect(-2, 5 + open, 1.9, 3);
+      ctx.strokeRect(-2, 5 + open, 1.9, 3);
+      ctx.fillRect(0.1, 5 + open, 1.9, 3);
+      ctx.strokeRect(0.1, 5 + open, 1.9, 3);
+    } else if (an === 'bear') {
+      ctx.fillStyle = '#e6c29a';
+      ctx.strokeStyle = '#000';
+      ctx.lineWidth = 1.2;
+      ctx.beginPath();
+      ctx.ellipse(0, 4, 5.5, 4, 0, 0, Math.PI * 2);
+      ctx.fill();
+      ctx.stroke();
+      ctx.fillStyle = '#000';
+      ctx.beginPath();
+      ctx.ellipse(0, 2.3, 2, 1.4, 0, 0, Math.PI * 2);
+      ctx.fill();
+      ctx.strokeStyle = '#000';
+      ctx.beginPath();
+      ctx.moveTo(0, 3.5);
+      ctx.lineTo(0, 5.5);
+      ctx.stroke();
+    } else if (an === 'elephant') {
+      const sw = Math.sin(clock * 5 + h.phase) * 2.5;
+      ctx.lineCap = 'round';
+      ctx.strokeStyle = '#000';
+      ctx.lineWidth = 7;
+      ctx.beginPath();
+      ctx.moveTo(0, 2);
+      ctx.quadraticCurveTo(0, 12, sw, 16);
+      ctx.stroke();
+      ctx.strokeStyle = t.color;
+      ctx.lineWidth = 4.5;
+      ctx.beginPath();
+      ctx.moveTo(0, 2);
+      ctx.quadraticCurveTo(0, 12, sw, 16);
+      ctx.stroke();
+      ctx.lineCap = 'butt';
+    } else if (an === 'frog') {
+      ctx.fillStyle = '#ff8aa8';
+      ctx.globalAlpha = 0.6;
+      for (const sx of [-1, 1]) {
+        ctx.beginPath();
+        ctx.ellipse(sx * 8, 3.5, 2.2, 1.5, 0, 0, Math.PI * 2);
+        ctx.fill();
+      }
+      ctx.globalAlpha = 1;
+    }
+
+    drawHat(HATS[state.hat], 0, -R + 2);
+    ctx.restore();
+
+    if (h.wordTimer > 0) {
+      ctx.font = 'bold 13px "Comic Sans MS", sans-serif';
+      ctx.textAlign = 'center';
+      ctx.lineWidth = 3;
+      ctx.strokeStyle = '#000';
+      ctx.fillStyle = '#fff';
+      const wy = h.y - R * s - 22 - (state.hat ? 8 : 0);
+      ctx.strokeText(h.words, h.x, wy);
+      ctx.fillText(h.words, h.x, wy);
+    }
+  }
+
+  function drawParticles() {
+    for (const p of particles) {
+      ctx.globalAlpha = Math.min(1, p.life / 0.4);
+      ctx.fillStyle = p.col;
+      ctx.save();
+      ctx.translate(p.x, p.y);
+      ctx.rotate(p.spin + p.life * 12);
+      ctx.fillRect(-p.size / 2, -p.size / 4, p.size, p.size / 2);
+      ctx.restore();
+    }
+    ctx.globalAlpha = 1;
+  }
+
+  function draw() {
+    drawTable();
+    [...state.coins].sort((a, b) => a.y - b.y).forEach(drawCoin);
+    helpers.forEach(drawHelper);
+    drawParticles();
+    ctx.font = 'bold 18px "Comic Sans MS", monospace';
+    ctx.textAlign = 'center';
+    for (const f of floaters) {
+      ctx.globalAlpha = Math.max(0, Math.min(1, f.life));
+      ctx.fillStyle = f.big ? 'hsl(' + Math.floor(clock * 400 % 360) + ',100%,65%)' : '#fff6b0';
+      ctx.strokeStyle = '#000';
+      ctx.lineWidth = 4;
+      const y = f.y - 30 - (1 - f.life) * 30;
+      ctx.strokeText(f.text, f.x, y);
+      ctx.fillText(f.text, f.x, y);
+    }
+    ctx.globalAlpha = 1;
+  }
+
+  // ---------- Loop ----------
+  let last = performance.now(), uiTimer = 0, tipAcc = 0, tipTimer = 0, ghostTimer = 0;
+  function frame(now) {
+    const dt = Math.min(0.1, (now - last) / 1000);
+    last = now;
+    clock += dt;
+
+    for (const c of state.coins) {
+      c.squash *= Math.pow(0.88, dt * 60);
+      if (c.delay > 0) { c.delay -= dt; continue; }
+      if (c.flipping) {
+        c.t += dt;
+        if (c.t >= c.dur) landCoin(c);
+      }
+    }
+    helpers.forEach(h => updateHelper(h, dt));
+    if (sk('ghost')) {
+      ghostTimer += dt;
+      if (ghostTimer >= Math.max(0.5, 3 - 0.25 * sk('ghost'))) {
+        ghostTimer = 0;
+        const idle = state.coins.filter(c => !c.flipping && c.delay <= 0);
+        if (idle.length) flipCoin(idle[Math.floor(Math.random() * idle.length)]);
+      }
+    }
+    tipAcc += tipIncome() * dt;
+    if (tipAcc > 0 && (tipTimer += dt) >= 0.5) {
+      state.cash += tipAcc;
+      state.runEarned += tipAcc;
+      history.push([now, tipAcc]);
+      tipAcc = 0;
+      tipTimer = 0;
+    }
+    floaters.forEach(f => f.life -= dt * 1.2);
+    floaters = floaters.filter(f => f.life > 0);
+    for (const p of particles) {
+      p.x += p.vx * dt * 60;
+      p.y += p.vy * dt * 60;
+      p.vy += p.g * dt * 60;
+      p.life -= dt;
+    }
+    particles = particles.filter(p => p.life > 0);
+
+    uiTimer += dt;
+    if (uiTimer > 0.15) { uiTimer = 0; updateUI(); }
+
+    draw();
+    requestAnimationFrame(frame);
+  }
+
+  // ---------- Save / Load ----------
+  function save() {
+    const data = { ...state, coins: state.coins.map(c => ({ x: c.x, y: c.y, tier: c.tier, side: c.side })) };
+    localStorage.setItem(SAVE_KEY, JSON.stringify(data));
+  }
+
+  function load() {
+    try {
+      const raw = JSON.parse(localStorage.getItem(SAVE_KEY));
+      if (!raw) return false;
+      const base = fresh();
+      state = { ...base, ...raw, lvl: { ...base.lvl, ...raw.lvl } };
+      state.coins = (raw.coins || []).map(c => ({ ...makeCoin(c.tier), x: c.x, y: c.y, side: c.side }));
+      state.hired = HELPER_TYPES.map((_, i) => Number((raw.hired || [])[i]) || 0);
+      if (!raw.hired && raw.lvl && raw.lvl.helpers) state.hired[0] = Math.min(HELPER_MAX, raw.lvl.helpers);
+      state.lvl.tier = Math.min(TIERS.length - 1, Math.max(state.lvl.tier, ...state.coins.map(c => c.tier)));
+      state.lvl.cap = Math.max(state.lvl.cap, Math.ceil((state.coins.length - 10) / 10));
+      return true;
+    } catch { return false; }
+  }
+
+  if (!load() || !state.coins.length) {
+    state = fresh();
+    state.coins.push(makeCoin(0));
+  }
+  syncHelpers();
+  setInterval(save, 5000);
+  window.addEventListener('beforeunload', save);
+  updateUI();
+  requestAnimationFrame(frame);
+})();
+  </script>
+</body>
+</html>
