@@ -1,599 +1,1002 @@
-# DAY 05 --- Family & Relationships
+### ENGLISH SPEAKING – 180 DAYS
 
-**Level:** A2--B1 (Practical English)\
-**Study time:** 2 hours\
-**Main topic:** Family members, friends, personality, and relationships\
-**Main goal:** Talk naturally about your family, describe people, and
-explain what makes relationships important.
+DAY 05 / 180A2–B1Balanced
 
-------------------------------------------------------------------------
+### Jobs, Careers & Workplace
 
-## 1. Learning objectives
+Nghề nghiệp, công việc, môi trường làm việc và định hướng sự nghiệp.
 
-By the end of this lesson, you should be able to:
+![IEBS - La Escuela de Negocios de la Innovación y los Emprendedores](https://images.openai.com/static-rsc-4/L7eUCiPaoHH8voKppynxTok9BXhgrje4FXez0q_x-Bo-jdgiBXsKq5k-QC0g2RKE5yo2TG_8FxTiKBO_s5-XD1j10wc91lBGukUINjl0F-S0iLGkPO6UNsuVeWN3Me6WB6_sfDD0xt_ee2ZR5XEKJyF1pTnpWZEbrZgR6Rf3OHObP64jzlHqWCRJutZbldXE?purpose=fullsize)
 
--   Name common family members and relationship types.
--   Introduce and describe members of your family.
--   Describe someone's personality and appearance respectfully.
--   Talk about a close friend and shared activities.
--   Ask natural questions about family and relationships.
--   Use possessive forms and comparative adjectives correctly.
+Today's learning objectives
 
-**Today's rule:** When describing a person, give details and examples.
-Instead of only saying "She's kind," explain what she does that makes
-her kind.
+* Giới thiệu nghề nghiệp và mô tả công việc.
 
-------------------------------------------------------------------------
+* Nói về trách nhiệm, kỹ năng và kinh nghiệm làm việc.
 
-## 2. Two-hour study schedule
+* Trao đổi về môi trường làm việc và đồng nghiệp.
 
-  -----------------------------------------------------------------------
-  Time                    Activity                What to do
-  ----------------------- ----------------------- -----------------------
-  00--30 min              Vocabulary &            Learn family,
-                          pronunciation           relationship, and
-                                                  personality words.
+* Học cách sử dụng mạo từ a, an, the.
 
-  30--60 min              Grammar & sentence      Study possessives and
-                          patterns                adjective comparisons.
+* Nói về mục tiêu và kế hoạch phát triển sự nghiệp.
 
-  60--84 min              Speaking practice       Talk about your family
-                                                  and a close friend.
+    Study time 120 minutes
 
-  84--108 min             Conversation practice   Practice asking about
-                                                  family and
-                                                  relationships.
+    Vocabulary
 
-  108--120 min            Review & recording      Record a short
-                                                  description of someone
-                                                  important to you.
-  -----------------------------------------------------------------------
+    20 words
 
-------------------------------------------------------------------------
+    Collocations
 
-## 3. Vocabulary --- Family members
+    12 phrases
 
-Pronunciation is shown in IPA. Vietnamese pronunciation notes are
-approximate; listen to dictionary audio and repeat the words aloud.
+    Conversations
 
-  -----------------------------------------------------------------------
-  Word / phrase     IPA               Nghĩa tiếng Việt  Example
-  ----------------- ----------------- ----------------- -----------------
-  family            /ˈfæməli/         gia đình          My family is very
-                                                        important to me.
+    5 dialogues
 
-  parents           /ˈperənts/        bố mẹ             My parents live
-                                                        in Vietnam.
+### 1\. Daily schedule – 120 minutes
 
-  father            /ˈfɑːðər/         bố, cha           My father enjoys
-                                                        gardening.
+| Activity                  | Time   |
+| ------------------------- | ------ |
+| Vocabulary & Collocations | 20 min |
+| Pronunciation             | 15 min |
+| Grammar                   | 15 min |
+| Listening                 | 20 min |
+| Guided Speaking           | 25 min |
+| Free Speaking             | 20 min |
+| Daily Review              | 5 min  |
 
-  mother            /ˈmʌðər/          mẹ                My mother is a
-                                                        great cook.
+### 2\. Vocabulary – Jobs & Careers (20 minutes)
 
-  husband           /ˈhʌzbənd/        chồng             Her husband works
-                                                        in an office.
+### 2.1. Common professions – Nghề nghiệp phổ biến
 
-  wife              /waɪf/            vợ                His wife is a
-                                                        teacher.
+![CORSI REGIONALI - Formacenter.it](https://images.openai.com/static-rsc-4/VrSV2ivacY25oaM4Ya5RmG2EbOE0HqkD4Bj4jiRqMdi7HyMw6Hu8PbZxTnkhQeOneDCOr-Ehi-vIl6yyoDYUDnBIWkpOuruVyRKDzDuKKpo14bCDgo1aN-AAaf8V6B1J4LN3kOy-IVUVJIX34sTv3yAqZXzV6nimKC21zzaXls9NQxyZuJqYzra-v0rIJCAg?purpose=fullsize)
 
-  son               /sʌn/             con trai          They have one
-                                                        son.
+| English      | IPA                | Vietnamese         |
+| ------------ | ------------------ | ------------------ |
+| Developer    | /dɪˈvel.ə.pər/     | Lập trình viên     |
+| Engineer     | /ˌen.dʒɪˈnɪər/     | Kỹ sư              |
+| Accountant   | /əˈkaʊn.tənt/      | Kế toán            |
+| Designer     | /dɪˈzaɪ.nər/       | Nhà thiết kế       |
+| Entrepreneur | /ˌɒn.trə.prəˈnɜːr/ | Doanh nhân         |
+| Manager      | /ˈmæn.ɪ.dʒər/      | Quản lý            |
+| Consultant   | /kənˈsʌl.tənt/     | Chuyên gia tư vấn  |
+| Freelancer   | /ˈfriː.lɑːn.sər/   | Người làm tự do    |
+| Technician   | /tekˈnɪʃ.ən/       | Kỹ thuật viên      |
+| Salesperson  | /ˈseɪlzˌpɜː.sən/   | Nhân viên bán hàng |
 
-  daughter          /ˈdɔːtər/         con gái           Their daughter is
-                                                        in primary
-                                                        school.
+### 2.2. Workplace vocabulary – Từ vựng công sở
 
-  brother           /ˈbrʌðər/         anh/em trai       My brother is
-                                                        younger than me.
+| English        | IPA                   | Vietnamese  |
+| -------------- | --------------------- | ----------- |
+| Responsibility | /rɪˌspɒn.səˈbɪl.ə.ti/ | Trách nhiệm |
+| Department     | /dɪˈpɑːt.mənt/        | Phòng ban   |
+| Colleague      | /ˈkɒl.iːɡ/            | Đồng nghiệp |
+| Deadline       | /ˈded.laɪn/           | Thời hạn    |
+| Salary         | /ˈsæl.ər.i/           | Lương       |
+| Promotion      | /prəˈməʊ.ʃən/         | Thăng chức  |
+| Experience     | /ɪkˈspɪə.ri.əns/      | Kinh nghiệm |
+| Skill          | /skɪl/                | Kỹ năng     |
+| Project        | /ˈprɒdʒ.ekt/          | Dự án       |
+| Opportunity    | /ˌɒp.əˈtjuː.nə.ti/    | Cơ hội      |
 
-  sister            /ˈsɪstər/         chị/em gái        My sister lives
-                                                        in another city.
+### 2.3. Example sentences
 
-  sibling           /ˈsɪblɪŋ/         anh chị em ruột   I have two
-                                                        siblings.
+1\. I'm a software developer.
 
-  grandfather       /ˈɡrændˌfɑːðər/   ông               My grandfather
-                                                        tells interesting
-                                                        stories.
+Tôi là một lập trình viên phần mềm.
 
-  grandmother       /ˈɡrændˌmʌðər/    bà                I visit my
-                                                        grandmother
-                                                        regularly.
+2\. I work for a technology company.
 
-  uncle             /ˈʌŋkəl/          chú, bác, cậu,    My uncle lives
-                                      dượng             nearby.
+Tôi làm việc cho một công ty công nghệ.
 
-  aunt              /ænt/             cô, dì, bác, mợ   My aunt often
-                                                        visits us.
+3\. I'm responsible for developing backend systems.
 
-  cousin            /ˈkʌzən/          anh/chị/em họ     I sometimes play
-                                                        football with my
-                                                        cousin.
+Tôi chịu trách nhiệm phát triển hệ thống backend.
 
-  relatives         /ˈrelətɪvz/       họ hàng           We meet our
-                                                        relatives during
-                                                        holidays.
+4\. I work with a team of five developers.
 
-  only child        /ˌoʊnli ˈtʃaɪld/  con một           He's an only
-                                                        child.
-  -----------------------------------------------------------------------
+Tôi làm việc với một nhóm gồm năm lập trình viên.
 
-## 4. Vocabulary --- Relationships and personality
+5\. My main responsibility is maintaining applications.
 
-  -----------------------------------------------------------------------
-  Word / phrase     IPA               Nghĩa tiếng Việt  Example
-  ----------------- ----------------- ----------------- -----------------
-  close friend      /kloʊs frend/     bạn thân          She's been my
-                                                        close friend for
-                                                        years.
+Trách nhiệm chính của tôi là bảo trì các ứng dụng.
 
-  colleague         /ˈkɑːliːɡ/        đồng nghiệp       I get along well
-                                                        with my
-                                                        colleagues.
+6\. I have experience in Java and Python.
 
-  neighbor          /ˈneɪbər/         hàng xóm          Our neighbor is
-                                                        very friendly.
+Tôi có kinh nghiệm về Java và Python.
 
-  partner           /ˈpɑːrtnər/       bạn đời, đối tác  She enjoys
-                                                        spending time
-                                                        with her partner.
+7\. I'm currently working on a new project.
 
-  kind              /kaɪnd/           tốt bụng          My mother is very
-                                                        kind.
+Hiện tại tôi đang làm một dự án mới.
 
-  friendly          /ˈfrendli/        thân thiện        He's friendly and
-                                                        easy to talk to.
+8\. I'm looking for better career opportunities.
 
-  patient           /ˈpeɪʃənt/        kiên nhẫn         My teacher is
-                                                        patient.
+Tôi đang tìm kiếm những cơ hội nghề nghiệp tốt hơn.
 
-  honest            /ˈɑːnɪst/         trung thực        I value honest
-                                                        people.
+### 2.4. Collocations – 12 cụm từ quan trọng
 
-  reliable          /rɪˈlaɪəbəl/      đáng tin cậy      She's a reliable
-                                                        friend.
+| Collocation         | Vietnamese           |
+| ------------------- | -------------------- |
+| Apply for a job     | Ứng tuyển công việc  |
+| Attend an interview | Tham gia phỏng vấn   |
+| Get a promotion     | Được thăng chức      |
+| Earn a salary       | Kiếm lương           |
+| Gain experience     | Tích lũy kinh nghiệm |
+| Develop skills      | Phát triển kỹ năng   |
+| Meet a deadline     | Đáp ứng thời hạn     |
+| Manage a project    | Quản lý dự án        |
+| Work overtime       | Làm thêm giờ         |
+| Take responsibility | Nhận trách nhiệm     |
+| Make a decision     | Đưa ra quyết định    |
+| Build a career      | Xây dựng sự nghiệp   |
 
-  outgoing          /ˌaʊtˈɡoʊɪŋ/      hướng ngoại       My brother is
-                                                        outgoing.
+Practice examples:
 
-  quiet             /ˈkwaɪət/         ít nói, trầm tính I'm quite quiet
-                                                        around new
-                                                        people.
+* I'm trying to develop my technical skills.
 
-  supportive        /səˈpɔːrtɪv/      luôn ủng hộ, hỗ   My family is very
-                                      trợ               supportive.
+* I sometimes have to work overtime.
 
-  get along with    /ɡet əˈlɔːŋ wɪð/  hòa hợp với       I get along with
-                                                        my sister.
+* I want to gain more experience.
 
-  spend time with   /spend taɪm wɪð/  dành thời gian    I spend time with
-                                      với               my family on
-                                                        Sundays.
+* I'm planning to build a career in technology.
 
-  keep in touch     /kiːp ɪn tʌtʃ/    giữ liên lạc      We keep in touch
-                                                        by phone.
-  -----------------------------------------------------------------------
+* I have to meet an important deadline this week.
 
-### Pronunciation drill
+### 3\. Expressions – Natural Workplace English
 
-Practice these phrases:
+| Expression                          | Vietnamese                                 |
+| ----------------------------------- | ------------------------------------------ |
+| What do you do for a living?        | Bạn làm nghề gì?                           |
+| What line of work are you in?       | Bạn làm trong lĩnh vực nào?                |
+| I work in the tech industry.        | Tôi làm trong ngành công nghệ.             |
+| I'm responsible for...              | Tôi chịu trách nhiệm về...                 |
+| My main role involves...            | Vai trò chính của tôi bao gồm...           |
+| I report to my manager.             | Tôi báo cáo công việc cho quản lý.         |
+| I'm currently working on...         | Hiện tại tôi đang làm...                   |
+| I have a lot on my plate.           | Tôi đang có rất nhiều việc phải làm.       |
+| I'm under a lot of pressure.        | Tôi đang chịu nhiều áp lực.                |
+| It's part of my job.                | Đó là một phần công việc của tôi.          |
+| I'm looking for a new challenge.    | Tôi đang tìm kiếm thử thách mới.           |
+| I'm hoping to move up in my career. | Tôi hy vọng phát triển lên vị trí cao hơn. |
 
--   my parents and relatives
--   my younger brother
--   my older sister
--   a close friend
--   kind and supportive
--   get along well with
--   keep in touch
+Natural English examples:
 
-Pay attention to the sounds in **father**, **mother**, **brother**, and
-**sister**. Repeat each phrase three times.
+* I've got a lot on my plate this week.
 
-------------------------------------------------------------------------
+* I'm responsible for managing several projects.
 
-## 5. Grammar --- Possessives
+* I'm hoping to move up in my career.
 
-### A. Possessive adjectives
+* My job can be stressful, but I enjoy it.
 
-Use these words before a noun to show ownership or relationships.
+### 4\. Pronunciation – Luyện phát âm (15 minutes)
 
-  Subject   Possessive adjective   Example
-  --------- ---------------------- ----------------------------
-  I         my                     My brother is a student.
-  You       your                   Your family sounds lovely.
-  He        his                    His father is a doctor.
-  She       her                    Her sister lives in Hanoi.
-  It        its                    The dog is with its owner.
-  We        our                    Our parents are kind.
-  They      their                  Their children are young.
+### 4.1. Word stress
 
-Remember: possessive adjectives are followed by a noun.
+| Word                | Pronunciation focus   |
+| ------------------- | --------------------- |
+| de-VE-lop-er        | /dɪˈvel.ə.pər/        |
+| en-gi-NEER          | /ˌen.dʒɪˈnɪər/        |
+| AC-count-ant        | /əˈkaʊn.tənt/         |
+| MAN-a-ger           | /ˈmæn.ɪ.dʒər/         |
+| re-spon-si-BIL-i-ty | /rɪˌspɒn.səˈbɪl.ə.ti/ |
+| op-por-TU-ni-ty     | /ˌɒp.əˈtjuː.nə.ti/    |
+| EX-pe-ri-ence       | /ɪkˈspɪə.ri.əns/      |
+| DEAD-line           | /ˈded.laɪn/           |
 
--   My father.
--   Her friend.
--   Their house.
+### 4.2. Practice sentences
 
-### B. Possessive 's
+Đọc mỗi câu 5 lần:
 
-Use `'s` to show that something belongs to someone or is related to
-someone.
+* I'm a software developer.
 
--   Cong's brother = the brother of Cong.
--   My mother's phone = the phone belonging to my mother.
--   My friend's car = the car belonging to my friend.
+* I work in the technology industry.
 
-For plural nouns ending in `s`, use an apostrophe after the `s`:
+* My main responsibility is developing applications.
 
--   My parents' house.
--   My friends' photos.
+* I work with a team of experienced engineers.
 
-### C. Comparatives --- Compare people
+* I'm looking for new career opportunities.
 
-Use comparative adjectives to compare two people.
+### 4.3. Connected speech
 
-**Short adjectives:** `adjective + -er + than`
+Luyện nối âm:
 
--   My brother is taller than me.
--   My sister is younger than me.
--   I'm quieter than my best friend.
+* What do you do?
 
-**Long adjectives:** `more + adjective + than`
+* What are you working on?
 
--   My mother is more patient than my father.
--   My best friend is more outgoing than I am.
+* I work in an office.
 
-**Irregular forms:**
+* I've got a lot of work to do.
 
-  Adjective     Comparative
-  ------------- -------------------
-  good          better
-  bad           worse
-  far           farther / further
-  little        less
-  many / much   more
+* I'm looking for a new job.
 
-Examples:
+Shadowing challenge:
 
--   My English is better than it was last year.
--   I spend more time with my parents at weekends.
+"I work as a software developer. My main responsibility is building and maintaining applications. I work with other developers and sometimes collaborate with different departments. Although my job can be challenging, I enjoy learning new technologies."
 
-### D. Describe someone's personality
+### 5\. Grammar – Articles: A, An, The (15 minutes)
 
-Useful structures:
+Mạo từ là phần rất quan trọng khi giới thiệu nghề nghiệp và nói về công việc.
 
--   He is very + adjective.
--   She can be a little + adjective.
--   I think he is + adjective because + reason.
--   One thing I admire about her is + noun / verb-ing.
+### 5.1. A – Dùng trước danh từ đếm được số ít bắt đầu bằng âm phụ âm
 
-Examples:
+Ví dụ:
 
--   My father is very patient.
--   My friend can be a little quiet at first.
--   I think my sister is reliable because she always keeps her promises.
--   One thing I admire about my mother is her kindness.
+* I'm a developer.
 
-------------------------------------------------------------------------
+* She's a teacher.
 
-## 6. Useful sentence patterns
+* He's a manager.
 
-### A. Talk about your family
+* I work in a company.
 
-1.  There are \_\_\_ people in my family.
-2.  I have \_\_\_ brothers and \_\_\_ sisters.
-3.  I'm the oldest / youngest child.
-4.  I live with my \_\_\_.
-5.  My parents live in \_\_\_.
-6.  We usually get together on \_\_\_.
-7.  I get along well with \_\_\_.
-8.  My family is important to me because \_\_\_.
+Lưu ý: Chọn a theo âm đầu, không chỉ theo chữ cái.
 
-### B. Describe a family member
+### 5.2. An – Dùng trước danh từ đếm được số ít bắt đầu bằng âm nguyên âm
 
-1.  My \_\_\_ is \_\_\_ years old.
-2.  He/She works as a \_\_\_.
-3.  He/She is quite \_\_\_ and \_\_\_.
-4.  In his/her free time, he/she enjoys \_\_\_.
-5.  One thing I admire about him/her is \_\_\_.
-6.  We often \_\_\_ together.
+Ví dụ:
 
-### C. Talk about a close friend
+* I'm an engineer.
 
-1.  My best friend is someone I met \_\_\_.
-2.  We've known each other for \_\_\_ years.
-3.  We usually spend time together by \_\_\_.
-4.  I can always count on him/her when \_\_\_.
-5.  We have a lot in common, especially \_\_\_.
-6.  Even though we are different, we \_\_\_.
+* She's an accountant.
 
-------------------------------------------------------------------------
+* He's an architect.
 
-## 7. Everyday English --- Conversations about family and friends
+* I had an interview yesterday.
 
-### Dialogue A: Getting to know someone
+So sánh:
 
-**Anna:** Do you have a big family?\
-**Ben:** Not really. There are four people in my family.\
-**Anna:** Who do you live with?\
-**Ben:** I live with my parents and my younger sister. How about you?\
-**Anna:** I have a brother, but he lives in another city.\
-**Ben:** Do you see him often?\
-**Anna:** We try to meet once or twice a month. We also keep in touch by
-phone.\
-**Ben:** That's nice. Are you close?\
-**Anna:** Yes, we get along really well.
+* a university (bắt đầu bằng âm /j/)
 
-### Dialogue B: Describing a close friend
+* an hour (h câm, bắt đầu bằng âm /aʊ/)
 
-**Alex:** Who's your closest friend?\
-**Mia:** My closest friend is Sarah. We've known each other since
-university.\
-**Alex:** What is she like?\
-**Mia:** She's friendly, honest, and very supportive.\
-**Alex:** What do you usually do together?\
-**Mia:** We often go to cafés, watch movies, or talk about our lives.\
-**Alex:** Sounds like a great friendship.\
-**Mia:** Yes. I know I can count on her.
+### 5.3. The – Dùng khi nói về một đối tượng cụ thể hoặc đã được xác định
 
-### Useful expressions
+Ví dụ:
 
--   Not really. --- Không hẳn.
--   We get along really well. --- Chúng tôi rất hòa hợp.
--   We've known each other since... --- Chúng tôi quen nhau từ...
--   What is he/she like? --- Anh ấy/cô ấy là người như thế nào?
--   We have a lot in common. --- Chúng tôi có nhiều điểm chung.
--   I can count on her/him. --- Tôi có thể tin tưởng và trông cậy vào
-    người đó.
--   We keep in touch. --- Chúng tôi giữ liên lạc.
+* I work in a company. The company is based in Vietnam.
 
-### Role-play
+* I talked to the manager yesterday.
 
-1.  Read both conversations aloud.
-2.  Change the family members and names.
-3.  Describe a real or imaginary close friend.
-4.  Practice both roles.
-5.  Ask two additional follow-up questions.
+* The project I'm working on is interesting.
 
-------------------------------------------------------------------------
+### 5.4. Không dùng a/an với danh từ số nhiều hoặc không đếm được
 
-## 8. Speaking practice
+* I have experience in software development.
 
-Use keywords rather than writing a complete script. Speak aloud and
-record yourself.
+* I work with developers.
 
-### Topic A: My family (about 1 minute)
+* I need information about the job.
 
-Answer:
+Sai: I have an experience in software development.
 
-1.  How many people are in your family?
-2.  Who are they?
-3.  Where do they live?
-4.  What do your parents do?
-5.  How often do you spend time together?
-6.  What do you usually do together?
+Tự nhiên hơn: I have experience in software development.
 
-**Sample answer**
+### 5.5. Grammar exercises + answers
 
-There are four people in my family: my parents, my younger sister, and
-me. My parents live in Vietnam. My father works in business, and my
-mother takes care of the family. My sister is younger than me. We
-usually spend time together during holidays or at weekends. I think
-family is important because family members support each other when life
-gets difficult.
+Exercise A – Choose a, an, the or no article (—)
 
-### Topic B: Describe someone in your family (about 1 minute)
+* I'm ___ software developer.
 
-Answer:
+* She's ___ engineer.
 
-1.  Who is the person?
-2.  What does he or she look like?
-3.  What is his or her personality like?
-4.  What does this person enjoy doing?
-5.  Why is this person important to you?
+* I work for ___ technology company.
 
-**Sample answer**
+* ___ company is based in Vietnam.
 
-I'd like to talk about my mother. She's a kind and patient person. She's
-also hardworking and always cares about our family. In her free time,
-she enjoys cooking and watching television. One thing I really admire
-about her is that she always tries to help other people. She's very
-important to me because she's always supportive.
+* He is ___ accountant.
 
-### Topic C: My close friend (about 1 minute)
+* I have ___ experience in Java.
 
-Answer:
+* I had ___ interview yesterday.
 
-1.  Who is your close friend?
-2.  How did you meet?
-3.  How long have you known each other?
-4.  What do you usually do together?
-5.  What do you like about this person?
+* I work with ___ developers.
 
-**Sample answer**
+* She is ___ manager of our department.
 
-My close friend is someone I met at work. We've known each other for
-several years. He's friendly, honest, and easy to talk to. We usually
-have coffee, discuss work, or go out for dinner. We have different
-interests, but we get along really well. I appreciate this friendship
-because we always support each other.
+* I need ___ information about this position.
 
-### Topic D: What makes a good friend? (about 1 minute)
+Answer key
 
-Answer:
+| #   | Answer |
+| --- | ------ |
+| 1   | a      |
+| 2   | an     |
+| 3   | a      |
+| 4   | The    |
+| 5   | an     |
+| 6   | —      |
+| 7   | an     |
+| 8   | —      |
+| 9   | the    |
+| 10  | —      |
 
-1.  What qualities should a good friend have?
-2.  Is honesty important?
-3.  Should friends have the same interests?
-4.  How do you keep in touch with old friends?
-5.  What do you do when a friend has a problem?
+Explanation: A/an dùng với danh từ đếm được số ít. The dùng với đối tượng xác định. Không dùng mạo từ trước danh từ không đếm được khi nói chung.
 
-**Speaking framework**
+### 6\. Conversation Practice – 5 Real-life Dialogues
 
-"I think a good friend should be ***. For me, *** is especially
-important because ***. Friends don't always need to have the same
-interests, but they should ***. When my friend has a problem, I usually
-\_\_\_. "
+### Conversation 1 – Meeting someone at work
 
-------------------------------------------------------------------------
+![Business handshake at modern office reception between smiling colleagues during client meeting](https://images.openai.com/static-rsc-4/9AKlgzLhEJps0lqjvCXxlRazRuqiAb-xPV_Q2J-6r0STTpEsWsnY1JXDr-NOd-6p9D89m2YmW8q8RnZruyW1AlaaciwCES0YI4wLmdI6G0d2C470zJ0geI70wEsopWPTmkxxaYfDmElmfgtIz44B9Cr9Gg441dqvWaXfR8FnoRE5qcOeaDoy8sO_Hld3oNXm?purpose=fullsize)
 
-## 9. Exercises --- Questions with answers
+A: Hi! I'm Alex. I don't think we've met before.
 
-Try each exercise before checking the suggested answers. Read the
-completed sentences aloud.
+B: Hi, Alex. I'm Daniel. Nice to meet you.
 
-### Exercise A: Choose the correct possessive adjective
+A: Nice to meet you too. What do you do here?
 
-1.  I live with (my / mine) parents.
-2.  She loves (her / his) brother.
-3.  They visit (their / our) grandparents every month.
-4.  He calls (his / her) mother every day.
-5.  We enjoy spending time with (our / their) family.
+B: I'm a software developer. I work in the engineering department.
 
-**Answers**
+A: Oh, that's interesting. What kind of projects do you work on?
 
-1.  my
-2.  her
-3.  their
-4.  his
-5.  our
+B: Mostly web applications and backend systems.
 
-### Exercise B: Complete the comparative sentences
+A: Sounds challenging!
 
-1.  My brother is \_\_\_ (tall) than me.
-2.  My mother is \_\_\_ (patient) than my father.
-3.  This friend is \_\_\_ (young) than I am.
-4.  My English is \_\_\_ (good) than before.
-5.  My sister is \_\_\_ (outgoing) than me.
+B: It is, but I really enjoy it.
 
-**Answers**
+Useful phrases:
 
-1.  taller
-2.  more patient
-3.  younger
-4.  better
-5.  more outgoing
+* What do you do here? – Bạn làm gì ở đây?
 
-### Exercise C: Correct the mistakes
+* What kind of projects do you work on? – Bạn làm những loại dự án nào?
 
-1.  My parents house is big.
-2.  She is more kinder than her brother.
-3.  He is my friend since 2020.
-4.  I get along good with my sister.
-5.  My brother is more tall than me.
+* I work in the engineering department. – Tôi làm việc ở phòng kỹ thuật.
 
-**Suggested answers**
+### Conversation 2 – Describing your job
 
-1.  My parents' house is big.
-2.  She is kinder than her brother.
-3.  He has been my friend since 2020. / I've known him since 2020.
-4.  I get along well with my sister.
-5.  My brother is taller than me.
+A: What do you do for a living?
 
-### Exercise D: Translate into English
+B: I'm a software developer.
 
-1.  Gia đình tôi có bốn người.
-2.  Tôi có một em trai và một chị gái.
-3.  Tôi rất hòa hợp với bố mẹ.
-4.  Bạn thân của tôi rất trung thực và tốt bụng.
-5.  Chúng tôi đã quen nhau được năm năm.
-6.  Tôi thường dành thời gian với gia đình vào cuối tuần.
+A: What are your main responsibilities?
 
-**Suggested answers**
+B: I develop applications, maintain databases, and fix technical issues.
 
-1.  There are four people in my family.
-2.  I have a younger brother and an older sister.
-3.  I get along very well with my parents.
-4.  My close friend is very honest and kind.
-5.  We've known each other for five years.
-6.  I usually spend time with my family at weekends.
+A: Do you work independently or as part of a team?
 
-### Exercise E: Answer in your own words
+B: Mostly as part of a team. We usually collaborate on different projects.
 
-1.  Who are you closest to in your family?
-2.  What do you admire about your parents?
-3.  What qualities do you value in a friend?
-4.  How often do you meet your relatives?
-5.  What is one good memory you have with your family?
+A: Do you enjoy your job?
 
-There is no single correct answer. Try to give a reason and an example.
+B: Yes. I like solving problems and learning new technologies.
 
-------------------------------------------------------------------------
+### Conversation 3 – Talking about a busy day
 
-## 10. Common mistakes to avoid
+![Enterprise SLA Grade Maintenance Services & Support Partner | RTA Services](https://images.openai.com/static-rsc-4/WLf20NUWAyzMSrnz5nkc3naOpmgXfineTPipAloLVKAhiMM1Qk94gMWrkhasj1_6FAJWl4vhjrrsnsWoxMb4IJub_rFjm82PgUQO1FlkJ_EOZG1ADTs7oqBIJThE-WBU5T3DbCLDdGwXmxdwYyCjvkRIeX6_bpDBqowz7_ef0wnQZ3qKRG8G_OEg9AQggfCL?purpose=fullsize)
 
-  -----------------------------------------------------------------------
-  Incorrect               Correct / Natural       Explanation
-  ----------------------- ----------------------- -----------------------
-  My father name is...    My father's name is...  Use possessive `'s`.
+A: You look really busy today. What's going on?
 
-  She is my friend since  I've known her since    Use Present Perfect
-  2020.                   2020.                   with "since".
+B: I've got a lot on my plate. We have an important deadline tomorrow.
 
-  He is more taller than  He is taller than me.   Don't use "more" with a
-  me.                                             regular `-er`
-                                                  comparative.
+A: What are you working on?
 
-  I get along good with   I get along well with   "Well" is the adverb.
-  him.                    him.                    
+B: I'm trying to finish a new feature for our application.
 
-  I have two brother.     I have two brothers.    Use a plural noun after
-                                                  "two".
+A: Do you think you'll finish on time?
 
-  My family are four      There are four people   Use "there are" to
-  people.                 in my family.           describe the number of
-                                                  people.
-  -----------------------------------------------------------------------
+B: Hopefully. I'm trying to stay focused and manage my time.
 
-------------------------------------------------------------------------
+A: Good luck!
 
-## 11. Final 12-minute review
+B: Thanks! I really need it.
 
-### Minutes 1--4: Vocabulary
+### Conversation 4 – Talking about career goals
 
-Review family members, relationships, and personality adjectives. Try to
-recall the words without looking at the Vietnamese meanings.
+A: What are your career goals?
 
-### Minutes 5--8: Speaking
+B: I'd like to become a senior developer in the future.
 
-Talk for 1--2 minutes about someone important to you. Include:
+A: What skills do you need to improve?
 
--   Your relationship with this person.
--   Their personality.
--   Their daily activities or interests.
--   One reason you appreciate them.
+B: I need to improve my technical knowledge, communication skills, and leadership abilities.
 
-### Minutes 9--12: Record and review
+A: Are you planning to take any courses?
 
-Record your speech on your phone. Check:
+B: Yes. I'm currently studying cloud computing and system design.
 
--   Did I use possessive adjectives correctly?
--   Did I use comparative adjectives correctly?
--   Did I give examples to support my descriptions?
--   Did I ask or answer follow-up questions naturally?
--   Which sentence can I improve?
+A: That's a great plan!
 
-------------------------------------------------------------------------
+### Conversation 5 – Job interview
 
-## 12. Daily progress notes
+![Navigating Interviews: What To Do If You Realize the Job Isn't For You (5 Tips) | Murray Resources](https://images.openai.com/static-rsc-4/RkPrDXi1HEV1DSgvKjwGZNJbMjFXWNvK1QZUwinh0NDNItiHlLaqrBBF7CWSLfDr_KFVhnG5Zu5S8qtDcpOlCh0jiNNnM_QCsSXpI3YD-rfiO25BfvNL3kWQTs7d_AJ0VgQYkKJB0Mxg59cCzk6yfbPLcZzowFrQGCVfrM1yyd_kggjE4W-waci0P7CP4awt?purpose=fullsize)
 
-Complete these after studying.
+Interviewer: Could you tell me a little about yourself?
 
--   **New family and relationship words I can use:**
--   **Three sentences I can say naturally:**
--   **One grammar point I need to remember:**
--   **One pronunciation point to practice:**
--   **One person I can describe confidently in English:**
--   **My speaking confidence today (1--5):**
+Candidate: Sure. I'm a software developer with three years of experience in backend development.
 
-------------------------------------------------------------------------
+Interviewer: What technologies have you worked with?
 
-## 13. Key takeaway
+Candidate: I've worked with Java, Spring Boot, Python, and MySQL.
 
-When talking about family and relationships, don't just list names.
-Describe people's personalities, explain what you do together, and share
-why those relationships matter to you.
+Interviewer: What would you say is your biggest strength?
 
-**Daily habit:** Choose one person you know and describe them in English
-for 30--60 seconds. Include their personality, interests, and one
-example of something they do.
+Candidate: I would say problem-solving. I enjoy analyzing complex problems and finding practical solutions.
+
+Interviewer: Why are you interested in this position?
+
+Candidate: I'm looking for an opportunity to develop my skills, take on new challenges, and contribute to interesting projects.
+
+### 7\. Listening Practice – A Day at Work (20 minutes)
+
+![2026 Most Valuable Online Master's in software Engineering Degree Programs Ranking in the West | Research.com](https://images.openai.com/static-rsc-4/g6pq7DjTAHpQtC_BxMdkIJLzQFI2svIRxNLTxPan4yyOF8eujuNG-n-nnLNIt7iQC3iMNdHiVtuuO7ktTlBV_sqlppPhSoaxXJO6qtZz8dDsyMJ3djk9I3TG8rbxVaY6B4jPFwJ8avbGwEUwgtxAxiPy2tGC_b6ctwpIgCljnuqwt_yweSncOq8tcDdYJ8-q?purpose=fullsize)
+
+Listening topic: My Work and Career
+
+Đọc/nghe hai lần. Lần đầu hiểu ý chính, lần hai chú ý công việc, trách nhiệm và kế hoạch nghề nghiệp.
+
+Listening transcript
+
+My Job as a Software Developer
+
+I work as a software developer for a technology company. I've been working in this industry for about three years.
+
+My main responsibility is developing and maintaining backend applications. I usually work with Java, Spring Boot, databases, and different APIs.
+
+Every morning, my team has a short meeting to discuss our progress and daily tasks. After that, I spend most of my time writing code, reviewing pull requests, and solving technical problems.
+
+Sometimes the workload is quite heavy, especially when we have tight deadlines. However, I enjoy working with my colleagues because we support each other and share knowledge.
+
+In the future, I'd like to become a senior engineer and improve my knowledge of cloud computing and system architecture.
+
+I also want to improve my English communication skills because I believe English can open up more international career opportunities.
+
+### 7.1. Listening comprehension
+
+* What does the speaker do?
+
+* How long has the speaker worked in the industry?
+
+* What are the speaker's main responsibilities?
+
+* What does the team do every morning?
+
+* What does the speaker do after the morning meeting?
+
+* Why can the workload become heavy?
+
+* What does the speaker like about working with colleagues?
+
+* What position does the speaker want in the future?
+
+* Which technical areas does the speaker want to improve?
+
+* Why does the speaker want to improve English?
+
+Listening answer key
+
+* A software developer.
+
+* About three years.
+
+* Developing and maintaining backend applications.
+
+* They have a short meeting to discuss progress and daily tasks.
+
+* Writes code, reviews pull requests, and solves technical problems.
+
+* Because of tight deadlines.
+
+* They support each other and share knowledge.
+
+* Senior engineer.
+
+* Cloud computing and system architecture.
+
+* To access more international career opportunities.
+
+### 7.2. Vocabulary from listening
+
+| Expression           | Meaning                   |
+| -------------------- | ------------------------- |
+| Backend applications | Ứng dụng backend          |
+| Daily tasks          | Công việc hàng ngày       |
+| Write code           | Viết mã                   |
+| Review pull requests | Đánh giá các pull request |
+| Workload             | Khối lượng công việc      |
+| Tight deadlines      | Thời hạn gấp              |
+| Share knowledge      | Chia sẻ kiến thức         |
+| Career opportunities | Cơ hội nghề nghiệp        |
+
+### 8\. Guided Speaking – 25 minutes
+
+Luyện trả lời 10 câu hỏi về công việc và sự nghiệp.
+
+### Question 1: What do you do for a living?
+
+Sample answer:
+
+"I'm a software developer. I mainly work on backend development and application systems. I enjoy solving technical problems and building useful software."
+
+### Question 2: What are your main responsibilities?
+
+Sample answer:
+
+"My main responsibilities include developing applications, maintaining databases, fixing bugs, and collaborating with other developers."
+
+### Question 3: What do you like most about your job?
+
+Sample answer:
+
+"I enjoy solving problems and learning new technologies. I also like the feeling of completing a challenging project."
+
+### Question 4: What is the most challenging part of your job?
+
+Sample answer:
+
+"One of the most challenging parts is dealing with complicated technical issues, especially when we have tight deadlines."
+
+### Question 5: Do you prefer working alone or in a team?
+
+Sample answer:
+
+"I prefer working in a team because I can share ideas, learn from other people, and solve problems together. However, I also enjoy working independently when I need to focus."
+
+### Question 6: What skills are important in your profession?
+
+Sample answer:
+
+"I think technical knowledge, problem-solving, communication, and teamwork are very important. Being willing to learn is also essential."
+
+### Question 7: How do you deal with work pressure?
+
+Sample answer:
+
+"I usually prioritize my tasks and break large problems into smaller steps. I also try to stay calm and focus on finding solutions."
+
+### Question 8: Would you like to change your job in the future?
+
+Sample answer:
+
+"Possibly. I'm open to new opportunities, especially if they allow me to develop professionally and take on more responsibilities."
+
+### Question 9: What is your dream job?
+
+Sample answer:
+
+"My dream job would allow me to work on interesting projects, learn continuously, and collaborate with talented people."
+
+### Question 10: Where do you see your career in five years?
+
+Sample answer:
+
+"I hope to become a senior engineer with strong technical and leadership skills. I'd also like to gain more international work experience."
+
+### Follow-up questions
+
+Hãy học thêm những câu hỏi giúp duy trì hội thoại:
+
+* How did you get into this profession?
+
+* What do you enjoy most about your work?
+
+* What's your biggest challenge at work?
+
+* What skills are you currently developing?
+
+* Do you have any career plans?
+
+* What advice would you give someone starting in this field?
+
+### 9\. Free Speaking – 20 minutes
+
+![Backend and Database Designs: Essential Principles for Scalable Applications](https://images.openai.com/static-rsc-4/573JqafgDRPTf-zBlq_zmq7hyPCUgbUCNAVcG3dnUHqkzIqXcxpp-GwvC2FELyE5Y_rg4wDnbCZyXNRyfK4VlrXeqI9H0MzIfEwlSXYguDNbj9qS4Pbd3GDKVwafARXoz2eR9K4akWYErb1YUb2CiRTKu7k8rhgUJqIKpTFink5mPuCew_ZvIH7jQWlIJkne?purpose=fullsize)
+
+Topic: My Job, My Skills and My Career Goals
+
+Nói liên tục 3–5 phút.
+
+| Section          | Speaking content                  |
+| ---------------- | --------------------------------- |
+| Introduction     | What do you do?                   |
+| Workplace        | Where do you work?                |
+| Responsibilities | What are your daily tasks?        |
+| Skills           | What skills do you have?          |
+| Challenges       | What is difficult about your job? |
+| Interests        | What do you enjoy about your job? |
+| Future           | What are your career goals?       |
+
+Sample speaking answer:
+
+"I'm currently working as a software developer. I work mainly on backend applications and databases.
+
+My daily responsibilities include writing code, fixing bugs, reviewing code, and collaborating with other developers.
+
+I enjoy my job because I like solving problems and learning new technologies. However, sometimes the workload can be stressful, especially when we have tight deadlines.
+
+In terms of career development, I want to improve my technical skills and become more experienced in cloud computing and system design.
+
+My long-term goal is to become a senior engineer and have opportunities to work with international teams."
+
+Speaking challenge:
+
+* Sử dụng ít nhất 10 từ vựng mới.
+
+* Sử dụng 5 collocations.
+
+* Sử dụng a, an và the.
+
+* Nói về ít nhất một khó khăn trong công việc.
+
+* Trình bày một mục tiêu nghề nghiệp.
+
+### 10\. Exercises – Bài tập thực hành
+
+Tất cả bài tập đều có đáp án ngay bên dưới.
+
+### Exercise A – Vocabulary: Fill in the blanks
+
+Word bank:
+
+`developer – responsibility – colleague – deadline – salary – promotion – experience – opportunity – interview – skills`
+
+* I'm a software ______.
+
+* My main ______ is maintaining applications.
+
+* My ______ helped me solve a difficult problem.
+
+* We have to finish this task before the ______.
+
+* I receive my monthly ______ at the end of the month.
+
+* She got a ______ after working hard for two years.
+
+* I have three years of work ______.
+
+* This position is a great career ______.
+
+* I have a job ______ next Monday.
+
+* Communication and problem-solving are important ______.
+
+Answer key
+
+* developer
+
+* responsibility
+
+* colleague
+
+* deadline
+
+* salary
+
+* promotion
+
+* experience
+
+* opportunity
+
+* interview
+
+* skills
+
+### Exercise B – Grammar: Choose the correct article
+
+Chọn `a`, `an`, `the` hoặc `—` (không cần mạo từ).
+
+* I'm ___ engineer.
+
+* She works for ___ international company.
+
+* He is ___ software developer.
+
+* I need ___ information about this job.
+
+* I had ___ interesting interview.
+
+* ___ manager of our department is friendly.
+
+* My brother is ___ accountant.
+
+* I work with ___ experienced developers.
+
+* She wants to become ___ architect.
+
+* I have ___ experience in Java.
+
+Answer key + explanations
+
+| #   | Answer | Explanation                              |
+| --- | ------ | ---------------------------------------- |
+| 1   | an     | Engineer bắt đầu bằng âm nguyên âm       |
+| 2   | an     | International bắt đầu bằng âm nguyên âm  |
+| 3   | a      | Developer bắt đầu bằng âm phụ âm         |
+| 4   | —      | Information không đếm được               |
+| 5   | an     | Interesting bắt đầu bằng âm nguyên âm    |
+| 6   | the    | Người quản lý cụ thể                     |
+| 7   | an     | Accountant bắt đầu bằng âm nguyên âm     |
+| 8   | —      | Developers là danh từ số nhiều nói chung |
+| 9   | an     | Architect bắt đầu bằng âm nguyên âm      |
+| 10  | —      | Experience không đếm được khi nói chung  |
+
+### Exercise C – Translate into English
+
+* Tôi là một lập trình viên phần mềm.
+
+* Tôi làm việc cho một công ty công nghệ.
+
+* Trách nhiệm chính của tôi là phát triển ứng dụng.
+
+* Tôi có ba năm kinh nghiệm trong lĩnh vực công nghệ.
+
+* Tôi thường làm việc với các lập trình viên khác.
+
+* Đôi khi tôi phải làm thêm giờ.
+
+* Tôi muốn phát triển kỹ năng giao tiếp.
+
+* Tôi đang tìm kiếm cơ hội nghề nghiệp mới.
+
+* Tôi muốn trở thành kỹ sư cấp cao trong tương lai.
+
+* Công việc của tôi khá áp lực nhưng thú vị.
+
+Suggested answers
+
+* I'm a software developer.
+
+* I work for a technology company.
+
+* My main responsibility is developing applications.
+
+* I have three years of experience in the technology industry.
+
+* I usually work with other developers.
+
+* Sometimes I have to work overtime.
+
+* I want to develop my communication skills.
+
+* I'm looking for new career opportunities.
+
+* I want to become a senior engineer in the future.
+
+* My job is quite stressful but interesting.
+
+### Exercise D – Correct the mistakes
+
+Tìm và sửa lỗi trong các câu:
+
+* I am an software developer.
+
+* She is a engineer.
+
+* I work in an company.
+
+* I have an experience in Java.
+
+* He is manager of our team.
+
+* I work as an developer.
+
+* My main responsible is writing code.
+
+* I want become a senior engineer.
+
+Correct answers + explanations
+
+1\. I am a software developer.
+
+Software bắt đầu bằng âm phụ âm /s/, nên dùng a.
+
+2\. She is an engineer.
+
+Engineer bắt đầu bằng âm nguyên âm.
+
+3\. I work in a company.
+
+Company bắt đầu bằng âm phụ âm.
+
+4\. I have experience in Java.
+
+Experience không đếm được khi nói về kinh nghiệm nói chung.
+
+5\. He is the manager of our team.
+
+Dùng the khi nói về vị trí quản lý cụ thể.
+
+6\. I work as a developer.
+
+Developer bắt đầu bằng âm phụ âm.
+
+7\. My main responsibility is writing code.
+
+Responsibility là danh từ; responsible là tính từ.
+
+8\. I want to become a senior engineer.
+
+Want + to + verb.
+
+### Exercise E – Build natural sentences
+
+Sử dụng những cụm từ sau để tự tạo câu:
+
+| Expression          | Sample answer                               |
+| ------------------- | ------------------------------------------- |
+| Work overtime       | I sometimes work overtime.                  |
+| Meet a deadline     | We need to meet the deadline.               |
+| Gain experience     | I want to gain more experience.             |
+| Take responsibility | I can take responsibility for this project. |
+| Apply for a job     | I'm planning to apply for a new job.        |
+| Career opportunity  | This is a great career opportunity.         |
+
+### 11\. Day 5 – Final Quiz
+
+10 questions · Vocabulary & Grammar
+
+Day 5 Assessment
+
+0/10 answered
+
+1. I'm ___ software developer.
+
+A. an
+
+B. a
+
+C. the
+
+2. She is ___ engineer.
+
+A. a
+
+B. the
+
+C. an
+
+3. I have ___ experience in Java.
+
+A. a
+
+B. an
+
+C. no article
+
+4. My main ___ is developing applications.
+
+A. responsible
+
+B. responsibility
+
+C. responsibly
+
+5. I work ___ a technology company.
+
+A. for
+
+B. as
+
+C. at
+
+6. I work ___ a software developer.
+
+A. in
+
+B. as
+
+C. for
+
+7. We have to meet the ___.
+
+A. salary
+
+B. colleague
+
+C. deadline
+
+8. I want ___ become a senior engineer.
+
+A. to
+
+B. for
+
+C. at
+
+9. She had ___ interesting interview.
+
+A. a
+
+B. an
+
+C. the
+
+10. Which expression means 'tích lũy kinh nghiệm'?
+
+A. Gain experience
+
+B. Get promotion
+
+C. Work overtime
+
+Submit answers
+
+### 12\. Homework – Speaking Assignment
+
+Daily speaking challenge
+
+Topic: My Job and Career Goals
+
+Viết một đoạn văn 150–200 từ bằng tiếng Anh, sau đó luyện nói trong 3–5 phút.
+
+Nội dung cần có:
+
+* What do you do for a living?
+
+* Where do you work?
+
+* What are your main responsibilities?
+
+* What skills do you have?
+
+* What do you enjoy about your job?
+
+* What challenges do you face?
+
+* What skills would you like to improve?
+
+* What are your career goals?
+
+Khi gửi bài, tôi sẽ chấm điểm trên thang 100, sửa lỗi chi tiết, giải thích tiếng Việt và viết lại phiên bản tự nhiên hơn.
+
+### 13\. Daily Progress Tracker
+
+DAY 05 CHECKLIST
+
+### 0/10
+
+Learned 20 job and workplace words
+
+Practiced 12 collocations
+
+Practiced pronunciation and shadowing
+
+Understood a / an / the
+
+Completed 5 workplace conversations
+
+Completed listening comprehension
+
+Practiced 10 speaking questions
+
+Completed vocabulary exercises
+
+Completed grammar exercises and checked answers
+
+Spoke about my job for 3–5 minutes
+
+### 14\. Preview – Day 6
+
+![Brazil grants visa-free entry to eight new markets, targeting business and MICE growth](https://images.openai.com/static-rsc-4/gjTbokgctRnT3rdt-vvFlhUYtoauIbBDmmw54ZojVFP8H7WPiZDT3ahRVy593iS6GySNpVxMGsodC2Br19GH1SIn5D-FbaPNr7HBwlKpc2y0nlZs-c6S2ojPHUvobrnKIu2AUGGslruf5gBZU8Tjh4rpgtrKHiGUrpIKODnwcyCR7u6pJXk-BlOQqbcEBwrG?purpose=fullsize)
+
+NEXT LESSON
+
+DAY 06 – Countries, Nationalities & Languages
+
+Quốc gia, quốc tịch, ngôn ngữ, văn hóa và giao tiếp quốc tế.
+
+Nội dung Day 6:
+
+* 20 countries and nationalities vocabulary.
+
+* Talking about where people come from.
+
+* Talking about languages and cultural differences.
+
+* Prepositions: in, from, to.
+
+* Asking about someone's country and nationality.
+
+* 5 international conversations.
+
+* Listening, speaking và bài tập có đáp án.
+
+Today's reminder:
+
+"Your career is a journey, not a race. Keep learning, keep improving, and be patient with yourself."
+
+Sự nghiệp là một hành trình, không phải cuộc đua. Hãy tiếp tục học hỏi, cải thiện bản thân và kiên nhẫn với chính mình.
