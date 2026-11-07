@@ -483,3 +483,732 @@ Chủ yếu bằng tiếng Anh
 Bắt đầu khóa học
 
 Mục tiêu cuối cùng: Không phải học thuộc 1.000 câu tiếng Anh, mà là có thể tự mình tạo ra hàng nghìn câu giao tiếp trong cuộc sống mà không phải dịch từng câu từ tiếng Việt sang tiếng Anh.
+### ENGLISH SPEAKING – 180 DAYS
+
+DAY 01 / 180A2–B1
+
+### Meeting People & Small Talk
+
+Gặp gỡ mọi người và bắt chuyện tự nhiên
+
+![Contoh Teks Negosiasi Antar Teman: Panduan Lengkap dengan Struktur dan Implementasinya - KapanLagi.com](https://images.openai.com/static-rsc-4/YbeBfNp_qbgnY8257fYAff1GtSK6gWxRhhcoa6zOnE9KV1RfzHxSyxpszm1Y_eCyXwO5eo2dScEfdKWZZmgVVLHA-29I58AmhCGb7OS5j4wmrfzVe5n1L-WkjVE-Ibu9b6Gd4B8Hp9GEeDa-Kyrq2drndPx5lE_affdP62UmBtKzOzMxYvXTlgcGt2PG0JL2?purpose=fullsize)
+
+### 120
+
+Minutes
+
+### 15
+
+New words
+
+### 5
+
+Conversations
+
+### 1\. Learning objectives – Mục tiêu bài học
+
+Sau bài học này, bạn có thể:
+
+* Chào hỏi và bắt chuyện với người mới gặp.
+
+* Hỏi thăm bạn bè, đồng nghiệp một cách tự nhiên.
+
+* Giới thiệu bản thân và công việc.
+
+* Nói về cuộc sống gần đây.
+
+* Duy trì cuộc hội thoại thay vì chỉ trả lời Yes/No.
+
+* Sử dụng các expressions thường gặp trong giao tiếp hàng ngày.
+
+Today's speaking goal: Có thể trò chuyện với một người bạn mới trong khoảng 3–5 phút.
+
+### 2\. Daily schedule – 120 minutes
+
+| Time        | Activity                  | Duration |
+| ----------- | ------------------------- | -------- |
+| 00:00–00:20 | Vocabulary & Collocations | 20 min   |
+| 00:20–00:35 | Pronunciation             | 15 min   |
+| 00:35–00:50 | Grammar                   | 15 min   |
+| 00:50–01:10 | Listening Practice        | 20 min   |
+| 01:10–01:35 | Guided Speaking           | 25 min   |
+| 01:35–01:55 | Free Speaking             | 20 min   |
+| 01:55–02:00 | Daily Review              | 5 min    |
+
+### 3\. Vocabulary – Từ vựng hàng ngày (20 phút)
+
+Học 15 từ dưới đây. Đọc to từng từ, ghi nhớ cách phát âm và đặt ít nhất một câu với mỗi từ.
+
+| Word         | IPA               | Nghĩa            |
+| ------------ | ----------------- | ---------------- |
+| Actually     | /ˈæk.tʃu.ə.li/    | Thật ra          |
+| Recently     | /ˈriː.sənt.li/    | Gần đây          |
+| Usually      | /ˈjuː.ʒu.ə.li/    | Thường thường    |
+| Definitely   | /ˈdef.ɪ.nət.li/   | Chắc chắn        |
+| Probably     | /ˈprɒb.ə.bli/     | Có lẽ            |
+| Awesome      | /ˈɔː.səm/         | Tuyệt vời        |
+| Busy         | /ˈbɪz.i/          | Bận rộn          |
+| Relax        | /rɪˈlæks/         | Thư giãn         |
+| Enjoy        | /ɪnˈdʒɔɪ/         | Thích, tận hưởng |
+| Improve      | /ɪmˈpruːv/        | Cải thiện        |
+| Experience   | /ɪkˈspɪə.ri.əns/  | Kinh nghiệm      |
+| Interesting  | /ˈɪn.trəs.tɪŋ/    | Thú vị           |
+| Friendly     | /ˈfrend.li/       | Thân thiện       |
+| Comfortable  | /ˈkʌm.fə.tə.bəl/  | Thoải mái        |
+| Conversation | /ˌkɒn.vəˈseɪ.ʃən/ | Cuộc hội thoại   |
+
+### 3.1. Example sentences – Câu ví dụ thực tế
+
+Hãy đọc mỗi câu 3 lần.
+
+1\. Actually, I'm quite busy today.
+
+Thật ra hôm nay tôi khá bận.
+
+2\. I've been learning English recently.
+
+Gần đây tôi đang học tiếng Anh.
+
+3\. I usually go to the gym after work.
+
+Tôi thường đi tập gym sau giờ làm.
+
+4\. I definitely want to improve my English.
+
+Tôi chắc chắn muốn cải thiện tiếng Anh.
+
+5\. This restaurant is awesome!
+
+Nhà hàng này tuyệt vời!
+
+6\. I enjoy talking to new people.
+
+Tôi thích nói chuyện với những người mới.
+
+7\. It was a really interesting experience.
+
+Đó thực sự là một trải nghiệm thú vị.
+
+8\. I feel comfortable speaking with you.
+
+Tôi cảm thấy thoải mái khi nói chuyện với bạn.
+
+### 3.2. Collocations – Cụm từ thường dùng
+
+Collocations là những từ thường đi với nhau một cách tự nhiên. Học cả cụm thay vì chỉ học từng từ.
+
+| Collocation            | Nghĩa                                   |
+| ---------------------- | --------------------------------------- |
+| Make new friends       | Kết bạn mới                             |
+| Meet new people        | Gặp gỡ người mới                        |
+| Have a conversation    | Có một cuộc trò chuyện                  |
+| Spend time together    | Dành thời gian cùng nhau                |
+| Get to know someone    | Làm quen với ai                         |
+| Keep in touch          | Giữ liên lạc                            |
+| Catch up with friends  | Hỏi thăm, cập nhật tình hình với bạn bè |
+| Hang out with friends  | Đi chơi với bạn bè                      |
+| Have a good time       | Có khoảng thời gian vui vẻ              |
+| Make a good impression | Tạo ấn tượng tốt                        |
+
+Practice:
+
+Hãy hoàn thành 5 câu:
+
+* I enjoy making ______.
+
+* I usually hang out with ______.
+
+* I want to get to know ______.
+
+* We should keep ______.
+
+* I had a good ______ yesterday.
+
+Đáp án: new friends / my friends / new people / in touch / time.
+
+### 4\. Pronunciation – Luyện phát âm (15 phút)
+
+Mục tiêu: Phát âm rõ, có trọng âm và nói liền mạch.
+
+### 4.1. Word stress – Trọng âm
+
+Chú ý âm tiết được viết hoa:
+
+| Word            | Pronunciation focus |
+| --------------- | ------------------- |
+| AC-tual-ly      | /ˈæk.tʃu.ə.li/      |
+| RE-cent-ly      | /ˈriː.sənt.li/      |
+| U-su-al-ly      | /ˈjuː.ʒu.ə.li/      |
+| de-FI-nite-ly   | /ˈdef.ɪ.nət.li/     |
+| im-PROVE        | /ɪmˈpruːv/          |
+| con-ver-SA-tion | /ˌkɒn.vəˈseɪ.ʃən/   |
+
+Lưu ý: Việc nhấn đúng trọng âm giúp người nghe nhận ra từ dễ dàng hơn.
+
+### 4.2. Connected speech – Nối âm
+
+Khi nói tự nhiên, các từ thường kết nối với nhau.
+
+| Written             | Natural speech   |
+| ------------------- | ---------------- |
+| What are you doing? | Whaddaya doing?  |
+| How are you?        | Howarya?         |
+| Did you eat?        | Didja eat?       |
+| Nice to meet you.   | Nice tə meetcha. |
+| What do you do?     | Whaddaya do?     |
+
+Đây là cách nghe gần đúng trong hội thoại thân mật, không phải cách viết chuẩn.
+
+### 4.3. Shadowing exercise
+
+Đọc theo từng câu:
+
+* Hey, how's it going?
+
+* I'm doing pretty well, thanks.
+
+* What have you been up to lately?
+
+* I've been quite busy with work.
+
+* I'm trying to improve my English.
+
+* That's really interesting!
+
+Cách luyện:
+
+* Đọc chậm 2 lần.
+
+* Đọc với tốc độ tự nhiên 3 lần.
+
+* Đọc không nhìn tài liệu 2 lần.
+
+* Ghi âm và nghe lại.
+
+### 5\. Grammar in Conversation – Ngữ pháp giao tiếp (15 phút)
+
+Today's grammar: Present Simple vs Present Perfect vs Present Continuous.
+
+Đây là ba cấu trúc rất quan trọng khi nói về bản thân và cuộc sống.
+
+### 5.1. Present Simple – Thói quen, sự thật
+
+Cấu trúc:
+
+S + V(s/es)
+
+Ví dụ:
+
+* I work as a software developer.
+
+* I usually wake up at 7 AM.
+
+* I enjoy playing sports.
+
+* I study English every day.
+
+Sử dụng khi nói về thói quen, công việc và những điều thường xuyên xảy ra.
+
+### 5.2. Present Continuous – Việc đang diễn ra
+
+Cấu trúc:
+
+S + am/is/are + V-ing
+
+Ví dụ:
+
+* I'm learning English.
+
+* I'm working on a new project.
+
+* I'm trying to improve my speaking skills.
+
+* I'm having coffee with my friend.
+
+Dùng để nói về hành động đang diễn ra hoặc tình huống tạm thời.
+
+### 5.3. Present Perfect – Trải nghiệm, khoảng thời gian đến hiện tại
+
+Cấu trúc:
+
+S + have/has + V3
+
+Ví dụ:
+
+* I've been very busy recently.
+
+* I've learned a lot this year.
+
+* I've visited several interesting places.
+
+* I've worked here for two years.
+
+Dùng để nói về trải nghiệm hoặc trạng thái bắt đầu trong quá khứ và có liên hệ với hiện tại.
+
+So sánh 3 cách diễn đạt
+
+I work in IT.
+
+Tôi làm trong lĩnh vực công nghệ thông tin. (Công việc thường xuyên)
+
+I'm working on a new project.
+
+Tôi đang làm một dự án mới. (Đang thực hiện)
+
+I've worked on several projects.
+
+Tôi đã từng làm một số dự án. (Kinh nghiệm đến hiện tại)
+
+### 5.4. Grammar practice
+
+Chọn dạng đúng:
+
+* I usually (go / am going) to work at 8 AM.
+
+* I (learn / am learning) English right now.
+
+* I (have visited / visit) Da Lat several times.
+
+* She (works / is working) as a teacher.
+
+* I've (work / worked) here for three years.
+
+Đáp án: 1. go · 2. am learning · 3. have visited · 4. works · 5. worked.
+
+### 6\. Expressions – Giao tiếp tự nhiên
+
+Học 15 expressions sau. Đây là những câu bạn có thể sử dụng thường xuyên.
+
+### Greeting – Chào hỏi
+
+| Expression             | Nghĩa                     |
+| ---------------------- | ------------------------- |
+| Hey, what's up?        | Này, có gì mới không?     |
+| How's it going?        | Mọi chuyện thế nào?       |
+| How have you been?     | Dạo này thế nào?          |
+| Long time no see!      | Lâu rồi không gặp!        |
+| Good to see you again. | Rất vui được gặp lại bạn. |
+
+### Responding – Trả lời
+
+| Expression            | Nghĩa                      |
+| --------------------- | -------------------------- |
+| Pretty good, thanks.  | Khá ổn, cảm ơn.            |
+| Can't complain.       | Không có gì phải phàn nàn. |
+| I've been doing well. | Tôi vẫn ổn.                |
+| Same as usual.        | Vẫn như mọi khi.           |
+| Not too bad.          | Cũng không tệ.             |
+
+### Keeping the conversation going
+
+| Expression               | Nghĩa                         |
+| ------------------------ | ----------------------------- |
+| What about you?          | Còn bạn thì sao?              |
+| Tell me more about it.   | Kể thêm cho tôi nghe đi.      |
+| How did that happen?     | Chuyện đó xảy ra như thế nào? |
+| That sounds interesting. | Nghe thú vị đấy.              |
+| By the way...            | Nhân tiện...                  |
+
+Teacher's tip: Đừng chỉ học câu hỏi. Hãy học cả câu hỏi và cách phản hồi để cuộc trò chuyện không bị ngắt quãng.
+
+### 7\. Conversation Practice – 5 hội thoại thực tế (20 phút nghe và đọc)
+
+### Conversation 1 – Meeting someone new
+
+![AI Shake Hands：Create Realistic Handshakes Online | SuperMaker AI](https://images.openai.com/static-rsc-4/8AQ_Tsz8TsympsPquNgw4R01w_buD_fwY9UBh5b_mmCUJVRTl8ZL2CtYY1DaFTUL7UC3GS_sNwuCY3RrPJb8PG4leawgsEn24T-i7rtdd-9sCVfpb5QZbRWgBYv3v4-jY01qdx-l6t-5l-K0ky3hiTroZnJ1ng4rYNs1jvzxy0_rnx2fAdJKQ6_lPoDA52Q8?purpose=fullsize)
+
+A: Hey! Is this your first time here?
+
+B: Yeah, it is. I just moved to this area.
+
+A: Oh, really? Where did you move from?
+
+B: I moved from Ho Chi Minh City.
+
+A: Nice! How do you like it here?
+
+B: I really like it. It's quieter and more relaxing.
+
+A: That's great! What do you do for work?
+
+B: I'm a software developer.
+
+Dịch nghĩa:
+
+A: Đây là lần đầu bạn đến đây à?
+
+B: Đúng vậy. Tôi vừa chuyển đến khu vực này.
+
+A: Bạn chuyển từ đâu đến?
+
+B: Tôi chuyển từ Thành phố Hồ Chí Minh.
+
+A: Bạn thấy nơi này thế nào?
+
+B: Tôi rất thích. Nó yên tĩnh và thư giãn hơn.
+
+A: Tuyệt đấy! Bạn làm nghề gì?
+
+B: Tôi là lập trình viên phần mềm.
+
+### Conversation 2 – Catching up with an old friend
+
+A: Hey, long time no see! How have you been?
+
+B: I've been pretty good. How about you?
+
+A: Not bad. I've been quite busy with work lately.
+
+B: What have you been working on?
+
+A: I'm working on a new software project.
+
+B: Sounds interesting! Are you enjoying it?
+
+A: Yeah, definitely. It's challenging but rewarding.
+
+### Conversation 3 – Talking about hobbies
+
+A: What do you usually do in your free time?
+
+B: I usually go to the gym or watch movies.
+
+A: That's cool! What kind of movies do you like?
+
+B: I enjoy action movies and thrillers.
+
+A: Have you watched anything good recently?
+
+B: Yeah, I watched a really good movie last weekend.
+
+### Conversation 4 – At a coffee shop
+
+A: Hey, would you like to grab a coffee?
+
+B: Sure! That sounds good.
+
+A: What would you like to drink?
+
+B: I'll have an iced latte.
+
+A: Nice choice. Do you come here often?
+
+B: Not really. This is my first time here.
+
+### Conversation 5 – Talking about learning English
+
+A: Why are you learning English?
+
+B: I want to communicate more confidently with people from other countries.
+
+A: That's a great goal! How long have you been studying?
+
+B: I've studied English for a while, but I haven't practiced speaking much.
+
+A: I see. What's the most difficult part for you?
+
+B: Speaking naturally. Sometimes I know the words, but I can't put them together quickly.
+
+A: That's normal. You just need more practice!
+
+### 8\. Listening Practice – Nghe hiểu (20 phút)
+
+Topic: A casual conversation between two friends.
+
+Hãy sử dụng chức năng đọc thành tiếng (Read Aloud) nếu có, hoặc tự đọc hai vai với tốc độ tự nhiên.
+
+Listening Script
+
+A Day in My Life
+
+Hey, how's it going? I've been pretty busy recently. I usually wake up at around 7 AM, have breakfast, and then go to work.
+
+After work, I sometimes go to the gym or hang out with my friends. I've also been trying to improve my English, so I spend about two hours studying every day.
+
+On weekends, I usually relax, watch movies, or explore new places. I really enjoy meeting new people and trying new things.
+
+### Listening comprehension
+
+Đọc câu hỏi trước, sau đó nghe lại đoạn hội thoại và trả lời.
+
+* What time does the speaker usually wake up?
+
+* What does the speaker do after work?
+
+* How much time does the speaker spend studying English?
+
+* What does the speaker usually do on weekends?
+
+* What does the speaker enjoy doing?
+
+Answer key: 1. Around 7 AM. 2. Goes to the gym or hangs out with friends. 3. About two hours. 4. Relaxes, watches movies or explores new places. 5. Meeting new people and trying new things.
+
+### 9\. Guided Speaking – Luyện phản xạ (25 phút)
+
+Đây là phần quan trọng nhất trong bài học hôm nay.
+
+Bạn hãy trả lời bằng tiếng Anh. Mỗi câu nên có 2–4 câu trả lời, tránh dịch từng từ từ tiếng Việt.
+
+### Exercise A – Personal Introduction
+
+Question 1: Can you introduce yourself?
+
+Gợi ý:
+
+* Your name
+
+* Where you're from
+
+* Your job
+
+* Your interests
+
+Sample answer:
+
+"Hi, my name is ... I'm from Vietnam. I work as a software developer. In my free time, I enjoy going to the gym, watching movies, and learning new things."
+
+Question 2: What do you usually do every day?
+
+Sample answer:
+
+"I usually wake up early and have breakfast. Then I go to work. After work, I spend some time relaxing or studying English."
+
+Question 3: What are you interested in?
+
+Sample answer:
+
+"I'm interested in technology, sports, and languages. I also enjoy learning new skills because I want to improve myself."
+
+### Exercise B – Answer naturally
+
+Hãy tự trả lời 10 câu hỏi sau:
+
+* How's your life going recently?
+
+* What do you usually do after work?
+
+* What do you enjoy doing on weekends?
+
+* Are you a morning person or a night person?
+
+* What kind of food do you like?
+
+* What's your favorite place to relax?
+
+* Have you learned anything interesting recently?
+
+* What do you usually do when you feel stressed?
+
+* What kind of people do you enjoy spending time with?
+
+* What's one thing you want to improve about yourself?
+
+### Exercise C – Follow-up questions
+
+Khi người khác trả lời, bạn cần hỏi tiếp để cuộc trò chuyện kéo dài.
+
+Ví dụ:
+
+A: I like going to the gym.
+
+B: Oh, really? How often do you go?
+
+A: About four times a week.
+
+B: That's great! What kind of workouts do you usually do?
+
+A: Mostly weight training.
+
+B: Nice! How long have you been working out?
+
+Hãy luyện 5 mẫu câu hỏi tiếp:
+
+* Why do you like it?
+
+* How often do you do that?
+
+* When did you start?
+
+* Who do you usually go with?
+
+* What's the best thing about it?
+
+### 10\. Free Speaking – Nói tự do (20 phút)
+
+![Mastering English Conversation: Listening, Speaking, and Shadowing Practice](https://images.openai.com/static-rsc-4/eHVbPVfxYxf5nto6bkIKGuDCuJ2oEcATm2zw-pmYQ-Wjt61_cjGRQm1QiKSjXmraT2YJ2YbUC9pU58CMJ042yCMImOZ2rtJJZAYl3AiiA4MuZ0qpY_tgt4QsHyend0VdVYTDt38AHBd4VowtX-fFg2b9qYQulKOm6HkMbKsAd7DjqyZOxLImkKcVwZ4ATr2B?purpose=fullsize)
+
+Main topic: Tell me about yourself and your current life.
+
+Bạn cần nói liên tục trong 3–5 phút.
+
+Hãy sử dụng cấu trúc gợi ý:
+
+| Section           | Content                         |
+| ----------------- | ------------------------------- |
+| Introduction      | Introduce yourself              |
+| Work              | Talk about your job             |
+| Daily life        | Describe your daily routine     |
+| Interests         | Talk about hobbies              |
+| Recent activities | What you've been doing recently |
+| Future goals      | What you want to achieve        |
+
+### Speaking challenge
+
+Hãy cố gắng sử dụng ít nhất:
+
+* 5 từ vựng mới.
+
+* 5 collocations.
+
+* 3 expressions.
+
+* 2 câu Present Simple.
+
+* 2 câu Present Continuous.
+
+* 2 câu Present Perfect.
+
+Không cần hoàn hảo. Nếu không biết một từ, hãy giải thích ý đó bằng những từ đơn giản hơn. Đây là kỹ năng rất quan trọng trong giao tiếp thực tế.
+
+### 11\. Daily Test – Kiểm tra cuối ngày
+
+Day 1 – Grammar & Vocabulary Quiz
+
+10 questions
+
+0/10 câu đã trả lời
+
+1. How do you say 'Lâu rồi không gặp'?
+
+A. See you tomorrow
+
+B. Long time no see
+
+C. Nice to meet you
+
+2. I usually ___ to work at 8 AM.
+
+A. go
+
+B. am going
+
+C. going
+
+3. I've been ___ recently.
+
+A. busy
+
+B. busier
+
+C. busily
+
+4. Which phrase means 'giữ liên lạc'?
+
+A. Hang out
+
+B. Keep in touch
+
+C. Catch up
+
+5. I'm ___ English right now.
+
+A. learn
+
+B. learned
+
+C. learning
+
+6. How do you naturally ask about someone's recent activities?
+
+A. What have you been up to?
+
+B. What you doing yesterday?
+
+C. You do what?
+
+7. I enjoy ___ new people.
+
+A. meet
+
+B. meeting
+
+C. met
+
+8. We should ___ sometime.
+
+A. hang out
+
+B. hanging out
+
+C. hung out
+
+9. Which is a natural response to 'How's it going?'
+
+A. I'm fine yesterday.
+
+B. Pretty good, thanks.
+
+C. I go to work.
+
+10. I've ___ here for two years.
+
+A. work
+
+B. working
+
+C. worked
+
+Submit answers
+
+### 12\. Daily Review – Tổng kết (5 phút)
+
+Trước khi kết thúc ngày hôm nay, hãy tự kiểm tra:
+
+Day 1 Checklist
+
+### 0/9
+
+Tôi đã học 15 từ vựng và cách phát âm.
+
+Tôi đã ghi nhớ 10 collocations.
+
+Tôi đã luyện phát âm và shadowing.
+
+Tôi đã học 3 thì cơ bản trong giao tiếp.
+
+Tôi đã đọc 5 đoạn hội thoại.
+
+Tôi đã hoàn thành Listening Practice.
+
+Tôi đã trả lời 10 câu hỏi Speaking.
+
+Tôi đã tự nói tiếng Anh ít nhất 3 phút.
+
+Tôi đã ghi âm và nghe lại giọng nói của mình.
+
+### 13\. Homework – Bài tập về nhà
+
+Speaking assignment:
+
+Hãy viết hoặc nói một đoạn giới thiệu bản thân bằng tiếng Anh, khoảng 150–200 từ.
+
+Chủ đề:
+
+Introduce yourself, talk about your work, daily routine, hobbies, and your goals for learning English.
+
+Khi gửi bài cho tôi, tôi sẽ chấm theo 5 tiêu chí:
+
+| Tiêu chí            | Điểm |
+| ------------------- | ---- |
+| Grammar             | 20   |
+| Vocabulary          | 20   |
+| Sentence structure  | 20   |
+| Natural expressions | 20   |
+| Fluency & coherence | 20   |
+| Total               | 100  |
+
+Tôi sẽ sửa từng lỗi, giải thích bằng tiếng Việt và cung cấp phiên bản tiếng Anh tự nhiên hơn để bạn luyện nói lại.
+
+Mục tiêu Day 1: Có thể giới thiệu bản thân và bắt chuyện với một người mới trong 3–5 phút.
+
+Ngày tiếp theo: DAY 02 – Introducing Yourself Naturally & Personal Information.
