@@ -1,655 +1,759 @@
-# DAY 07 --- Weekly Speaking Review & Assessment
+### DAY 7 — WEEKLY REVIEW & REAL-LIFE CONVERSATION
 
-**Level:** A2--B1 (Practical English)\
-**Study time:** 2 hours\
-**Review scope:** Days 01--06\
-**Main goal:** Check your ability to introduce yourself, describe
-routines, discuss food, handle a restaurant conversation, talk about
-family and hobbies, and keep a conversation going.
+Chủ đề: Ôn tập tuần 1 và giao tiếp thực tế.
 
-------------------------------------------------------------------------
+Hôm nay không học nhiều từ vựng mới. Chúng ta sẽ tập trung sử dụng những gì đã học trong 6 ngày qua để nói tiếng Anh tự nhiên hơn.
 
-## 1. Learning objectives
+Mục tiêu hôm nay:
 
-By the end of this review, you should be able to:
+* Giới thiệu bản thân trong 3–5 phút.
 
--   Introduce yourself and give details about your life.
--   Describe your daily routine using Present Simple and frequency
-    adverbs.
--   Talk about food, taste, and eating habits.
--   Order food politely and ask questions in a restaurant.
--   Describe family members and friends.
--   Talk about hobbies and explain why you enjoy them.
--   Answer follow-up questions without relying on a memorized script.
+* Trò chuyện về công việc, gia đình, thói quen và sở thích.
 
-**Today's rule:** This is a speaking review, not a memorization test.
-Give honest answers, add details, and keep talking even if you make a
-small mistake.
+* Hỏi và trả lời câu hỏi tự nhiên.
 
-------------------------------------------------------------------------
+* Biết cách duy trì cuộc hội thoại thay vì chỉ trả lời Yes/No.
 
-## 2. Two-hour study schedule
+* Tổng kết những lỗi ngữ pháp thường gặp.
 
-  -----------------------------------------------------------------------
-  Time                    Activity                What to do
-  ----------------------- ----------------------- -----------------------
-  00--20 min              Vocabulary review       Recall key words from
-                                                  Days 01--06 without
-                                                  looking at the
-                                                  translations.
+### 1\. Lịch học hôm nay
 
-  20--40 min              Grammar review          Review the structures
-                                                  and correct common
-                                                  errors.
+| Thời gian | Nội dung           |
+| --------- | ------------------ |
+| 20 phút   | Vocabulary Review  |
+| 15 phút   | Pronunciation      |
+| 15 phút   | Grammar Review     |
+| 20 phút   | Listening          |
+| 25 phút   | Real-life Speaking |
+| 20 phút   | Speaking Test      |
+| 5 phút    | Final Review       |
 
-  40--65 min              Speaking Test Part 1    Answer personal
-                                                  questions in complete
-                                                  sentences.
+### 2\. Vocabulary Review — Ôn tập từ vựng (20 phút)
 
-  65--90 min              Speaking Test Part 2    Give longer talks on
-                                                  familiar topics.
+### A. Personal Information — Thông tin cá nhân
 
-  90--108 min             Role-play               Complete realistic
-                                                  conversations.
+| Vocabulary  | IPA                | Nghĩa       |
+| ----------- | ------------------ | ----------- |
+| full name   | /ˌfʊl ˈneɪm/       | họ và tên   |
+| hometown    | /ˈhəʊm.taʊn/       | quê hương   |
+| nationality | /ˌnæʃ.əˈnæl.ə.ti/  | quốc tịch   |
+| occupation  | /ˌɒk.jəˈpeɪ.ʃən/   | nghề nghiệp |
+| experience  | /ɪkˈspɪə.ri.əns/   | kinh nghiệm |
+| personality | /ˌpɜː.sənˈæl.ə.ti/ | tính cách   |
+| confident   | /ˈkɒn.fɪ.dənt/     | tự tin      |
+| friendly    | /ˈfrend.li/        | thân thiện  |
 
-  108--120 min            Self-assessment         Record, score, and
-                                                  choose priorities for
-                                                  next week.
-  -----------------------------------------------------------------------
+### B. Daily Routine — Sinh hoạt hằng ngày
 
-------------------------------------------------------------------------
+| Vocabulary     | IPA              | Nghĩa         |
+| -------------- | ---------------- | ------------- |
+| wake up        | /weɪk ʌp/        | thức dậy      |
+| get dressed    | /ɡet drest/      | mặc quần áo   |
+| have breakfast | /hæv ˈbrek.fəst/ | ăn sáng       |
+| commute        | /kəˈmjuːt/       | đi làm        |
+| take a break   | /teɪk ə breɪk/   | nghỉ giải lao |
+| work out       | /wɜːk aʊt/       | tập thể dục   |
+| relax          | /rɪˈlæks/        | thư giãn      |
+| go to bed      | /ɡəʊ tə bed/     | đi ngủ        |
 
-## 3. Vocabulary review --- Days 01--06
+### C. Family & Relationships — Gia đình và quan hệ
 
-Try to recall the meaning before checking the Vietnamese column. Read
-each example aloud.
+| Vocabulary          | IPA                    | Nghĩa                    |
+| ------------------- | ---------------------- | ------------------------ |
+| relatives           | /ˈrel.ə.tɪvz/          | họ hàng                  |
+| parents             | /ˈpeə.rənts/           | bố mẹ                    |
+| sibling             | /ˈsɪb.lɪŋ/             | anh chị em ruột          |
+| get along with      | /ɡet əˈlɒŋ wɪð/        | hòa thuận với            |
+| spend time together | /spend taɪm təˈɡeð.ər/ | dành thời gian cùng nhau |
+| take care of        | /teɪk keər əv/         | chăm sóc                 |
 
-### Day 01 --- Introducing yourself
+### D. Work & Career — Công việc
 
-  -----------------------------------------------------------------------
-  Word / phrase           Nghĩa tiếng Việt        Example
-  ----------------------- ----------------------- -----------------------
-  background              nền tảng, xuất thân     Let me tell you a
-                                                  little about my
-                                                  background.
+| Vocabulary     | IPA                   | Nghĩa          |
+| -------------- | --------------------- | -------------- |
+| developer      | /dɪˈvel.ə.pər/        | lập trình viên |
+| colleague      | /ˈkɒl.iːɡ/            | đồng nghiệp    |
+| project        | /ˈprɒdʒ.ekt/          | dự án          |
+| responsibility | /rɪˌspɒn.səˈbɪl.ə.ti/ | trách nhiệm    |
+| deadline       | /ˈded.laɪn/           | hạn chót       |
+| improve        | /ɪmˈpruːv/            | cải thiện      |
 
-  currently               hiện tại                I'm currently working
-                                                  in technology.
+### E. Countries & Languages — Quốc gia và ngôn ngữ
 
-  experience              kinh nghiệm             I have experience with
-                                                  software development.
+| Vocabulary       | Nghĩa                     |
+| ---------------- | ------------------------- |
+| Vietnamese       | người Việt / tiếng Việt   |
+| Japanese         | người Nhật / tiếng Nhật   |
+| Korean           | người Hàn / tiếng Hàn     |
+| Chinese          | người Trung / tiếng Trung |
+| Australian       | người Úc                  |
+| nationality      | quốc tịch                 |
+| native language  | tiếng mẹ đẻ               |
+| foreign language | ngoại ngữ                 |
 
-  in my free time         trong thời gian rảnh    In my free time, I
-                                                  enjoy reading.
+### Vocabulary Challenge
 
-  be interested in        quan tâm, yêu thích     I'm interested in
-                                                  learning languages.
+Hãy hoàn thành các câu sau bằng từ thích hợp.
 
-  improve                 cải thiện               I want to improve my
-                                                  speaking skills.
-  -----------------------------------------------------------------------
+* I usually ______ up at 7 a.m.
 
-### Day 02 --- Daily routine
+* I work as a software ______.
 
-  Word / phrase   Nghĩa tiếng Việt          Example
-  --------------- ------------------------- ---------------------------------------
-  wake up         thức dậy                  I wake up at seven.
-  get dressed     mặc quần áo               I get dressed after taking a shower.
-  commute         đi làm/đi học hằng ngày   I commute to work by motorbike.
-  take a break    nghỉ giải lao             I take a short break after lunch.
-  work out        tập thể dục               I work out three times a week.
-  stay up late    thức khuya                I sometimes stay up late at weekends.
+* I want to ______ my English.
 
-### Day 03 --- Food & drinks
+* I usually ______ out three times a week.
 
-  Word / phrase   Nghĩa tiếng Việt   Example
-  --------------- ------------------ ---------------------------------------
-  ingredient      nguyên liệu        What are the main ingredients?
-  seafood         hải sản            I enjoy eating seafood.
-  spicy           cay                I like spicy food.
-  crunchy         giòn               The vegetables are fresh and crunchy.
-  grilled         nướng              I prefer grilled fish.
-  a glass of      một ly             Could I have a glass of water?
+* My native ______ is Vietnamese.
 
-### Day 04 --- At a restaurant
+* I get along well with my ______.
 
-  -----------------------------------------------------------------------
-  Word / phrase           Nghĩa tiếng Việt        Example
-  ----------------------- ----------------------- -----------------------
-  reservation             đặt chỗ                 I have a reservation
-                                                  for two.
+Answers:
 
-  menu                    thực đơn                Could I see the menu,
-                                                  please?
+* wake
 
-  recommend               gợi ý                   What would you
-                                                  recommend?
+* developer
 
-  main course             món chính               I'll have the grilled
-                                                  chicken as my main
-                                                  course.
+* improve
 
-  bill / check            hóa đơn                 Could we have the bill,
-                                                  please?
+* work
 
-  pay separately          thanh toán riêng        Can we pay separately?
-  -----------------------------------------------------------------------
+* language
 
-### Day 05 --- Family & relationships
+* colleagues
 
-  Word / phrase    Nghĩa tiếng Việt      Example
-  ---------------- --------------------- -----------------------------------------
-  relatives        họ hàng               We visit our relatives during holidays.
-  sibling          anh chị em ruột       I have two siblings.
-  supportive       luôn ủng hộ, hỗ trợ   My family is very supportive.
-  reliable         đáng tin cậy          She's a reliable friend.
-  get along with   hòa hợp với           I get along well with my brother.
-  keep in touch    giữ liên lạc          We keep in touch by phone.
+### 3\. Pronunciation Review — Luyện phát âm (15 phút)
 
-### Day 06 --- Hobbies & free time
+### A. Đọc các từ dễ phát âm sai
 
-  -----------------------------------------------------------------------
-  Word / phrase           Nghĩa tiếng Việt        Example
-  ----------------------- ----------------------- -----------------------
-  hang out with friends   đi chơi với bạn bè      I hang out with friends
-                                                  at weekends.
+| Word        | IPA              | Nghĩa        |
+| ----------- | ---------------- | ------------ |
+| comfortable | /ˈkʌm.fə.tə.bəl/ | thoải mái    |
+| interesting | /ˈɪn.trəs.tɪŋ/   | thú vị       |
+| usually     | /ˈjuː.ʒu.ə.li/   | thường xuyên |
+| different   | /ˈdɪf.ər.ənt/    | khác nhau    |
+| important   | /ɪmˈpɔː.tənt/    | quan trọng   |
+| language    | /ˈlæŋ.ɡwɪdʒ/     | ngôn ngữ     |
+| colleague   | /ˈkɒl.iːɡ/       | đồng nghiệp  |
+| experience  | /ɪkˈspɪə.ri.əns/ | kinh nghiệm  |
 
-  challenging             đầy thử thách           Learning a language can
-                                                  be challenging.
+### B. Sentence stress — Nhấn trọng âm câu
 
-  take photos             chụp ảnh                I enjoy taking photos
-                                                  when I travel.
+Trong tiếng Anh, các từ mang thông tin chính thường được nhấn mạnh.
 
-  go hiking               đi bộ đường dài         We go hiking once a
-                                                  month.
+Ví dụ:
 
-  be good at              giỏi về                 I'm good at cooking.
+> I WORK as a software DEVELOPER.
 
-  prefer A to B           thích A hơn B           I prefer tea to coffee.
-  -----------------------------------------------------------------------
+> I usually GO to the GYM after WORK.
 
-### Quick vocabulary challenge
+> I want to IMPROVE my ENGLISH.
 
-Without looking at the tables, say:
+> I'm learning English because I want to COMMUNICATE with FOREIGNERS.
 
-1.  Three words about work and daily routine.
-2.  Three words about food.
-3.  Three polite restaurant expressions.
-4.  Three adjectives to describe a person.
-5.  Three activities you can do in your free time.
+### C. Connected Speech — Nối âm
 
-------------------------------------------------------------------------
+Đọc tự nhiên hơn bằng cách nối các từ:
 
-## 4. Grammar review --- Essential structures
+* What do you do? → thường nghe gần như “Whaddaya do?”
 
-### A. Present Simple --- habits and facts
+* How are you? → “Howarya?”
 
-**Structure:** `Subject + base verb(s/es)`
+* I want to → “I wanna” trong văn nói thân mật.
 
--   I work from Monday to Friday.
--   She enjoys cooking.
--   He doesn't drink coffee.
--   What time do you start work?
+* Going to → “gonna” trong văn nói thân mật.
 
-Remember to add `-s` or `-es` with he, she, and it in positive
-sentences.
+Lưu ý: Những cách viết như wanna và gonna phù hợp với giao tiếp thân mật, không nên dùng trong văn bản trang trọng.
 
-### B. Present Continuous --- current or temporary activities
+Practice: Đọc mỗi câu 5 lần, chú ý nối âm nhưng vẫn giữ phát âm rõ ràng.
 
-**Structure:** `Subject + am/is/are + verb-ing`
+### 4\. Grammar Review — Ôn tập ngữ pháp (15 phút)
 
--   I'm learning English these days.
--   She's working on a new project.
--   What are you doing at the moment?
+### A. Present Simple
 
-Compare:
+Dùng để nói về thói quen, công việc và sự thật.
 
--   I study English every evening. (regular habit)
--   I'm studying English more seriously these days. (current period)
+Structure:
 
-### C. Frequency adverbs
+* I/You/We/They + V
 
-  Adverb      Example
-  ----------- ------------------------------------
-  always      I always have breakfast.
-  usually     I usually work out after work.
-  often       I often eat out with friends.
-  sometimes   I sometimes watch movies at night.
-  rarely      I rarely drink soft drinks.
-  never       I never smoke.
+* He/She/It + V-s/es
 
-Frequency adverbs usually come before a main verb, but after the verb
-`be`.
+Examples:
 
-### D. Countable and uncountable nouns
+* I work from Monday to Friday.
 
--   Countable: an apple, two eggs, many sandwiches.
--   Uncountable: rice, water, milk, much sugar.
--   Some: I have some fruit.
--   Any: Do you have any coffee?
--   A lot of: I drink a lot of water.
+* She works in a hospital.
 
-### E. Polite requests
+* I usually go to the gym in the evening.
 
--   Could I see the menu, please?
--   I'd like a glass of water.
--   Could we have the bill, please?
--   What would you recommend?
+### B. Present Continuous
 
-### F. Possessives and comparisons
+Dùng để nói về hành động đang diễn ra hoặc tình huống tạm thời.
 
--   My brother is younger than me.
--   Her father is a teacher.
--   My parents' house is near the city center.
--   My friend is more outgoing than I am.
+Structure: Subject + am/is/are + V-ing.
 
-### G. Verb patterns for hobbies
+Examples:
 
--   I enjoy reading.
--   I like watching movies.
--   I'm interested in learning English.
--   I'm good at cooking.
--   I prefer walking to driving.
+* I'm learning English.
 
-------------------------------------------------------------------------
+* She's working right now.
 
-## 5. Speaking Test Part 1 --- Personal questions
+* We're having lunch.
 
-**Instructions:** Answer each question aloud. Aim for 2--4 sentences per
-question. Do not read a prepared answer.
+### C. Present Perfect
 
-### Topic A: Introducing yourself
+Dùng để nói về trải nghiệm hoặc hành động có liên quan đến hiện tại.
 
-1.  Could you tell me a little about yourself?
-2.  Where are you from, and where do you live?
-3.  What do you do?
-4.  What are you interested in?
-5.  Why are you learning English?
+Structure: Subject + have/has + V3.
 
-### Topic B: Daily routine
+Examples:
 
-1.  What time do you usually wake up?
-2.  What do you normally do in the morning?
-3.  What is your workday like?
-4.  What do you usually do after work?
-5.  Are you doing anything differently these days?
+* I've learned English for some time.
 
-### Topic C: Food and drinks
+* I've visited Thailand.
 
-1.  What's your favorite food?
-2.  What do you usually eat for breakfast?
-3.  Do you prefer eating at home or at restaurants?
-4.  What kind of drinks do you enjoy?
-5.  Is there any food you don't like?
+* Have you ever been to Japan?
 
-### Topic D: Family and friends
+### D. Past Simple
 
-1.  How many people are there in your family?
-2.  Who are you closest to in your family?
-3.  What do you usually do with your family?
-4.  How would you describe your best friend?
-5.  How do you keep in touch with old friends?
+Dùng để kể về hành động đã xảy ra và kết thúc trong quá khứ.
 
-### Topic E: Hobbies
+Structure: Subject + V2/ed.
 
-1.  What do you enjoy doing in your free time?
-2.  How often do you exercise?
-3.  Do you prefer indoor or outdoor activities?
-4.  What's a hobby you'd like to try?
-5.  Why do you think hobbies are important?
+Examples:
 
-### Follow-up question practice
+* I watched a movie yesterday.
 
-After answering, add one of these:
+* I went to the gym last night.
 
--   Why do you think so?
--   Could you give me an example?
--   How often do you do that?
--   Who do you usually do it with?
--   Has that always been your interest?
--   What would you like to try next?
+* I visited my family last weekend.
 
-------------------------------------------------------------------------
+### E. Future: Going to / Will
 
-## 6. Speaking Test Part 2 --- Longer answers
+| Going to                            | Will                    |
+| ----------------------------------- | ----------------------- |
+| Kế hoạch đã dự định                 | Quyết định ngay lúc nói |
+| I'm going to study tonight.         | I'll help you.          |
+| I'm going to visit Japan next year. | I think it will rain.   |
 
-Speak for 1--2 minutes on each topic. Use keywords rather than
-memorizing the sample answer.
+### F. Common Mistakes — Lỗi thường gặp
 
-### Task 1: Describe yourself and your daily life
+| Incorrect               | Correct                       |
+| ----------------------- | ----------------------------- |
+| I am work every day.    | I work every day.             |
+| She go to work.         | She goes to work.             |
+| I very like English.    | I really like English.        |
+| I am agree.             | I agree.                      |
+| I have 25 years old.    | I'm 25 years old.             |
+| I want improve English. | I want to improve my English. |
+| I am learn English.     | I'm learning English.         |
 
-Include:
+### 5\. Listening — Ôn luyện nghe (20 phút)
 
--   Your background.
--   Your work or studies.
--   Your daily routine.
--   Your interests.
--   One personal goal.
+Listening Test 1
 
-**Sample answer**
+### A. Listen and understand
 
-Hi, my name is Cong, and I'm from Vietnam. I work as a software
-developer. On weekdays, I usually wake up in the morning, have
-breakfast, and start work at around nine. After work, I sometimes
-exercise or study English. In my free time, I enjoy learning new things,
-watching movies, and spending time with friends. These days, I'm
-focusing on improving my English because I want to communicate more
-naturally and confidently. One of my main goals is to become comfortable
-speaking English in everyday situations.
+Đọc đoạn hội thoại dưới đây một lần. Sau đó che phần tiếng Anh và thử kể lại nội dung bằng tiếng Anh.
 
-*This is a model answer. Change any details that do not describe you.*
+At a Coffee Shop
 
-### Task 2: Describe your favorite meal
+Tom: Hey! It's been a while. How have you been?
 
-Include:
+Alex: Pretty good, thanks. I've been quite busy with work lately. How about you?
 
--   The name of the dish.
--   Its ingredients.
--   Its taste and texture.
--   Where and when you eat it.
--   Why you like it.
+Tom: Same here. What have you been working on?
 
-**Sample answer**
+Alex: I'm working on a new software project. It's quite challenging, but I'm learning a lot.
 
-One of my favorite dishes is pho, a traditional Vietnamese noodle soup.
-It's usually made with rice noodles, beef or chicken, herbs, and broth.
-It has a rich flavor and smells wonderful. I usually eat it for
-breakfast or lunch, often at a local restaurant. I like it because it's
-delicious, filling, and reminds me of Vietnamese food culture. I would
-recommend it to anyone visiting Vietnam.
+Tom: That sounds interesting. What do you usually do after work?
 
-### Task 3: Describe someone important to you
+Alex: I usually go to the gym or watch movies at home. What about you?
 
-Include:
+Tom: I enjoy reading books and spending time with my family.
 
--   Who the person is.
--   How you know them.
--   Their personality.
--   What you do together.
--   Why they are important to you.
+Alex: That's nice. We should catch up more often.
 
-**Sample answer**
+Tom: Definitely! Let's have coffee again next week.
 
-I'd like to talk about one of my close friends. We've known each other
-for several years. He's friendly, honest, and reliable. We sometimes go
-out for coffee, have dinner, or talk about work and everyday life. We
-don't always have the same opinions, but we respect each other. I
-appreciate this friendship because I know I can count on him when I need
-help.
+### B. Translation
 
-### Task 4: Talk about your favorite hobby
+Tom: Này! Lâu rồi không gặp. Dạo này bạn thế nào?
 
-Include:
+Alex: Khá tốt, cảm ơn. Gần đây tôi khá bận với công việc. Còn bạn?
 
--   What it is.
--   When you started.
--   How often you do it.
--   Why you enjoy it.
--   What you want to improve.
+Tom: Tôi cũng vậy. Bạn đang làm dự án gì?
 
-**Sample answer**
+Alex: Tôi đang làm một dự án phần mềm mới. Nó khá thử thách nhưng tôi học được nhiều điều.
 
-One of my favorite activities is working out. I usually exercise three
-or four times a week. I started because I wanted to become stronger and
-improve my health. I enjoy weight training, and I'm also interested in
-boxing. Exercise helps me reduce stress and feel more energetic. I'd
-like to improve my technique and become more consistent with my
-training.
+Tom: Nghe thú vị đấy. Bạn thường làm gì sau giờ làm?
 
-------------------------------------------------------------------------
+Alex: Tôi thường đi tập gym hoặc xem phim ở nhà. Còn bạn?
 
-## 7. Speaking Test Part 3 --- Role-play situations
+Tom: Tôi thích đọc sách và dành thời gian cho gia đình.
 
-Practice both roles. Try to respond naturally rather than reading the
-suggested lines.
+Alex: Tuyệt đấy. Chúng ta nên gặp nhau thường xuyên hơn.
 
-### Role-play A: Meeting someone at a café
+Tom: Chắc chắn rồi! Tuần sau lại đi uống cà phê nhé.
 
-**Situation:** You meet a new person at a café. Introduce yourself and
-find out about their work and interests.
+### C. Comprehension Questions
 
-Your goals:
+* Why has Alex been busy?
 
--   Start the conversation politely.
--   Introduce yourself.
--   Ask what the other person does.
--   Talk about hobbies.
--   Ask at least two follow-up questions.
--   End the conversation naturally.
+* What is Alex working on?
 
-**Useful expressions**
+* What does Alex usually do after work?
 
--   Is this seat taken?
--   Hi, I'm \_\_\_, by the way.
--   What do you do?
--   What do you usually do in your free time?
--   That's interesting. How did you get into that?
--   It was nice talking to you.
+* What does Tom enjoy doing?
 
-### Role-play B: At a restaurant
+* When do they plan to meet again?
 
-**Situation:** You are having dinner with a friend at a restaurant.
+Answer key:
 
-Your goals:
+* Because he has been busy with work.
 
--   Ask for a table for two.
--   Ask for a menu and a recommendation.
--   Order a main course and a drink.
--   Ask about an ingredient.
--   Request the bill.
+* He's working on a new software project.
 
-**Useful expressions**
+* He usually goes to the gym or watches movies.
 
--   Do you have a table for two?
--   What would you recommend?
--   Does this dish contain seafood?
--   I'll have the grilled chicken, please.
--   Could we have the bill?
+* He enjoys reading books and spending time with his family.
 
-### Role-play C: Talking about weekend plans
+* Next week.
 
-**Situation:** Your friend asks what you are doing this weekend.
+### Listening Test 2 — A Typical Week
 
-Your goals:
+> My name is Daniel. I work as a software developer at a technology company. On weekdays, I usually wake up at 7 a.m. and start work at 8:30. I spend most of my day writing code, attending meetings, and solving technical problems.After work, I sometimes go to the gym. At weekends, I usually meet my friends or visit my family. Recently, I've been trying to improve my English because I want to communicate more confidently with international colleagues.
 
--   Explain your plans.
--   Ask about your friend's plans.
--   Suggest an activity.
--   Agree or politely decline.
--   Decide on a time or place.
+Questions:
 
-**Useful expressions**
+* What does Daniel do?
 
--   Do you have any plans for this weekend?
--   I'm thinking about going...
--   Would you like to join me?
--   That sounds great.
--   Sorry, I'm afraid I can't make it.
--   How about next weekend?
+* What time does he usually wake up?
 
-------------------------------------------------------------------------
+* What does he do at work?
 
-## 8. Exercises --- Grammar and speaking review
+* What does he do after work?
 
-Try to answer before checking the answers. Read the completed sentences
-aloud.
+* Why is he improving his English?
 
-### Exercise A: Choose the correct answer
+Answers:
 
-1.  She \_\_\_ to work at nine. (go / goes)
-2.  I \_\_\_ learning English these days. (am / do)
-3.  How \_\_\_ water do you drink? (many / much)
-4.  I enjoy \_\_\_ movies. (watch / watching)
-5.  My brother is \_\_\_ than me. (tall / taller)
-6.  I'm interested \_\_\_ photography. (in / on)
-7.  Could I \_\_\_ the menu, please? (see / seeing)
-8.  I \_\_\_ eat out on weekdays. (rarely / am rarely)
-9.  There are \_\_\_ eggs in the fridge. (some / much)
-10. I prefer tea \_\_\_ coffee. (to / than)
+* He's a software developer.
 
-**Answers**
+* At 7 a.m.
 
-1.  goes
-2.  am
-3.  much
-4.  watching
-5.  taller
-6.  in
-7.  see
-8.  rarely
-9.  some
-10. to
+* He writes code, attends meetings, and solves technical problems.
 
-### Exercise B: Correct the mistakes
+* He sometimes goes to the gym.
 
-1.  I am work as a developer.
-2.  She don't like spicy food.
-3.  I enjoy to learn English.
-4.  How many rice do you eat?
-5.  My brother is more taller than me.
-6.  I'm interested on sports.
-7.  Could you give me menu, please?
-8.  I wake up on seven o'clock.
+* Because he wants to communicate more confidently with international colleagues.
 
-**Suggested answers**
+### 6\. Real-life Speaking — 5 tình huống giao tiếp (25 phút)
 
-1.  I work as a developer.
-2.  She doesn't like spicy food.
-3.  I enjoy learning English.
-4.  How much rice do you eat?
-5.  My brother is taller than me.
-6.  I'm interested in sports.
-7.  Could you give me the menu, please?
-8.  I wake up at seven o'clock.
+Đây là phần bạn cần luyện nhiều nhất. Đừng chỉ học thuộc câu trả lời; hãy thay đổi thông tin để tạo thành câu chuyện của riêng mình.
 
-### Exercise C: Expand the answers
+### Situation 1: Meeting someone for the first time
 
-Make each short answer more detailed by adding a reason and an example.
+![A razão psicológica pela qual confias de imediato em certas pessoas - xailedavo.pt](https://images.openai.com/static-rsc-4/j4p0k4j-PuCRLEP8qKW1QhsA9XSUYKABmduRxdmNhkHnDue7_jUsmHmp7BrxKbbzTF_yPfgoVtJEdtr0OwijUW8y70nSqS7a6CUicrqdaNaafe4SbY9NEji8MrEZq6XtbHMAvOiydzEkznuQq8DBtxPyMy_zN8pk6cgE11HWLe8MH3_XBcVicpzBlYAb4Z5M?purpose=fullsize)
 
-1.  I like coffee.
-2.  I exercise.
-3.  I love my family.
-4.  I enjoy traveling.
-5.  I like Vietnamese food.
+A: Hi! Nice to meet you. My name is Alex.
 
-**Example**
+B: Nice to meet you too. I'm Daniel.
 
-Short: "I like coffee."
+A: Where are you from?
 
-Expanded: "I really enjoy drinking coffee, especially in the morning. It
-helps me feel more awake before I start work. I usually have a cup at
-home or at a local café."
+B: I'm from Vietnam. How about you?
 
-### Exercise D: One-minute challenge
+A: I'm from Australia. What do you do?
 
-Choose one topic and speak for one minute without stopping:
+B: I work as a software developer.
 
--   My normal weekday.
--   My favorite Vietnamese dish.
--   Someone I admire.
--   My favorite hobby.
--   A restaurant I like.
+A: That's interesting! What kind of software do you develop?
 
-If you forget a word, explain the idea in a different way instead of
-switching immediately to Vietnamese.
+B: I mainly work on backend applications.
 
-------------------------------------------------------------------------
+Useful expressions:
 
-## 9. Self-assessment --- Score your speaking
+* Nice to meet you.
 
-After recording your answers, give yourself a score from 1 to 5 for each
-area.
+* How about you?
 
-  -----------------------------------------------------------------------
-  Skill             1 --- Needs work  3 --- Developing  5 --- Confident
-  ----------------- ----------------- ----------------- -----------------
-  Fluency           Many long pauses  Can speak with    Speaks smoothly
-                                      some pauses       most of the time
+* What do you do?
 
-  Vocabulary        Very limited      Uses familiar     Uses varied and
-                    words             topic words       appropriate words
+* What kind of work do you do?
 
-  Grammar           Frequent errors   Some errors,      Mostly accurate
-                    affect meaning    meaning is clear  sentence
-                                                        structures
+* That sounds interesting.
 
-  Pronunciation     Often difficult   Generally         Clear and easy to
-                    to understand     understandable    follow
+### Situation 2: Talking about your job
 
-  Interaction       Cannot continue   Can answer and    Responds and asks
-                    the conversation  ask simple        natural follow-up
-                                      questions         questions
-  -----------------------------------------------------------------------
+A: What do you do for a living?
 
-**My scores**
+B: I'm a software developer.
 
--   Fluency: \_\_\_ / 5
--   Vocabulary: \_\_\_ / 5
--   Grammar: \_\_\_ / 5
--   Pronunciation: \_\_\_ / 5
--   Interaction: \_\_\_ / 5
+A: What does your job involve?
 
-**Total:** \_\_\_ / 25
+B: I develop applications, write code, and solve technical problems.
 
-This is a personal practice score, not an official CEFR assessment.
+A: Do you enjoy your job?
 
-### How to interpret your score
+B: Yes, I do. I enjoy learning new technologies and building useful products.
 
--   **5--10:** Focus on complete basic sentences and daily repetition.
--   **11--17:** Keep practicing familiar topics and longer answers.
--   **18--22:** Work on smoother transitions, vocabulary variety, and
-    spontaneous follow-up questions.
--   **23--25:** Challenge yourself with unfamiliar topics and longer
-    conversations.
+Useful expressions:
 
-------------------------------------------------------------------------
+* I work as a...
 
-## 10. Your weekly speaking challenge
+* My main responsibility is...
 
-Record yourself answering these five questions in one recording. Aim for
-a total of 3--5 minutes.
+* I mainly work with...
 
-1.  Can you introduce yourself and describe your daily routine?
-2.  What food do you enjoy, and what do you usually eat?
-3.  What would you say when ordering food at a restaurant?
-4.  Who is an important person in your life, and why?
-5.  What do you enjoy doing in your free time?
+* I'm responsible for...
 
-**Recording checklist**
+* I enjoy my job because...
 
--   [ ] I spoke without reading a full script.
--   [ ] I used complete sentences.
--   [ ] I gave reasons and examples.
--   [ ] I used linking words such as "because", "but", "so", and "after
-    that".
--   [ ] I asked or answered at least two follow-up questions.
--   [ ] I listened to my recording and identified one improvement.
+### Situation 3: Talking about hobbies
 
-------------------------------------------------------------------------
+![Modismos ingleses divertidos y sin sentido | practiceme.app](https://images.openai.com/static-rsc-4/IAYz4OCtKNWA51CKmHcctfsXKxhhGj5wpjCyXfLDgKWBY8Zt8zEINx4t11odjpmco8lOI4bFZjx6hL7eCmp3mA8wOygTl7pkDO9HPKOAiZWckmaZxxLzbu1a1uvWFPb2jOW4Y3QIWoS0QFsWg1H2aZPxNAGCCs_GLenw23feEp1Oy8JNCjcxzo8sO8Ra45DO?purpose=fullsize)
 
-## 11. Weekly reflection
+A: What do you usually do in your free time?
 
-Complete these before moving to Day 08.
+B: I usually go to the gym, watch movies, or study English.
 
--   **The topic I can speak about most confidently:**
--   **The topic I find most difficult:**
--   **Ten words or phrases I can now use naturally:**
--   **Three grammar mistakes I need to avoid:**
--   **One pronunciation issue to practice:**
--   **My most important improvement this week:**
--   **My goal for next week:**
+A: What kind of movies do you like?
 
-------------------------------------------------------------------------
+B: I enjoy action movies and science fiction.
 
-## 12. Key takeaway
+A: Do you play any sports?
 
-The purpose of this first weekly review is to build confidence with
-familiar, everyday topics. You do not need perfect grammar to
-communicate. You need understandable sentences, useful vocabulary, clear
-pronunciation, and the confidence to continue speaking.
+B: Yes. I sometimes practice boxing.
 
-**Daily habit from now on:** Record yourself speaking for 3--5 minutes.
-Listen to the recording, choose one mistake to improve, and record the
-answer again.
+A: That's cool! How long have you been doing that?
 
-**Next lesson:** DAY 08 --- Work & Career: Talking About Your Job.
+B: I've been practicing for a while.
+
+### Situation 4: Talking about your weekend
+
+A: How was your weekend?
+
+B: It was pretty good. I relaxed and spent some time with my friends.
+
+A: What did you do together?
+
+B: We went out for dinner and watched a movie.
+
+A: Sounds fun! What movie did you watch?
+
+B: We watched an action movie. It was really entertaining.
+
+### Situation 5: Talking about future plans
+
+A: Do you have any plans for next weekend?
+
+B: I'm going to visit my family.
+
+A: That's nice. Are you going anywhere else?
+
+B: Maybe. I'm thinking about going somewhere new.
+
+A: That sounds great. I hope you have a good time!
+
+Useful expressions:
+
+* I haven't decided yet.
+
+* I'm thinking about...
+
+* I'm planning to...
+
+* I'd like to...
+
+* That sounds like a good idea.
+
+### 7\. Speaking Test — Giới thiệu bản thân (20 phút)
+
+Main speaking challenge
+
+### Topic: Tell me about yourself
+
+Hãy tưởng tượng bạn đang gặp một người nước ngoài lần đầu tiên. Người đó hỏi:
+
+"Could you tell me a little bit about yourself?"
+
+Bạn cần nói liên tục trong 3–5 phút.
+
+### Part 1 — Personal Information
+
+> Hi! My name is...I'm from Vietnam, and I currently live in...I'm ... years old.My native language is Vietnamese, and I'm learning English.
+
+### Part 2 — Job & Career
+
+> I work as a software developer.My job mainly involves developing applications and solving technical problems.I enjoy working in technology because I can learn new things and improve my skills.
+
+### Part 3 — Daily Routine
+
+> On weekdays, I usually wake up at around 7 a.m.I start work in the morning and spend most of my day working on different tasks.After work, I usually relax, go to the gym, or study English.
+
+### Part 4 — Hobbies & Interests
+
+> In my free time, I enjoy watching movies, learning new things, and exercising.I'm also interested in technology and foreign languages.I think learning new skills is important because it helps me grow.
+
+### Part 5 — Goals & Future Plans
+
+> One of my biggest goals is to improve my English speaking skills.I want to communicate naturally and confidently with people from different countries.In the future, I'd also love to travel abroad and experience different cultures.
+
+### Complete Sample Answer
+
+Dưới đây là một bài mẫu hoàn chỉnh. Hãy đọc thành tiếng và thay đổi thông tin cho phù hợp với bản thân.
+
+Tell Me About Yourself
+
+Hi! Nice to meet you. My name is Alex, and I'm from Vietnam. I currently live in a beautiful city in Vietnam.
+
+I work as a software developer. My job mainly involves developing applications, writing code, and solving technical problems. I enjoy working in technology because there are always new things to learn.
+
+On weekdays, I usually wake up at around 7 a.m. I start work in the morning and spend most of my day working on different projects. After work, I usually go to the gym, watch movies, or study English.
+
+In my free time, I enjoy exercising, learning new things, and spending time with my friends and family. I'm also interested in foreign languages and different cultures.
+
+My native language is Vietnamese, and I'm currently improving my English. Sometimes I find speaking difficult because I can't always express my ideas naturally. However, I'm trying to practice every day.
+
+One of my biggest goals is to speak English fluently and confidently. I want to communicate with people from different countries, make new friends, and travel around the world.
+
+That's a little bit about me. It's nice talking to you!
+
+Copy sample
+
+Cách luyện tập:
+
+* Đọc bài mẫu 2 lần.
+
+* Đọc lại và thay thông tin của bạn.
+
+* Đóng bài mẫu, tự nói lại bằng trí nhớ.
+
+* Ghi âm trong 3–5 phút.
+
+* Nghe lại và tìm 3 lỗi cần cải thiện.
+
+### 8\. Final Exercises — Bài tập tổng hợp
+
+### Exercise 1: Choose the correct tense
+
+1\. I usually ______ to work at 8 a.m.
+
+* A. go
+
+* B. am going
+
+* C. went
+
+2\. She ______ English right now.
+
+* A. studies
+
+* B. is studying
+
+* C. studied
+
+3\. I ______ to Japan twice.
+
+* A. went
+
+* B. have been
+
+* C. go
+
+4\. Yesterday, we ______ dinner together.
+
+* A. have
+
+* B. had
+
+* C. having
+
+5\. I ______ visit Korea next year.
+
+* A. am going to
+
+* B. am
+
+* C. have
+
+Answers:
+
+* A — Thói quen, dùng Present Simple.
+
+* B — Đang diễn ra, dùng Present Continuous.
+
+* B — Trải nghiệm đến hiện tại, dùng Present Perfect.
+
+* B — Yesterday là dấu hiệu Past Simple.
+
+* A — Kế hoạch tương lai, dùng going to.
+
+### Exercise 2: Complete the conversation
+
+A: Hi! What ______ you do?
+
+B: I ______ as a software developer.
+
+A: Do you ______ your job?
+
+B: Yes, I ______. I enjoy learning new technologies.
+
+A: What do you usually do after work?
+
+B: I usually ______ to the gym or ______ English.
+
+Answers:
+
+* do
+
+* work
+
+* enjoy
+
+* do
+
+* go
+
+* study
+
+### Exercise 3: Translate into English
+
+* Tôi là lập trình viên.
+
+* Tôi thường thức dậy lúc 7 giờ sáng.
+
+* Tôi đang học tiếng Anh mỗi ngày.
+
+* Tôi đã từng đến Thái Lan.
+
+* Hôm qua tôi đi tập gym.
+
+* Cuối tuần tới tôi sẽ thăm gia đình.
+
+* Tôi muốn giao tiếp tự nhiên với người nước ngoài.
+
+* Tôi đang cố gắng cải thiện kỹ năng nói tiếng Anh.
+
+Suggested answers:
+
+* I'm a software developer.
+
+* I usually wake up at 7 a.m.
+
+* I'm learning English every day.
+
+* I've been to Thailand.
+
+* I went to the gym yesterday.
+
+* I'm going to visit my family next weekend.
+
+* I want to communicate naturally with foreigners.
+
+* I'm trying to improve my English speaking skills.
+
+### Exercise 4: Expand your answers
+
+Đừng trả lời quá ngắn. Hãy học cách mở rộng câu trả lời.
+
+| Question                   | Short answer     | Better answer                                                                                      |
+| -------------------------- | ---------------- | -------------------------------------------------------------------------------------------------- |
+| Do you like your job?      | Yes, I do.       | Yes, I do. I enjoy my job because I can learn new things every day.                                |
+| What do you do after work? | I go to the gym. | I usually go to the gym after work because I want to stay healthy.                                 |
+| Do you like English?       | Yes.             | Yes, I really enjoy learning English because it helps me communicate with people around the world. |
+| What did you do yesterday? | I worked.        | I worked during the day, went to the gym, and watched a movie in the evening.                      |
+
+Nguyên tắc: Answer + Reason + Example.
+
+Ví dụ:
+
+> I like learning English (Answer) because it is useful for my career (Reason). For example, I can communicate with international colleagues (Example).
+
+### 9\. Weekly Speaking Challenge
+
+Week 1 Final Test
+
+7 Speaking Questions
+
+Mục tiêu: Nói 30–45 giây cho mỗi câu hỏi. Nhấn vào từng câu để xem gợi ý.
+
+1. Tell me about yourself.
+
+2. What does your typical day look like?
+
+3. Tell me about your family.
+
+4. What do you do for a living?
+
+5. What do you usually do in your free time?
+
+6. What languages do you speak?
+
+7. Why are you learning English?
+
+Đánh giá kết quả tuần 1:
+
+| Tiêu chí      | Mục tiêu                        |
+| ------------- | ------------------------------- |
+| Vocabulary    | Sử dụng được từ vựng đã học     |
+| Grammar       | Hạn chế lỗi thì và cấu trúc câu |
+| Pronunciation | Phát âm rõ, có trọng âm         |
+| Fluency       | Nói liên tục, ít ngập ngừng     |
+| Confidence    | Tự tin trả lời và đặt câu hỏi   |
+
+### 10\. Daily Checklist
+
+Weekly Review Progress
+
+### 0%
+
+Ôn lại 40+ từ vựng quan trọng trong tuần
+
+Luyện phát âm và nối âm 15 phút
+
+Ôn 5 cấu trúc ngữ pháp chính
+
+Hoàn thành 2 bài Listening
+
+Luyện 5 tình huống giao tiếp
+
+Nói giới thiệu bản thân trong 3–5 phút
+
+Hoàn thành bài tập tổng hợp
+
+Ghi âm và tự đánh giá bài nói
+
+### 11\. Preview — Day 8
+
+![2026 Planners
+– Shop Just Scribble](https://images.openai.com/static-rsc-4/-tU7NhGYGgISDbrsMXGoC93CGGA0p1ZElwP9BRNtpM_WTzrjLoNwZU6LsRCMC2cfxWsvFpzIRcZtIzP4xp-e9XYf8Q73tl8GsytipiiIuGFf77DJEWUwdFCnskLpQWtFi1atPbTzV7H04nmaMp9Ot-rIy_RWmqy5H3QMW3Ehl8k_jAx7yrwjmTHYNcUGtVzk?purpose=fullsize)
+
+DAY 8 — DAILY ACTIVITIES & LIFESTYLE
+
+New Topic
+
+Mô tả cuộc sống, thói quen và hoạt động hằng ngày một cách tự nhiên hơn.
+
+Nội dung ngày tiếp theo:
+
+* 25 từ vựng về Daily Activities.
+
+* Collocations và phrasal verbs thông dụng.
+
+* Present Simple vs Present Continuous nâng cao.
+
+* How often / How long / How much time.
+
+* 5 cuộc hội thoại về cuộc sống hằng ngày.
+
+* Listening: A Busy Day.
+
+* Speaking: Describe Your Lifestyle.
+
+* Bài tập và đáp án chi tiết.
+
+Mục tiêu: Có thể nói tự nhiên khoảng 3 phút về một ngày bình thường của mình.
+
+Khi sẵn sàng, hãy nói Continue để học Day 8.
