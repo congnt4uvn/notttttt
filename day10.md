@@ -1,568 +1,908 @@
-# DAY 10 --- OFFICE COMMUNICATION
+### DAY 10 — FOOD, EATING HABITS & NUTRITION
 
-## Speaking Naturally with Colleagues and Managers (A2--B1)
+Chủ đề: Đồ ăn, thói quen ăn uống và dinh dưỡng — Food, Eating Habits & Nutrition.
 
-**Thời lượng:** 120 phút\
-**Mục tiêu:** Giao tiếp tự nhiên và lịch sự ở nơi làm việc; chào hỏi
-đồng nghiệp, trao đổi trong cuộc họp, nhờ giúp đỡ, đưa ra đề xuất, đồng
-ý/không đồng ý và làm rõ thông tin.
+Đây là một trong những chủ đề xuất hiện thường xuyên nhất trong giao tiếp hằng ngày. Bạn cần biết cách mô tả món ăn, nói về khẩu vị, hỏi người khác thích ăn gì và gọi món tại nhà hàng.
+
+Mục tiêu sau bài học:
 
-------------------------------------------------------------------------
+* Mô tả món ăn yêu thích bằng tiếng Anh.
 
-## 1. Lịch học 120 phút
+* Nói về thói quen ăn uống và chế độ dinh dưỡng.
 
-  -----------------------------------------------------------------------
-  Thời gian               Nội dung                Mục tiêu
-  ----------------------- ----------------------- -----------------------
-  0--25 phút              Vocabulary &            Học từ vựng giao tiếp
-                          pronunciation           công sở
+* Sử dụng đúng Some, Any, Much, Many, A lot of.
+
+* Gọi món và giao tiếp tại nhà hàng.
+
+* Trò chuyện về đồ ăn trong 3–5 phút.
+
+### 1\. Lịch học hôm nay
+
+| Thời gian | Nội dung        |
+| --------- | --------------- |
+| 20 phút   | Vocabulary      |
+| 15 phút   | Pronunciation   |
+| 15 phút   | Grammar         |
+| 20 phút   | Listening       |
+| 25 phút   | Guided Speaking |
+| 20 phút   | Free Speaking   |
+| 5 phút    | Review          |
 
-  25--50 phút             Grammar & useful        Luyện câu hỏi, yêu cầu
-                          phrases                 và đề xuất lịch sự
+### 2\. Vocabulary — Từ vựng đồ ăn (20 phút)
 
-  50--75 phút             Everyday office         Thực hành tình huống
-                          conversations           hằng ngày
+### A. Meat, Seafood & Protein — Thịt, hải sản và đạm
 
-  75--105 phút            Meetings & role-play    Luyện trao đổi trong
-                                                  cuộc họp
+![grilled  chicken breast with cooked  vegetables](https://images.openai.com/static-rsc-4/wGR308AcWfJkBW_VewBeTRCWWkJCEq0rgKjA_31SsPfTONkQPKCCyAQFDrPDuNFFahGk5ch7lnD4Bgy2Z4vi6MqvLPjWX4fd2Z2Tum5UK9MP4xBtB5FxCnSQwYu-oLiGpcEN1H3Hu3peVOYWV8YVdLW32TSzYwuqTGWFQ71IRubobRzk-d3VDpWLHQpGAVhN?purpose=fullsize)
 
-  105--120 phút           Exercises & speaking    Làm bài tập và ghi âm
-                          review                  
-  -----------------------------------------------------------------------
+![Fresh raw salmon steaks on wooden table](https://images.openai.com/static-rsc-4/MOS7fuazNsWmliKOyh1_jBLlNubMsl9pZ6kAUsR136bM5l-yDhvdihMQyhp-CVYrp5WM3nBB5L6TnQE-p1OEXQv69mNYBelzn37RSkoiOFA5rJxrgIpydtUIDs-i8-xISaA2V3tyLvEg_q9dX5YdQxUGW3ZyfCJZgtb7fvpABfF0ZQz2SG9rhqtXG8OpXqov?purpose=fullsize)
 
-------------------------------------------------------------------------
+![Steak Week美食節登場 逾20間人氣餐廳推限定牛扒套餐　$118起歎和牛、T骨牛扒及龍蝦盛宴 | am730](https://images.openai.com/static-rsc-4/X8SCrBN5HAXS6w428F4wS_FSsrOlKsUwPb3sDDmSwUmH-1VXHWGUcpDJNRq1LwV0Yq7a6iq1ZB91vqNsgho3MT9Ce9XEOG5dE94Hy6hcG1cwVO54-FbywrtnFJwB4AhFIYPKJA9LZNLAWTYve9JnsSfYFnyJZtpLquQf_iDO6Ijku4AYRQuvV-yN459kdmss?purpose=fullsize)
 
-## 2. Vocabulary --- Từ vựng giao tiếp công sở
+![Fried Egg Recipe: How to Fry Eggs Sunny Side Up and Over Easy](https://images.openai.com/static-rsc-4/-A9DX7-5OaqGwk9KCfy7dLzpaVgSHysczpQS-AGmGluHPKCzVad7VZRODuypGOG9mJ-tXy8RkhtPDJ3x8sUKiKd753QF_u7No8Xmp8Zzh1YWgwk4Lx4UDzbh7icLPjDLNVZLi7DSbr6vH-kLpR_btHovXWHjXLpBw9X6hcFdqnSpB7xQVCcSuOcPZLc_c5uT?purpose=fullsize)
 
-  ----------------------------------------------------------------------------
-  Từ / Cụm từ       IPA                    Nghĩa             Ví dụ
-  ----------------- ---------------------- ----------------- -----------------
-  workplace         /ˈwɝːk.pleɪs/          nơi làm việc      We should keep
-                                                             our workplace
-                                                             tidy.
+| Vocabulary | IPA         | Nghĩa    |
+| ---------- | ----------- | -------- |
+| beef       | /biːf/      | thịt bò  |
+| pork       | /pɔːk/      | thịt heo |
+| chicken    | /ˈtʃɪk.ɪn/  | thịt gà  |
+| duck       | /dʌk/       | thịt vịt |
+| seafood    | /ˈsiː.fuːd/ | hải sản  |
+| shrimp     | /ʃrɪmp/     | tôm      |
+| crab       | /kræb/      | cua      |
+| salmon     | /ˈsæm.ən/   | cá hồi   |
+| egg        | /eɡ/        | trứng    |
+| tofu       | /ˈtəʊ.fuː/  | đậu phụ  |
 
-  colleague         /ˈkɑː.liːɡ/            đồng nghiệp       I'll ask my
-                                                             colleague for
-                                                             help.
+### B. Vegetables & Fruits — Rau củ và trái cây
 
-  supervisor        /ˈsuː.pɚˌvaɪ.zɚ/       người giám sát    My supervisor
-                                                             gave me some
-                                                             advice.
+![新鮮食材比較好？冷凍蔬果其實比你想得還營養！ - 食譜自由配 - 自由電子報](https://images.openai.com/static-rsc-4/8rTPhWWIw-NNSGP_x3uaWQMeCeqjaZ_tXwSAhg1rezGugKOKSQAqXdWs09molgcSxU5GwxVVa8QGglRV1lIde6WGGUoNeThG8qH7ThFQIdEsW4Mn4c2bmbBa8q2s49Pjkl8T5m8dl78nbczfRrYjFCMsJ8tP6HOPZ2T5m_J7X7Gkc53Yk7vSN5846JKwl_mc?purpose=fullsize)
 
-  agenda            /əˈdʒen.də/            chương trình họp  What's on the
-                                                             agenda today?
+![Tropical fruits background, many colorful ripe fresh tropical exotic fruits](https://images.openai.com/static-rsc-4/zc4OO5GxWMLIYXtDwQ3SEeXwHF8LLWlADuIWuoHEfzpqOBgyJIb8WpehSop5XtRpieH7USj5KiH2WgzgHCRL09kWlFYA32Z6LaGfVwmSGPPGgTK81XSETCvaF7UXsvz05B-yqCnpFvbaIU1D2yVKquaFjmQGa9IZxwC21Au0fj02RNS78YdvWxytJ3DsB7HV?purpose=fullsize)
 
-  minutes           /ˈmɪn.ɪts/             biên bản cuộc họp Could you send me
-                                                             the meeting
-                                                             minutes?
+| Vocabulary | IPA              | Nghĩa         |
+| ---------- | ---------------- | ------------- |
+| vegetables | /ˈvedʒ.tə.bəlz/  | rau củ        |
+| broccoli   | /ˈbrɒk.əl.i/     | bông cải xanh |
+| carrot     | /ˈkær.ət/        | cà rốt        |
+| cucumber   | /ˈkjuː.kʌm.bər/  | dưa chuột     |
+| tomato     | /təˈmɑː.təʊ/     | cà chua       |
+| lettuce    | /ˈlet.ɪs/        | rau xà lách   |
+| banana     | /bəˈnɑː.nə/      | chuối         |
+| apple      | /ˈæp.əl/         | táo           |
+| watermelon | /ˈwɔː.təˌmel.ən/ | dưa hấu       |
+| mango      | /ˈmæŋ.ɡəʊ/       | xoài          |
 
-  discussion        /dɪˈskʌʃ.ən/           cuộc thảo luận    We had a useful
-                                                             discussion.
+### C. Cooking Methods — Phương pháp nấu ăn
 
-  suggestion        /səˈdʒes.tʃən/         đề xuất           I have a
-                                                             suggestion.
+| Vocabulary | IPA           | Nghĩa         |
+| ---------- | ------------- | ------------- |
+| boil       | /bɔɪl/        | luộc          |
+| fry        | /fraɪ/        | chiên         |
+| grill      | /ɡrɪl/        | nướng         |
+| steam      | /stiːm/       | hấp           |
+| roast      | /rəʊst/       | quay, nướng   |
+| bake       | /beɪk/        | nướng bằng lò |
+| stir-fry   | /ˈstɜːr.fraɪ/ | xào           |
+| chop       | /tʃɒp/        | thái, chặt    |
+| slice      | /slaɪs/       | cắt lát       |
+| mix        | /mɪks/        | trộn          |
 
-  feedback          /ˈfiːd.bæk/            phản hồi          Thanks for your
-                                                             feedback.
+### D. Taste & Texture — Hương vị và kết cấu
 
-  opinion           /əˈpɪn.jən/            ý kiến            What's your
-                                                             opinion?
+![Taste Memories](https://images.openai.com/static-rsc-4/0LeBdoovhkgQgKxhUSY-w8yU3MP8MWG5ouK_YYRRuoqFmF4Cz8ePOvBRGuceSLBh6bqWTKAGkr60lzGV_kELo5b2sDZzkqp0ZWudqIrM1q8kmL58L4NV_PZMqSJ_kjtspXdXDj0amenahnFYkWvihFBqZgAQyzEeGkozCMYLWGJ0kT2o6gQtewDHksc7ved3?purpose=fullsize)
 
-  request           /rɪˈkwest/             yêu cầu           I have a small
-                                                             request.
+| Vocabulary | IPA         | Nghĩa        |
+| ---------- | ----------- | ------------ |
+| delicious  | /dɪˈlɪʃ.əs/ | ngon         |
+| spicy      | /ˈspaɪ.si/  | cay          |
+| sweet      | /swiːt/     | ngọt         |
+| sour       | /ˈsaʊər/    | chua         |
+| salty      | /ˈsɔːl.ti/  | mặn          |
+| bitter     | /ˈbɪt.ər/   | đắng         |
+| crispy     | /ˈkrɪs.pi/  | giòn         |
+| juicy      | /ˈdʒuː.si/  | mọng nước    |
+| tender     | /ˈten.dər/  | mềm          |
+| greasy     | /ˈɡriː.si/  | nhiều dầu mỡ |
 
-  clarification     /ˌkler.ə.fəˈkeɪ.ʃən/   sự làm rõ         Could I ask for
-                                                             clarification?
+### E. Food & Nutrition Collocations
 
-  confirm           /kənˈfɝːm/             xác nhận          Can you confirm
-                                                             the meeting time?
+| Collocation           | Nghĩa                    | Example                                |
+| --------------------- | ------------------------ | -------------------------------------- |
+| have a meal           | dùng một bữa ăn          | Let's have a meal together.            |
+| skip breakfast        | bỏ bữa sáng              | I rarely skip breakfast.               |
+| eat out               | ăn ngoài                 | I sometimes eat out with friends.      |
+| cook at home          | nấu ăn ở nhà             | I prefer cooking at home.              |
+| order food            | đặt món ăn               | Let's order some food.                 |
+| follow a healthy diet | theo chế độ ăn lành mạnh | I try to follow a healthy diet.        |
+| eat a balanced diet   | ăn uống cân bằng         | It's important to eat a balanced diet. |
+| be allergic to        | bị dị ứng với            | I'm allergic to shrimp.                |
+| cut down on sugar     | giảm lượng đường         | I'm trying to cut down on sugar.       |
+| try a new dish        | thử món ăn mới           | I'd like to try a new dish.            |
 
-  postpone          /poʊstˈpoʊn/           hoãn lại          Can we postpone
-                                                             the meeting?
+### F. Natural Expressions — Cách nói tự nhiên
 
-  reschedule        /ˌriːˈskedʒ.uːl/       đổi lịch          We need to
-                                                             reschedule our
-                                                             call.
+* I'm really into Vietnamese food. — Tôi rất thích đồ ăn Việt Nam.
 
-  available         /əˈveɪ.lə.bəl/         có thời           Are you available
-                                           gian/rảnh; sẵn có this afternoon?
+* I'm not a big fan of spicy food. — Tôi không thích đồ ăn cay lắm.
 
-  convenient        /kənˈviːn.jənt/        thuận tiện        Is 2 p.m.
-                                                             convenient for
-                                                             you?
+* It tastes amazing. — Món này có vị tuyệt vời.
 
-  urgent            /ˈɝː.dʒənt/            khẩn cấp          This is an urgent
-                                                             request.
+* It smells delicious. — Nó có mùi rất thơm.
 
-  appreciate        /əˈpriː.ʃi.eɪt/        trân trọng, cảm   I appreciate your
-                                           kích              help.
+* It's a little too salty for me. — Nó hơi mặn đối với tôi.
 
-  clarify           /ˈkler.ə.faɪ/          làm rõ            Could you clarify
-                                                             this point?
+* I'm craving something sweet. — Tôi đang thèm đồ ngọt.
 
-  suggest           /səˈdʒest/             đề xuất           I suggest
-                                                             starting with the
-                                                             first task.
+* I'm full. — Tôi no rồi.
 
-  agree             /əˈɡriː/               đồng ý            I agree with your
-                                                             idea.
+* I'm starving. — Tôi đói lắm.
 
-  disagree          /ˌdɪs.əˈɡriː/          không đồng ý      I see your point,
-                                                             but I disagree.
+* That looks delicious! — Món đó trông ngon quá!
 
-  interrupt         /ˌɪn.t̬əˈrʌpt/          ngắt lời          Sorry to
-                                                             interrupt.
+Practice: Đọc to mỗi câu 3 lần và thay tên món ăn bằng món bạn yêu thích.
 
-  contribute        /kənˈtrɪb.juːt/        đóng góp          Everyone can
-                                                             contribute ideas.
+### 3\. Pronunciation — Luyện phát âm (15 phút)
 
-  follow up         /ˈfɑː.loʊ ʌp/          theo dõi, liên hệ I'll follow up by
-                                           tiếp              email.
+### A. Những từ dễ phát âm sai
 
-  get back to       /ɡet bæk/              phản hồi lại ai   I'll get back to
-  someone                                                    you tomorrow.
-  ----------------------------------------------------------------------------
+| Word        | IPA              | Lưu ý                              |
+| ----------- | ---------------- | ---------------------------------- |
+| vegetable   | /ˈvedʒ.tə.bəl/   | Phát âm gọn                        |
+| delicious   | /dɪˈlɪʃ.əs/      | Nhấn âm thứ hai                    |
+| restaurant  | /ˈres.tər.ɒnt/   | Nhấn âm đầu                        |
+| chocolate   | /ˈtʃɒk.lət/      | Không cần phát âm đủ mọi nguyên âm |
+| comfortable | /ˈkʌm.fə.tə.bəl/ | Nhấn âm đầu                        |
+| recipe      | /ˈres.ɪ.pi/      | Nhấn âm đầu                        |
+| ingredient  | /ɪnˈɡriː.di.ənt/ | Nhấn âm thứ hai                    |
+| nutritious  | /njuːˈtrɪʃ.əs/   | Nhấn âm thứ hai                    |
 
-### Useful office expressions
+### B. Practice — Phân biệt âm
 
--   **touch base** --- trao đổi nhanh để cập nhật tình hình
--   **keep someone in the loop** --- cập nhật thông tin cho ai
--   **bring something up** --- nêu một vấn đề
--   **look into something** --- xem xét, tìm hiểu vấn đề
--   **get back to someone** --- phản hồi lại
--   **run something by someone** --- hỏi ý kiến ai về điều gì
--   **be on the same page** --- cùng hiểu/thống nhất một vấn đề
--   **take a look** --- xem qua
--   **follow up on something** --- tiếp tục theo dõi việc gì
+| Word 1      | Word 2       |
+| ----------- | ------------ |
+| rice /raɪs/ | rise /raɪz/  |
+| ship /ʃɪp/  | sheep /ʃiːp/ |
+| live /lɪv/  | leave /liːv/ |
+| food /fuːd/ | foot /fʊt/   |
 
-Ví dụ: - Let's touch base tomorrow morning. - I'll keep you in the
-loop. - Can I run an idea by you? - We need to look into this issue.
+### C. Shadowing Practice
 
-------------------------------------------------------------------------
+> I really enjoy Vietnamese food because it has a lot of flavor.
 
-## 3. Grammar & useful phrases --- Nói lịch sự hơn
+> My favorite dish is pho. It's made with rice noodles, beef, and fresh herbs.
 
-### 3.1. Requests: Can, Could, Would
+> I usually cook at home, but sometimes I eat out with my friends.
 
-Dùng câu hỏi lịch sự khi nhờ đồng nghiệp hoặc quản lý.
+> I'm trying to eat more vegetables and cut down on sugar.
 
-  -----------------------------------------------------------------------
-  Cách nói                Mức độ lịch sự          Ví dụ
-  ----------------------- ----------------------- -----------------------
-  Can you...?             Thân thiện, trực tiếp   Can you send me the
-                                                  file?
+> This restaurant serves delicious food at reasonable prices.
 
-  Could you...?           Lịch sự hơn             Could you check this
-                                                  report?
+Đọc mỗi câu 5 lần, cố gắng bắt chước ngữ điệu tự nhiên.
 
-  Would you mind +        Lịch sự                 Would you mind checking
-  V-ing...?                                       this?
+### 4\. Grammar — Countable & Uncountable Nouns (15 phút)
 
-  Could I ask you to...?  Lịch sự, trang trọng    Could I ask you to
-                          hơn                     review this document?
-  -----------------------------------------------------------------------
+Đây là phần ngữ pháp quan trọng khi nói về đồ ăn và gọi món.
 
-**Cách trả lời:** - Sure, no problem. - Of course. I'll do it now. - I'd
-be happy to help. - Sorry, I'm a little busy right now. Could I do it
-this afternoon?
+### A. Countable Nouns — Danh từ đếm được
 
-Lưu ý: Sau **Would you mind**, dùng V-ing. - Đúng: Would you mind
-**opening** the window? - Sai: Would you mind **to open** the window?
+Là những danh từ có thể đếm bằng số.
 
-### 3.2. Making suggestions --- Đưa ra đề xuất
+Examples:
 
--   **Let's + động từ:** Let's start with the main issue.
--   **Why don't we + động từ?** Why don't we discuss this first?
--   **How about + V-ing?** How about moving the meeting to Friday?
--   **We could + động từ:** We could ask the design team for help.
--   **I suggest + V-ing:** I suggest checking the data again.
+* one apple, two apples
 
-### 3.3. Agreeing and disagreeing politely
+* one egg, three eggs
 
-**Đồng ý:** - I agree. - That's a good point. - That makes sense. - I
-think that's a great idea. - I completely agree with you.
+* one sandwich, two sandwiches
 
-**Không đồng ý một cách lịch sự:** - I see your point, but... - I'm not
-sure I agree. - That's one option. However,... - I have a slightly
-different view. - Could we consider another approach?
+* one banana, five bananas
 
-Tránh chỉ nói "You're wrong" trong môi trường công việc. Hãy giải thích
-lý do và đưa ra phương án khác.
+Có thể sử dụng:
 
-### 3.4. Asking for clarification --- Yêu cầu làm rõ
+* a / an
 
--   Could you explain that again?
--   Could you clarify what you mean by...?
--   Sorry, I didn't quite catch that.
--   Do you mean that we should...?
--   Just to confirm, the deadline is Friday, right?
+* many
 
-### 3.5. Useful question forms
+* a few
 
--   Are you available this afternoon?
--   Would 3 p.m. work for you?
--   Could we move the meeting to tomorrow?
--   Who is responsible for this task?
--   What do you think about this idea?
+* some
 
-------------------------------------------------------------------------
+Examples:
 
-## 4. Everyday office conversations --- Hội thoại hằng ngày
+* I have an apple.
 
-### Conversation 1: Greeting a colleague
+* How many eggs do you need?
 
-**A:** Morning! How are you doing?\
-**B:** Pretty good, thanks. How about you?\
-**A:** Not bad. Are you busy today?\
-**B:** A little. I have a few tasks to finish before lunch.\
-**A:** Got it. Let me know if you need any help.\
-**B:** Thanks. I appreciate it.
+* I bought a few bananas.
 
-**Cụm từ:** - How are you doing? --- Bạn thế nào? - Not bad. --- Cũng
-ổn. - Got it. --- Tôi hiểu rồi. - Let me know if... --- Hãy cho tôi biết
-nếu...
+### B. Uncountable Nouns — Danh từ không đếm được
 
-### Conversation 2: Asking a colleague for help
+Là những danh từ thường không đếm trực tiếp bằng số.
 
-**A:** Hi, do you have a minute?\
-**B:** Sure. What's up?\
-**A:** Could you help me review this document?\
-**B:** Of course. When do you need it?\
-**A:** Ideally, before 3 p.m.\
-**B:** No problem. I'll take a look after lunch.\
-**A:** Thanks a lot. I really appreciate your help.
+Examples:
 
-### Conversation 3: Rescheduling a meeting
+| English     | Tiếng Việt |
+| ----------- | ---------- |
+| water       | nước       |
+| milk        | sữa        |
+| rice        | gạo/cơm    |
+| sugar       | đường      |
+| salt        | muối       |
+| bread       | bánh mì    |
+| meat        | thịt       |
+| cheese      | phô mai    |
+| coffee      | cà phê     |
+| information | thông tin  |
 
-**A:** Hi, are we still meeting at 2 p.m.?\
-**B:** Could we move it to 3 p.m.? Something urgent has come up.\
-**A:** Sure. 3 p.m. works for me.\
-**B:** Great. I'll update the calendar invitation.\
-**A:** Thanks for letting me know.
+Examples:
 
-### Conversation 4: Giving a different opinion
+* I drink a lot of water.
 
-**A:** I think we should launch the new feature next week.\
-**B:** I see your point, but I'm a little concerned about the testing.\
-**A:** What do you suggest?\
-**B:** We could spend two more days testing it.\
-**A:** That makes sense. Let's discuss the timeline with the team.\
-**B:** Sounds good.
+* I don't eat much sugar.
 
-------------------------------------------------------------------------
+* We need some rice.
 
-## 5. Meeting English --- Tiếng Anh trong cuộc họp
+Không nói: two waters trong cách dùng thông thường khi nói về nước nói chung.
 
-### A. Starting a meeting
+Có thể nói: two bottles of water — hai chai nước.
 
--   Shall we get started?
--   Thanks for joining, everyone.
--   Let's begin with today's agenda.
--   The purpose of this meeting is to discuss...
+### C. Some vs Any
 
-### B. Giving an update
+| Some                             | Any                                        |
+| -------------------------------- | ------------------------------------------ |
+| Thường dùng trong câu khẳng định | Thường dùng trong câu phủ định và nghi vấn |
+| I have some apples.              | I don't have any apples.                   |
+| There is some milk.              | Is there any milk?                         |
 
--   Let me give you a quick update.
--   We've completed the first stage.
--   We're currently working on...
--   The main issue is...
--   We expect to finish by...
+Some cũng có thể được dùng trong lời mời hoặc đề nghị:
 
-### C. Asking questions
+* Would you like some coffee?
 
--   Could you explain that in more detail?
--   Can I ask a quick question?
--   What do you mean by...?
--   Could you give us an example?
+* Can I have some water?
 
-### D. Sharing ideas
+### D. Much vs Many
 
--   I'd like to suggest something.
--   From my point of view,...
--   One possible solution would be...
--   What if we...?
--   Another option is to...
+| Much                   | Many                      |
+| ---------------------- | ------------------------- |
+| Danh từ không đếm được | Danh từ đếm được số nhiều |
+| How much water?        | How many apples?          |
+| How much rice?         | How many eggs?            |
+| How much sugar?        | How many sandwiches?      |
 
-### E. Ending a meeting
+### E. A lot of / Lots of
 
--   Let's summarize the key points.
--   Who will take care of this task?
--   What are the next steps?
--   I'll send the meeting notes after this.
--   Thanks, everyone. That's all for today.
+Dùng được với cả danh từ đếm được số nhiều và không đếm được.
 
-### Sample meeting
+* I eat a lot of vegetables.
 
-**Manager:** Thanks for joining. Let's start with the project update.\
-**Team member:** We've completed the design, and we're now working on
-development.\
-**Manager:** Are there any issues?\
-**Team member:** We have a small problem with the schedule. We may need
-one more day.\
-**Manager:** What do you suggest?\
-**Team member:** I suggest moving one lower-priority task to next week.\
-**Manager:** That sounds reasonable. Can you update the schedule?\
-**Team member:** Sure. I'll send the revised version this afternoon.\
-**Manager:** Great. Let's move on to the next item.
+* I drink a lot of water.
 
-------------------------------------------------------------------------
+* She has lots of friends.
 
-## 6. Speaking practice --- Luyện nói
+### F. Natural Questions
 
-### Topic 1: A typical morning at work (1 minute)
+Học thuộc các câu sau:
 
-Trả lời: 1. How do you greet your colleagues? 2. What do you do first?
-3. Do you check emails or messages? 4. Do you have a morning meeting? 5.
-How do you organize your tasks?
+* How much water do you drink every day?
 
-Mẫu: \> When I arrive at work, I usually greet my colleagues and turn on
-my computer. Then I check my emails and review my tasks for the day. If
-we have a meeting, I prepare some notes before it starts. I like to
-organize my priorities in the morning.
+* How many meals do you eat a day?
 
-### Topic 2: Asking for help politely (1 minute)
+* Do you eat a lot of vegetables?
 
-Tưởng tượng bạn không hiểu một nhiệm vụ. Hãy nói: - Mở đầu cuộc trò
-chuyện. - Giải thích điều bạn chưa hiểu. - Nhờ đồng nghiệp giải thích
-hoặc kiểm tra. - Cảm ơn họ.
+* Is there any milk in the fridge?
 
-Mẫu: \> Hi, do you have a minute? I'm not sure I understand this part of
-the task. Could you explain it to me? I'd really appreciate your help.
+* Would you like some coffee?
 
-### Topic 3: Share an idea in a meeting (1--2 minutes)
+* How much sugar do you put in your coffee?
 
-Gợi ý: - What is the problem? - What is your idea? - Why would it
-help? - What should the team do next?
+### 5\. Listening — My Eating Habits (20 phút)
 
-Mẫu: \> I'd like to suggest a small change to our process. We could
-organize the tasks by priority. This would help us focus on the most
-important work first. We could try this approach for one week and review
-the results.
+Listening 1
 
-### Topic 4: Disagree politely (1 minute)
+### A. Listening Script
 
-Mẫu: \> I understand your idea, and I can see why you suggested it.
-However, I'm concerned that we don't have enough time. Perhaps we could
-consider a simpler option first.
+My Eating Habits
 
-### Topic 5: Summarize a meeting (1 minute)
+> Hi, my name is Emily. I'd like to talk about my eating habits.I usually have three meals a day: breakfast, lunch, and dinner.For breakfast, I often eat eggs, bread, and fruit. I also drink a cup of coffee.For lunch, I usually have rice, chicken, and vegetables. Sometimes I eat out with my colleagues because we're often busy at work.Dinner is usually my biggest meal. I like cooking at home because I can choose fresh ingredients and control what I eat.I try to eat a balanced diet. I eat plenty of vegetables and fruit, and I drink a lot of water. I also try to cut down on sugary drinks and fast food.I'm not perfect, of course. Sometimes I enjoy pizza, burgers, or ice cream. I believe it's important to enjoy food while maintaining healthy eating habits.
 
-Dùng: - Today, we discussed... - We agreed to... - The next step is... -
-I'm responsible for... - We'll meet again...
+### B. Bản dịch tiếng Việt
 
-------------------------------------------------------------------------
+Xin chào, tên tôi là Emily. Tôi muốn nói về thói quen ăn uống của mình.
 
-## 7. Role-play --- Đóng vai
+Tôi thường ăn ba bữa một ngày: sáng, trưa và tối.
 
-### Situation A: Ask for help
+Bữa sáng, tôi thường ăn trứng, bánh mì và trái cây. Tôi cũng uống một tách cà phê.
 
-Bạn cần đồng nghiệp giúp kiểm tra một báo cáo trước cuối ngày.
+Bữa trưa, tôi thường ăn cơm, thịt gà và rau. Đôi khi tôi ăn ngoài với đồng nghiệp vì chúng tôi thường bận rộn ở nơi làm việc.
 
-Cố gắng dùng: - Do you have a minute? - Could you help me with...? - I
-need it by... - I appreciate your help.
+Bữa tối thường là bữa ăn lớn nhất của tôi. Tôi thích nấu ăn ở nhà vì có thể chọn nguyên liệu tươi và kiểm soát những gì mình ăn.
 
-### Situation B: Change a meeting time
+Tôi cố gắng ăn uống cân bằng. Tôi ăn nhiều rau và trái cây, đồng thời uống nhiều nước. Tôi cũng cố gắng giảm đồ uống có đường và thức ăn nhanh.
 
-Bạn có việc đột xuất và muốn đổi cuộc họp từ 10 giờ sáng sang 2 giờ
-chiều.
+Tất nhiên, tôi không hoàn hảo. Đôi khi tôi vẫn thích pizza, hamburger hoặc kem. Tôi tin rằng điều quan trọng là tận hưởng đồ ăn đồng thời duy trì thói quen ăn uống lành mạnh.
 
-Cố gắng dùng: - Something urgent has come up. - Could we reschedule the
-meeting? - Would 2 p.m. work for you? - Thanks for understanding.
+### C. Comprehension Questions
 
-### Situation C: Suggest a solution
+* How many meals does Emily usually have a day?
 
-Nhóm của bạn thường xuyên trễ deadline. Hãy đề xuất: - Chia nhiệm vụ
-thành các phần nhỏ. - Xác định mức độ ưu tiên. - Cập nhật tiến độ hằng
-ngày.
+* What does she eat for breakfast?
 
-Cố gắng dùng: - I'd like to suggest... - We could... - This would help
-us... - What do you think?
+* What does she usually have for lunch?
 
-### Situation D: Participate in a meeting
+* Why does she like cooking at home?
 
-Bạn cần báo cáo tiến độ, đặt một câu hỏi và đưa ra một đề xuất. Hãy nói
-ít nhất 6 lượt trao đổi.
+* What does she try to cut down on?
 
-------------------------------------------------------------------------
+* Does she sometimes eat fast food?
 
-## 8. Exercises --- Bài tập
+Answer Key:
 
-### Exercise 1: Choose the polite expression
+* Three meals.
 
-1.  \_\_\_\_\_\_ you check this file for me?
-    a.  Could b. Must c. Did
-2.  Would you mind \_\_\_\_\_\_ the meeting notes?
-    a.  send b. sending c. to send
-3.  How about \_\_\_\_\_\_ the meeting to Friday?
-    a.  move b. moving c. to move
-4.  I see your point, but I \_\_\_\_\_\_ agree.
-    a.  not sure b. am not sure c. don't sure
-5.  Just to \_\_\_\_\_\_, the deadline is Monday, right?
-    a.  confirm b. suggest c. postpone
+* Eggs, bread, and fruit.
 
-### Exercise 2: Match the situation
+* Rice, chicken, and vegetables.
 
-Ghép câu nói với tình huống phù hợp.
+* Because she can choose fresh ingredients and control what she eats.
 
-1.  "Could you clarify what you mean?"
-2.  "Would 3 p.m. work for you?"
-3.  "I see your point, but..."
-4.  "I'll keep you in the loop."
-5.  "Shall we get started?"
+* Sugary drinks and fast food.
 
-A. Bắt đầu cuộc họp.\
-B. Không đồng ý một cách lịch sự.\
-C. Hỏi để làm rõ thông tin.\
-D. Hỏi giờ có thuận tiện không.\
-E. Hứa sẽ tiếp tục cập nhật.
+* Yes, sometimes.
 
-### Exercise 3: Complete the dialogue
+### Listening 2 — Ordering at a Restaurant
 
-Điền các cụm từ: **Could you, works for me, appreciate, move it,
-available**
+> Waiter: Good evening! Are you ready to order?Customer: Yes, I'd like a bowl of chicken soup and grilled salmon, please.Waiter: Certainly. Would you like anything to drink?Customer: Could I have a glass of orange juice?Waiter: Of course. Would you like anything else?Customer: No, that's all for now. Thank you.Waiter: You're welcome. I'll be right back.
 
-**A:** Are you \_\_\_\_\_\_ tomorrow afternoon?\
-**B:** Yes, I am.\
-**A:** Could we \_\_\_\_\_\_ the meeting to 2 p.m.?\
-**B:** Sure, that \_\_\_\_\_\_.\
-**A:** Great. \_\_\_\_\_\_ send me the updated invitation?\
-**B:** Of course.\
-**A:** Thanks. I really \_\_\_\_\_\_ it.
+Questions:
 
-### Exercise 4: Rewrite politely
+* What soup does the customer order?
 
-Viết lại các câu sau sao cho lịch sự hơn.
+* What main dish does the customer order?
 
-1.  Send me the report.
-2.  Explain this again.
-3.  Change the meeting time.
-4.  Your idea is wrong.
-5.  Help me with this task.
+* What drink does the customer ask for?
 
-### Exercise 5: Translate into English
+* Does the customer order anything else?
 
-1.  Bạn có thể giúp tôi kiểm tra tài liệu này không?
-2.  Bạn có phiền gửi cho tôi biên bản cuộc họp không?
-3.  Tôi hiểu ý bạn, nhưng tôi có một đề xuất khác.
-4.  Chúng ta có thể chuyển cuộc họp sang ngày mai không?
-5.  Để xác nhận lại, hạn chót là thứ Sáu, đúng không?
-6.  Tôi sẽ cập nhật cho bạn nếu có thay đổi.
+Answers:
 
-### Exercise 6: Write a short meeting update
+* Chicken soup.
 
-Viết 5--7 câu để: - Mở đầu phần cập nhật. - Nêu việc đã hoàn thành. -
-Nêu việc đang thực hiện. - Nói về một vấn đề. - Đề xuất bước tiếp theo.
+* Grilled salmon.
 
-------------------------------------------------------------------------
+* Orange juice.
 
-## 9. Answer key --- Đáp án
+* No, that's all for now.
 
-### Exercise 1
+### 6\. Guided Speaking — Luyện nói có hướng dẫn (25 phút)
 
-1.  a --- Could
-2.  b --- sending
-3.  b --- moving
-4.  b --- am not sure
-5.  a --- confirm
+### Topic 1: What's your favorite food?
 
-### Exercise 2
+![Vietnamese Pho among world’s 100 most popular dishes: TasteAtlas](https://images.openai.com/static-rsc-4/nkeMiqVUP0-e5-jXK33X5UCtl4deSR8zCtWM27tY8VKHxxn_0MCIVV_7sxZqQQPtPZ7zuw5BhPkz1HA0rv4Vv13kKz5fa19Z4HjcxAMGD_aItMz7VH_w44-kCqoeqiLAOoOOsn7XBp6Teq3dRS2sXcEIOylc2BQk5eoJaR1lekId2nV9f23Ntyd5iB8lmOPf?purpose=fullsize)
 
-1.  C
-2.  D
-3.  B
-4.  E
-5.  A
+Questions:
 
-### Exercise 3
+* What's your favorite food?
 
-1.  available
-2.  move it
-3.  works for me
-4.  Could you
-5.  appreciate
+* How often do you eat it?
 
-### Exercise 4 --- Gợi ý
+* What ingredients does it contain?
 
-1.  Could you send me the report, please?
-2.  Could you explain this again, please?
-3.  Could we reschedule the meeting?
-4.  I see your point, but I have a different suggestion.
-5.  Could you help me with this task?
+* How does it taste?
 
-### Exercise 5 --- Gợi ý
+* Where do you usually eat it?
 
-1.  Could you help me check this document?
-2.  Would you mind sending me the meeting minutes?
-3.  I see your point, but I have another suggestion.
-4.  Could we move the meeting to tomorrow?
-5.  Just to confirm, the deadline is Friday, right?
-6.  I'll keep you updated if anything changes.
+Sample Answer:
 
-### Exercise 6 --- Bài mẫu
+> My favorite food is Vietnamese pho. It's a traditional Vietnamese noodle soup made with rice noodles, beef or chicken, fresh herbs, and a flavorful broth.I really enjoy it because it tastes delicious and has a wonderful smell.I usually eat pho for breakfast, but sometimes I have it for lunch.I think it's one of the best Vietnamese dishes, and I would definitely recommend it to foreigners visiting Vietnam.
 
-> Let me give you a quick update. We've completed the first part of the
-> project. We're currently working on the next stage. However, we've run
-> into a small issue with the schedule. I suggest reviewing our
-> priorities and moving one task to next week. This would give us more
-> time to finish the important work. I'll send an updated schedule this
-> afternoon.
+### Topic 2: Describe your eating habits
 
-------------------------------------------------------------------------
+Sample Answer:
 
-## 10. Common mistakes --- Lỗi thường gặp
+> I usually eat three meals a day.For breakfast, I prefer something simple, such as eggs, bread, or noodles.For lunch, I usually eat rice with meat and vegetables.For dinner, I sometimes cook at home or eat out with friends.I'm trying to eat healthier by eating more vegetables, drinking enough water, and reducing sugary drinks.
 
-  -----------------------------------------------------------------------
-  Sai                     Đúng                    Giải thích
-  ----------------------- ----------------------- -----------------------
-  Would you mind to help  Would you mind helping  Sau "Would you mind"
-  me?                     me?                     dùng V-ing.
+### Topic 3: Do you prefer eating at home or eating out?
 
-  How about to meet       How about meeting       Sau "How about" dùng
-  tomorrow?               tomorrow?               V-ing.
+![Cách người Việt ứng xử tinh tế khi mời khách ăn cơm](https://images.openai.com/static-rsc-4/HnronLh8t1BNrGpuvYs-qOxQVhgmwh_UCScBYPrVqTs1uj2H8M1mDdmFUCLp3PqUzcPMyttQXceXrO_vRCltsFo1uFqj8H_fR2BWdIhKvH8sOwnBoBIaNuY2nhZWSA7fG_SLxHm_mIto-q-1jU7SRBn4A-yRXC4mcX43OLiWoKDyCSWoAXeFHQquWbOL9yWw?purpose=fullsize)
 
-  I am agree.             I agree.                "Agree" là động từ,
-                                                  không dùng "am".
+![Market at 70 King](https://images.openai.com/static-rsc-4/SQZ-Uhi76-17MPz_o6lPvSHi-msu9nV2xNdHZH2WwcTd90MWdIwZVUZ29G02ucRvsh4fPqAxV7t4DW-UDkyGwgsbOdGlPiLFkGg6pc4CrJKbWw8EsPr8TsiVcuDoTmVSq3NelaNAjUn6ZRVNfD1usknv0g3TDkyYNhn7jgbEWMj8cOOCKTpAARna9vRz5us-?purpose=fullsize)
 
-  Can you explain me      Can you explain this to Cấu trúc: explain
-  this?                   me?                     something to someone.
+![5 quán cơm nhà Đà Lạt, ấm cúng & xinh xắn](https://images.openai.com/static-rsc-4/I4j1ONCkuBHnzzB_uYST2t5LUxiCd_cjQKC1k8szQ3JF87SL56O0xbMkiZR2zotV9e0MLUnDDbpX0J189vAqgIkKqTjOczwf06p7OPs8AE9mE8OK5g8OEUy07OoUbnOYXJGynSbzX1X0RLuVRFLM0wD7RnNK4Vu4-7_w-IM1Ib8A0o2ktsVyNlP16VbyKRY-?purpose=fullsize)
 
-  I will discuss about    I will discuss it.      "Discuss" không cần
-  it.                                             "about" trước tân ngữ.
+![Top 9 Northern Vietnamese Cuisine Restaurants in Ho Chi Minh City You Must Visit - Mytour.vn](https://images.openai.com/static-rsc-4/VeYKD908EFdo9H3FlrDF9aB1I5ccnrFW9w0VgZKfbWKGp04-ElReU27OwblO4_uyYgh_idAWXfdo8ml9GDVKV-clYf5HPNobpgRJNFzqPAFPtDjxlq_3utBYQrtpqvtl0W9Z3rAn4IHGoDFP7cHKqeKdHNPb0DdsuSP3o9Y5L9fhdGZ3ieisFsbE-AEyOANl?purpose=fullsize)
 
-  Please feedback me.     Please give me          "Feedback" thường là
-                          feedback.               danh từ không đếm được.
-  -----------------------------------------------------------------------
+![Main Menu | Discover Delicious Flavors Today — Zazu Dining & Bar](https://images.openai.com/static-rsc-4/oYt6ctgfi9nWS3S7xN4fR51yxDRB9ou69uKxosNQwLKScjQHnPMVdOhkSnbR_ErY3NeukkRxDkNZKn6yBira2OcTzY70h0WOFX6RbbOywhpqztSC1qNvzQoGvMcNnQDLZjtmOpuWb41-vUC0poxrQibrkjrD9ClU6Ln_4lz-xz7wDUUJHkBiVck8wGI1juJ5?purpose=fullsize)
 
-------------------------------------------------------------------------
+![15 mâm cơm đầu hè tươi mát ngon miệng, ai nhìn cũng muốn về nhà đổi thực đơn gấp](https://images.openai.com/static-rsc-4/XwVIEe_v-i_Kz3uT964j829HKhgLw3y_mRi-DiqYyvTBgz-Gdl18HNGY-LFsFr8BB1spJf0Jfi8gffRcgB8psfyzYZgXa4R5gkAvezKvQHPbyG46VlZpMk2ysm8CWzzzz8nHj1x9O96GPXELCElfxgHCUgLzTOdbQBSbi8IOvOtxsaizXnfYv5jy_5c-uhzB?purpose=fullsize)
 
-## 11. Daily speaking challenge
+![Discover the Psychology of Signature Dishes: Chefs and Emotional Connections](https://images.openai.com/static-rsc-4/S1mqOI7L8G85tOemwipHz3DiDtBdpXjEHteW43aFeyEyrWe7niQ7yX-wVKsG__CtDrfHa6bNOifsvcILj9QYOvATcxwIYRMvuv6mMVm623akRZaSb2PV8avGU6iBJqxx-ADe33GtXpjlknpPUbRuxvmbYvGTMtty2uPEmxcXyZbhepOOOeM7D6VTek_eX4H0?purpose=fullsize)
 
-**Ghi âm 2 phút:** "A Conversation at Work".
+Sample Answer:
 
-Tự tạo một cuộc hội thoại ngắn với đồng nghiệp, trong đó bạn: 1. Chào
-hỏi và hỏi thăm. 2. Nhờ giúp đỡ một việc. 3. Đề xuất đổi lịch hoặc cách
-giải quyết. 4. Nêu ý kiến đồng ý hoặc không đồng ý lịch sự. 5. Kết thúc
-bằng lời cảm ơn và bước tiếp theo.
+> I enjoy both, but I prefer eating at home most of the time.Cooking at home allows me to choose fresh ingredients and control what I eat. It's also usually more affordable.However, eating out is convenient, especially when I'm busy or meeting friends.I think both options have their advantages.
 
-### Checklist
+### Topic 4: What kind of food don't you like?
 
--   [ ] Tôi có thể nhờ giúp đỡ bằng câu lịch sự.
--   [ ] Tôi biết đề xuất bằng "How about...?" và "Why don't we...?".
--   [ ] Tôi có thể đồng ý hoặc không đồng ý một cách lịch sự.
--   [ ] Tôi biết yêu cầu làm rõ thông tin.
--   [ ] Tôi có thể nói ít nhất 5 câu trong một tình huống họp.
+Sample Answer:
 
-**Mẹo:** Trong giao tiếp công sở, sự rõ ràng và lịch sự quan trọng hơn
-việc dùng câu quá phức tạp. Hãy nói ngắn gọn, đúng trọng tâm và xác nhận
-lại những thông tin quan trọng.
+> I'm not a big fan of food that is too greasy or too sweet.I prefer meals that are fresh, flavorful, and not too heavy.However, I don't mind trying different dishes because I enjoy discovering new flavors and cuisines.
 
-------------------------------------------------------------------------
+### Topic 5: How can people maintain healthy eating habits?
 
-## 12. Preview --- Day 11
+Sample Answer:
 
-**DAY 11 --- TECHNOLOGY & THE INTERNET**
+> I think people should start by eating a balanced diet.They should eat enough vegetables, fruit, protein, and other nutritious foods.They should also drink enough water and avoid consuming too much sugar.In addition, planning meals and cooking at home can help people make better food choices.
 
-Ngày tiếp theo: - Nói về thiết bị, ứng dụng và Internet. - Mô tả cách
-bạn sử dụng công nghệ hằng ngày. - Nói về ưu điểm, nhược điểm và vấn đề
-công nghệ. - Giải thích một vấn đề kỹ thuật đơn giản. - Luyện hội thoại
-về điện thoại, máy tính, ứng dụng và công việc trực tuyến.
+### 7\. Real-life Conversations — 5 tình huống giao tiếp
+
+### Conversation 1: Talking about favorite food
+
+A: What's your favorite Vietnamese dish?
+
+B: I really love pho.
+
+A: What makes it special?
+
+B: I love the broth. It's rich, flavorful, and smells amazing.
+
+A: Do you eat it often?
+
+B: Yes, I probably eat it once or twice a week.
+
+A: I should try it sometime!
+
+B: Definitely! You should try it when you visit Vietnam.
+
+### Conversation 2: Ordering food at a restaurant
+
+![Serve from the Heart Feedback Checklist for Restaurants | Free Template](https://images.openai.com/static-rsc-4/6SGhPzjUGSnWsNxUQK92UgH7vZOVm_h2FW7LztJblpd2_oHra2ziQqmh_FG3TSEFiC2us4HPG0ABebvv-CKqzPp58R7VjnExEwWBpSU5pU5ySL1xJjcuC1rJPHzltzX04Kerl4_ODrzVNpIk--k_2ou66Y1MAPbcnj6qpf0UYkVMFYATmvnZQMwR2daAOUoY?purpose=fullsize)
+
+Waiter: Hello! Welcome. Are you ready to order?
+
+Customer: Yes. Could I have the grilled chicken, please?
+
+Waiter: Certainly. Would you like rice or fries with that?
+
+Customer: I'll have rice, please.
+
+Waiter: Anything to drink?
+
+Customer: A glass of water, please.
+
+Waiter: Sure. I'll be right back.
+
+### Conversation 3: Asking about food preferences
+
+A: Do you like spicy food?
+
+B: Yes, I do. I really enjoy spicy dishes.
+
+A: Can you handle very spicy food?
+
+B: Sometimes, but it depends on the dish.
+
+A: What's the spiciest food you've ever tried?
+
+B: Probably a very spicy Korean noodle dish.
+
+### Conversation 4: Inviting someone to eat
+
+A: Are you hungry?
+
+B: Yes, I'm starving!
+
+A: Do you want to grab something to eat?
+
+B: Sure! What are you in the mood for?
+
+A: How about Vietnamese food?
+
+B: Sounds great. Let's go!
+
+### Conversation 5: Complaining about food politely
+
+Customer: Excuse me. I think there's a small problem with my order.
+
+Waiter: I'm sorry to hear that. What's wrong?
+
+Customer: I ordered chicken, but this looks like beef.
+
+Waiter: I'm very sorry. Let me check that for you.
+
+Customer: Thank you. I appreciate it.
+
+Waiter: I'll replace it right away.
+
+Useful expressions:
+
+* Excuse me, I think there's a mistake.
+
+* Could I change my order?
+
+* This is a little too salty for me.
+
+* Could I have the bill, please?
+
+* Everything was delicious. Thank you!
+
+### 8\. Free Speaking — Tự luyện nói (20 phút)
+
+### Exercise A — 1-minute challenge
+
+Topic: My Favorite Food
+
+Hãy nói trong 1 phút.
+
+Gợi ý:
+
+* What's your favorite food?
+
+* What ingredients does it contain?
+
+* How does it taste?
+
+* When do you usually eat it?
+
+* Why do you like it?
+
+Sample Answer:
+
+> My favorite food is Vietnamese pho. It is a traditional noodle soup with rice noodles, beef, fresh herbs, and a delicious broth.I love it because it has a rich flavor and smells amazing.I usually eat it for breakfast, especially when I want something warm and filling.I think everyone visiting Vietnam should try it at least once.
+
+### Exercise B — 2-minute challenge
+
+Topic: My Eating Habits
+
+Hãy sử dụng những từ sau:
+
+`usually / sometimes / prefer / healthy / delicious / however / because / balanced diet`
+
+Sample Answer:
+
+> I usually eat three meals a day. For breakfast, I often have something simple, such as eggs, bread, or noodles.For lunch, I usually eat rice with chicken, pork, or vegetables. I sometimes eat out with my friends or colleagues.For dinner, I prefer cooking at home because I can choose fresh ingredients and prepare meals the way I like.I try to follow a balanced diet and eat more vegetables. However, I sometimes enjoy fast food, especially when I'm busy.I think having healthy eating habits is important because food affects our energy, health, and daily performance.
+
+### Exercise C — Quick Response
+
+Trả lời mỗi câu trong vòng 5 giây:
+
+* What's your favorite food?
+
+* Do you like spicy food?
+
+* How often do you eat out?
+
+* Can you cook?
+
+* What's your favorite drink?
+
+* Do you eat vegetables every day?
+
+* How many meals do you eat a day?
+
+* Do you prefer rice or noodles?
+
+* What's a popular dish in your country?
+
+* What food would you recommend to a foreigner visiting Vietnam?
+
+Sample responses:
+
+* My favorite food is pho.
+
+* Yes, I really enjoy spicy food.
+
+* I eat out two or three times a week.
+
+* Yes, I can cook some simple dishes.
+
+* My favorite drink is coffee.
+
+* Yes, I try to eat vegetables every day.
+
+* I usually eat three meals a day.
+
+* I prefer rice because it's part of my daily diet.
+
+* Pho is one of the most popular Vietnamese dishes.
+
+* I'd recommend pho or banh mi.
+
+### 9\. Exercises — Bài tập (có đáp án)
+
+### Exercise 1: Choose the correct answer
+
+1\. How ______ apples do you need?
+
+* A. much
+
+* B. many
+
+* C. any
+
+2\. How ______ water do you drink every day?
+
+* A. many
+
+* B. much
+
+* C. few
+
+3\. I don't have ______ milk.
+
+* A. some
+
+* B. any
+
+* C. many
+
+4\. There are ______ vegetables in the fridge.
+
+* A. much
+
+* B. a lot of
+
+* C. any
+
+5\. Would you like ______ coffee?
+
+* A. some
+
+* B. many
+
+* C. few
+
+Answers and explanations:
+
+* B — Apples là danh từ đếm được số nhiều.
+
+* B — Water là danh từ không đếm được.
+
+* B — Any thường dùng trong câu phủ định.
+
+* B — A lot of dùng được với danh từ đếm được số nhiều.
+
+* A — Some thường được dùng trong lời mời.
+
+### Exercise 2: Fill in the blanks
+
+Use: `some / any / much / many / a lot of`
+
+* I need ______ eggs to make breakfast.
+
+* How ______ sugar do you want?
+
+* There isn't ______ bread left.
+
+* She drinks ______ water every day.
+
+* How ______ meals do you eat a day?
+
+* Would you like ______ orange juice?
+
+Answers:
+
+* some
+
+* much
+
+* any
+
+* a lot of
+
+* many
+
+* some
+
+### Exercise 3: Translate into English
+
+* Món ăn yêu thích của tôi là phở.
+
+* Tôi thường ăn ba bữa một ngày.
+
+* Bạn uống bao nhiêu nước mỗi ngày?
+
+* Tôi không thích đồ ăn quá cay.
+
+* Tôi muốn gọi một phần gà nướng.
+
+* Bạn có muốn uống một chút cà phê không?
+
+* Tôi đang cố gắng ăn uống lành mạnh hơn.
+
+* Tôi thích nấu ăn ở nhà hơn là ăn ngoài.
+
+Suggested answers:
+
+* My favorite food is pho.
+
+* I usually eat three meals a day.
+
+* How much water do you drink every day?
+
+* I don't like food that is too spicy.
+
+* I'd like to order grilled chicken.
+
+* Would you like some coffee?
+
+* I'm trying to eat healthier.
+
+* I prefer cooking at home to eating out.
+
+### Exercise 4: Correct the mistakes
+
+* How much apples do you eat?
+
+* I don't have some milk.
+
+* She drinks many water.
+
+* I like eat vegetables.
+
+* Would you like any coffee?
+
+* There are much people in the restaurant.
+
+Answers and explanations:
+
+* How many apples do you eat? — Apples đếm được.
+
+* I don't have any milk. — Any trong câu phủ định.
+
+* She drinks a lot of water. — Water không đếm được.
+
+* I like eating vegetables. — Like + V-ing là cấu trúc tự nhiên.
+
+* Would you like some coffee? — Some thường dùng khi mời.
+
+* There are many people in the restaurant. — People là danh từ đếm được số nhiều.
+
+### 10\. Final Speaking Quiz
+
+Day 10 Quiz
+
+0/5 answered
+
+1. How ___ apples do you need?
+
+A. much
+
+B. many
+
+C. some
+
+2. How ___ water do you drink?
+
+A. many
+
+B. much
+
+C. few
+
+3. I don't have ___ sugar.
+
+A. some
+
+B. any
+
+C. many
+
+4. Would you like ___ tea?
+
+A. some
+
+B. many
+
+C. few
+
+5. Which sentence is correct?
+
+A. I prefer cook at home.
+
+B. I prefer cooking at home.
+
+C. I prefer to cooking at home.
+
+Submit answers
+
+### 11\. Homework — Bài tập về nhà
+
+Task 1 — Vocabulary
+
+Học lại:
+
+* 30 từ vựng Food & Nutrition.
+
+* 10 từ mô tả hương vị.
+
+* 10 collocations.
+
+Task 2 — Speaking Recording
+
+Ghi âm bài nói 3 phút:
+
+"My Favorite Food and Eating Habits"
+
+Yêu cầu:
+
+* Giới thiệu món ăn yêu thích.
+
+* Mô tả nguyên liệu và hương vị.
+
+* Kể về thói quen ăn uống.
+
+* Nói về món ăn bạn không thích.
+
+* Chia sẻ cách bạn duy trì chế độ ăn lành mạnh.
+
+Task 3 — Restaurant Role-play
+
+Tự đóng vai khách hàng và nhân viên nhà hàng. Tạo hội thoại tối thiểu 12 lượt, sử dụng:
+
+* Are you ready to order?
+
+* I'd like...
+
+* Could I have...?
+
+* Would you like anything to drink?
+
+* Could I have the bill, please?
+
+### 12\. Daily Checklist
+
+Day 10 Progress
+
+### 0%
+
+Học 30 từ vựng Food & Nutrition
+
+Học 10 từ mô tả hương vị
+
+Học 10 collocations
+
+Luyện phát âm 15 phút
+
+Ôn Some / Any / Much / Many
+
+Hoàn thành 2 bài Listening
+
+Luyện 5 tình huống nhà hàng
+
+Nói về món ăn yêu thích trong 2–3 phút
+
+Hoàn thành bài tập và quiz
+
+Ghi âm bài nói 3 phút
+
+### 13\. Preview — Day 11
+
+![Nano Banana 2 — Free 4K AI Image Generator | A1D.ai](https://images.openai.com/static-rsc-4/uhis1EkVRTvHmX8yFPoF2URiGhektfrGzlzyaJNz9rYjGMhcM1obsEoyvEvQlj2fLgo8wS9fBZtTaw33pwpolfMMoutmaIXlFeJ2pwzcnKZcKmapEjsIwOIWEzrAhy7yRtXskwZ86ORyLaBvPLJMAltrL8Gz89loObn5r8nUAQXBZoWNnizVViqiODUpkiNV?purpose=fullsize)
+
+DAY 11 — SOCIALIZING, FRIENDSHIPS & SMALL TALK
+
+New Topic
+
+Cách kết bạn, trò chuyện xã giao và duy trì cuộc hội thoại tự nhiên.
+
+Nội dung Day 11:
+
+* 25 từ vựng về Friendship & Socializing.
+
+* Phrasal verbs và expressions trong giao tiếp.
+
+* Câu hỏi mở và câu hỏi tiếp nối.
+
+* Present Perfect trong giao tiếp thực tế.
+
+* 5 tình huống gặp gỡ bạn bè.
+
+* Listening: Meeting an Old Friend.
+
+* Speaking: How do you make new friends?
+
+* Bài tập và đáp án đầy đủ.
+
+Mục tiêu: Có thể trò chuyện tự nhiên với người mới quen trong 5 phút, biết cách hỏi tiếp và không để cuộc hội thoại bị gián đoạn.
+
+Khi sẵn sàng, hãy nói Continue để bắt đầu Day 11.
