@@ -1,600 +1,848 @@
-# DAY 06 --- Hobbies & Free Time
+### DAY 6 — COUNTRIES, NATIONALITIES & LANGUAGES
+
+Chủ đề: Quốc gia, quốc tịch và ngôn ngữ — Countries, Nationalities & Languages.
+
+Mục tiêu hôm nay: Sau bài học, bạn có thể:
+
+* Hỏi và trả lời người khác đến từ quốc gia nào.
+
+* Giới thiệu quốc tịch và ngôn ngữ mình sử dụng.
+
+* Nói về nơi mình sinh sống, nơi mình từng đến.
+
+* Trò chuyện tự nhiên với người nước ngoài.
+
+### 1\. Lịch học hôm nay
+
+| Thời gian | Nội dung        |
+| --------- | --------------- |
+| 20 phút   | Vocabulary      |
+| 15 phút   | Pronunciation   |
+| 15 phút   | Grammar         |
+| 20 phút   | Listening       |
+| 25 phút   | Guided Speaking |
+| 20 phút   | Free Speaking   |
+| 5 phút    | Review          |
+
+### 2\. Vocabulary — Từ vựng (20 phút)
+
+### A. Countries & Nationalities
+
+| Country            | Nationality | Nghĩa                           |
+| ------------------ | ----------- | ------------------------------- |
+| Vietnam            | Vietnamese  | Việt Nam / Người Việt           |
+| Japan              | Japanese    | Nhật Bản / Người Nhật           |
+| South Korea        | Korean      | Hàn Quốc / Người Hàn            |
+| China              | Chinese     | Trung Quốc / Người Trung        |
+| Thailand           | Thai        | Thái Lan / Người Thái           |
+| Singapore          | Singaporean | Singapore / Người Singapore     |
+| Malaysia           | Malaysian   | Malaysia / Người Malaysia       |
+| Indonesia          | Indonesian  | Indonesia / Người Indonesia     |
+| The Philippines    | Filipino    | Philippines / Người Philippines |
+| India              | Indian      | Ấn Độ / Người Ấn                |
+| The United States  | American    | Mỹ / Người Mỹ                   |
+| The United Kingdom | British     | Anh / Người Anh                 |
+| Australia          | Australian  | Úc / Người Úc                   |
+| Canada             | Canadian    | Canada / Người Canada           |
+| France             | French      | Pháp / Người Pháp               |
+| Germany            | German      | Đức / Người Đức                 |
+| Italy              | Italian     | Ý / Người Ý                     |
+| Spain              | Spanish     | Tây Ban Nha / Người Tây Ban Nha |
+| Brazil             | Brazilian   | Brazil / Người Brazil           |
+| Russia             | Russian     | Nga / Người Nga                 |
 
-**Level:** A2--B1 (Practical English)\
-**Study time:** 2 hours\
-**Main topic:** Hobbies, interests, sports, entertainment, and weekend
-activities\
-**Main goal:** Talk naturally about your hobbies, explain why you enjoy
-them, and keep a conversation going by asking follow-up questions.
+### B. Languages — Ngôn ngữ
 
-------------------------------------------------------------------------
+| English    | IPA               | Tiếng Việt        |
+| ---------- | ----------------- | ----------------- |
+| Vietnamese | /ˌviː.ət.nəˈmiːz/ | Tiếng Việt        |
+| English    | /ˈɪŋ.ɡlɪʃ/        | Tiếng Anh         |
+| Japanese   | /ˌdʒæp.ənˈiːz/    | Tiếng Nhật        |
+| Korean     | /kəˈriː.ən/       | Tiếng Hàn         |
+| Chinese    | /ˌtʃaɪˈniːz/      | Tiếng Trung       |
+| Thai       | /taɪ/             | Tiếng Thái        |
+| French     | /frentʃ/          | Tiếng Pháp        |
+| German     | /ˈdʒɜː.mən/       | Tiếng Đức         |
+| Spanish    | /ˈspæn.ɪʃ/        | Tiếng Tây Ban Nha |
+| Italian    | /ɪˈtæl.i.ən/      | Tiếng Ý           |
 
-## 1. Learning objectives
+### C. Useful vocabulary
 
-By the end of this lesson, you should be able to:
+| Word / Phrase    | IPA                  | Nghĩa            |
+| ---------------- | -------------------- | ---------------- |
+| nationality      | /ˌnæʃ.əˈnæl.ə.ti/    | quốc tịch        |
+| language         | /ˈlæŋ.ɡwɪdʒ/         | ngôn ngữ         |
+| native speaker   | /ˌneɪ.tɪv ˈspiː.kər/ | người bản ngữ    |
+| fluent           | /ˈfluː.ənt/          | lưu loát         |
+| foreigner        | /ˈfɒr.ə.nər/         | người nước ngoài |
+| foreign language | /ˌfɒr.ən ˈlæŋ.ɡwɪdʒ/ | ngoại ngữ        |
+| communicate      | /kəˈmjuː.nɪ.keɪt/    | giao tiếp        |
+| accent           | /ˈæk.sent/           | giọng            |
+| culture          | /ˈkʌl.tʃər/          | văn hóa          |
+| abroad           | /əˈbrɔːd/            | ở nước ngoài     |
 
--   Talk about your hobbies and free-time activities.
--   Explain how often you do an activity and who you do it with.
--   Express likes, dislikes, and preferences.
--   Explain why an activity is interesting or useful to you.
--   Ask natural questions about another person's interests.
--   Use `like`, `enjoy`, `prefer`, `be interested in`, and `be good at`
-    correctly.
+### D. Collocations — Cụm từ thông dụng
 
-**Today's rule:** Don't stop at "I like music." Explain what kind of
-music you like, when you listen to it, and why.
+| Collocation             | Nghĩa                       | Example                            |
+| ----------------------- | --------------------------- | ---------------------------------- |
+| speak English           | nói tiếng Anh               | I speak English every day.         |
+| learn a language        | học một ngôn ngữ            | I'm learning Korean.               |
+| be from Vietnam         | đến từ Việt Nam             | I'm from Vietnam.                  |
+| live abroad             | sống ở nước ngoài           | I'd like to live abroad.           |
+| travel around the world | du lịch vòng quanh thế giới | I want to travel around the world. |
+| have a strong accent    | có giọng địa phương rõ      | He has a strong accent.            |
+| speak fluently          | nói lưu loát                | She speaks English fluently.       |
+| improve my English      | cải thiện tiếng Anh         | I want to improve my English.      |
 
-------------------------------------------------------------------------
+Practice — Luyện nói:
 
-## 2. Two-hour study schedule
+Đọc to mỗi câu 3 lần:
 
-  -----------------------------------------------------------------------
-  Time                    Activity                What to do
-  ----------------------- ----------------------- -----------------------
-  00--30 min              Vocabulary &            Learn hobby, sport, and
-                          pronunciation           entertainment words.
+* I'm from Vietnam.
 
-  30--60 min              Grammar & sentence      Practice verbs followed
-                          patterns                by nouns, gerunds, or
-                                                  infinitives.
+* I'm Vietnamese.
 
-  60--84 min              Speaking practice       Talk about your hobbies
-                                                  and weekend activities.
+* I speak Vietnamese and a little English.
 
-  84--108 min             Conversation practice   Practice asking and
-                                                  answering questions
-                                                  about interests.
+* I'm learning English because I want to communicate with foreigners.
 
-  108--120 min            Review & recording      Record a short talk
-                                                  about your favorite
-                                                  hobby.
-  -----------------------------------------------------------------------
+* I'd like to travel around the world.
 
-------------------------------------------------------------------------
+### 3\. Pronunciation — Luyện phát âm (15 phút)
 
-## 3. Vocabulary --- Hobbies and activities
+### A. Phát âm đuôi /ʃ/, /tʃ/ và /dʒ/
 
-Pronunciation is shown in IPA. Vietnamese pronunciation approximations
-are not exact; listen to dictionary audio and repeat aloud.
+| Sound | Example           | Gợi ý   |
+| ----- | ----------------- | ------- |
+| /ʃ/   | English, Spanish  | Âm “sh” |
+| /tʃ/  | Chinese, French   | Âm “ch” |
+| /dʒ/  | Japanese, Germany | Âm “j”  |
 
-  -----------------------------------------------------------------------
-  Word / phrase     IPA               Nghĩa tiếng Việt  Example
-  ----------------- ----------------- ----------------- -----------------
-  hobby             /ˈhɑːbi/          sở thích          Reading is one of
-                                                        my hobbies.
+### B. Word stress — Trọng âm
 
-  free time         /friː taɪm/       thời gian rảnh    I enjoy
-                                                        exercising in my
-                                                        free time.
+Chú ý trọng âm của những từ sau:
 
-  read books        /riːd bʊks/       đọc sách          I read books
-                                                        before bed.
+* VietnaMESE
 
-  listen to music   /ˈlɪsən tə        nghe nhạc         I listen to music
-                    ˈmjuːzɪk/                           while working.
+* JapaNESE
 
-  watch movies      /wɑːtʃ ˈmuːviz/   xem phim          I like watching
-                                                        movies at
-                                                        weekends.
+* ChiNESE
 
-  play video games  /pleɪ ˈvɪdioʊ     chơi trò chơi     My brother plays
-                    ɡeɪmz/            điện tử           video games.
+* ENGlish
 
-  take photos       /teɪk ˈfoʊtoʊz/   chụp ảnh          I enjoy taking
-                                                        photos when I
-                                                        travel.
+* GERman
 
-  travel            /ˈtrævəl/         du lịch           I love traveling
-                                                        to new places.
+* CANadian
 
-  go hiking         /ɡoʊ ˈhaɪkɪŋ/     đi leo núi, đi bộ We go hiking once
-                                      đường dài         a month.
+* AusTRAlian
 
-  go swimming       /ɡoʊ ˈswɪmɪŋ/     đi bơi            I go swimming in
-                                                        the summer.
+### C. Shadowing — Đọc nhại
 
-  go cycling        /ɡoʊ ˈsaɪklɪŋ/    đi đạp xe         I sometimes go
-                                                        cycling with
-                                                        friends.
+Đọc theo từng câu, bắt chước ngữ điệu:
 
-  go jogging        /ɡoʊ ˈdʒɑːɡɪŋ/    đi chạy bộ        She goes jogging
-                                                        every morning.
+> I'm Vietnamese, and I live in Vietnam.
 
-  work out          /wɜːrk aʊt/       tập thể dục       I work out three
-                                                        times a week.
+> I can speak Vietnamese, but my English isn't very good yet.
 
-  lift weights      /lɪft weɪts/      tập tạ            He lifts weights
-                                                        at the gym.
+> I'm learning English because I want to talk to people from different countries.
 
-  practice boxing   /ˈpræktɪs         tập quyền Anh     I practice boxing
-                    ˈbɑːksɪŋ/                           for fitness.
+> I hope I can speak English fluently one day.
 
-  play football     /pleɪ ˈfʊtbɔːl/   chơi bóng đá      They play
-                                                        football on
-                                                        Sundays.
+Mỗi câu đọc 5 lần: chậm 2 lần, tốc độ tự nhiên 3 lần.
 
-  cook              /kʊk/             nấu ăn            I enjoy cooking
-                                                        for my family.
+### 4\. Grammar — Ngữ pháp (15 phút)
 
-  bake              /beɪk/            làm bánh, nướng   She likes baking
-                                      bánh              cakes.
+### A. Hỏi về quốc gia và quốc tịch
 
-  go shopping       /ɡoʊ ˈʃɑːpɪŋ/     đi mua sắm        We go shopping at
-                                                        weekends.
+Question: Where are you from?
 
-  hang out with     /hæŋ aʊt wɪð      đi chơi với bạn   I like hanging
-  friends           frendz/           bè                out with friends.
+Bạn đến từ đâu?
 
-  gardening         /ˈɡɑːrdənɪŋ/      làm vườn          My father enjoys
-                                                        gardening.
+* I'm from Vietnam.
 
-  fishing           /ˈfɪʃɪŋ/          câu cá            My uncle goes
-                                                        fishing on
-                                                        weekends.
+* I'm from Japan.
 
-  dancing           /ˈdænsɪŋ/         nhảy, khiêu vũ    She loves
-                                                        dancing.
+* I'm from the United States.
 
-  drawing           /ˈdrɔːɪŋ/         vẽ                Drawing helps me
-                                                        relax.
+Question: What nationality are you?
 
-  playing an        /ˈpleɪɪŋ ən       chơi nhạc cụ      He is interested
-  instrument        ˈɪnstrəmənt/                        in playing the
-                                                        guitar.
+Bạn mang quốc tịch gì?
 
-  learning          /ˈlɜːrnɪŋ         học ngôn ngữ      I enjoy learning
-  languages         ˈlæŋɡwɪdʒɪz/                        languages.
+* I'm Vietnamese.
 
-  camping           /ˈkæmpɪŋ/         cắm trại          We go camping
-                                                        with friends.
+* I'm Japanese.
 
-  sightseeing       /ˈsaɪtˌsiːɪŋ/     tham quan ngắm    I enjoy
-                                      cảnh              sightseeing when
-                                                        I travel.
+* I'm American.
 
-  relaxing          /rɪˈlæksɪŋ/       thư giãn          Listening to
-                                                        music is
-                                                        relaxing.
+Question: Where do you come from?
 
-  socializing       /ˈsoʊʃəlaɪzɪŋ/    giao lưu, gặp gỡ  I enjoy
-                                      mọi người         socializing with
-                                                        new people.
-  -----------------------------------------------------------------------
+Bạn đến từ đâu?
 
-### Useful adjectives for hobbies
+\- I come from Vietnam.
 
-  -----------------------------------------------------------------------
-  Word              IPA               Nghĩa             Example
-  ----------------- ----------------- ----------------- -----------------
-  exciting          /ɪkˈsaɪtɪŋ/       thú vị, hào hứng  Boxing is
-                                                        exciting.
+Hai câu hỏi Where are you from? và Where do you come from? đều phổ biến trong giao tiếp.
 
-  relaxing          /rɪˈlæksɪŋ/       thư giãn          Reading is
-                                                        relaxing.
+### B. Hỏi về ngôn ngữ
 
-  challenging       /ˈtʃælɪndʒɪŋ/     đầy thử thách     Learning a new
-                                                        language is
-                                                        challenging.
+What language do you speak?
 
-  enjoyable         /ɪnˈdʒɔɪəbəl/     thú vị, dễ chịu   Traveling is
-                                                        enjoyable.
+Bạn nói ngôn ngữ nào?
 
-  creative          /kriˈeɪtɪv/       sáng tạo          Drawing is a
-                                                        creative hobby.
+* I speak Vietnamese.
 
-  competitive       /kəmˈpetətɪv/     mang tính cạnh    I enjoy
-                                      tranh             competitive
-                                                        sports.
-  -----------------------------------------------------------------------
+* I speak Vietnamese and English.
 
-### Pronunciation drill
+* I can speak a little Korean.
 
-Practice these phrases:
+Can you speak English?
 
--   in my free time
--   hang out with friends
--   work out at the gym
--   practice boxing
--   learn a new language
--   take photos while traveling
--   relaxing and enjoyable
+Bạn có thể nói tiếng Anh không?
 
-Repeat each phrase three times. Pay attention to word stress in
-**hobby**, **exciting**, **challenging**, and **competitive**.
+* Yes, I can.
 
-------------------------------------------------------------------------
+* Yes, but not very fluently.
 
-## 4. Grammar --- Expressing likes and interests
+* A little. I'm still learning.
 
-### A. Like / Love / Enjoy / Hate
+### C. Giới từ IN, FROM, TO
 
-These verbs can express your feelings about an activity.
+| Preposition | Cách dùng         | Example                    |
+| ----------- | ----------------- | -------------------------- |
+| in          | ở tại một nơi     | I live in Vietnam.         |
+| from        | đến từ            | I'm from Vietnam.          |
+| to          | hướng đến một nơi | I want to travel to Japan. |
 
-Common structures:
+Lưu ý:
 
--   `like + noun`: I like music.
--   `like + verb-ing`: I like listening to music.
--   `like + to + verb`: I like to listen to music before bed.
--   `enjoy + verb-ing`: I enjoy reading.
--   `love + verb-ing`: I love traveling.
--   `hate + verb-ing`: I hate waiting in long lines.
+* I live in Vietnam.
 
-**Important:** After `enjoy`, use a noun or verb-ing, not `to + verb`.
+* I come from Vietnam.
 
--   Correct: I enjoy playing football.
--   Incorrect: I enjoy to play football.
+* I want to go to Korea.
 
-### B. Prefer
+### D. Một số mẫu câu tự nhiên
 
-Use `prefer A to B` when comparing two preferences.
+| English                             | Tiếng Việt                         |
+| ----------------------------------- | ---------------------------------- |
+| I'm originally from Vietnam.        | Tôi vốn đến từ Việt Nam.           |
+| I was born in Vietnam.              | Tôi sinh ra ở Việt Nam.            |
+| I've never been to Japan.           | Tôi chưa từng đến Nhật Bản.        |
+| I'd love to visit Korea.            | Tôi rất muốn đến Hàn Quốc.         |
+| I'm interested in Japanese culture. | Tôi quan tâm đến văn hóa Nhật Bản. |
+| I'm still working on my English.    | Tôi vẫn đang cải thiện tiếng Anh.  |
 
-Examples:
+### 5\. Listening — Luyện nghe (20 phút)
 
--   I prefer coffee to tea.
--   I prefer watching movies to playing video games.
--   I prefer working out in the morning to working out at night.
+Meeting Someone from Another Country
 
-You can also say:
+Step 1: Đọc đoạn hội thoại một lần để hiểu nội dung.
 
--   I prefer to stay at home on Sundays.
--   I'd prefer to go out tonight.
+Step 2: Che phần tiếng Việt và đọc đoạn tiếng Anh thành tiếng.
 
-### C. Be interested in
+Step 3: Đọc lại 3 lần, mỗi lần cố gắng nhanh và tự nhiên hơn.
 
-Use `be interested in + noun / verb-ing`.
+### Listening script
 
-Examples:
+Alex: Hi! Nice to meet you. Where are you from?
 
--   I'm interested in technology.
--   I'm interested in learning English.
--   She's interested in photography.
--   Are you interested in sports?
+David: Nice to meet you too. I'm from Australia. How about you?
 
-Remember: use `in`, not `on` or `at`, in this expression.
+Alex: I'm from Vietnam.
 
-### D. Be good at
+David: Oh, really? That's interesting. What language do you speak?
 
-Use `be good at + noun / verb-ing`.
+Alex: I speak Vietnamese, and I'm learning English.
 
-Examples:
+David: Your English is pretty good!
 
--   I'm good at cooking.
--   He's good at playing football.
--   She's good at taking photos.
--   I'm not very good at dancing.
+Alex: Thanks! I'm still practicing. How many languages do you speak?
 
-### E. How often...?
+David: I speak English and a little French.
 
-Ask about frequency:
+Alex: That's cool! I'd love to learn another language someday.
 
--   How often do you go to the gym?
--   How often do you watch movies?
--   Do you play any sports?
--   What do you usually do at weekends?
+### Bản dịch tiếng Việt
 
-Possible answers:
+Alex: Xin chào! Rất vui được gặp bạn. Bạn đến từ đâu?
 
--   Every day.
--   Three times a week.
--   Once or twice a month.
--   Whenever I have free time.
--   Not very often.
+David: Tôi cũng rất vui được gặp bạn. Tôi đến từ Úc. Còn bạn?
 
-------------------------------------------------------------------------
+Alex: Tôi đến từ Việt Nam.
 
-## 5. Useful sentence patterns
+David: Ồ, thật sao? Thú vị đấy. Bạn nói ngôn ngữ nào?
 
-### A. Talk about your hobbies
+Alex: Tôi nói tiếng Việt và đang học tiếng Anh.
 
-1.  One of my favorite hobbies is \_\_\_.
-2.  In my free time, I usually \_\_\_.
-3.  I'm really interested in \_\_\_.
-4.  I started \_\_\_ about \_\_\_ ago.
-5.  I usually do it \_\_\_ times a week.
-6.  I enjoy it because \_\_\_.
-7.  It helps me relax after \_\_\_.
-8.  I'd like to get better at \_\_\_.
+David: Tiếng Anh của bạn khá tốt đấy!
 
-### B. Compare activities
+Alex: Cảm ơn! Tôi vẫn đang luyện tập. Bạn nói được bao nhiêu ngôn ngữ?
 
-1.  I prefer \_\_\_ to \_\_\_.
-2.  I enjoy both \_\_\_ and \_\_\_.
-3.  I don't like \_\_\_ as much as \_\_\_.
-4.  \_\_\_ is more exciting than \_\_\_.
-5.  I find \_\_\_ more relaxing because \_\_\_.
+David: Tôi nói tiếng Anh và một chút tiếng Pháp.
 
-### C. Talk about trying something new
+Alex: Tuyệt thật! Một ngày nào đó tôi rất muốn học thêm một ngôn ngữ khác.
 
-1.  I've always wanted to try \_\_\_.
-2.  I'm thinking about learning \_\_\_.
-3.  I'd like to give \_\_\_ a try.
-4.  It looks interesting because \_\_\_.
-5.  Maybe I'll try it next weekend.
+### Listening comprehension
 
-------------------------------------------------------------------------
+Trả lời câu hỏi sau khi đọc đoạn hội thoại.
 
-## 6. Everyday English --- Conversations about hobbies
+* Where is David from?
 
-### Dialogue A: Getting to know someone's interests
+* Where is Alex from?
 
-**Alex:** What do you usually do in your free time?\
-**Ben:** I usually work out, watch movies, or read books. How about
-you?\
-**Alex:** I enjoy playing sports, especially boxing.\
-**Ben:** Really? How long have you been practicing?\
-**Alex:** For about a year. I started because I wanted to improve my
-fitness.\
-**Ben:** Is it difficult?\
-**Alex:** It can be challenging, but it's also exciting. What kind of
-movies do you like?\
-**Ben:** I mostly enjoy action and comedy movies.\
-**Alex:** Nice! We should watch a movie together sometime.
+* What language does Alex speak?
 
-### Dialogue B: Weekend plans
+* What language is Alex learning?
 
-**Mia:** Do you have any plans for this weekend?\
-**Sam:** I'm thinking about going hiking.\
-**Mia:** That sounds fun. Where are you going?\
-**Sam:** There's a nice trail outside the city. A few friends are coming
-too.\
-**Mia:** How often do you go hiking?\
-**Sam:** Usually once or twice a month. What about you?\
-**Mia:** I might go cycling or just relax at home.\
-**Sam:** You should come with us sometime!\
-**Mia:** I'd love to. Let me know next time.
+* How many languages does David speak?
 
-### Useful expressions
+Answer key:
 
--   What do you usually do in your free time? --- Bạn thường làm gì khi
-    rảnh?
--   How long have you been practicing? --- Bạn đã luyện tập được bao
-    lâu?
--   That sounds fun. --- Nghe vui đấy.
--   I'm thinking about... --- Tôi đang nghĩ đến việc...
--   I might... --- Có thể tôi sẽ...
--   I'd love to. --- Tôi rất muốn.
--   Let me know next time. --- Lần sau hãy báo tôi nhé.
+* David is from Australia.
 
-### Role-play
+* Alex is from Vietnam.
 
-1.  Read both dialogues aloud.
-2.  Replace the hobbies with activities you really enjoy.
-3.  Ask at least three follow-up questions.
-4.  Practice without looking at the text.
-5.  Imagine you meet someone at a gym or a café and start a conversation
-    about hobbies.
+* Alex speaks Vietnamese.
 
-------------------------------------------------------------------------
+* Alex is learning English.
 
-## 7. Speaking practice
+* David speaks two languages: English and a little French.
 
-Use keywords, not a complete script. Speak aloud and record yourself.
+### Listening 2 — A Short Story
 
-### Topic A: My favorite hobby (about 1 minute)
+> My name is Sarah. I'm Canadian, but I live in Singapore now. I work for an international company. At work, I usually speak English. Some of my colleagues speak Chinese, Japanese, and Korean. I think learning different languages is very useful because it helps us understand other cultures and communicate with more people.
 
-Answer:
+Câu hỏi:
 
-1.  What's your favorite hobby?
-2.  When did you start doing it?
-3.  How often do you do it?
-4.  Do you do it alone or with other people?
-5.  Why do you enjoy it?
-6.  What skills does it help you develop?
+* What nationality is Sarah?
 
-**Sample answer**
+* Where does she live now?
 
-One of my favorite hobbies is working out. I usually go to the gym three
-or four times a week. I started exercising regularly because I wanted to
-become stronger and healthier. I enjoy weight training, and I'm also
-interested in boxing. Working out helps me reduce stress, improve my
-fitness, and feel more confident. I usually exercise in the evening
-after work.
+* Where does she work?
 
-### Topic B: What I do at weekends (about 1 minute)
+* What language does she usually speak at work?
 
-Answer:
+* Why does she think learning languages is useful?
 
-1.  What do you usually do on Saturdays?
-2.  Do you prefer staying at home or going out?
-3.  Who do you usually spend time with?
-4.  Do you play any sports?
-5.  What would you like to do next weekend?
+Đáp án:
 
-**Sample answer**
+* She is Canadian.
 
-At weekends, I usually have more free time. On Saturday, I sometimes
-meet my friends for coffee or go out for a meal. If the weather is nice,
-I enjoy going for a walk or cycling. On Sundays, I prefer relaxing at
-home and preparing for the next week. Next weekend, I'd like to try a
-new activity or visit somewhere I've never been before.
+* She lives in Singapore.
 
-### Topic C: A hobby you'd like to try (about 1 minute)
+* She works for an international company.
 
-Answer:
+* She usually speaks English.
 
-1.  What activity would you like to try?
-2.  Why does it interest you?
-3.  What equipment or skills would you need?
-4.  Would you like to do it alone or with friends?
-5.  When would you like to start?
+* Because it helps people understand different cultures and communicate with more people.
 
-**Speaking framework**
+### 6\. Guided Speaking — Luyện nói có hướng dẫn (25 phút)
 
-"I've always wanted to try ***. I'm interested in it because ***. I
-think it might be ***. I'd probably start by ***. Hopefully, I can give
-it a try \_\_\_."
+### Topic 1: Where are you from?
 
-### Topic D: Sports and fitness (about 1 minute)
+![LibeGreen](https://images.openai.com/static-rsc-4/MiRY0Qm7rkrAB87S0hH4aQqf0ptrpkxaj6FkIkZOR8jr6Po2K4dxH-aVGKm8--RR7aGJWAJgMd0Kir0hIXkVaE-eQ-SxRSV9npg0cRWrAs8FL-C_9V6EKsNqCsbynYM8QYpx5esQUCxCS8ggUtjzrAAOBIXv6-xrvkmfAOCA5mOeFXynmLN-nczB9eN4w275?purpose=fullsize)
 
-Answer:
+Question: Where are you from?
 
-1.  Do you enjoy sports?
-2.  What sports do you like watching or playing?
-3.  How often do you exercise?
-4.  Do you prefer exercising alone or with friends?
-5.  Why do you think exercise is important?
+Sample answer:
 
-**Speaking framework**
+> I'm from Vietnam. Vietnam is a beautiful country in Southeast Asia. It has amazing food, beautiful landscapes, and friendly people. I really enjoy living here.
 
-"I'm quite interested in sports, especially ***. I usually *** times a
-week. I prefer \_\_\_ because ***. I think exercise is important because
-***. It also helps me \_\_\_."
+Dịch:
 
-------------------------------------------------------------------------
+Tôi đến từ Việt Nam. Việt Nam là một đất nước xinh đẹp ở Đông Nam Á. Nơi đây có đồ ăn tuyệt vời, phong cảnh đẹp và con người thân thiện. Tôi thực sự thích sống ở đây.
 
-## 8. Exercises --- Questions with answers
+### Topic 2: What languages do you speak?
 
-Try each exercise before checking the suggested answers. Read the
-completed sentences aloud.
+Question: What languages do you speak?
 
-### Exercise A: Choose the correct form
+Sample answer:
 
-1.  I enjoy (read / reading) books.
-2.  She is interested (in / on) photography.
-3.  He is good at (play / playing) football.
-4.  I prefer coffee (to / than) tea.
-5.  They love (travel / traveling) together.
-6.  I want (to learn / learning) boxing.
+> My native language is Vietnamese. I can speak a little English, but I'm not very fluent yet. I'm practicing every day because I want to communicate naturally with people from different countries.
 
-**Answers**
+### Topic 3: Which country would you like to visit?
 
-1.  reading
-2.  in
-3.  playing
-4.  to
-5.  traveling
-6.  to learn
+![Beautiful cherry blossoms with Mount Fuji, japan](https://images.openai.com/static-rsc-4/hWjIi4ZZ310qjXIEgcU7jFNSGALOqI2lHabkWyARJjt5QlvSIZFzbAV6Log-a9fka5aXbcjnIzNtchXSjmIrxhNMUKkAQAq9tukwitq_fhFttK2i2X1Y8fvW8dcJb2KdGpiKch8suiZyYB4wDTxH_BJBl5O6Xv2qbg9yrkxeu2hYudjsI-scaA6tHIZQ7GoX?purpose=fullsize)
 
-### Exercise B: Complete the sentences with your own ideas
+![](https://images.openai.com/static-rsc-4/E-jteaQHR5jyTXE5nBruEySlm9DppN1lf2i9uvxN1KXe_Kh-2F4bG6lZA3n5JQxAN2Q2W-M4Gc8rvW5lbzD-ecY_wSFSCgLFRaIrUHKr4lASBU5K4JAhVufpiSQSfDk0giPziuznPlSfHX_fuIuOQlJl_vejUKkbcDAoRo0p7GeBW92Uz4kwuvqE-8r_GW-Z?purpose=fullsize)
 
-1.  In my free time, I usually \_\_\_.
-2.  One of my favorite hobbies is \_\_\_.
-3.  I enjoy it because \_\_\_.
-4.  I prefer \_\_\_ to \_\_\_.
-5.  I've always wanted to try \_\_\_.
+![23 Best Places to Go in 2024 - miruadventures.com](https://images.openai.com/static-rsc-4/OZatbJAMeVIlVpt1TTdvhs88aUdyev3z3DrW8EzLa7LvJh6S-dBx2rLaK7yzpbMB70mGhFNNaoBKqufV-gB9G_TZQP31sSNFMj9FZgmdSZC3GV3oZkuviqURQB4SpcIGmCFRBcfCXuwor70yMRB8ui0HsnQAgt9aQfTLaVKtTSuGT5g8Pg49l81_EkjfoUND?purpose=fullsize)
 
-There are many possible answers. Speak each sentence aloud.
+Question: Which country would you like to visit?
 
-### Exercise C: Correct the mistakes
+Sample answer:
 
-1.  I enjoy to watch movies.
-2.  I'm interested on learning English.
-3.  She is good in cooking.
-4.  I prefer swimming than running.
-5.  He likes play football.
+> I'd love to visit Japan one day. I'm interested in Japanese culture, food, and technology. I also want to experience daily life there and talk to local people.
 
-**Suggested answers**
+### Topic 4: Why are you learning English?
 
-1.  I enjoy watching movies.
-2.  I'm interested in learning English.
-3.  She is good at cooking.
-4.  I prefer swimming to running.
-5.  He likes playing football. / He likes to play football.
+Sample answer:
 
-### Exercise D: Translate into English
+> I'm learning English because it's an important international language. I want to use English for work, travel, and everyday conversations. I also want to make friends from different countries. My biggest goal is to speak naturally and confidently.
 
-1.  Tôi thích tập thể dục vào buổi tối.
-2.  Một trong những sở thích của tôi là đọc sách.
-3.  Tôi thích xem phim hơn chơi trò chơi điện tử.
-4.  Tôi quan tâm đến việc học ngôn ngữ mới.
-5.  Tôi muốn thử môn quyền Anh.
-6.  Bạn thường làm gì vào cuối tuần?
+### Topic 5: Do you want to live abroad?
 
-**Suggested answers**
+Sample answer:
 
-1.  I enjoy working out in the evening.
-2.  One of my hobbies is reading books.
-3.  I prefer watching movies to playing video games.
-4.  I'm interested in learning new languages.
-5.  I'd like to try boxing.
-6.  What do you usually do at weekends?
+> Maybe in the future. I think living abroad would be an interesting experience. I could learn about a new culture, meet different people, and improve my language skills. However, I also love my home country.
 
-### Exercise E: Answer in your own words
+### Speaking challenge
 
-1.  What hobby makes you happy?
-2.  What's something you are good at?
-3.  What new activity would you like to learn?
-4.  Do you prefer indoor or outdoor activities?
-5.  What hobby would you recommend to a friend?
+Hãy nói liên tục trong 2 phút theo chủ đề:
 
-There is no single correct answer. Add a reason and an example.
+"My Country and My Language"
 
-------------------------------------------------------------------------
+Bạn có thể dựa vào 6 câu hỏi:
 
-## 9. Common mistakes to avoid
+* Where are you from?
 
-  -----------------------------------------------------------------------
-  Incorrect               Correct / Natural       Explanation
-  ----------------------- ----------------------- -----------------------
-  I enjoy to swim.        I enjoy swimming.       Use verb-ing after
-                                                  "enjoy".
+* What nationality are you?
 
-  I'm interested on       I'm interested in       The correct preposition
-  music.                  music.                  is "in".
+* What languages do you speak?
 
-  I'm good in cooking.    I'm good at cooking.    Use "good at".
+* What do you like about your country?
 
-  I prefer tea than       I prefer tea to coffee. Use "prefer A to B".
-  coffee.                                         
+* Which country would you like to visit?
 
-  I like play football.   I like playing          Use verb-ing or
-                          football.               to-infinitive after
-                                                  "like".
+* Why are you learning English?
 
-  I very enjoy traveling. I really enjoy          Use "really", not
-                          traveling.              "very", before this
-                                                  verb.
-  -----------------------------------------------------------------------
+### 7\. Real-life Conversations — Hội thoại thực tế
 
-------------------------------------------------------------------------
+### Conversation 1: Meeting a foreigner
 
-## 10. Final 12-minute review
+A: Hi! Are you from around here?
 
-### Minutes 1--4: Vocabulary
+B: No, I'm visiting from Canada.
 
-Review the hobby and activity words. Cover the Vietnamese meanings and
-recall the English phrases.
+A: Oh, nice! Is this your first time in Vietnam?
 
-### Minutes 5--8: Speaking
+B: Yes, it is. I'm really enjoying it so far.
 
-Speak for 1--2 minutes about your favorite hobby. Try to include:
+A: That's great! What places have you visited?
 
--   What the hobby is.
--   How often you do it.
--   Who you do it with.
--   Why you enjoy it.
--   What you want to improve.
+B: I've visited Ho Chi Minh City and Da Nang.
 
-### Minutes 9--12: Record and review
+### Conversation 2: Talking about languages
 
-Record your answer on your phone. Listen once and check:
+A: Can you speak any other languages?
 
--   Did I use `enjoy + verb-ing` correctly?
--   Did I use `interested in` and `good at` correctly?
--   Did I explain why I like the activity?
--   Did I ask or answer a follow-up question?
--   Which phrase can I make more natural?
+B: I speak Vietnamese and a little English.
 
-------------------------------------------------------------------------
+A: Are you learning another language?
 
-## 11. Daily progress notes
+B: Yes, I'm also interested in learning Korean.
 
-Complete these after studying.
+A: That's impressive! How do you practice?
 
--   **New hobby words I can use without looking:**
--   **Three sentences I can say naturally:**
--   **One grammar point I need to remember:**
--   **One pronunciation point to practice:**
--   **One hobby I can describe confidently:**
--   **My speaking confidence today (1--5):**
+B: I usually watch videos and practice speaking every day.
 
-------------------------------------------------------------------------
+### Conversation 3: Talking about travel
 
-## 12. Key takeaway
+A: Have you ever been to Japan?
 
-When talking about hobbies, explain what you do, how often you do it,
-who you do it with, and why you enjoy it. These details help you keep a
-conversation going.
+B: No, I've never been there.
 
-**Daily habit:** Ask yourself "What did I do in my free time today?" and
-answer aloud in English for 30--60 seconds.
+A: Would you like to visit?
+
+B: Absolutely! Japan is one of my dream destinations.
+
+A: What would you like to do there?
+
+B: I'd love to try local food and explore the cities.
+
+### Conversation 4: Asking about nationality
+
+A: Where are you originally from?
+
+B: I'm originally from Germany, but I live in Australia now.
+
+A: How long have you lived in Australia?
+
+B: I've lived here for about three years.
+
+A: Do you like living there?
+
+B: Yes, I really enjoy it.
+
+### Conversation 5: Making friends
+
+A: What do you usually do in your free time?
+
+B: I enjoy going to the gym, watching movies, and learning languages.
+
+A: That's interesting! What languages are you learning?
+
+B: English and Korean.
+
+A: Why Korean?
+
+B: I'm interested in Korean culture, and I think the language sounds beautiful.
+
+### 8\. Free Speaking — Tự luyện nói (20 phút)
+
+Đây là phần quan trọng nhất. Hãy cố gắng nói mà không nhìn câu trả lời mẫu.
+
+### Exercise A — 1-minute speaking
+
+Topic: Introduce your country.
+
+Hãy sử dụng những gợi ý:
+
+* My country is...
+
+* It is located in...
+
+* The capital city is...
+
+* People in my country speak...
+
+* The food is...
+
+* One thing I really like about my country is...
+
+Sample answer:
+
+> My country is Vietnam. It is located in Southeast Asia. The capital city is Hanoi. People in Vietnam mainly speak Vietnamese. Vietnamese food is very delicious, especially pho and banh mi. One thing I really like about my country is the food and the friendly people.
+
+### Exercise B — 2-minute speaking
+
+Topic: My Language Learning Journey
+
+Hãy nói về quá trình học ngoại ngữ của bạn.
+
+Gợi ý:
+
+* What languages do you speak?
+
+* When did you start learning English?
+
+* Why are you learning English?
+
+* What is difficult about English?
+
+* How do you practice?
+
+* What is your goal?
+
+Sample answer:
+
+> My native language is Vietnamese. I've been learning English for some time, but I still find speaking quite challenging. Sometimes I know what I want to say, but I don't know how to express my ideas naturally.I usually practice by learning vocabulary, watching videos, and speaking out loud. I want to improve my pronunciation and become more confident.My goal is to communicate comfortably with foreigners and use English in my daily life and at work.
+
+### Exercise C — Quick response
+
+Trả lời mỗi câu trong vòng 5 giây:
+
+* Where are you from?
+
+* What language do you speak?
+
+* Can you speak Japanese?
+
+* Have you ever traveled abroad?
+
+* Which country do you want to visit?
+
+* Do you like learning languages?
+
+* Why are you learning English?
+
+* Would you like to live in another country?
+
+Sample responses:
+
+* I'm from Vietnam.
+
+* I speak Vietnamese.
+
+* No, I can't, but I'd like to learn.
+
+* No, I haven't, but I'd love to.
+
+* I'd like to visit Japan.
+
+* Yes, I really enjoy it.
+
+* Because I want to communicate with more people.
+
+* Maybe. I'd like to experience living abroad.
+
+### 9\. Exercises — Bài tập (có đáp án ngay bên dưới)
+
+### Exercise 1: Choose the correct answer
+
+1\. I'm from Vietnam. I'm ______.
+
+* A. Vietnam
+
+* B. Vietnamese
+
+* C. Vietnamesian
+
+2\. She comes ______ Japan.
+
+* A. in
+
+* B. to
+
+* C. from
+
+3\. I live ______ Singapore.
+
+* A. in
+
+* B. from
+
+* C. to
+
+4\. He speaks ______.
+
+* A. Germany
+
+* B. German
+
+* C. Germanian
+
+5\. I'd like to travel ______ Korea.
+
+* A. from
+
+* B. in
+
+* C. to
+
+Answers:
+
+* B — Vietnamese là quốc tịch.
+
+* C — Come from = đến từ.
+
+* A — Live in = sống tại.
+
+* B — German là tiếng Đức hoặc người Đức.
+
+* C — Travel to = đi du lịch đến.
+
+### Exercise 2: Fill in the blanks
+
+Use: `English / Vietnamese / Japanese / from / in`
+
+* I'm ______ Vietnam.
+
+* I live ______ Ho Chi Minh City.
+
+* My native language is ______.
+
+* I'm learning ______ because I want to visit Japan.
+
+* She speaks ______ very well.
+
+Answers:
+
+* from
+
+* in
+
+* Vietnamese
+
+* Japanese
+
+* English
+
+### Exercise 3: Translate into English
+
+* Tôi đến từ Việt Nam.
+
+* Tôi là người Việt Nam.
+
+* Tôi nói tiếng Việt và một chút tiếng Anh.
+
+* Tôi muốn đến thăm Nhật Bản.
+
+* Tôi đang học tiếng Anh mỗi ngày.
+
+* Bạn nói được ngôn ngữ nào?
+
+* Bạn đã từng đến Hàn Quốc chưa?
+
+* Tôi muốn giao tiếp tự nhiên với người nước ngoài.
+
+Suggested answers:
+
+* I'm from Vietnam.
+
+* I'm Vietnamese.
+
+* I speak Vietnamese and a little English.
+
+* I want to visit Japan.
+
+* I'm learning English every day.
+
+* What languages do you speak?
+
+* Have you ever been to South Korea?
+
+* I want to communicate naturally with foreigners.
+
+### Exercise 4: Correct the mistakes
+
+* I am from Vietnamese.
+
+* She live in Japan.
+
+* I speak a little of English.
+
+* He is come from Canada.
+
+* I want go to Korea.
+
+Answers and explanations:
+
+* I'm from Vietnam. — Sau from dùng tên quốc gia, không dùng quốc tịch.
+
+* She lives in Japan. — Chủ ngữ she cần động từ thêm s ở Present Simple.
+
+* I speak a little English. — Không cần of trong cấu trúc này.
+
+* He comes from Canada. — Không dùng is trước come trong câu Present Simple.
+
+* I want to go to Korea. — Want + to + verb.
+
+### 10\. Daily Quiz — Kiểm tra cuối ngày
+
+Day 6 Quiz
+
+0/5 answered
+
+1. What nationality are people from Vietnam?
+
+A. Vietnam
+
+B. Vietnamese
+
+C. Vietnamian
+
+2. I live ___ Japan.
+
+A. from
+
+B. to
+
+C. in
+
+3. Where ___ you from?
+
+A. are
+
+B. is
+
+C. do
+
+4. Which sentence is correct?
+
+A. I speak a little English.
+
+B. I speak a little of English.
+
+C. I am speak English.
+
+5. I want ___ visit Korea.
+
+A. for
+
+B. to
+
+C. at
+
+Submit answers
+
+### 11\. Homework — Bài tập về nhà
+
+Task 1 — Vocabulary
+
+* Học 20 quốc gia và quốc tịch.
+
+* Học 10 ngôn ngữ.
+
+* Đọc to từng từ 3 lần.
+
+Task 2 — Speaking
+
+Ghi âm một bài nói từ 2–3 phút:
+
+"My Country, My Language and My Future Travel Plans"
+
+Yêu cầu:
+
+* Nói về quốc gia của bạn.
+
+* Giới thiệu ngôn ngữ bạn biết.
+
+* Nói lý do học tiếng Anh.
+
+* Chia sẻ quốc gia bạn muốn đến thăm.
+
+Task 3 — Real-life practice
+
+Tập đóng vai cuộc hội thoại với một người nước ngoài. Hãy tự hỏi và tự trả lời:
+
+* Where are you from?
+
+* What do you do?
+
+* What languages do you speak?
+
+* Have you ever been to Vietnam?
+
+* Which country would you like to visit?
+
+### 12\. Daily Checklist
+
+Day 6 Progress
+
+### 0%
+
+Học 20 từ vựng quốc gia và quốc tịch
+
+Học 10 từ vựng ngôn ngữ
+
+Luyện phát âm 15 phút
+
+Học ngữ pháp IN / FROM / TO
+
+Hoàn thành Listening 1 và 2
+
+Nói về đất nước trong 1 phút
+
+Nói về hành trình học ngoại ngữ trong 2 phút
+
+Hoàn thành bài tập và quiz
+
+Ghi âm bài nói 2–3 phút
+
+### 13\. Preview — Day 7
+
+![Engaging Conversation in a Cafe Setting | AI Art Generator | Easy-Peasy.AI](https://images.openai.com/static-rsc-4/qipCs717R9F5tLQ7xcFf-gDOh8jn7DlqFQVd6QA8XVc2PatzlArryyX0QZlClHvuOcsdjqIcAU9iJ6MvftIv9xvKahiQGYMKBRx4xwPi3tDOTG5FBGXKFr7MMv2PWGOtUX8jY9idaOcYfyQ-MwyoSU9vxB4ygWYKko_aedDi8v_aWPuh9TTplpVf-sflEgpL?purpose=fullsize)
+
+DAY 7 — REVIEW & REAL-LIFE CONVERSATION
+
+Review Day
+
+Ôn tập và kết hợp kiến thức từ Day 1 đến Day 6.
+
+Nội dung:
+
+* Review vocabulary từ Day 1–6.
+
+* Ôn các cấu trúc ngữ pháp quan trọng.
+
+* 10 tình huống giao tiếp thực tế.
+
+* Listening comprehension test.
+
+* Speaking test: giới thiệu bản thân trong 3–5 phút.
+
+* Final quiz và đáp án chi tiết.
+
+Mục tiêu: Có thể bắt đầu và duy trì một cuộc hội thoại cơ bản với người nước ngoài trong khoảng 3–5 phút.
+
+Khi sẵn sàng, hãy nói Continue để bắt đầu Day 7.
