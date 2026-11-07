@@ -1,508 +1,485 @@
-# DAY 01 --- Talking About Yourself Naturally
+Tôi sẽ thiết kế cho bạn một chương trình English Speaking & Daily Communication – 2 Hours Every Day, với mục tiêu không chỉ học tiếng Anh mà phải sử dụng được tiếng Anh trong giao tiếp thực tế.
 
-**Level:** A2--B1 (Practical English)\
-**Study time:** 2 hours\
-**Main topic:** Introducing yourself and keeping a conversation going\
-**Main goal:** Speak about yourself naturally for 2--3 minutes and ask
-follow-up questions in a casual conversation.
+Với trình độ hiện tại của bạn (mức trung bình, đã biết một chút nhưng nói chưa tự nhiên), tôi đề xuất tập trung vào trình độ A2–B1, tiến dần lên B2.
 
-------------------------------------------------------------------------
+Điểm quan trọng nhất: Chúng ta sẽ không học tiếng Anh theo kiểu ghi nhớ thật nhiều ngữ pháp. Chúng ta sẽ học cách suy nghĩ, phản xạ và diễn đạt bằng tiếng Anh.
 
-## 1. Learning objectives
+### 1\. Mục tiêu khóa học
 
-By the end of this lesson, you should be able to:
+![Cómo perder el miedo a hablar inglés y empezar a expresarte con naturalidad | Blog Schoola | Schoola English](https://images.openai.com/static-rsc-4/y80xtkxQ_QMcZKnxehI4_IWPXNEhMeMRLAYdWUH-JwILT9-QO3HqgBRppWP69zyEz33BkzywjcO7l8F-vP1D0zGIbtWDxlc80LE_WNaGDnpuRs0RsPMrClIMEXl-2r9obRkRfP799mYp1x8TRNXsOCFLu74GK_c0-A8ijwndSoAERyi1XdtZbzAxlZVA6T7o?purpose=fullsize)
 
--   Introduce yourself without memorizing a stiff script.
--   Talk about your work, background, interests, and current routine.
--   Ask another person natural questions and respond with more than one
-    short sentence.
--   Use simple linking expressions to make your speech flow.
--   Record a short self-introduction and identify one or two areas to
-    improve.
+Giao tiếp hàng ngày
 
-**Today's rule:** Do not try to speak perfectly. Speak clearly, use
-complete thoughts, and keep the conversation moving.
+Có thể nói chuyện tự nhiên với bạn bè, đồng nghiệp và người nước ngoài.
 
-------------------------------------------------------------------------
+![영어 단어, 외워도 외워도 까먹는 이유와 장기 기억 전략](https://images.openai.com/static-rsc-4/vvPtwLZ70ZgV8MlpdvqFLNlCa-rM6rZzFncRVAn6WfYBJBFj_LU4BQ2UOFvEmVZq7JN65Gkkp83TPxm81w-up8JJN0SelDntZArpkgSH7tHsF3tzrQGP922MdoIVSF8KOaKE6In7QUKk8MvxgYRN0x1QLa9BnKgOMmgPaTHgubw8z0vwJNO11fj3AShl314E?purpose=fullsize)
 
-## 2. Two-hour study schedule
+Từ vựng thực tế
 
-  -----------------------------------------------------------------------
-  Time                    Activity                What to do
-  ----------------------- ----------------------- -----------------------
-  00--30 min              Vocabulary &            Learn the words below.
-                          pronunciation           Say each word and
-                                                  example aloud.
+Học từ vựng, collocations, phrasal verbs và cách diễn đạt tự nhiên.
 
-  30--60 min              Grammar & sentence      Study the useful
-                          patterns                structures and create
-                                                  your own examples.
+![PRESENCE | 日本初の語学コーチングスクール](https://images.openai.com/static-rsc-4/lEiF-nIEViBuMoziZlBjO6EOtpj3x1J43C-iu2umf9CStpmSR03n91kqH0IIa7CgxlqWZfq05KMvYYz3fWnSqY-0ja_lC_YYO4-RpBMgzxxAGSflz-GAgnp0hU0JEoVc_2-y0dNyCjuDO3sE1YC8cg4aTcM-x9YYQ8GdiLWFBSLYIKt4e5jQVmTkiVAcX-61?purpose=fullsize)
 
-  60--84 min              Speaking practice       Answer the prompts
-                                                  aloud; aim for 2--3
-                                                  minutes in total.
+Speaking Fluency
 
-  84--108 min             Conversation practice   Read both roles, then
-                                                  repeat without looking.
+Nói liên tục, diễn đạt suy nghĩ, kể chuyện và trình bày quan điểm.
 
-  108--120 min            Review & recording      Review the words and
-                                                  record a 1--2 minute
-                                                  introduction.
-  -----------------------------------------------------------------------
+![英語力を一瞬で伸ばす裏ワザ｜初心者がTOEIC865を達成したシャドーイングとは｜Lucky（ラッキー）](https://images.openai.com/static-rsc-4/6iC7aqrnuhREkak_a1Zs_x53NiIywZfl_Fq4F4g4csSNrYuwV2N5oVshtxYenj-nS1B3M7X0COQVkNXml3f1L61tINgwjdEQeA91r5yYVuDQFvikGTpC_W67CH8cRyhIpypJdQsgK-RL8RZHKZZ0LhQk3Iqvv2GDQtogWSUK5At8agVKyyps8QZtA1SxluBx?purpose=fullsize)
 
-------------------------------------------------------------------------
+Listening & Pronunciation
 
-## 3. Vocabulary --- Personal information and everyday conversation
+Nghe hiểu người bản xứ, phát âm rõ ràng và phản xạ nhanh.
 
-Pronunciation is shown in IPA. The Vietnamese pronunciation guide is
-only an approximation; use the IPA/audio dictionary when possible.
+### 2\. Lộ trình học tổng thể
 
-  -----------------------------------------------------------------------
-  Word / phrase     IPA               Nghĩa tiếng Việt  Example
-  ----------------- ----------------- ----------------- -----------------
-  background        /ˈbækɡraʊnd/      nền tảng, xuất    Tell me a little
-                                      thân              about your
-                                                        background.
+Tôi đề xuất chương trình 180 ngày, chia thành 6 giai đoạn.
 
-  currently         /ˈkʌrəntli/       hiện tại          I'm currently
-                                                        working in
-                                                        technology.
+| Giai đoạn | Ngày    | Trọng tâm                             |
+| --------- | ------- | ------------------------------------- |
+| Phase 1   | 1–30    | Everyday English Foundation           |
+| Phase 2   | 31–60   | Daily Communication                   |
+| Phase 3   | 61–90   | Social English & Real-life Situations |
+| Phase 4   | 91–120  | Intermediate Speaking                 |
+| Phase 5   | 121–150 | Advanced Conversation                 |
+| Phase 6   | 151–180 | Natural & Fluent English              |
 
-  occupation        /ˌɒkjuˈpeɪʃən/    nghề nghiệp       What's your
-                                                        occupation?
+Kết quả kỳ vọng:
 
-  developer         /dɪˈveləpər/      lập trình viên    I'm a software
-                                                        developer.
+* Giao tiếp tự tin trong các tình huống hàng ngày.
 
-  experience        /ɪkˈspɪriəns/     kinh nghiệm, trải I have some
-                                      nghiệm            experience with
-                                                        Java.
+* Có thể nói về công việc, sở thích, cuộc sống, du lịch, công nghệ, xã hội.
 
-  in my free time   /ɪn maɪ friː      trong thời gian   I read books in
-                    taɪm/             rảnh              my free time.
+* Biết cách kể chuyện và giải thích vấn đề.
 
-  be interested in  /bi ˈɪntrəstɪd    quan tâm, yêu     I'm interested in
-                    ɪn/               thích             learning
-                                                        languages.
+* Có thể duy trì cuộc hội thoại 10–20 phút.
 
-  improve           /ɪmˈpruːv/        cải thiện         I want to improve
-                                                        my English.
+* Sử dụng collocations và expressions tự nhiên hơn.
 
-  communicate       /kəˈmjuːnɪkeɪt/   giao tiếp         I want to
-                                                        communicate more
-                                                        confidently.
+### 3\. Lịch học cố định mỗi ngày – 120 phút
 
-  get along with    /ɡet əˈlɒŋ wɪð/   hòa hợp với       I get along well
-                                                        with my
-                                                        colleagues.
+Đây là cấu trúc tôi muốn bạn duy trì mỗi ngày.
 
-  spend time        /spend taɪm/      dành thời gian    I spend time with
-                                                        my family.
+Daily Study Schedule
 
-  especially        /ɪˈspeʃəli/       đặc biệt là       I enjoy sports,
-                                                        especially
-                                                        boxing.
+120 minutes
 
-  these days        /ðiːz deɪz/       dạo gần đây       These days, I'm
-                                                        practicing
-                                                        English every
-                                                        day.
+Vocabulary & Expressions
 
-  usually           /ˈjuːʒuəli/       thường thường     I usually get up
-                                                        early.
+20 phút
 
-  look forward to   /lʊk ˈfɔːrwərd    mong chờ          I look forward to
-                    tuː/                                meeting new
-                                                        people.
-  -----------------------------------------------------------------------
+Học 10–15 từ/cụm từ mới và câu ví dụ
 
-### Pronunciation drill (5 minutes)
+Pronunciation
 
-1.  Say each word slowly and clearly.
-2.  Repeat it three times at a natural speed.
-3.  Read the example sentence aloud.
-4.  Record yourself and listen for unclear sounds and word stress.
+15 phút
 
-**Practice chunks:**
+Phát âm, nối âm, trọng âm và shadowing
 
--   I'm currently working as a...
--   I'm interested in...
--   In my free time, I usually...
--   One thing I want to improve is...
--   These days, I'm trying to...
+Grammar in Conversation
 
-------------------------------------------------------------------------
+15 phút
 
-## 4. Grammar for natural introductions
+Học ngữ pháp thông qua câu giao tiếp
 
-### A. Present Simple --- facts and routines
+Listening Practice
 
-Use the Present Simple for general facts, jobs, preferences, and habits.
+20 phút
 
-**Form**
+Nghe hội thoại và bắt chước cách nói
 
--   Positive: `Subject + base verb(s/es)`
--   Negative: `Subject + do/does not + base verb`
--   Question: `Do/Does + subject + base verb?`
+Guided Speaking
 
-Examples:
+25 phút
 
--   I work as a software developer.
--   I live in Vietnam.
--   I usually exercise in the evening.
--   I don't work on Sundays.
--   What do you usually do after work?
+Luyện trả lời câu hỏi và hội thoại mẫu
 
-### B. Present Continuous --- what is happening around now
+Free Speaking
 
-Use the Present Continuous for actions happening now or temporary
-situations and current projects.
+20 phút
 
-**Form:** `Subject + am/is/are + verb-ing`
+Tự nói về chủ đề mà không nhìn tài liệu
 
-Examples:
+Daily Review & Recording 5 phút
 
--   I'm currently learning English.
--   I'm working on a new project.
--   I'm trying to speak more confidently.
--   What are you working on these days?
+Ghi âm, nghe lại và ghi chú lỗi cần sửa.
 
-**Compare:**
+### 4\. Nội dung học trong 30 ngày đầu tiên
 
-  -----------------------------------------------------------------------
-  Present Simple                      Present Continuous
-  ----------------------------------- -----------------------------------
-  I study English every day.          I'm studying English more seriously
-                                      these days.
+Tôi thiết kế theo các chủ đề thực tế, từ dễ đến khó. Mỗi ngày có một chủ đề chính để bạn có thể sử dụng ngay trong cuộc sống.
 
-  I work in technology.               I'm working on a new application
-                                      this month.
+### Week 1 – Everyday Conversations
 
-  I usually go to the gym.            I'm going to the gym more often
-                                      these days.
-  -----------------------------------------------------------------------
+Làm quen với các cuộc hội thoại hàng ngày.
 
-### C. Use linking words to connect ideas
+![Group of Friends Meet in a Cafe](https://images.openai.com/static-rsc-4/CbOaG5UXVKGQ6c7ly9YSCIY4COP3Xv4ZOhy-Bopqxo7-SdB55YUTO_ldDWY7nA-bI0BoHvypFFnXQVttExl7RW-0zlC102RnUqItcDsEvY54vJ7dIe6U8khsICtyr0aPzaqUfMEW2cGpGoV7JT3Hbb3D1DqY6NRXmFhTqJYdnylzL2E2HUZbQ5TanA9CPn2T?purpose=fullsize)
 
-  -----------------------------------------------------------------------
-  Expression              Meaning                 Example
-  ----------------------- ----------------------- -----------------------
-  and                     và                      I work and study
-                                                  English.
+![Expressive lady gesturing and man smiling stock photo](https://images.openai.com/static-rsc-4/KMXqxJI81gucEx-7mcyJvP_P_EwTQKWmoSwQJeIYlBdM-plsXbbYCWMNtztOafYamjEB-VwZPl-p0FdqmSQqzv62RxVgTxLY2zjqukzMAmzqc6kvjXKnxeidDeH8yCPArBifVobFtZxzoA6kyQE6AJ5LpRFuoZ0zR_RbfMZCqlHK0FuuO9Ilhnmc5l4g6pua?purpose=fullsize)
 
-  but                     nhưng                   I can understand
-                                                  English, but I need
-                                                  more speaking practice.
+![Adult friends, coming up with new ideas for the weekend.](https://images.openai.com/static-rsc-4/0Rak-JAMOD25OBqhni-naxTTTw5rG9knWaPX-vCiQxR_rQl5rjDf569h63PVfT_Vhtv3LpRRKm8RBk5a9olr6Vjd0vWR1jGAtpfdqA1Dr6UdyScBlYyhnIixzjjphK1rjNfbW5gdmGh7Uf5QyUayThKqlGaNbgSW9IPdY8ZRlz99cybYC5ETX6xjUcqZ1cKk?purpose=fullsize)
 
-  because                 bởi vì                  I'm learning English
-                                                  because I want to
-                                                  communicate better.
+![Beyond braille: Dining out with a visual impairment - OpenTable](https://images.openai.com/static-rsc-4/O1dq4y-Orr0RSrXdrAJ8NHePWt4peThMZX4GbhtW05Dt3y2h6d8ZvtkI4ikw-Ge09icRKwKluFGy3Zkm0vY10y0u2fl64JMHafqya247RaOacpPKSejQ_LcRWO-TRLMeTNOEhvbzNjVoCR4sluaicqhovOIjkFYqhYMqQxCb1uKEkoVgvWZC6K8wbOEWQYzt?purpose=fullsize)
 
-  so                      vì vậy                  I want to improve, so I
-                                                  practice every day.
+![Hoe vind je mensen om samen een weekendje weg te gaan? - VillaVibes singlereizen](https://images.openai.com/static-rsc-4/SRYkDHDpnkEYLFeqzSXXriz_7lpVyntvJQBHbHb3VhOzyQts1yu0luB3yRgEk5joCXMyfK5EVKseXSP5qOjDgTuP8E1sThU502ZONHhdshXYdTQuQEVAm-t3HH_jydz9njk1X7uiBEQIElcG-ZMMlaZPLeZ4RejySNev24xVBi0r0dL_mudKpDra6Ft-7olc?purpose=fullsize)
 
-  especially              đặc biệt là             I enjoy sports,
-                                                  especially boxing.
+![Friends talking at a restaurant](https://images.openai.com/static-rsc-4/4aeDt-fTTpHib3lwN8XFM4EcLSZsOeKFz2UySU59IWp2dge42WIGewJZCd_d_skq0EvPhmpkFzzI_yiIysSFjUi_9XVYNJNAcz4IuM2s7eqyaQaWx1bzyrUhGg3uR1C839S3KbSx-jnviA5V4K5Wt7Xa96oMlCM0bkClmIpgHa2LyY3TTjw-07PO4xWZbo5e?purpose=fullsize)
 
-  for example             ví dụ                   I enjoy outdoor
-                                                  activities, for
-                                                  example, walking and
-                                                  cycling.
-  -----------------------------------------------------------------------
+![Breakfast is best had at home](https://images.openai.com/static-rsc-4/9YNT8HuZXDivvfUKp2xfQymWdK4-qheESwj9W5WUEJLFw6fqUexvpnaY-ssFdsiQT9R4i1F0UD9IoTXbXETjo3kOiTdXUyXHt27sj6aTTRHzJtsPgR5OnNBgeqkO0erdrhwuAuJn56qwKjoGRChDgVmGANld7SkkICb0cRBheYsEGe4MoTiu3uSpjmjhpIx5?purpose=fullsize)
 
-**Tip:** Instead of giving a one-word answer, add a reason or an
-example.
+![Female best friends talking on a fun weekend inside a home. Two girls catching up and sharing their stories together while sitting on the floor in a house. Women having a good conversation indoors](https://images.openai.com/static-rsc-4/Ll4NVUgGaH0560TCdXJ19Ip8tOlIOSSLPJm2Lr0YAiPil0a1KgwyyG7dbP8LB6Pd6axjR64sxeDOBjy_yan9DGth_z-Adpk_qkw2UAAT9Cybs6SUaJFIj26pk3cgpUP0eSzMbBcmUSTjyWu0CnrhiUMsifoqElgxNN82-zFIE1rIKSW9jwS643ao98Ho9qac?purpose=fullsize)
 
-Short: "I like sports."\
-Better: "I like sports because they help me stay healthy. I especially
-enjoy boxing."
+![Two young men meet two young women in a cafe](https://images.openai.com/static-rsc-4/AKj0toBSqycmkduwI01I4d7IxVzEwGiTNaLsRTwB-63BS5JlSNi1eU0kRR2kYEuQDYeJKS-8pD1yI2fP3nriiDTWBKOAI4CueL7hI8RgqbdK6If81YA1A6fXkARvvlZwaw_WSrY42nx0gX6qaE8JEZIDK97FnuUhQu3Csps1hGwsgaEOiRZ8Pp8O8FP86HlG?purpose=fullsize)
 
-------------------------------------------------------------------------
+| Day | Topic                             |
+| --- | --------------------------------- |
+| 01  | Meeting People & Small Talk       |
+| 02  | Introducing Yourself Naturally    |
+| 03  | Talking About Daily Routine       |
+| 04  | Talking About Family & Friends    |
+| 05  | Talking About Hobbies & Interests |
+| 06  | Talking About Work & Career       |
+| 07  | Weekly Review & Speaking Practice |
 
-## 5. Useful sentence patterns
+### Week 2 – Social English
 
-Practice each pattern with information that is true for you.
+![Three Young Female Friends Meeting Sit At Table In Coffee Shop And Talk](https://images.openai.com/static-rsc-4/HT41cFcYTFvRrtwqe5rfsMpc2n4MpL1EgGj4145QEHulKoNMxfYD7ou28MkW9mV9q0_1li4e3W2pzEneo2riVewld7sbamw-wq2IAs11y0LrwVu-ll2Dy413WsPzeGUpFyasFJJnj1N3PePMoW-gS5V4pjI6mgO8u4HTv8UDOXFY7tKNw2Jjb927hdKVB8bJ?purpose=fullsize)
 
-1.  My name is ***, and I'm from ***.
-2.  I currently work as a \_\_\_.
-3.  I have been working/studying \_\_\_ for \_\_\_.
-4.  In my free time, I usually \_\_\_.
-5.  I'm really interested in \_\_\_ because \_\_\_.
-6.  These days, I'm trying to \_\_\_.
-7.  One of my goals is to \_\_\_.
-8.  I'm learning English because \_\_\_.
-9.  I'm quite good at ***, but I still need to improve ***.
-10. What about you? / How about you?
+![4 yêu cầu đối với nhân viên phục vụ nhà hàng cần biết](https://images.openai.com/static-rsc-4/VlCsv-dzMGUvL_lDAkKCcTDsiD4Jl-wEvRYNLb3AuY-GlK3LfRcHd2bsrge3WOOVY5nibXd0pPozoT-WAfqGNrI7K_efWqlR44HVkyLLl3GBxseg4TdQkLDrjNzoG4aeXNCl55kwIxCrJkWYs1EVMjj9Pjc6t-9Fildi48g6R9bXSnvK8tWKh7GfVZgM38on?purpose=fullsize)
 
-### Make your answers longer
+![Two young women shop for clothes](https://images.openai.com/static-rsc-4/MUNt-D2Cin45mg4oaBhiuHz5oDdfn4jcdFPqarEO-3zTqgOMZ286EskxcxQpCwEw18SiZPGroBMN2Ol6wBLDWq1L0vbIVeK21TvzvAryDJpItRtvOlTjjc_FV4jQnzxRD8fEClp969jXWrePN_aqesporAUkmk22fKXPTtFNTy48Agxz0FNx9L8kPbbzmQEt?purpose=fullsize)
 
-Use this simple structure:
+![How to Ask for Directions in Russian Like a Native | Polyglottist Language Academy | Polyglottist Language Academy](https://images.openai.com/static-rsc-4/yJ4hGhPOzbI7cU8ucnVTnN1AZHygUmGhYPHj_hKfCiS9LHhOEwqPI_5-_8cU4EL_jjuBYjikbzNB2i6mre78H5Au8AinijzuV78fvXrYI2tlPlKHBWpoMjvhi6AIJuPNrOs6TPWMldKLj2jZN8tJBEBuZbhw4ErcdtEVmh8omm1HWuiSYGwS_hY8xOuF9c2-?purpose=fullsize)
 
-**Answer → Reason → Example → Follow-up question**
+![Group Of Friends Meeting In Coffee Shop](https://images.openai.com/static-rsc-4/uPIUMvXiTiXnP9JAvjJW3xfmZql2WsoDLnkM1WtFQOWGr4k_hVHeCicf8zXuUXPvtK0450yKnwzkeBzNqXUFxm8jESdNvkuUC4gT0aRmIaBV-7Nc4MwmxsaogkeFRczCUzZCrdij1ahNmh75dNGuxxsrs5FM8I7POnhlbHLKBfTx6WhLSiMHci4mQdSzRgMx?purpose=fullsize)
 
-Example:
+![How to Create a Prix Fixe Menu for Your Restaurant? - KyivWorkshop](https://images.openai.com/static-rsc-4/kjSaTNuihYPLYuMgOHbE6YnclCktBfESV33S1FXqMkgPZCABF9kCtywjOCxHOiRHS2hOccuG0GgwiUAHkEBQP5fLW3-o5-w6MkWTJ2AZaA4joC7rSxIuTa9zE9BQP8LbNZLtk72o5-yh8tBhocRXADG5bpxHv7jA4nlk6IkYnygdLXasDBUqorZhbAuUb1DT?purpose=fullsize)
 
-**Question:** What do you do in your free time?
+![Shopping at Mid Valley Megamall, Kuala Lumpur - Living + Nomads – Travel tips, Guides, News & Information!](https://images.openai.com/static-rsc-4/82iDDH7d8guJ1h6aoamu8UrKh7LFD-KXSd_mCcyHhM3EdpJStaAMgq4o02jztCfK1jGhOVbruFiLu5PVG0dS1pZ_lxKSrP5N5o29AIkLjl8XLc4rIb0T1NWbJnLLn3OxrzApCfBmxei3SRJI7HBRFaaR80YVB7VXyFBt6BD3zYuR2YUGfQrSeLWgusfuYHmA?purpose=fullsize)
 
-**Answer:** I usually go to the gym or watch videos.\
-**Reason:** It helps me relax after work.\
-**Example:** For example, I sometimes go boxing at the weekend.\
-**Follow-up:** What do you usually do in your free time?
+![Man helping female to find right way](https://images.openai.com/static-rsc-4/RiCo_B25j_Mu1y03g7FmeYSrIlOMVTAsZ4KiyzITQnckf0OOKmKTQAip2rrNQLjcnAnQTy6EeQzoTW-X9gNCqUlkuj0BNpfUl12W7H4wDlOsMdO9yyH8C3Sy6n56t7163Z2fHUihOBcuCa9rWCnbHxYpU65Yh2ycqZQcH8s1a0HC7e5-Lx_-rciVIH3KZOXS?purpose=fullsize)
 
-------------------------------------------------------------------------
+![Group of cheerful friends enjoying in coffee shop together. Group of people meeting in a coffee shop. A man and women are sitting at a coffee table and smiling](https://images.openai.com/static-rsc-4/Yu5Id4eBWfig9Zb4s1a_bwFjVw2L3r5eQ-9TLKTME6AigkHS-L0hMHr9QG_LLh4Ws7lZM6zExF6yWsTmey06cyaf0ekQ399PY1_vs77Vu9hkBIhJMxyTMsr0WTjhlLU8bjtTfI5ujFh0IeCDG1J3ivhmD4etAvmourQcrbPhcDUBkh0SC_N2CmZhaWXkVQJW?purpose=fullsize)
 
-## 6. Everyday English --- Conversation at a café
+![Nhà hàng Sumo Yakiniku - Ariyana Smart Condotel | Nướng lẩu Nhật Bản](https://images.openai.com/static-rsc-4/fCl64by8tgOT62-2tXQ7C1GvhbHeyXYnwGKhoLWUOfCG2BdVCux9HpNhzsM6zE1znsFZho2nmks7Z1ibKaN-jFWtATeJzIgTheRvhMjNjiQ3eKLNTQ6gT1evgr41CRNpLNMqvFgW5WWXJDijEEG6txlze4gJdWQJCt5vK6iilx9-P2mKwMHHLkHUAfq3wYuP?purpose=fullsize)
 
-### Dialogue: Meeting someone for the first time
+![Three Women in a Clothing Store](https://images.openai.com/static-rsc-4/f72LTboJem-Q2JMQlMzTMW3NmrzeeihKX9w3t4vVhieq2ZwdhWymCmULPEjI9GlIg43diqpEeOzAYDTQn7AD0nQzusbyts0k1mWD2RzdXRkd8sX0f9JywK4ANeUMlJzD73WVoZfLLo4wRtKULXzhIzZ48My5FaTBbRVR-dZ2zyDsCcjGdgVXi883mQD9qqX3?purpose=fullsize)
 
-**Alex:** Hey, is this seat taken?\
-**Ben:** No, go ahead.\
-**Alex:** Thanks. I'm Alex, by the way.\
-**Ben:** Nice to meet you, Alex. I'm Ben.\
-**Alex:** Nice to meet you too. Are you from around here?\
-**Ben:** Yes, I live nearby. How about you?\
-**Alex:** I'm from Vietnam, and I live in the city.\
-**Ben:** What do you do?\
-**Alex:** I work as a software developer. What about you?\
-**Ben:** I'm a designer. What do you like doing outside work?\
-**Alex:** I enjoy working out, learning languages, and watching movies.\
-**Ben:** That's interesting. What languages are you learning?\
-**Alex:** I'm focusing on English at the moment because I want to
-communicate more naturally.\
-**Ben:** That's a great goal. How often do you practice?\
-**Alex:** I'm trying to practice every day, especially speaking.\
-**Ben:** Keep it up! It was nice talking to you.\
-**Alex:** You too. Have a great day!
+![Men talking about directions outdoors](https://images.openai.com/static-rsc-4/puF26eXZPUEQB1peOxFVbJPezsPxmarWEqWvImPEaUsLk0HxoxPY6iiWRBM591P1NmQ6Z3UHLytLWBF1KTwMVVk0hMkjANDQ3vIo4Ja10R_F6-QR1wNzSVxAurZDcOVsXd_rfqP57F3Bo7L20CEjp_eBS2_73mocBt_M5x4M5vgdyb_mVkHHnxe_H6If3ptw?purpose=fullsize)
 
-### Useful expressions from the dialogue
+| Day | Topic                      |
+| --- | -------------------------- |
+| 08  | Talking at a Coffee Shop   |
+| 09  | Food & Drinks              |
+| 10  | At a Restaurant            |
+| 11  | Shopping & Buying Things   |
+| 12  | Asking for Directions      |
+| 13  | Transportation & Traveling |
+| 14  | Weekly Review & Role-play  |
 
--   Is this seat taken? --- Chỗ này có ai ngồi chưa?
--   Go ahead. --- Cứ tự nhiên.
--   By the way... --- Nhân tiện...
--   Are you from around here? --- Bạn sống ở gần đây à?
--   What do you do? --- Bạn làm nghề gì?
--   Outside work --- Ngoài giờ làm.
--   I'm focusing on... --- Tôi đang tập trung vào...
--   Keep it up! --- Tiếp tục phát huy nhé!
+### Week 3 – Expressing Yourself
 
-### Conversation practice
+![Movie Quality Is Broken: How to Outsmart Ratings, Hype and](https://images.openai.com/static-rsc-4/hjeOCngt-UbZk2cX8damV8QlmwShAz1Y5_o2DVjpTLS7LoqRAwl4ra37QjgYuLu1bOhL10nwk7KQ9Sx5-jq4oRdRVOuXHszaXIk6yRfyVskiI5Jb6Hwt2BVY0sz7k_LqRQBXTDeb0JzPGI-uNgs4NybcSn5nCxvsbqEj4gEwaoLQ5ZpoiDjvVvNoo6YgtDsb?purpose=fullsize)
 
-1.  Read the dialogue once while looking at the text.
-2.  Read it again, changing the names and personal details.
-3.  Read Alex's role, then Ben's role.
-4.  Close the text and recreate the conversation in your own words.
-5.  Change the setting: imagine you meet someone at a gym, an office, or
-    an event.
+![psychology of storytelling: Psychology says people who keep sharing life anecdotes aren't trying to make everything about themselves, they may think through stories - The Economic Times](https://images.openai.com/static-rsc-4/6a3eH-dmA8p_dOufPEiUrVqdiGmVLL02GoPH0V_I-ieVtWapuAwT6wQ8Ma9-abXxAnA2dG9h-LNInhXs8BHdTrDrwgJiLc70eto94ssd_8mIYsY6l7ycsNqIgTl12hJJa41EBl6MKba9A4tOJX1N0Cyn7Xk0YcayUaXTcKIvI7caops4T3o6-Wogw-kBiMH9?purpose=fullsize)
 
-------------------------------------------------------------------------
+![Smiling black friends planning vacation, using map and laptop](https://images.openai.com/static-rsc-4/QDxL5Dqx7PnS53j-clFoE31r37Kwlq3NtGBAmkJIfi2aykKcQo2u-slyIgFxH4SsZLSGeYBOU4TFTZDw5YGk8sLL85CB-tMg_FDwn162QNoLsnJ8Ho8u6AKtJjBzPw31UyavP47TnaT9Dt0zqAQVbf1qrvncgHdpD3w5v2XW25zkRErxfPW8n4lK9Q5RIFQt?purpose=fullsize)
 
-## 7. Speaking practice --- Talk about yourself
+![Business colleagues solving problem together on laptop](https://images.openai.com/static-rsc-4/lu991yOY5CGst3839EUBB7SIYXynLTQRy3_48Hnays0p-SUm49bNwja8YpdH21VEZOmQLjllUKww9P_N9TK4RzXbC-4d5aB91Lh3bB5f76zEbOvFr1g4u0GPJepRkAshvmNy5uIqBIwhaY64lRVAmUkMmA6H1i1qnX8aQ608lpCV5dmwlMvpaHv4CGINXt5b?purpose=fullsize)
 
-Speak aloud. Do not write a full script first. Use keywords if you need
-support.
+![Com estas pessoas ao teu lado, o teu carácter torna-se mais forte. - Helder Martins](https://images.openai.com/static-rsc-4/PVMSd0HtBojpDZHHRxix-E0-gORct-CRYaNtJoqD-nP9dPyi2Nn7gEK0eBFgGGxJBBcJeUT_tF4nGIqKmC_GgXzB9Bg15xVfediBQTbPne6IMWVHcdl-M4bxrBOD_S5nCU6u26rpK-aQUSYHmEM4yP__vvpECKZGHyW4_5BANryohvxcpP3PHzsVkHM5OCP5?purpose=fullsize)
 
-### Topic A: Introduce yourself (about 1 minute)
+![Woman explaining a shocking and funny story to her friends](https://images.openai.com/static-rsc-4/o0NrI-eEVv-5pwmuHaZECJAXXWcH13qNSTUpQnRNoyDtJnL70aKUMrV20oG_9ePWsOyXXZgOHz8EiKuze53E1SPUiJNW8mYoAL9tJaK7UTrcQrCpRZsMlylr-HmKm329GBd5NqyzTvRgDbO8UkBUtDOk-YvUFIlG-hkCFDkjf5TsM0qAY7EtNmmcu10t-eCP?purpose=fullsize)
 
-Answer these prompts:
+![Mexico Grand Prix 2026: Weekend Itinerary](https://images.openai.com/static-rsc-4/2LryAYskrGVLun07f6gaKaliMODtgvdybFTNsf0oplDbseSxa2kMjXY_Bmq9YR2GXL1FH2uY5b5px93w9p1m4nKVcg9NWYWamngEI4WdBDvQNV7D3NCsesaHfR8wLwJ8AqSkpwQDM-0SvgQb5sM8Z8sBqLt1MZjgA9dUcbIM_XbBcMcv4cZeWmX6eOjuQ-BB?purpose=fullsize)
 
-1.  What's your name?
-2.  Where are you from?
-3.  Where do you live?
-4.  What do you do?
-5.  What are your hobbies?
-6.  Why are you learning English?
+![Asian professional successful male businessman explaining discussing brainstorming with female businesswoman colleague in formal business suit via laptop notebook computer in office company workplace](https://images.openai.com/static-rsc-4/uZ-ZMe_rrM-otoRg86wSKVRwPdsYJ-SDsK3ovCemkuFnYjbRC-kjLKvhe9dKoEIQvOX2LfuSzUSPpVGlR3HRDMo0DkGE3P6DkiO3T17y9P7KZawtrhoTkacE_3Q6sHroy4Z8QAjOXRPd8h_Rc4-6VrQ0zIt8BHDVPtRlstbH5fKgAbT_q3VksaXgdx7V_LjY?purpose=fullsize)
 
-**Sample answer**
+![Land Your Dream Job — Free Live Workshop | Jobaaj](https://images.openai.com/static-rsc-4/BpIOk8kQMTJRJcZHn7dTMji_eIm2eI5rGyLkmyMFjMYv2qu1LyIacfstW2Nk5OOenpOsBaxihgP50xvup_ItF7zlm9dMo9PmO3MX9Mu95bnbaEAxjx-vZpOP5hRuvY7xR-EZ96CId7A3BRj5gTxsm4s0W1Ine9Ec5bXve0nbVy845ng2dBAwsw89n67OMqvQ?purpose=fullsize)
 
-Hi, my name is Cong. I'm from Vietnam, and I currently live in Vietnam.
-I work as a software developer. In my free time, I enjoy learning new
-things, working out, and watching movies. These days, I'm focusing on
-improving my English because I want to communicate more naturally and
-confidently. I can understand some English, but I need more speaking
-practice. That's why I'm trying to practice every day.
+| Day | Topic                         |
+| --- | ----------------------------- |
+| 15  | Expressing Opinions           |
+| 16  | Agreeing & Disagreeing        |
+| 17  | Talking About Experiences     |
+| 18  | Telling Stories               |
+| 19  | Talking About Problems        |
+| 20  | Talking About Emotions        |
+| 21  | Weekly Review & Free Speaking |
 
-*Use this as a model, not a script you must memorize. Replace details
-that are not true for you.*
+### Week 4 – Real-life Communication
 
-### Topic B: Describe your daily life (about 1 minute)
+![Vurder arbeidsmiljøet når du er i jobbintervjuet](https://images.openai.com/static-rsc-4/GwGO2AapDNC1frKSvY7hN932qoRqaAMUxuD2_v0BExCwcEQBd72A47D5N6AIv2y8u9d73qehgo1LiT2Bj4QUK39_hB6U8visdmIlRkTK5ORD7vgWU4aF7GexXaoNyJIyiTbkw_O9hNoHLfmzUnVsoTXnv9Vmi1U6_BOTN17tpbsqJDH5MffqK3UCNlOq9A78?purpose=fullsize)
 
-Prompts:
+![Group of friends reviewing workout plans at a gym in the afternoon while sitting on the floor and sharing ideas about fitness routines](https://images.openai.com/static-rsc-4/c8pSPyO8d5MFDiRlX0u9EnFIFhvrp1k_233jE7qYXFcRKk4VxB9aO9lGsz1kEXAAxb9Zqt0PJpyCNUTI-YIyamwJrqct0eU8S_7-zxsgacQD1DyCD2cn6uKCdwaGCYj6wnhg0YWfZ56q4hIFbjOqJR9BaPiRNKqTKG9sYuMYTN_TtLMOcF1gw--1iO3SJcT7?purpose=fullsize)
 
--   What time do you usually wake up?
--   What do you do during the day?
--   What do you usually do after work?
--   What do you do at weekends?
--   Which part of your day do you enjoy most? Why?
+![Happy friends using laptop at home](https://images.openai.com/static-rsc-4/Lnglcu0n2jfHQzkbiKdkb1HwQWP26TeNb9JaIT9rqz9tmPajzt7ac6DQyZKDefsa5OV0tUSVlKT8CyZTrPfn1oWqE9BwiZFPCJ97D2QdzpehCnP1RimitGDFKOo3sM9EryAKcvV6fsiCZ3YIwJ7teVDwvfeJHlH0mGesklQyfI72UM4X7LE6iiXyuIDfJI6W?purpose=fullsize)
 
-**Sample answer**
+![Master Collaborative Travel Planning with Friends Using Wanderlog](https://images.openai.com/static-rsc-4/5dLygRhSkVLJXPRRxappCqyD2sV09olOhqZeqp4QLITqw_vOzk4bN5yMeoxIfMttHgXcp3zu_-WoE2pwMjbT_AZYfn0GHbYvgJf8Wv-YgEv0uRtnGC8B5LddBexjgsCKe9vMEGlmKob5-WPAJ6yOOd4Uk1vMjONeRshQ5LDS345wjiCBf4wHjrGduloX0nUJ?purpose=fullsize)
 
-I usually wake up at around seven. After breakfast, I start my work.
-During the day, I spend most of my time working and learning new things.
-In the evening, I usually relax, exercise, or study English. At
-weekends, I like having more time for myself and meeting friends. I
-enjoy the evening most because I can slow down and do things I like.
+| Day | Topic                      |
+| --- | -------------------------- |
+| 22  | At the Gym & Sports        |
+| 23  | Health & Lifestyle         |
+| 24  | Technology & Internet      |
+| 25  | Traveling & Holidays       |
+| 26  | Job & Career Discussions   |
+| 27  | Money & Personal Finance   |
+| 28  | Relationships & Friendship |
+| 29  | Future Goals & Dreams      |
+| 30  | Final Speaking Practice    |
 
-### Topic C: Your goals (about 1 minute)
+### 5\. Cấu trúc chi tiết của mỗi bài học
 
-Prompts:
+Mỗi ngày tôi sẽ soạn bài theo cùng một cấu trúc để bạn dễ học và ôn tập.
 
--   What skill do you want to improve?
--   Why is it important to you?
--   What are you doing to improve it?
--   What would you like to achieve in six months?
+| Phần                 | Nội dung                                |
+| -------------------- | --------------------------------------- |
+| 1. Vocabulary        | 10–15 từ mới, IPA, nghĩa tiếng Việt     |
+| 2. Collocations      | 5–10 cụm từ thường dùng                 |
+| 3. Expressions       | Cách diễn đạt tự nhiên của người bản xứ |
+| 4. Grammar           | Ngữ pháp ứng dụng trong giao tiếp       |
+| 5. Sentence Patterns | 10–15 mẫu câu thực tế                   |
+| 6. Conversation      | 3–5 đoạn hội thoại mẫu                  |
+| 7. Listening         | Bài nghe và câu hỏi nghe hiểu           |
+| 8. Speaking          | 10–15 câu hỏi luyện nói                 |
+| 9. Practice          | Bài tập thực hành kèm đáp án            |
+| 10. Free Speaking    | Chủ đề tự nói trong 3–5 phút            |
 
-**Speaking framework**
+Một nguyên tắc quan trọng: Mỗi từ vựng phải được đặt trong một câu giao tiếp thực tế. Không học từ riêng lẻ rồi cố gắng dịch từng câu khi nói.
 
-"I'm trying to improve ***. It's important to me because ***. At the
-moment, I ***. For example, ***. In the next six months, I hope to
-\_\_\_."
+### 6\. Bắt đầu bài học mẫu – DAY 1
 
-------------------------------------------------------------------------
+DAY 01
 
-## 8. Exercises --- Questions with answers
+### Meeting People & Small Talk
 
-Try answering before reading the answer column. Say each completed
-sentence aloud.
+Gặp gỡ mọi người và bắt chuyện tự nhiên
 
-### Exercise A: Complete the sentences
+![Female friends greeting at coffee shop](https://images.openai.com/static-rsc-4/ZBkihtm9JRVp8gDJRpxmdBxr2bRJME5UzV9Hn6QStCSoSFJ8KnUCbDcbTfwnXO8wfv4TrDkAbIp300mQuxYIgdTIiiZeuqKPsaRZHsWH9DsleVJickkF7ziosmVNBY4DjWCwoQIUWBX0mIRQPfGftxSG9GogmK0xFpl7CtoFdyO4OGVRJjsQGzgEIfQ12OXz?purpose=fullsize)
 
-  -----------------------------------------------------------------------
-  Question                            Suggested answer
-  ----------------------------------- -----------------------------------
-  1\. I \_\_\_ (work) as a developer. I **work** as a developer.
+Today's objectives
 
-  2\. She \_\_\_ (live) in Vietnam.   She **lives** in Vietnam.
+* Biết cách bắt chuyện với người khác.
 
-  3\. I \_\_\_ (learn) English these  I **am learning** English these
-  days.                               days.
+* Biết hỏi thăm và trả lời tự nhiên.
 
-  4\. He \_\_\_ (not like) getting up He **doesn't like** getting up
-  early.                              early.
+* Biết duy trì một cuộc hội thoại ngắn.
 
-  5\. What \_\_\_ you usually \_\_\_  What **do** you usually **do**
-  (do) after work?                    after work?
+* Sử dụng các expressions thông dụng.
 
-  6\. They \_\_\_ (work) on a new     They **are working** on a new
-  project right now.                  project right now.
-  -----------------------------------------------------------------------
+### Part 1. Vocabulary – Từ vựng
 
-### Exercise B: Make your answers more natural
+| English     | IPA             | Tiếng Việt         |
+| ----------- | --------------- | ------------------ |
+| Actually    | /ˈæk.tʃu.ə.li/  | Thật ra            |
+| Recently    | /ˈriː.sənt.li/  | Gần đây            |
+| Usually     | /ˈjuː.ʒu.ə.li/  | Thường xuyên       |
+| Definitely  | /ˈdef.ɪ.nət.li/ | Chắc chắn          |
+| Probably    | /ˈprɒb.ə.bli/   | Có lẽ              |
+| Awesome     | /ˈɔː.səm/       | Tuyệt vời          |
+| Relax       | /rɪˈlæks/       | Thư giãn           |
+| Catch up    | /kætʃ ʌp/       | Hỏi thăm, cập nhật |
+| Hang out    | /hæŋ aʊt/       | Đi chơi            |
+| Sounds good | /saʊndz ɡʊd/    | Nghe hay đấy       |
 
-  -----------------------------------------------------------------------
-  Short answer                        Improved answer
-  ----------------------------------- -----------------------------------
-  1\. I like sports.                  I like sports because they help me
-                                      stay healthy.
+### Part 2. Expressions – Cách nói tự nhiên
 
-  2\. I learn English.                I'm learning English because I want
-                                      to communicate more confidently.
+| Expression                | Nghĩa                           |
+| ------------------------- | ------------------------------- |
+| How's it going?           | Dạo này thế nào?                |
+| What's up?                | Có gì mới không?                |
+| Long time no see!         | Lâu rồi không gặp!              |
+| How have you been?        | Dạo này bạn thế nào?            |
+| Not much, just relaxing.  | Không có gì, chỉ đang thư giãn. |
+| That's pretty cool!       | Điều đó khá thú vị!             |
+| What have you been up to? | Gần đây bạn làm gì?             |
+| It's been a while.        | Đã lâu rồi nhỉ.                 |
 
-  3\. I'm a developer.                I work as a developer, and I enjoy
-                                      solving technical problems.
+### Part 3. Sentence Patterns – Mẫu câu giao tiếp
 
-  4\. I watch movies.                 I usually watch movies in my free
-                                      time, especially action movies.
+1\. Asking about someone's life
 
-  5\. I want to speak English.        I want to speak English more
-                                      naturally, so I'm practicing every
-                                      day.
-  -----------------------------------------------------------------------
+* How's everything going?
 
-### Exercise C: Translate into English
+* How have things been lately?
 
-  -----------------------------------------------------------------------
-  Vietnamese                          Suggested answer
-  ----------------------------------- -----------------------------------
-  1\. Tôi hiện đang làm lập trình     I'm currently working as a
-  viên.                               developer.
+* What have you been doing recently?
 
-  2\. Tôi thích học những điều mới.   I enjoy learning new things.
+2\. Talking about yourself
 
-  3\. Gần đây tôi đang cố gắng cải    These days, I'm trying to improve
-  thiện tiếng Anh.                    my English.
+* I've been quite busy recently.
 
-  4\. Tôi muốn giao tiếp tự tin hơn.  I want to communicate more
-                                      confidently.
+* I've been trying to improve my English.
 
-  5\. Bạn thường làm gì vào cuối      What do you usually do at weekends?
-  tuần?                               
-  -----------------------------------------------------------------------
+* I've been working on a new project.
 
-------------------------------------------------------------------------
+3\. Continuing a conversation
 
-## 9. Common mistakes to avoid
+* Really? Tell me more.
 
-  -------------------------------------------------------------------------
-  Incorrect               Natural / Correct       Explanation
-  ----------------------- ----------------------- -------------------------
-  I am work as a          I work as a developer.  Do not use "am" before
-  developer.                                      the base verb in Present
-                                                  Simple.
+* That sounds interesting.
 
-  I very like sports.     I really like sports.   Use "really like", not
-                                                  "very like".
+* What about you?
 
-  I am learn English.     I'm learning English.   Present Continuous needs
-                                                  `am/is/are + verb-ing`.
+* How did that happen?
 
-  What you do?            What do you do?         Add "do" in this Present
-                                                  Simple question.
+### Part 4. Conversation Practice
 
-  I want improve my       I want to improve my    Use `want to + verb`.
-  English.                English.                
+Situation: Meeting an old friend at a coffee shop.
 
-  I have 25 years old.    I'm 25 years old.       Use "be" to talk about
-                                                  age in English.
-  -------------------------------------------------------------------------
+![Boyfriend Material Nghĩa Là Gì? Giải Mã Phong Cách "Bạn Trai Lý Tưởng"](https://images.openai.com/static-rsc-4/z9TVkAKluRFv2ugC1PXV4_kLny89Ups9BZDuJEZUuI6euh5A8y9-NmxrG_Pt73qshX-1KghCPIhFjsYNwVsrFwfKo5RYc4E6m5DSrZO6ENTl9L66IokIJZmm13bu9lOveYUwap4oMUItLpiV0QvJ3iVsJTUW4IhH3R4jZmF5x_BBKlHlMY7lImjI2Ae6qbgQ?purpose=fullsize)
 
-------------------------------------------------------------------------
+Tom
 
-## 10. Final 12-minute review
+Hey! Long time no see! How have you been?
 
-### Minutes 1--4: Vocabulary
+Này! Lâu rồi không gặp! Dạo này bạn thế nào?
 
-Review the 15 words and phrases in Section 3. Cover the Vietnamese
-meanings and recall them in English.
+You
 
-### Minutes 5--8: Speaking
+I've been pretty good. Just a little busy with work recently.
 
-Speak for 1--2 minutes about yourself. Try to include:
+Tôi vẫn khá ổn. Chỉ là gần đây hơi bận công việc.
 
--   Your background
--   Your current work
--   Your hobbies
--   Your English-learning goal
+![Happy Casual Young Man Smiling](https://images.openai.com/static-rsc-4/gLj2PhtIq-Xu8-7A1_HefRlgh1_c4fm93no_mIidu8fD3L_9_o-kbHJnHWCmvRFHoGhq-O7jikcFBqgl1vwNn4QRp-C92ICj6Ol5hX6uQ_j2XgkAxpZ1WqR4cLbgS_e7FtlOjyz6oY2D11iAgkuYq4AoooMsPZDGtFeFgNZVjS8ceKdz7DAfSVrnEaQ6KMeh?purpose=fullsize)
 
-### Minutes 9--12: Record and review
+![Boyfriend Material Nghĩa Là Gì? Giải Mã Phong Cách "Bạn Trai Lý Tưởng"](https://images.openai.com/static-rsc-4/z9TVkAKluRFv2ugC1PXV4_kLny89Ups9BZDuJEZUuI6euh5A8y9-NmxrG_Pt73qshX-1KghCPIhFjsYNwVsrFwfKo5RYc4E6m5DSrZO6ENTl9L66IokIJZmm13bu9lOveYUwap4oMUItLpiV0QvJ3iVsJTUW4IhH3R4jZmF5x_BBKlHlMY7lImjI2Ae6qbgQ?purpose=fullsize)
 
-Record your speech on your phone. Listen once and check:
+Tom
 
--   Did I speak in complete sentences?
--   Did I pause too often?
--   Did I use linking words such as "because", "but", and "so"?
--   Were any words difficult to pronounce?
--   What one thing will I improve tomorrow?
+Oh, really? What have you been working on?
 
-------------------------------------------------------------------------
+Thật à? Bạn đang làm dự án gì vậy?
 
-## 11. Daily progress notes
+You
 
-Fill this in after studying.
+I've been working on a software project. It's quite challenging, but I enjoy it.
 
--   **New words I can use without looking:**
--   **Three sentences I can say naturally:**
--   **One pronunciation point to practice:**
--   **One thing I found difficult:**
--   **My speaking confidence today (1--5):**
+Tôi đang làm một dự án phần mềm. Nó khá thử thách nhưng tôi thích nó.
 
-------------------------------------------------------------------------
+![Happy Casual Young Man Smiling](https://images.openai.com/static-rsc-4/gLj2PhtIq-Xu8-7A1_HefRlgh1_c4fm93no_mIidu8fD3L_9_o-kbHJnHWCmvRFHoGhq-O7jikcFBqgl1vwNn4QRp-C92ICj6Ol5hX6uQ_j2XgkAxpZ1WqR4cLbgS_e7FtlOjyz6oY2D11iAgkuYq4AoooMsPZDGtFeFgNZVjS8ceKdz7DAfSVrnEaQ6KMeh?purpose=fullsize)
 
-## 12. Key takeaway
+![Boyfriend Material Nghĩa Là Gì? Giải Mã Phong Cách "Bạn Trai Lý Tưởng"](https://images.openai.com/static-rsc-4/z9TVkAKluRFv2ugC1PXV4_kLny89Ups9BZDuJEZUuI6euh5A8y9-NmxrG_Pt73qshX-1KghCPIhFjsYNwVsrFwfKo5RYc4E6m5DSrZO6ENTl9L66IokIJZmm13bu9lOveYUwap4oMUItLpiV0QvJ3iVsJTUW4IhH3R4jZmF5x_BBKlHlMY7lImjI2Ae6qbgQ?purpose=fullsize)
 
-The goal of Day 01 is not to memorize a perfect introduction. It is to
-become comfortable talking about yourself, adding reasons and examples,
-and asking another person questions.
+Tom
 
-**Daily habit:** Speak English aloud for at least 10 minutes outside the
-lesson. Small, consistent practice is more useful than silently reading
-many pages.
+That's awesome! We should hang out sometime.
+
+Tuyệt đấy! Hôm nào chúng ta đi chơi nhé.
+
+### Part 5. Speaking Practice
+
+Hãy tự trả lời những câu hỏi dưới đây bằng tiếng Anh. Mỗi câu trả lời nên dài 2–4 câu.
+
+* How are you doing today?
+
+* What have you been doing recently?
+
+* Are you busy with work these days?
+
+* What do you usually do after work?
+
+* What do you enjoy doing in your free time?
+
+* Have you learned anything interesting recently?
+
+* What are your plans for this weekend?
+
+* Why are you learning English?
+
+Yêu cầu: Không chỉ trả lời Yes/No. Hãy giải thích thêm và đặt câu hỏi ngược lại để tiếp tục cuộc hội thoại.
+
+### Part 6. Practice – Bài tập
+
+| Bài tập                                  | Đáp án gợi ý                      |
+| ---------------------------------------- | --------------------------------- |
+| 1. Lâu rồi không gặp!                    | Long time no see!                 |
+| 2. Dạo này bạn thế nào?                  | How have you been?                |
+| 3. Gần đây tôi khá bận.                  | I've been quite busy recently.    |
+| 4. Tôi đang cố gắng cải thiện tiếng Anh. | I'm trying to improve my English. |
+| 5. Nghe thú vị đấy!                      | That sounds interesting!          |
+
+### Part 7. Free Speaking – 5 phút
+
+![Mastering English Conversation: Listening, Speaking, and Shadowing Practice - SpeakSmart English | Acast](https://images.openai.com/static-rsc-4/-mncs0aTbSup8TBAJBGADdykT2_v-4aHAHMWctwhicZgZIw1WlGTWMshb6m2HzlLbBc7cpAGC4aXEAWuJ9zArzwFHlqYJj1ndPHDE2HFwSVkrX8oyo-GIa5LB7EyzCHfSGNhG2JZfalAzhvEh18gjazJ3wH4xEQMxsZGfzW7Qyawsc8jKYHiNzfs6h_gRBJ0?purpose=fullsize)
+
+Topic: Tell me about yourself and your life recently.
+
+Hãy nói liên tục trong 3–5 phút, sử dụng những gợi ý:
+
+* How your life is going.
+
+* What you do for work.
+
+* What you usually do every day.
+
+* What you do in your free time.
+
+* What you are learning recently.
+
+* What you want to achieve in the future.
+
+Không cần nói hoàn hảo. Mục tiêu là diễn đạt được suy nghĩ bằng tiếng Anh.
+
+### 7\. Phương pháp học để nói tự nhiên hơn
+
+Tôi muốn bạn áp dụng quy trình 5 bước cho mỗi câu giao tiếp:
+
+* Listen
+
+    Nghe câu tiếng Anh 2–3 lần để hiểu cách phát âm.
+
+* Repeat
+
+    Nghe và lặp lại từng câu 5 lần.
+
+* Shadowing
+
+    Nói theo người nói, bắt chước tốc độ, ngữ điệu và nối âm.
+
+* Answer
+
+    Tự trả lời câu hỏi bằng cách sử dụng mẫu câu vừa học.
+
+* Speak Freely
+
+    Tự nói mà không nhìn tài liệu, ghi âm và nghe lại.
+
+### 8\. Nguyên tắc khi học cùng tôi
+
+* Mỗi ngày một bài học mới, không lặp lại chủ đề một cách máy móc.
+
+* Từ vựng có IPA và nghĩa tiếng Việt.
+
+* Ưu tiên tiếng Anh giao tiếp tự nhiên, không quá nặng ngữ pháp.
+
+* Bài tập có đáp án ngay bên cạnh để dễ học và ôn tập.
+
+* Có hội thoại thực tế và câu hỏi luyện phản xạ.
+
+* Khi bạn gửi câu trả lời Speaking, tôi sẽ sửa lỗi ngữ pháp, từ vựng, cách diễn đạt và đưa ra phiên bản tự nhiên hơn.
+
+* Cuối mỗi tuần có bài ôn tập và hội thoại tổng hợp.
+
+### 9\. Bắt đầu chương trình
+
+Từ bây giờ, chúng ta sẽ học theo thứ tự Day 1 → Day 180. Bạn chỉ cần nhắn Continue để học ngày tiếp theo.
+
+Thiết lập cách học
+
+Bạn muốn tôi ưu tiên phong cách nào?
+
+Balanced – Cân bằng từ vựng, nghe và nói
+
+Speaking Intensive – Tập trung luyện nói nhiều nhất
+
+Natural English – Giao tiếp tự nhiên như người bản xứ
+
+Ngôn ngữ giải thích
+
+Tiếng Anh + Tiếng Việt
+
+Chủ yếu bằng tiếng Anh
+
+Bắt đầu khóa học
+
+Mục tiêu cuối cùng: Không phải học thuộc 1.000 câu tiếng Anh, mà là có thể tự mình tạo ra hàng nghìn câu giao tiếp trong cuộc sống mà không phải dịch từng câu từ tiếng Việt sang tiếng Anh.
