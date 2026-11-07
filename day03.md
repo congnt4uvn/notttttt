@@ -1,562 +1,1079 @@
-# DAY 03 --- Food & Drinks: Talking About Food
-
-**Level:** A2--B1 (Practical English)\
-**Study time:** 2 hours\
-**Main topic:** Food, drinks, taste, and eating habits\
-**Main goal:** Talk about your favorite food, describe taste and
-ingredients, and have a natural conversation about eating habits.
-
-------------------------------------------------------------------------
-
-## 1. Learning objectives
-
-By the end of this lesson, you should be able to:
-
--   Name common foods, ingredients, and drinks.
--   Describe food using taste and texture adjectives.
--   Explain what you usually eat and drink.
--   Talk about food preferences and eating habits.
--   Use countable and uncountable nouns with `some`, `any`, `much`,
-    `many`, and `a lot of`.
--   Have a short conversation about food with a friend.
-
-**Today's rule:** Don't just say "It's delicious." Describe the taste,
-ingredients, texture, or reason you like it.
-
-------------------------------------------------------------------------
-
-## 2. Two-hour study schedule
-
-  -----------------------------------------------------------------------
-  Time                    Activity                What to do
-  ----------------------- ----------------------- -----------------------
-  00--30 min              Vocabulary &            Learn the food, drink,
-                          pronunciation           taste, and cooking
-                                                  words.
-
-  30--60 min              Grammar & sentence      Study
-                          patterns                countable/uncountable
-                                                  nouns and quantity
-                                                  words.
+### ENGLISH SPEAKING – 180 DAYS
 
-  60--84 min              Speaking practice       Talk about favorite
-                                                  food and eating habits.
+DAY 03 / 180A2–B1Balanced
 
-  84--108 min             Conversation practice   Practice ordering and
-                                                  discussing food.
-
-  108--120 min            Review & recording      Review vocabulary and
-                                                  record your answers.
-  -----------------------------------------------------------------------
-
-------------------------------------------------------------------------
+### Daily Routine & Lifestyle
 
-## 3. Vocabulary --- Food and ingredients
+Thói quen hàng ngày, lịch trình sinh hoạt và lối sống.
 
-Pronunciation is shown in IPA. Vietnamese pronunciation notes are
-approximate. Listen to a dictionary recording and repeat the words
-aloud.
+![Manfaat Bangun Pagi bagi Kesehatan: Kebiasaan Positif yang Membantu Menjalani Hari Lebih Produktif](https://images.openai.com/static-rsc-4/WRRZu-gAOR2k_q3XQo2ncvYA02cjBbdAJbIC0DsBhCTTpYv4iKNje5aS1qANkUUB_dRSWGwmKCsRJHCFxNxIHDfGK6FPs9YHERI0ChsVgifqgNRvaL8eQi67SPBTdBIiLx0obneLOM56CG2FC5uiZqDizZomBLMkd1c4wFu9FZYE1cFdSiw6WUHvOC-Zo8lb?purpose=fullsize)
 
-  Word         IPA             Nghĩa tiếng Việt   Example
-  ------------ --------------- ------------------ ----------------------------------------
-  rice         /raɪs/          cơm, gạo           I usually eat rice for lunch.
-  noodles      /ˈnuːdəlz/      mì, bún, phở       I love Vietnamese noodles.
-  beef         /biːf/          thịt bò            This soup has beef in it.
-  pork         /pɔːrk/         thịt heo           My family often cooks pork.
-  chicken      /ˈtʃɪkɪn/       thịt gà            I'd like some grilled chicken.
-  seafood      /ˈsiːfuːd/      hải sản            I enjoy eating seafood.
-  vegetables   /ˈvedʒtəbəlz/   rau củ             I try to eat more vegetables.
-  fruit        /fruːt/         trái cây           I eat fruit every day.
-  egg          /eɡ/            trứng              I usually have an egg for breakfast.
-  bread        /bred/          bánh mì            I sometimes eat bread in the morning.
-  soup         /suːp/          súp, canh          This soup smells wonderful.
-  salad        /ˈsæləd/        rau trộn           I often order a salad.
-  cheese       /tʃiːz/         phô mai            Do you like cheese?
-  onion        /ˈʌnjən/        hành tây           This dish contains onion.
-  garlic       /ˈɡɑːrlɪk/      tỏi                Garlic gives the food a strong flavor.
-  spicy        /ˈspaɪsi/       cay                I like spicy food.
-  sweet        /swiːt/         ngọt               This tea is too sweet for me.
-  sour         /ˈsaʊər/        chua               Lemons taste sour.
-  salty        /ˈsɔːlti/       mặn                The soup is a little salty.
-  bitter       /ˈbɪtər/        đắng               Black coffee can taste bitter.
+Today's learning objectives
 
-## 4. Vocabulary --- Drinks, texture, and cooking
+* Mô tả lịch trình từ sáng đến tối.
 
-  -----------------------------------------------------------------------
-  Word / phrase     IPA               Nghĩa tiếng Việt  Example
-  ----------------- ----------------- ----------------- -----------------
-  water             /ˈwɔːtər/         nước              I drink plenty of
-                                                        water.
+* Nói về thói quen và hoạt động thường ngày.
 
-  coffee            /ˈkɔːfi/          cà phê            I drink coffee in
-                                                        the morning.
+* Sử dụng trạng từ chỉ tần suất một cách chính xác.
 
-  tea               /tiː/             trà               Would you like
-                                                        some tea?
+* Hỏi và trả lời về lịch sinh hoạt của người khác.
 
-  juice             /dʒuːs/           nước ép           I'd like a glass
-                                                        of orange juice.
+* Nói liên tục 3–5 phút về một ngày bình thường.
 
-  smoothie          /ˈsmuːði/         sinh tố           I sometimes have
-                                                        a fruit smoothie.
+    Study time 120 minutes
 
-  crunchy           /ˈkrʌntʃi/        giòn              These vegetables
-                                                        are fresh and
-                                                        crunchy.
+    Vocabulary
 
-  crispy            /ˈkrɪspi/         giòn rụm          The chicken skin
-                                                        is crispy.
+    20 words
 
-  tender            /ˈtendər/         mềm (thịt)        The beef is very
-                                                        tender.
+    Collocations
 
-  chewy             /ˈtʃuːi/          dai               These noodles are
-                                                        a little chewy.
+    12 phrases
 
-  juicy             /ˈdʒuːsi/         mọng nước         The mango is
-                                                        sweet and juicy.
+    Conversations
 
-  grilled           /ɡrɪld/           nướng             I prefer grilled
-                                                        fish.
+    5 dialogues
 
-  fried             /fraɪd/           chiên             Fried rice is
-                                                        popular in
-                                                        Vietnam.
+### 1\. Daily schedule – 120 minutes
 
-  boiled            /bɔɪld/           luộc              I usually eat
-                                                        boiled
-                                                        vegetables.
+| Activity                  | Time   |
+| ------------------------- | ------ |
+| Vocabulary & Collocations | 20 min |
+| Pronunciation             | 15 min |
+| Grammar                   | 15 min |
+| Listening                 | 20 min |
+| Guided Speaking           | 25 min |
+| Free Speaking             | 20 min |
+| Daily Review              | 5 min  |
 
-  steamed           /stiːmd/          hấp               Steamed fish is
-                                                        delicious.
+### 2\. Vocabulary – Daily Routine (20 minutes)
 
-  baked             /beɪkt/           nướng lò          I like baked
-                                                        potatoes.
-  -----------------------------------------------------------------------
+Học 20 từ vựng thường xuyên xuất hiện khi nói về lịch trình hàng ngày.
 
-### Pronunciation drill
+### 2.1. Morning activities
 
-Practice these word groups:
+![Busy morning - Brushing teeth with coffee and checking phone](https://images.openai.com/static-rsc-4/PpUOD08pFDOa_xNffFb8v2ICkBQtYNSWmYZw0eWVFYiUEJU8FR4z_4oLUeVBYa-JLl6pxgp0CjKsq3cOcpDGLr0NBHOLCO9X7agIqEjVqlVdDmgFvqMZU_LnYcrwR4HlIj0CVwM7DDRA9RardhjDE2n5mGt0TH87xE3AloPZF1rEWA2diow49g6OzgqQ64To?purpose=fullsize)
 
--   spicy and sour
--   sweet and juicy
--   crispy fried chicken
--   grilled seafood
--   steamed vegetables
--   a glass of orange juice
--   a cup of black coffee
+| English        | IPA              | Vietnamese     |
+| -------------- | ---------------- | -------------- |
+| Wake up        | /weɪk ʌp/        | Thức giấc      |
+| Get up         | /ɡet ʌp/         | Ra khỏi giường |
+| Brush my teeth | /brʌʃ maɪ tiːθ/  | Đánh răng      |
+| Take a shower  | /teɪk ə ˈʃaʊ.ər/ | Tắm            |
+| Get dressed    | /ɡet drest/      | Mặc quần áo    |
+| Have breakfast | /hæv ˈbrek.fəst/ | Ăn sáng        |
+| Make coffee    | /meɪk ˈkɒf.i/    | Pha cà phê     |
 
-Say each phrase three times. Pay attention to the final sounds in
-**rice**, **beef**, **fried**, and **grilled**.
+### 2.2. Work and daytime activities
 
-------------------------------------------------------------------------
+![Happy businesswoman with sandwich using laptop while having lunch at wooden table outdoors](https://images.openai.com/static-rsc-4/T5XzVNR8gXuazByF9DL4-xa7uKphpfR3AdDeAacTj2W6JkZGIi-5LtoIqFtDudzOUNe8KVrx2vVeKyCQ41LSKUJtVO8vtWIBrjHRfzvwshG5XLOBWvmY3iVfXBk_w6Zgm1rok8Qe_o9XiOgavVn8Dz9XDtK5o-eyDeBmDesDJDk-ZqMR8yxgpD_SjIBrPxv7?purpose=fullsize)
 
-## 5. Grammar --- Countable and uncountable nouns
+| English          | IPA                 | Vietnamese         |
+| ---------------- | ------------------- | ------------------ |
+| Commute          | /kəˈmjuːt/          | Đi làm, đi lại     |
+| Start work       | /stɑːt wɜːk/        | Bắt đầu làm việc   |
+| Attend a meeting | /əˈtend ə ˈmiː.tɪŋ/ | Tham dự cuộc họp   |
+| Take a break     | /teɪk ə breɪk/      | Nghỉ giải lao      |
+| Have lunch       | /hæv lʌntʃ/         | Ăn trưa            |
+| Finish work      | /ˈfɪn.ɪʃ wɜːk/      | Kết thúc công việc |
+| Run errands      | /rʌn ˈer.əndz/      | Làm những việc vặt |
 
-### A. Countable nouns
+### 2.3. Evening activities
 
-Countable nouns are things you can count individually.
+![Top Family-Friendly UK Cities to Live | Purplebricks](https://images.openai.com/static-rsc-4/NdMxTxGwTCnjJVatsZ-h_7eg3bZDLkLRnn0Km54Hq3P8tGTMjO0HZXB64Q1qys0yYBKm_CLN8jghdFVUnZQb5pPmZw0-bxxBrZIn1UEhO-2NulunDPOMqfYnrtKxhNuLz3XXMBjQwGxFDcjti550pG3L9BTuitdN0W1v7QQo44pSmhzpJGstQOD9lNazTM17?purpose=fullsize)
 
-Examples:
+| English     | IPA            | Vietnamese  |
+| ----------- | -------------- | ----------- |
+| Work out    | /wɜːk aʊt/     | Tập thể dục |
+| Cook dinner | /kʊk ˈdɪn.ər/  | Nấu bữa tối |
+| Hang out    | /hæŋ aʊt/      | Đi chơi     |
+| Relax       | /rɪˈlæks/      | Thư giãn    |
+| Go to bed   | /ɡəʊ tə bed/   | Đi ngủ      |
+| Fall asleep | /fɔːl əˈsliːp/ | Thiếp đi    |
 
--   one apple, two apples
--   one egg, three eggs
--   one sandwich, two sandwiches
--   one bottle, two bottles
+### 2.4. Example sentences
 
-Use:
+Đọc mỗi câu 3 lần và thử thay đổi thời gian hoặc hoạt động.
 
--   `a/an` with one singular countable noun: a banana, an egg.
--   Numbers with plural nouns: two apples, three eggs.
--   `many` in questions and negative sentences, and when emphasizing a
-    large number: How many eggs do we need?
+1\. I usually wake up at 6:30 AM.
 
-### B. Uncountable nouns
+Tôi thường thức dậy lúc 6 giờ 30.
 
-Uncountable nouns are not normally counted as individual units.
+2\. I get up and brush my teeth.
 
-Examples:
+Tôi ra khỏi giường và đánh răng.
 
--   rice
--   water
--   milk
--   sugar
--   bread
--   coffee
--   cheese
+3\. I take a shower before breakfast.
 
-Use:
+Tôi tắm trước khi ăn sáng.
 
--   `some rice`
--   `a little sugar`
--   `much water`
--   `a lot of milk`
+4\. I commute to work by motorbike.
 
-To count portions, use a container or unit:
+Tôi đi làm bằng xe máy.
 
--   a bowl of rice
--   a glass of water
--   a cup of coffee
--   a slice of bread
--   a bottle of milk
--   a piece of cheese
+5\. I usually take a short break around 3 PM.
 
-### C. Some and any
+Tôi thường nghỉ giải lao ngắn khoảng 3 giờ chiều.
 
-Use **some** mainly in positive sentences and in offers or requests.
+6\. I work out three times a week.
 
--   I have some fruit.
--   Would you like some coffee?
--   Can I have some water, please?
+Tôi tập thể dục ba lần mỗi tuần.
 
-Use **any** mainly in questions and negative sentences.
+7\. I sometimes cook dinner at home.
 
--   Do you have any vegetables?
--   I don't have any milk.
--   Are there any eggs in the fridge?
+Đôi khi tôi nấu bữa tối ở nhà.
 
-### D. Much, many, and a lot of
+8\. I usually go to bed around 11 PM.
 
-  Word       Used with                Example
-  ---------- ------------------------ -----------------------------
-  much       uncountable nouns        I don't drink much coffee.
-  many       countable plural nouns   How many apples do we need?
-  a lot of   both                     I eat a lot of vegetables.
+Tôi thường đi ngủ khoảng 11 giờ tối.
 
-In everyday positive conversation, **a lot of** is often more natural
-than **much**.
+### 2.5. Collocations – 12 cụm từ cần ghi nhớ
 
-Examples:
+| Collocation              | Meaning                 |
+| ------------------------ | ----------------------- |
+| Wake up early            | Thức dậy sớm            |
+| Get out of bed           | Ra khỏi giường          |
+| Get ready for work       | Chuẩn bị đi làm         |
+| Have a quick breakfast   | Ăn sáng nhanh           |
+| Go to work               | Đi làm                  |
+| Deal with emails         | Xử lý email             |
+| Meet a deadline          | Đáp ứng thời hạn        |
+| Take a lunch break       | Nghỉ ăn trưa            |
+| Get home from work       | Về nhà sau giờ làm      |
+| Hit the gym              | Đi tập gym              |
+| Spend time relaxing      | Dành thời gian thư giãn |
+| Get a good night's sleep | Có một giấc ngủ ngon    |
 
--   I drink a lot of water.
--   I don't eat much sugar.
--   How many cups of coffee do you drink a day?
--   How much rice do you need?
+Speaking examples:
 
-### E. Food preference patterns
+* I always get ready for work before 8 AM.
 
--   I love eating \_\_\_.
--   I'm really into \_\_\_.
--   I'm not a big fan of \_\_\_.
--   I prefer \_\_\_ to \_\_\_.
--   I'd rather have \_\_\_ than \_\_\_.
--   My favorite dish is \_\_\_ because \_\_\_.
+* I have to deal with emails every morning.
 
-Examples:
+* I sometimes hit the gym after work.
 
--   I'm really into Vietnamese food.
--   I'm not a big fan of very sweet drinks.
--   I prefer grilled fish to fried fish.
--   I'd rather have tea than coffee.
+* I try to get a good night's sleep.
 
-------------------------------------------------------------------------
+### 3\. Pronunciation – Phát âm (15 minutes)
 
-## 6. Useful sentence patterns --- Describe food
+### 3.1. Pronunciation focus
 
-### A. Talk about taste
+Chú ý các âm dễ phát âm sai:
 
-1.  It tastes sweet and sour.
-2.  It's a little spicy, but delicious.
-3.  It's not too salty.
-4.  It has a rich flavor.
-5.  The sauce is really tasty.
-6.  It tastes fresh and light.
+| Word        | IPA              | Focus       |
+| ----------- | ---------------- | ----------- |
+| Routine     | /ruːˈtiːn/       | Nhấn âm 2   |
+| Breakfast   | /ˈbrek.fəst/     | Âm đầu      |
+| Schedule    | /ˈʃed.juːl/      | Âm đầu      |
+| Exercise    | /ˈek.sə.saɪz/    | Nhấn âm đầu |
+| Comfortable | /ˈkʌm.fə.tə.bəl/ | Nhấn âm đầu |
+| Usually     | /ˈjuː.ʒu.ə.li/   | Âm đầu      |
 
-### B. Talk about texture
+### 3.2. Linking sounds
 
-1.  The chicken is crispy on the outside and tender inside.
-2.  The vegetables are fresh and crunchy.
-3.  The beef is soft and juicy.
-4.  The noodles are a little chewy.
+Thực hành nối âm trong các câu:
 
-### C. Talk about ingredients
+* Wake up early.
 
-1.  It's made with rice, beef, and fresh herbs.
-2.  It contains garlic, onions, and vegetables.
-3.  The main ingredients are chicken and mushrooms.
-4.  It's usually served with vegetables and sauce.
+* Get ready for work.
 
-### D. Explain why you like a dish
+* Take a shower.
 
-Use:
+* Go to the gym.
 
-**Dish → Description → Reason → Example**
+* Go to bed around eleven.
 
-Example:
+Hãy đọc liền mạch, tránh ngắt từng từ riêng biệt.
 
-"My favorite dish is pho. It's a Vietnamese noodle soup made with rice
-noodles, beef or chicken, herbs, and broth. I love it because it's
-flavorful and comforting. I usually have it for breakfast or lunch."
+### 3.3. Shadowing challenge
 
-------------------------------------------------------------------------
+Đọc theo nhịp tự nhiên:
 
-## 7. Everyday English --- Food conversations
+"My day usually starts at around seven. I get up, take a shower, and have breakfast. Then I head to work. After work, I usually go to the gym or relax at home."
 
-### Dialogue A: Talking with a friend
+Lặp lại 5 lần. Lần cuối cố gắng nói mà không nhìn văn bản.
 
-**Alex:** What kind of food do you like?\
-**Ben:** I really enjoy Vietnamese food, especially pho and banh mi.\
-**Alex:** Nice! Do you like spicy food?\
-**Ben:** Yes, I do, but I don't like food that's too spicy.\
-**Alex:** What do you usually have for breakfast?\
-**Ben:** I usually have bread or noodles and a cup of coffee. How about
-you?\
-**Alex:** I often have eggs and fruit. I'm trying to eat healthier these
-days.\
-**Ben:** That's a good idea. Do you cook at home?\
-**Alex:** Sometimes. I can make a few simple dishes, but I'm not a great
-cook.\
-**Ben:** Me neither! Maybe we should try cooking together sometime.
+### 4\. Grammar – Present Simple & Frequency Adverbs (15 minutes)
 
-### Dialogue B: Ordering at a restaurant
+Hôm nay tập trung vào hai nội dung quan trọng để mô tả thói quen.
 
-**Customer:** Hi. Could I see the menu, please?\
-**Server:** Of course. Here you are.\
-**Customer:** What would you recommend?\
-**Server:** The grilled chicken is very popular.\
-**Customer:** That sounds good. I'll have the grilled chicken with rice,
-please.\
-**Server:** Would you like something to drink?\
-**Customer:** Yes, could I have a glass of orange juice?\
-**Server:** Sure. Anything else?\
-**Customer:** No, that's all for now. Thank you.\
-**Server:** You're welcome.
+### 4.1. Present Simple – Thì hiện tại đơn
 
-### Useful expressions
+Cấu trúc khẳng định:
 
--   What kind of food do you like? --- Bạn thích loại đồ ăn nào?
--   I'm trying to eat healthier. --- Tôi đang cố gắng ăn uống lành mạnh
-    hơn.
--   I'm not a great cook. --- Tôi nấu ăn không giỏi lắm.
--   Could I see the menu, please? --- Cho tôi xem thực đơn được không?
--   What would you recommend? --- Bạn gợi ý món nào?
--   I'll have... --- Tôi sẽ gọi...
--   That's all for now. --- Hiện tại chỉ vậy thôi.
+S + V(s/es) + O
 
-### Role-play
+Ví dụ:
 
-1.  Read the dialogues aloud.
-2.  Change the dishes and drinks.
-3.  Play both roles.
-4.  Repeat without looking at the text.
-5.  Add a question about ingredients or ask for a recommendation.
+* I wake up at 7 AM.
 
-------------------------------------------------------------------------
+* I work from Monday to Friday.
 
-## 8. Speaking practice
+* She goes to the gym every evening.
 
-Do not write a complete script first. Use keywords and speak aloud.
+* He watches TV after dinner.
 
-### Topic A: My favorite food (about 1 minute)
+Câu phủ định:
 
-Answer:
+S + don't/doesn't + V
 
-1.  What's your favorite food?
-2.  Where did you first try it?
-3.  What ingredients does it contain?
-4.  How does it taste?
-5.  When do you usually eat it?
-6.  Why do you like it?
+Ví dụ:
 
-**Sample answer**
+* I don't drink coffee every day.
 
-My favorite food is pho, which is a famous Vietnamese noodle soup. It's
-usually made with rice noodles, beef or chicken, herbs, and a flavorful
-broth. It tastes rich and delicious. I especially like eating it in the
-morning because it's warm and filling. I often eat pho at a local
-restaurant with my friends or family.
+* I don't work on Sundays.
 
-### Topic B: My eating habits (about 1 minute)
+* She doesn't wake up early.
 
-Answer:
+Câu hỏi:
 
-1.  What do you usually eat for breakfast?
-2.  Do you eat lunch at home or outside?
-3.  How often do you eat vegetables?
-4.  Do you drink coffee or tea?
-5.  Is there anything you want to change about your diet?
+Do/Does + S + V?
 
-**Sample answer**
+Ví dụ:
 
-I usually have a simple breakfast, such as bread, eggs, or noodles. For
-lunch, I often eat rice with meat and vegetables. I drink coffee in the
-morning, but I try not to drink too much. I also try to eat fruit every
-day. One thing I'd like to improve is eating more vegetables and
-drinking enough water.
+* Do you exercise every day?
 
-### Topic C: Describe a meal you had recently (about 1 minute)
+* Do you cook at home?
 
-Answer:
+* Does your friend work on weekends?
 
-1.  What did you eat?
-2.  Where did you eat it?
-3.  Who were you with?
-4.  What did it taste like?
-5.  Would you eat it again?
+### 4.2. Frequency Adverbs – Trạng từ chỉ tần suất
 
-**Speaking framework**
+| Adverb       | Meaning       | Approximate frequency |
+| ------------ | ------------- | --------------------- |
+| Always       | Luôn luôn     | 100%                  |
+| Usually      | Thường xuyên  | 80–90%                |
+| Often        | Thường        | 60–70%                |
+| Sometimes    | Thỉnh thoảng  | 40–50%                |
+| Occasionally | Đôi khi       | 20–30%                |
+| Rarely       | Hiếm khi      | 5–10%                 |
+| Never        | Không bao giờ | 0%                    |
 
-"Recently, I had ***. I ate it at *** with ***. It was made with ***. It
-tasted ***. I especially liked *** because \_\_\_. I would definitely
-eat it again."
+Frequency scale
 
-### Topic D: Food preferences (about 1 minute)
+Always
 
-Answer:
+100%
 
-1.  Do you prefer home-cooked food or restaurant food?
-2.  Do you prefer spicy or mild food?
-3.  Do you prefer coffee or tea?
-4.  Is there any food you don't like?
-5.  Would you try food from another country?
+Usually
 
-**Speaking framework**
+85%
 
-"I prefer \_\_\_ because ***. I'm also a fan of ***. However, I'm not
-really into ***. For example, ***. I'm always interested in trying new
-dishes, especially \_\_\_."
+Often
 
-------------------------------------------------------------------------
+65%
 
-## 9. Exercises --- Questions with answers
+Sometimes
 
-Try each exercise before checking the answers. Read every completed
-sentence aloud.
+45%
 
-### Exercise A: Choose the correct word
+Occasionally
 
-1.  How (much / many) water do you drink every day?
-2.  I have (some / any) apples in the fridge.
-3.  Are there (some / any) eggs?
-4.  We don't have (much / many) rice.
-5.  How (much / many) sandwiches would you like?
-6.  I don't drink (much / many) coffee.
+25%
 
-**Answers**
+Rarely
 
-1.  much
-2.  some
-3.  any
-4.  much
-5.  many
-6.  much
+8%
 
-### Exercise B: Correct the mistakes
+Never
 
-1.  I eat many rice every day.
-2.  Do you have some eggs?
-3.  She likes eat spicy food.
-4.  I prefer coffee than tea.
-5.  This chicken is very deliciously.
+0%
 
-**Suggested answers**
+Phần trăm chỉ mang tính ước lượng để ghi nhớ cách dùng.
 
-1.  I eat a lot of rice every day.
-2.  Do you have any eggs?
-3.  She likes eating spicy food. / She likes to eat spicy food.
-4.  I prefer coffee to tea.
-5.  This chicken is very delicious.
+### Position – Vị trí trong câu
 
-### Exercise C: Translate into English
+Trước động từ thường:
 
-1.  Tôi thích đồ ăn Việt Nam, đặc biệt là phở.
-2.  Món ăn này hơi cay nhưng rất ngon.
-3.  Tôi thường uống một tách cà phê vào buổi sáng.
-4.  Bạn có chút nước nào không?
-5.  Tôi không ăn nhiều đường.
-6.  Bạn muốn uống trà hay cà phê?
+* I usually wake up early.
 
-**Suggested answers**
+* I often go to the gym.
 
-1.  I like Vietnamese food, especially pho.
-2.  This dish is a little spicy but very delicious.
-3.  I usually drink a cup of coffee in the morning.
-4.  Do you have any water?
-5.  I don't eat much sugar.
-6.  Would you like tea or coffee?
+* I never smoke.
 
-### Exercise D: Answer in your own words
+Sau động từ to be:
 
-1.  What's your favorite Vietnamese dish?
-2.  What do you usually drink in the morning?
-3.  How often do you eat out?
-4.  What's the most delicious meal you've ever had?
-5.  What food would you recommend to a foreign visitor?
+* I am usually busy.
 
-There is no single correct answer. Try to give a reason and one example.
+* She is always friendly.
 
-------------------------------------------------------------------------
+* They are sometimes late.
 
-## 10. Common mistakes to avoid
+Một cách diễn đạt khác:
 
-  -----------------------------------------------------------------------
-  Incorrect               Correct / Natural       Explanation
-  ----------------------- ----------------------- -----------------------
-  I like eat chicken.     I like eating chicken.  Use `like + verb-ing`
-                                                  or `like + to + verb`.
+* I go to the gym every day.
 
-  I prefer coffee than    I prefer coffee to tea. Use `prefer A to B`.
-  tea.                                            
+* I study English three times a week.
 
-  I eat many rice.        I eat a lot of rice.    Rice is uncountable.
+* I visit my parents once a month.
 
-  I want a water.         I'd like a glass of     Use a unit/container
-                          water.                  for water.
+### 4.3. Grammar comparison
 
-  It tastes deliciously.  It tastes delicious.    Use an adjective after
-                                                  "taste".
+| Sentence                     | Meaning                            |
+| ---------------------------- | ---------------------------------- |
+| I wake up at 7 AM.           | Tôi thức dậy lúc 7 giờ.            |
+| I'm waking up now.           | Tôi đang thức dậy.                 |
+| I woke up at 7 AM yesterday. | Hôm qua tôi đã thức dậy lúc 7 giờ. |
 
-  I am very like pho.     I really like pho.      Use "really like", not
-                                                  "very like".
-  -----------------------------------------------------------------------
+Hãy nhớ: khi nói về thói quen, ưu tiên Present Simple.
 
-------------------------------------------------------------------------
+### 4.4. Grammar exercises + answers
 
-## 11. Final 12-minute review
+Exercise 1 – Choose the correct answer
 
-### Minutes 1--4: Vocabulary
+* I usually (wake / wakes) up early.
 
-Review the food, drink, taste, texture, and cooking words. Cover the
-Vietnamese meanings and recall them in English.
+* She (go / goes) to work by bus.
 
-### Minutes 5--8: Speaking
+* They (don't / doesn't) work on Sundays.
 
-Speak for 1--2 minutes about your favorite food. Try to include:
+* (Do / Does) you exercise regularly?
 
--   At least five food words.
--   Three taste or texture adjectives.
--   Two ingredient expressions.
--   Two reasons why you like the dish.
+* He (don't / doesn't) drink coffee.
 
-### Minutes 9--12: Record and review
+* My brother always (watch / watches) TV after dinner.
 
-Record your answer on your phone. Listen once and check:
+Answer key
 
--   Did I describe the food clearly?
--   Did I use countable and uncountable nouns correctly?
--   Did I use "some", "any", "much", and "many" correctly?
--   Did I explain why I like the food?
--   Which sentence could sound more natural?
+* wake
 
-------------------------------------------------------------------------
+* goes
 
-## 12. Daily progress notes
+* don't
 
-Complete these after studying.
+* Do
 
--   **New food words I can use without looking:**
--   **Three sentences I can say naturally:**
--   **One grammar point I need to remember:**
--   **One pronunciation point to practice:**
--   **One food topic I can talk about confidently:**
--   **My speaking confidence today (1--5):**
+* doesn't
 
-------------------------------------------------------------------------
+* watches
 
-## 13. Key takeaway
+Explanation: Với he/she/it ở câu khẳng định, động từ thường thêm s/es. Sau does/doesn't, dùng động từ nguyên mẫu.
 
-When talking about food, use more than food names. Describe the taste,
-texture, ingredients, cooking method, and why you enjoy it.
+Exercise 2 – Put the adverb in the correct position
 
-**Daily habit:** Describe one meal in English every day. Speak for
-30--60 seconds without reading a prepared script.
+* I go to bed late. (usually)
+
+* She is tired after work. (often)
+
+* I drink coffee in the morning. (always)
+
+* They exercise on weekends. (sometimes)
+
+* He is late for meetings. (never)
+
+Answer key
+
+* I usually go to bed late.
+
+* She is often tired after work.
+
+* I always drink coffee in the morning.
+
+* They sometimes exercise on weekends.
+
+* He is never late for meetings.
+
+### 5\. Expressions – Natural Daily English
+
+Học những cách diễn đạt người bản xứ thường sử dụng khi nói về cuộc sống hàng ngày.
+
+### 5.1. Talking about your routine
+
+| Expression                      | Vietnamese                            |
+| ------------------------------- | ------------------------------------- |
+| My day starts at...             | Ngày của tôi bắt đầu lúc...           |
+| I usually start my day with...  | Tôi thường bắt đầu ngày mới bằng...   |
+| I'm an early bird.              | Tôi là người thích dậy sớm.           |
+| I'm a night owl.                | Tôi là người hay thức khuya.          |
+| I have a pretty busy schedule.  | Lịch trình của tôi khá bận.           |
+| I follow a daily routine.       | Tôi duy trì lịch sinh hoạt hàng ngày. |
+| I try to stay productive.       | Tôi cố gắng duy trì năng suất.        |
+| I take some time for myself.    | Tôi dành chút thời gian cho bản thân. |
+| I need to get things done.      | Tôi cần hoàn thành một số việc.       |
+| I like to wind down before bed. | Tôi thích thư giãn trước khi ngủ.     |
+
+### 5.2. Talking about habits
+
+| Expression                        | Vietnamese                                |
+| --------------------------------- | ----------------------------------------- |
+| I'm used to waking up early.      | Tôi quen với việc thức dậy sớm.           |
+| I've gotten into the habit of...  | Tôi đã hình thành thói quen...            |
+| I tend to stay up late.           | Tôi có xu hướng thức khuya.               |
+| I rarely skip breakfast.          | Tôi hiếm khi bỏ bữa sáng.                 |
+| I try to cut down on coffee.      | Tôi cố gắng giảm uống cà phê.             |
+| I make time for exercise.         | Tôi sắp xếp thời gian tập thể dục.        |
+| I'm trying to be more consistent. | Tôi đang cố gắng duy trì đều đặn hơn.     |
+| It depends on my schedule.        | Điều đó phụ thuộc vào lịch trình của tôi. |
+
+Natural English examples:
+
+* I'm a bit of a night owl. I usually go to bed around midnight.
+
+* I've gotten into the habit of exercising every morning.
+
+* I tend to check my phone as soon as I wake up.
+
+* I'm trying to be more consistent with my English practice.
+
+### 6\. Conversation Practice – 5 Real-life Dialogues
+
+### Conversation 1 – Talking about morning routines
+
+![Two Friends Discussing Stock Footage: Royalty-Free Video Clips - Storyblocks](https://images.openai.com/static-rsc-4/XUdKKdTffLkZTiqgy8ZkFMAn3LJmT-noeiTXOgE99xfeR2fdR0u-9WfbVLirGBUmbBTz0ldW19ZQdzeO2SUB5JKDM__kfIuIxV4lQmPTD7TqZ7SqLQHFRsZJXXgWLbyZN60IDSm9Xfo6ehoQZcXHtI5Hiik3ovhYnci5-9qLiuntNyOR31Eo0tk2_S4078aM?purpose=fullsize)
+
+A: What time do you usually wake up?
+
+B: I usually wake up at around 6:30 AM.
+
+A: That's pretty early! What do you do first?
+
+B: I brush my teeth, take a shower, and make some coffee.
+
+A: Do you usually have breakfast at home?
+
+B: Yes, I do. I usually have eggs and toast.
+
+A: Sounds like a good morning routine!
+
+B: Yeah, I feel more productive when I wake up early.
+
+Useful expressions:
+
+* What do you do first? – Bạn làm gì đầu tiên?
+
+* Sounds like a good routine! – Nghe có vẻ là một thói quen tốt!
+
+* I feel more productive. – Tôi cảm thấy làm việc hiệu quả hơn.
+
+### Conversation 2 – Talking about work schedules
+
+A: What time do you start work?
+
+B: I usually start work at 8:30 AM.
+
+A: Do you work from home or go to the office?
+
+B: It depends. Sometimes I work from home, but usually I go to the office.
+
+A: What time do you finish?
+
+B: Normally, around 5:30 PM.
+
+A: That's not too bad!
+
+B: Yeah, but sometimes I have to work overtime.
+
+### Conversation 3 – Talking about exercise
+
+![Two Friends Socializing During a Workout in a Modern Gym Environment](https://images.openai.com/static-rsc-4/0iLgYBUMFtKpoIrTmZXHXQlfHVIj-h8ImQNp9w_VUXeLCM4IJZlJhSHqPb-4yca-l5rdt1aqfAlBn4NzpdZdXPDqj05anZisUSbStNEVf76Uc4AcvG6NBDF2HX01Uo8FUNsoKXzaGYjrORyqo65V3PS5fpBOXTtbqt2qdX7b3R7IqitNay970rmj0gecBc54?purpose=fullsize)
+
+A: Do you exercise regularly?
+
+B: Yes, I try to work out four times a week.
+
+A: What kind of exercise do you do?
+
+B: Mostly weight training and boxing.
+
+A: That's awesome! How long do you usually work out?
+
+B: About an hour or an hour and a half.
+
+A: Do you prefer working out in the morning or evening?
+
+B: I prefer the evening because I'm usually busy in the morning.
+
+### Conversation 4 – Talking about weekends
+
+A: What do you usually do on weekends?
+
+B: I usually sleep in, go out for coffee, or hang out with friends.
+
+A: Do you ever go hiking?
+
+B: Occasionally. I enjoy spending time outdoors.
+
+A: That sounds relaxing!
+
+B: Yeah. I think it's important to have time to recharge.
+
+### Conversation 5 – Talking about bad habits
+
+A: Do you have any bad habits?
+
+B: I think I spend too much time on my phone.
+
+A: Same here! When do you usually use it?
+
+B: Mostly before going to bed.
+
+A: Have you tried changing that habit?
+
+B: Yes. I'm trying to read books instead of scrolling through social media.
+
+A: That's a good idea!
+
+B: Yeah, I'm hoping to sleep better.
+
+### 7\. Listening Practice – A Typical Day (20 minutes)
+
+![La ciudad te está enfermando lentamente: 10 peligros silenciosos de tu rutina diaria](https://images.openai.com/static-rsc-4/tcBygxKq39qENYu56kN0EcPNxUk-L3h1PPxBkewdYQW2FMJk2d4JfteekHORJqDQ_7HFJJx4yuPwTupOGvsyJTQVGRC-iNLjjYELrxzOMjimFXV_xZt06P9cLvYPcuRyH2fxDNC_L9zkTH7eD-Y5DM5K68lxmZJi-rQfgUxFkPR_Z9wdbBuYJWVX9Xa6Jis8?purpose=fullsize)
+
+Listening script: My Typical Weekday
+
+Hãy nghe bằng Read Aloud hoặc tự đọc thành tiếng. Lần đầu nghe để hiểu nội dung tổng thể, lần hai tập trung vào thời gian và hoạt động.
+
+Listening transcript
+
+My Typical Weekday
+
+I usually wake up at around 6:30 in the morning. The first thing I do is turn off my alarm and get out of bed.
+
+After that, I brush my teeth, take a shower, and get dressed. I normally have a light breakfast and a cup of coffee before leaving home.
+
+I start work at around 8:30 AM. During the day, I attend meetings, work on different tasks, and sometimes deal with unexpected problems.
+
+I usually have lunch at noon and take a short break afterward.
+
+I finish work at around 5:30 PM. In the evening, I sometimes go to the gym, meet friends, or just relax at home.
+
+After dinner, I spend about an hour studying English or watching something interesting online.
+
+I usually go to bed at around 11 PM. I try to get enough sleep because I want to stay healthy and productive.
+
+### 7.1. Listening comprehension
+
+Trả lời các câu hỏi sau:
+
+* What time does the speaker wake up?
+
+* What does the speaker do after getting out of bed?
+
+* What time does the speaker start work?
+
+* What does the speaker do during the day?
+
+* When does the speaker have lunch?
+
+* What time does the speaker finish work?
+
+* What does the speaker sometimes do in the evening?
+
+* How long does the speaker study English?
+
+* What time does the speaker go to bed?
+
+* Why does the speaker try to get enough sleep?
+
+Listening answer key
+
+* At around 6:30 AM.
+
+* Brushes their teeth, takes a shower, and gets dressed.
+
+* At around 8:30 AM.
+
+* Attends meetings, works on tasks, and deals with problems.
+
+* At noon.
+
+* At around 5:30 PM.
+
+* Goes to the gym, meets friends, or relaxes at home.
+
+* About an hour.
+
+* At around 11 PM.
+
+* To stay healthy and productive.
+
+### 7.2. Listening vocabulary challenge
+
+Nghe lại và tìm những cụm từ tương ứng với nghĩa tiếng Việt:
+
+| Vietnamese                 | Answer                        |
+| -------------------------- | ----------------------------- |
+| Tắt báo thức               | Turn off my alarm             |
+| Rời khỏi giường            | Get out of bed                |
+| Rời khỏi nhà               | Leave home                    |
+| Xử lý những vấn đề bất ngờ | Deal with unexpected problems |
+| Nghỉ giải lao ngắn         | Take a short break            |
+| Duy trì sức khỏe           | Stay healthy                  |
+
+### 8\. Guided Speaking – 25 minutes
+
+Đây là phần giúp bạn chuyển kiến thức thành phản xạ giao tiếp.
+
+### 8.1. Daily routine questions
+
+Dưới đây là 10 câu hỏi và câu trả lời mẫu.
+
+1\. What time do you usually wake up?
+
+"I usually wake up at around 7 AM. I prefer waking up early because I feel more energetic in the morning."
+
+2\. What's the first thing you do after waking up?
+
+"The first thing I do is check my phone. Then I brush my teeth and take a shower."
+
+3\. Do you usually have breakfast?
+
+"Yes, I do. I usually have a simple breakfast at home, such as eggs, bread, and coffee."
+
+4\. How do you get to work?
+
+"I usually commute to work by motorbike. It takes me about 20 minutes."
+
+5\. What time do you finish work?
+
+"I normally finish work at around 5:30 PM, but sometimes I have to work overtime."
+
+6\. What do you usually do after work?
+
+"After work, I usually go to the gym or relax at home. Sometimes I meet my friends for coffee."
+
+7\. How often do you exercise?
+
+"I work out about four times a week. I enjoy weight training and boxing."
+
+8\. What do you usually do before going to bed?
+
+"I usually watch videos, read something, or study English before going to bed."
+
+9\. Are you an early bird or a night owl?
+
+"I'm more of a night owl because I often feel more productive in the evening."
+
+10\. Is there anything about your daily routine you'd like to change?
+
+"Yes. I'd like to spend less time on my phone and more time practicing English and exercising."
+
+### 8.2. Follow-up questions
+
+Muốn nói tự nhiên, bạn cần biết cách hỏi tiếp.
+
+Ví dụ:
+
+A: I usually wake up at 7 AM.
+
+B: Really? Why do you wake up so early?
+
+A: Because I need time to get ready for work.
+
+B: I see. Do you usually have breakfast at home?
+
+A: Yes, I do.
+
+B: What do you usually eat?
+
+Các câu hỏi tiếp theo nên ghi nhớ:
+
+* Why do you do that?
+
+* How often do you do it?
+
+* How long does it take?
+
+* What do you like about it?
+
+* Would you like to change that habit?
+
+* How does it make you feel?
+
+* Is it difficult to maintain that routine?
+
+### 9\. Free Speaking – Speaking Challenge (20 minutes)
+
+![Master English pronunciation with these practical tips](https://images.openai.com/static-rsc-4/IrnjPeyqOt8qc5BRgR4IZ766Hr3xUJL1ZnBj8v-IpXU3poqXQ0JfQatXDmvrJkpD59nqe1eeJjPLe9PoguG6_p-567rlaWKH-7GWkCiD8FO1LLkMM_qcApyNV4ug8U0TtkXs5fJrljG9rngZ2WaD676lLON00m3LNxM4iFqWZcGuVnfdLhnLVLMK50zDCANj?purpose=fullsize)
+
+Topic: Describe Your Typical Day
+
+Hãy tự nói 3–5 phút mà không nhìn tài liệu.
+
+Sử dụng cấu trúc sau:
+
+| Section   | Speaking content                      |
+| --------- | ------------------------------------- |
+| Morning   | What time do you wake up?             |
+| Breakfast | What do you usually eat?              |
+| Work      | What do you do during the day?        |
+| Afternoon | What do you do after lunch?           |
+| Evening   | How do you spend your evening?        |
+| Night     | What do you do before sleeping?       |
+| Lifestyle | What habits would you like to change? |
+
+Speaking example:
+
+"On weekdays, I usually wake up at around 7 AM. After getting out of bed, I brush my teeth, take a shower, and have breakfast.
+
+I normally start work at 8:30 AM. During the day, I spend most of my time working on projects and solving problems.
+
+After work, I usually go to the gym. I enjoy working out because it helps me stay healthy and reduce stress.
+
+In the evening, I have dinner and spend some time studying English. I usually go to bed around 11 PM.
+
+Overall, I have a pretty busy schedule, but I'm trying to maintain a healthy lifestyle."
+
+Challenge: Hãy sử dụng ít nhất 8 từ vựng mới, 5 trạng từ chỉ tần suất và 3 collocations.
+
+### 10\. Exercises – Bài tập thực hành
+
+Tất cả bài tập đều có đáp án và giải thích ngay bên dưới.
+
+### Exercise A – Vocabulary: Fill in the blanks
+
+Sử dụng các từ trong Word Bank.
+
+`wake up – commute – breakfast – shower – relax – work out – deadline – routine – errands – asleep`
+
+* I usually ______ at 6:30 AM.
+
+* I take a ______ before going to work.
+
+* I have ______ at around 7:30 AM.
+
+* I ______ to work by motorbike.
+
+* I need to finish this task before the ______.
+
+* I usually ______ at the gym after work.
+
+* I like to ______ by watching movies.
+
+* I have a busy daily ______.
+
+* I sometimes run ______ after work.
+
+* I usually fall ______ around 11 PM.
+
+Answer key
+
+* wake up
+
+* shower
+
+* breakfast
+
+* commute
+
+* deadline
+
+* work out
+
+* relax
+
+* routine
+
+* errands
+
+* asleep
+
+### Exercise B – Grammar: Choose the correct answer
+
+* She usually (wake / wakes) up early.
+
+* I (don't / doesn't) drink coffee.
+
+* (Do / Does) your brother work on Sundays?
+
+* He always (go / goes) to the gym.
+
+* I am (usually / usually am) busy in the morning.
+
+* They (never / doesn't never) eat breakfast late.
+
+* My father (watch / watches) TV every evening.
+
+* How often (do / does) you exercise?
+
+* She rarely (take / takes) a taxi.
+
+* We (don't / doesn't) work on weekends.
+
+Answer key + explanations
+
+| #   | Answer  | Explanation                   |
+| --- | ------- | ----------------------------- |
+| 1   | wakes   | She + V-s                     |
+| 2   | don't   | I + don't                     |
+| 3   | Does    | Your brother = he             |
+| 4   | goes    | He + V-es                     |
+| 5   | usually | Sau to be                     |
+| 6   | never   | Trạng từ trước động từ thường |
+| 7   | watches | Watch + es                    |
+| 8   | do      | You + do                      |
+| 9   | takes   | She + V-s                     |
+| 10  | don't   | We + don't                    |
+
+### Exercise C – Translate into English
+
+Dịch 10 câu sau sang tiếng Anh.
+
+* Tôi thường thức dậy lúc 7 giờ sáng.
+
+* Tôi luôn uống cà phê vào buổi sáng.
+
+* Tôi đi làm bằng xe máy.
+
+* Tôi thường nghỉ trưa lúc 12 giờ.
+
+* Sau giờ làm, tôi thường đi tập gym.
+
+* Tôi hiếm khi đi ngủ trước 10 giờ.
+
+* Tôi không thường xuyên ăn sáng ở ngoài.
+
+* Bạn thường làm gì vào cuối tuần?
+
+* Bạn tập thể dục bao nhiêu lần mỗi tuần?
+
+* Tôi muốn xây dựng một thói quen sống lành mạnh hơn.
+
+Suggested answers
+
+* I usually wake up at 7 AM.
+
+* I always drink coffee in the morning.
+
+* I commute to work by motorbike.
+
+* I usually take a lunch break at noon.
+
+* I usually go to the gym after work.
+
+* I rarely go to bed before 10 PM.
+
+* I don't usually eat breakfast out.
+
+* What do you usually do on weekends?
+
+* How often do you exercise each week?
+
+* I want to build a healthier lifestyle.
+
+### Exercise D – Correct the mistakes
+
+Tìm và sửa lỗi:
+
+* I wakes up at 7 AM.
+
+* She don't work on Sundays.
+
+* He go to the gym every day.
+
+* I am usually wake up early.
+
+* Does you exercise regularly?
+
+* I never am late for work.
+
+* My brother don't drink coffee.
+
+* She usually go to bed at 11 PM.
+
+Correct answers
+
+* I wake up at 7 AM.
+
+* She doesn't work on Sundays.
+
+* He goes to the gym every day.
+
+* I usually wake up early.
+
+* Do you exercise regularly?
+
+* I am never late for work.
+
+* My brother doesn't drink coffee.
+
+* She usually goes to bed at 11 PM.
+
+### Exercise E – Build your own sentences
+
+Tạo câu sử dụng những từ sau:
+
+| Word      | Example answer                        |
+| --------- | ------------------------------------- |
+| Usually   | I usually wake up at 7 AM.            |
+| Sometimes | I sometimes go to the gym after work. |
+| Rarely    | I rarely eat fast food.               |
+| Always    | I always brush my teeth before bed.   |
+| Never     | I never smoke.                        |
+| Often     | I often study English in the evening. |
+
+Mục tiêu: Tự tạo thêm 6 câu về chính cuộc sống của bạn.
+
+### 11\. Day 3 – Final Quiz
+
+10 questions · Vocabulary & Grammar
+
+Day 3 Assessment
+
+0/10 answered
+
+1. I usually ___ up at 7 AM.
+
+A. wakes
+
+B. wake
+
+C. waking
+
+2. She ___ to work every morning.
+
+A. go
+
+B. going
+
+C. goes
+
+3. I ___ drink coffee at night.
+
+A. never
+
+B. am never
+
+C. doesn't never
+
+4. How often ___ you exercise?
+
+A. does
+
+B. do
+
+C. are
+
+5. He doesn't ___ breakfast.
+
+A. has
+
+B. having
+
+C. have
+
+6. I usually ___ a shower before work.
+
+A. take
+
+B. make
+
+C. do
+
+7. I'm a night owl. This means...
+
+A. I wake up very early.
+
+B. I usually stay up late.
+
+C. I exercise every morning.
+
+8. Which is correct?
+
+A. I am usually tired.
+
+B. I usually am tired.
+
+C. I usually tired.
+
+9. I work out three times ___ week.
+
+A. in
+
+B. a
+
+C. on
+
+10. What do you do ___ work?
+
+A. after
+
+B. at
+
+C. on
+
+Submit answers
+
+### 12\. Homework – Speaking Assignment
+
+Daily speaking challenge
+
+Topic: My Daily Routine and Lifestyle
+
+Viết một đoạn văn 150–200 từ, sau đó đọc thành tiếng trong 3–5 phút bằng cách mở rộng nội dung.
+
+Nội dung cần có:
+
+* What time do you wake up?
+
+* What do you do in the morning?
+
+* What is your work schedule?
+
+* What do you usually do after work?
+
+* How often do you exercise?
+
+* What do you do before going to bed?
+
+* What are your good and bad habits?
+
+* What would you like to change about your lifestyle?
+
+Khi gửi bài, tôi sẽ sửa lỗi, chấm điểm trên thang 100 và viết lại thành phiên bản giao tiếp tự nhiên.
+
+### 13\. Daily Progress Tracker
+
+DAY 03 CHECKLIST
+
+### 0/10
+
+Learned 20 daily routine words
+
+Practiced 12 collocations
+
+Practiced pronunciation and shadowing
+
+Understood Present Simple
+
+Learned frequency adverbs
+
+Completed 5 conversations
+
+Completed listening practice
+
+Practiced 10 speaking questions
+
+Finished all exercises and checked answers
+
+Spoke about my daily routine for 3–5 minutes
+
+### 14\. Preview – Day 4
+
+![Comida Casera en Tenerife | Tasca Fumero](https://images.openai.com/static-rsc-4/8WwRcihm6rJ1OHBwzbAG1S2CdNQMMp8dut_f_dFQL4lNIs9WeccW5I0Qy1--Mx8WH8xBc-Y187xrApWJxk1szdb3j6WyizXKu6tfBKYzxFon1_3ASpnshBnat2NDg19wHxC70F2lcejAGtVUk3NqzK5CoGKJx2mrDtLMYLXAuoqcE3sN_Lzd_0NDRDnjErGs?purpose=fullsize)
+
+NEXT LESSON
+
+DAY 04 – Family & Relationships
+
+Gia đình, các mối quan hệ, bạn bè và cách nói về những người thân yêu.
+
+Nội dung Day 4:
+
+* Family vocabulary (20 words).
+
+* Personality and relationship expressions.
+
+* Describing family members.
+
+* Possessive adjectives and possessive pronouns.
+
+* Talking about parents, siblings and relatives.
+
+* 5 real-life conversations.
+
+* Listening, speaking and exercises with complete answers.
+
+Quy tắc của khóa học: Từ Day 3 trở đi, tất cả bài tập đều có đáp án hiển thị ngay trong bài, kèm giải thích khi cần thiết. Không cần chờ đến ngày tiếp theo mới xem đáp án.
+
+Keep practicing every day. Fluency comes from consistent practice, not memorizing grammar rules!
