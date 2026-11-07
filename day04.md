@@ -1,575 +1,1051 @@
-# DAY 04 --- At a Restaurant: Ordering Food Naturally
+### ENGLISH SPEAKING – 180 DAYS
 
-**Level:** A2--B1 (Practical English)\
-**Study time:** 2 hours\
-**Main topic:** Restaurant conversations, ordering, requests, and paying
-the bill\
-**Main goal:** Handle a restaurant visit in English, from asking for a
-table to paying the bill.
+DAY 04 / 180A2–B1Balanced
 
-------------------------------------------------------------------------
+### Family & Relationships
 
-## 1. Learning objectives
+Gia đình, các mối quan hệ, bạn bè và cách nói về những người thân yêu.
 
-By the end of this lesson, you should be able to:
+![Đối thoại để thấu hiểu](https://images.openai.com/static-rsc-4/h3ZWVA0cVLNJcmYrVK0KqbIvgbJEy2A2vQUXPtdHBxaUwtz7mhxfJ0LfWVTkehyRwcrvOB57JZ0I5vi3c9OPM1kRJ9hFFYabIWMNSkfEoC9rLUUE1-E-RXQswkgrNRaeiznkCLgzrndnsPXa_PqGNCuGhxKbmyMUFFHStyjC3kxRbM3lznBUIZEy0zUx4a7s?purpose=fullsize)
 
--   Ask for a table and make a reservation.
--   Ask for recommendations and understand menu descriptions.
--   Order food and drinks politely.
--   Ask about ingredients, prices, and preparation.
--   Make special requests or explain a problem with an order.
--   Ask for the bill and pay.
+Today's learning objectives
 
-**Today's rule:** Polite phrases such as "Could I...?", "I'd like...",
-and "Could we...?" make your requests sound friendly and natural.
+* Giới thiệu và mô tả các thành viên trong gia đình.
 
-------------------------------------------------------------------------
+* Nói về tính cách và mối quan hệ giữa mọi người.
 
-## 2. Two-hour study schedule
+* Kể về những hoạt động cùng gia đình.
 
-  -----------------------------------------------------------------------
-  Time                    Activity                What to do
-  ----------------------- ----------------------- -----------------------
-  00--30 min              Vocabulary &            Learn restaurant words
-                          pronunciation           and useful phrases.
+* Sử dụng possessive adjectives và possessive pronouns.
 
-  30--60 min              Grammar & sentence      Practice polite
-                          patterns                requests and question
-                                                  forms.
+* Duy trì cuộc trò chuyện về gia đình và bạn bè.
 
-  60--84 min              Speaking practice       Practice ordering,
-                                                  asking questions, and
-                                                  solving problems.
+    Study time 120 minutes
 
-  84--108 min             Conversation practice   Role-play a complete
-                                                  restaurant visit.
+    Vocabulary
 
-  108--120 min            Review & recording      Record a restaurant
-                                                  conversation and review
-                                                  it.
-  -----------------------------------------------------------------------
+    20 words
 
-------------------------------------------------------------------------
+    Collocations
 
-## 3. Vocabulary --- Restaurant words
+    12 phrases
 
-Pronunciation is shown in IPA. Pronunciation approximations in
-Vietnamese are not exact; use dictionary audio and repeat the words
-aloud.
+    Conversations
 
-  -----------------------------------------------------------------------
-  Word / phrase     IPA               Nghĩa tiếng Việt  Example
-  ----------------- ----------------- ----------------- -----------------
-  restaurant        /ˈrestrɑːnt/      nhà hàng          There's a new
-                                                        restaurant near
-                                                        my office.
+    5 dialogues
 
-  reservation       /ˌrezərˈveɪʃən/   đặt chỗ           I have a
-                                                        reservation for
-                                                        two.
+### 1\. Daily schedule – 120 minutes
 
-  table             /ˈteɪbəl/         bàn               Could we have a
-                                                        table by the
-                                                        window?
+| Activity                  | Time   |
+| ------------------------- | ------ |
+| Vocabulary & Collocations | 20 min |
+| Pronunciation             | 15 min |
+| Grammar                   | 15 min |
+| Listening                 | 20 min |
+| Guided Speaking           | 25 min |
+| Free Speaking             | 20 min |
+| Daily Review              | 5 min  |
 
-  menu              /ˈmenjuː/         thực đơn          Could I see the
-                                                        menu, please?
+### 2\. Vocabulary – Family & Relationships (20 minutes)
 
-  waiter            /ˈweɪtər/         nam phục vụ       The waiter
-                                                        brought us the
-                                                        menu.
+### 2.1. Family members – Các thành viên gia đình
 
-  waitress          /ˈweɪtrəs/        nữ phục vụ        The waitress was
-                                                        very friendly.
+![Family Tree Three Generation Grandparents Parents Children Vector Illustration Stock Vector by ©Sunbeam_ks 707191108](https://images.openai.com/static-rsc-4/ZRIDB9uBOGdSQb0tmAV4L90mifHDkBL15sXsPHwD5g-kjCJQFAYL2CkyT1R3FxcUQI_dgQ_GwJkmdnLxpC9nValMHHcpX-Zj-MhyaYh87unyo-Gb_vGX83XYFhfxlBo2bb_5wLly88OS_xWHtEHLrs5qA92op6k7p52ztKwky8g8MzyrwEUCyiFuibF89taZ?purpose=fullsize)
 
-  server            /ˈsɜːrvər/        nhân viên phục vụ Our server
-                                                        recommended the
-                                                        soup.
+| English  | IPA          | Vietnamese      |
+| -------- | ------------ | --------------- |
+| Parents  | /ˈpeə.rənts/ | Bố mẹ           |
+| Father   | /ˈfɑː.ðər/   | Bố              |
+| Mother   | /ˈmʌð.ər/    | Mẹ              |
+| Sibling  | /ˈsɪb.lɪŋ/   | Anh chị em ruột |
+| Brother  | /ˈbrʌð.ər/   | Anh/em trai     |
+| Sister   | /ˈsɪs.tər/   | Chị/em gái      |
+| Husband  | /ˈhʌz.bənd/  | Chồng           |
+| Wife     | /waɪf/       | Vợ              |
+| Cousin   | /ˈkʌz.ən/    | Anh chị em họ   |
+| Relative | /ˈrel.ə.tɪv/ | Họ hàng         |
 
-  order             /ˈɔːrdər/         gọi món, đơn gọi  Are you ready to
-                                      món               order?
+### 2.2. Relationships & Personality
 
-  starter           /ˈstɑːrtər/       món khai vị       We'll have soup
-                                                        as a starter.
+| English      | IPA              | Vietnamese   |
+| ------------ | ---------------- | ------------ |
+| Relationship | /rɪˈleɪ.ʃən.ʃɪp/ | Mối quan hệ  |
+| Close        | /kləʊs/          | Thân thiết   |
+| Supportive   | /səˈpɔː.tɪv/     | Hay hỗ trợ   |
+| Caring       | /ˈkeə.rɪŋ/       | Chu đáo      |
+| Generous     | /ˈdʒen.ər.əs/    | Hào phóng    |
+| Strict       | /strɪkt/         | Nghiêm khắc  |
+| Patient      | /ˈpeɪ.ʃənt/      | Kiên nhẫn    |
+| Reliable     | /rɪˈlaɪ.ə.bəl/   | Đáng tin cậy |
+| Respect      | /rɪˈspekt/       | Tôn trọng    |
+| Get along    | /ɡet əˈlɒŋ/      | Hòa thuận    |
 
-  main course       /ˌmeɪn ˈkɔːrs/    món chính         The grilled fish
-                                                        is my main
-                                                        course.
+### 2.3. Example sentences – Câu ví dụ
 
-  side dish         /ˈsaɪd dɪʃ/       món ăn kèm        Can I have rice
-                                                        as a side dish?
+1\. I come from a small family.
 
-  dessert           /dɪˈzɜːrt/        món tráng miệng   Let's order
-                                                        dessert.
+Tôi xuất thân từ một gia đình nhỏ.
 
-  special           /ˈspeʃəl/         món đặc biệt      What's today's
-                                                        special?
+2\. I have one older brother and one younger sister.
 
-  ingredient        /ɪnˈɡriːdiənt/    nguyên liệu       What are the main
-                                                        ingredients?
+Tôi có một anh trai và một em gái.
 
-  bill / check      /bɪl/ /tʃek/      hóa đơn           Could we have the
-                                                        bill, please?
+3\. My parents are very supportive.
 
-  tip               /tɪp/             tiền boa          Is a tip
-                                                        included?
+Bố mẹ tôi rất ủng hộ tôi.
 
-  cash              /kæʃ/             tiền mặt          Can I pay in
-                                                        cash?
+4\. I'm quite close to my family.
 
-  card              /kɑːrd/           thẻ               Do you accept
-                                                        cards?
+Tôi khá thân thiết với gia đình.
 
-  receipt           /rɪˈsiːt/         biên lai          Could I have a
-                                                        receipt?
+5\. My father is a patient and caring person.
 
-  takeaway /        /ˈteɪkəweɪ/       mang đi           Can I get this as
-  takeout           /ˈteɪkaʊt/                          takeaway?
-  -----------------------------------------------------------------------
+Bố tôi là người kiên nhẫn và chu đáo.
 
-## 4. Vocabulary --- Describing service and food
+6\. My mother always gives me good advice.
 
-  -----------------------------------------------------------------------
-  Word / phrase     IPA               Nghĩa tiếng Việt  Example
-  ----------------- ----------------- ----------------- -----------------
-  available         /əˈveɪləbəl/      có sẵn            Is this dish
-                                                        available today?
+Mẹ tôi luôn cho tôi những lời khuyên tốt.
 
-  recommended       /ˌrekəˈmendɪd/    được đề xuất      What's your
-                                                        recommended dish?
+7\. We usually get together on special occasions.
 
-  portion           /ˈpɔːrʃən/        khẩu phần         Is this a large
-                                                        portion?
+Chúng tôi thường tụ họp vào những dịp đặc biệt.
 
-  spicy             /ˈspaɪsi/         cay               Could you make it
-                                                        less spicy?
+8\. I get along well with my siblings.
 
-  mild              /maɪld/           ít cay, vị nhẹ    I'd prefer
-                                                        something mild.
+Tôi hòa thuận với anh chị em của mình.
 
-  allergy           /ˈælərdʒi/        dị ứng            I have a peanut
-                                                        allergy.
+### 2.4. Collocations – 12 cụm từ quan trọng
 
-  vegetarian        /ˌvedʒəˈteriən/   người ăn chay /   Do you have any
-                                      món chay          vegetarian
-                                                        dishes?
+| Collocation            | Vietnamese                 |
+| ---------------------- | -------------------------- |
+| Immediate family       | Gia đình ruột thịt gần gũi |
+| Extended family        | Đại gia đình, họ hàng      |
+| Close-knit family      | Gia đình gắn bó            |
+| Family member          | Thành viên gia đình        |
+| Family gathering       | Buổi họp mặt gia đình      |
+| Spend time together    | Dành thời gian bên nhau    |
+| Support each other     | Hỗ trợ lẫn nhau            |
+| Get along with someone | Hòa thuận với ai           |
+| Take care of someone   | Chăm sóc ai                |
+| Have a lot in common   | Có nhiều điểm chung        |
+| Keep in touch          | Giữ liên lạc               |
+| Give someone advice    | Cho ai lời khuyên          |
 
-  crowded           /ˈkraʊdɪd/        đông đúc          The restaurant is
-                                                        very crowded
-                                                        tonight.
+Practice sentences:
 
-  delicious         /dɪˈlɪʃəs/        ngon              Everything was
-                                                        delicious.
+* We are a close-knit family.
 
-  overcooked        /ˌoʊvərˈkʊkt/     nấu quá chín      The fish is a
-                                                        little
-                                                        overcooked.
-  -----------------------------------------------------------------------
+* My parents always support each other.
 
-### Pronunciation drill
+* I try to spend time with my family.
 
-Practice these phrases:
+* I get along well with my brother.
 
--   a table for two
--   a reservation at seven
--   today's special
--   the main course
--   could I see the menu?
--   could we have the bill?
--   less spicy, please
--   do you accept credit cards?
+* We have a lot in common.
 
-Repeat each phrase three times. Pay attention to the stress in
-**reservation**, **ingredient**, and **recommended**.
+### 3\. Expressions – Natural English
 
-------------------------------------------------------------------------
+Học những cách diễn đạt tự nhiên khi nói về gia đình và các mối quan hệ.
 
-## 5. Grammar --- Polite requests
+| Expression                          | Meaning                                |
+| ----------------------------------- | -------------------------------------- |
+| I come from a big family.           | Tôi xuất thân từ gia đình đông người.  |
+| I'm the oldest child.               | Tôi là con cả.                         |
+| I'm the youngest in my family.      | Tôi là con út.                         |
+| I'm an only child.                  | Tôi là con một.                        |
+| We're very close.                   | Chúng tôi rất thân thiết.              |
+| We don't see each other very often. | Chúng tôi không gặp nhau thường xuyên. |
+| We get along really well.           | Chúng tôi rất hòa thuận.               |
+| She's always there for me.          | Cô ấy luôn ở bên hỗ trợ tôi.           |
+| He means a lot to me.               | Anh ấy rất quan trọng với tôi.         |
+| Family comes first.                 | Gia đình luôn là ưu tiên hàng đầu.     |
+| We have our ups and downs.          | Chúng tôi cũng có lúc vui lúc buồn.    |
+| I look up to my father.             | Tôi ngưỡng mộ bố mình.                 |
 
-### A. "I'd like..." --- Tôi muốn...
+Natural English examples:
 
-Use `I'd like + noun` or `I'd like + to + verb`.
+* My parents mean a lot to me.
 
-Examples:
+* I really look up to my older brother.
 
--   I'd like a glass of water.
--   I'd like the grilled chicken.
--   I'd like to order now.
--   I'd like to see the dessert menu.
+* Even though we're busy, we try to keep in touch.
 
-This sounds more polite than "I want..." in many restaurant situations.
+* We don't always agree, but we respect each other.
 
-### B. "Could I...?" --- Tôi có thể... được không?
+### 4\. Pronunciation – Phát âm (15 minutes)
 
-Use `Could I + base verb...?` to make a polite request.
+### 4.1. Word stress
 
-Examples:
+| Word            | Pronunciation focus |
+| --------------- | ------------------- |
+| FA-ther         | /ˈfɑː.ðər/          |
+| MO-ther         | /ˈmʌð.ər/           |
+| SIS-ter         | /ˈsɪs.tər/          |
+| BRO-ther        | /ˈbrʌð.ər/          |
+| RE-la-tive      | /ˈrel.ə.tɪv/        |
+| re-LA-tion-ship | /rɪˈleɪ.ʃən.ʃɪp/    |
+| sup-POR-tive    | /səˈpɔː.tɪv/        |
+| re-LI-a-ble     | /rɪˈlaɪ.ə.bəl/      |
 
--   Could I see the menu, please?
--   Could I have some water?
--   Could I pay by card?
--   Could I get this without onions?
+### 4.2. Difficult sounds
 
-### C. "Could we...?" --- Chúng tôi có thể... được không?
+/ð/ – Father, mother, brother
 
-Examples:
+Đặt đầu lưỡi nhẹ giữa hai hàm răng và tạo âm rung.
 
--   Could we have a table for two?
--   Could we sit near the window?
--   Could we have the bill, please?
+/θ/ – Three, think, birthday
 
-### D. "Can I get...?" and "I'll have..."
+Đặt đầu lưỡi giữa hai hàm răng, thổi hơi ra, không rung dây thanh.
 
-These are common in everyday restaurant conversations.
+Practice:
 
--   Can I get a cup of tea?
--   I'll have the beef noodles, please.
--   I'll have the same as him.
--   Could I get that without cheese?
+* My father and mother are very supportive.
 
-### E. Questions with "Do you have...?" and "Does this...?"
+* I have three brothers.
 
-Examples:
+* I think family is important.
 
--   Do you have any vegetarian options?
--   Do you have a table available at seven?
--   Does this dish contain peanuts?
--   Does the price include a drink?
+* My brother's birthday is next Thursday.
 
-**Important:** If you have a food allergy, explain it clearly and ask
-staff to confirm whether the food is safe. Do not rely only on a casual
-guess.
+### 4.3. Shadowing
 
-------------------------------------------------------------------------
+Đọc theo nhịp tự nhiên:
 
-## 6. Useful sentence patterns
+"I come from a close-knit family. My parents are very supportive, and I get along really well with my siblings. Although we're sometimes busy, we always try to spend time together."
 
-### A. Arriving and getting a table
+Lặp lại 5 lần.
 
-1.  Hi, do you have a table for two?
-2.  I have a reservation under the name \_\_\_.
-3.  Could we sit by the window?
-4.  How long is the wait?
-5.  Is there a table available outside?
+### 5\. Grammar – Possessive Adjectives & Pronouns (15 minutes)
 
-### B. Asking about the menu
+Hôm nay chúng ta học cách diễn đạt sự sở hữu: của tôi, của bạn, của anh ấy, của cô ấy...
 
-1.  Could I see the menu, please?
-2.  What's today's special?
-3.  What would you recommend?
-4.  What does this dish come with?
-5.  What are the main ingredients?
-6.  Is this dish spicy?
-7.  Do you have any vegetarian options?
+### 5.1. Possessive adjectives
 
-### C. Ordering food
+| Subject | Possessive adjective | Example       |
+| ------- | -------------------- | ------------- |
+| I       | My                   | My father     |
+| You     | Your                 | Your mother   |
+| He      | His                  | His brother   |
+| She     | Her                  | Her sister    |
+| It      | Its                  | Its name      |
+| We      | Our                  | Our family    |
+| They    | Their                | Their parents |
 
-1.  I'd like the grilled chicken, please.
-2.  I'll have the beef noodles.
-3.  Could I get a glass of orange juice?
-4.  Could you make it less spicy?
-5.  Could I have the sauce on the side?
-6.  Could I get this without onions?
+Cấu trúc:
 
-### D. During and after the meal
+Possessive\\ adjective + Noun
 
-1.  Everything is delicious.
-2.  Excuse me, could we have some more water?
-3.  I think this isn't what I ordered.
-4.  Could we have the bill, please?
-5.  Can we pay separately?
-6.  Do you accept credit cards?
-7.  Could I have a receipt, please?
+Ví dụ:
 
-------------------------------------------------------------------------
+* My father is kind.
 
-## 7. Everyday English --- Complete restaurant conversations
+* Her mother is a teacher.
 
-### Dialogue A: Asking for a table
+* Their family is very close.
 
-**Customer:** Hi. Do you have a table for two?\
-**Host:** Yes, of course. Would you prefer to sit inside or outside?\
-**Customer:** Outside, if possible.\
-**Host:** Certainly. Please follow me.\
-**Customer:** Thank you.\
-**Host:** Here are your menus. Your server will be with you shortly.
+* Our parents live in Vietnam.
 
-### Dialogue B: Ordering food
+Lưu ý: Không sử dụng `the` trước possessive adjective.
 
-**Server:** Are you ready to order?\
-**Customer:** Yes. What would you recommend?\
-**Server:** The grilled salmon is very popular.\
-**Customer:** That sounds good. What does it come with?\
-**Server:** It comes with rice and steamed vegetables.\
-**Customer:** Great. I'll have that, please.\
-**Server:** Would you like something to drink?\
-**Customer:** Could I have a glass of water, please?\
-**Server:** Certainly. Anything else?\
-**Customer:** That's all for now. Thank you.
+Sai: The my father.
 
-### Dialogue C: Making a special request
+Đúng: My father.
 
-**Customer:** Excuse me. Could I ask you something?\
-**Server:** Of course.\
-**Customer:** Does this dish contain peanuts?\
-**Server:** Let me check with the kitchen for you.\
-**Customer:** Thank you. I have a peanut allergy, so I need to avoid
-them completely.\
-**Server:** I understand. I'll confirm the ingredients and preparation
-with the kitchen before recommending anything.
+### 5.2. Possessive pronouns
 
-### Dialogue D: Paying the bill
+| Adjective | Pronoun | Example              |
+| --------- | ------- | -------------------- |
+| My        | Mine    | This book is mine.   |
+| Your      | Yours   | This phone is yours. |
+| His       | His     | This car is his.     |
+| Her       | Hers    | This bag is hers.    |
+| Our       | Ours    | This house is ours.  |
+| Their     | Theirs  | This room is theirs. |
 
-**Customer:** Excuse me. Could we have the bill, please?\
-**Server:** Certainly. Here you are.\
-**Customer:** Can we pay separately?\
-**Server:** Of course. How would you like to split it?\
-**Customer:** I'll pay for my meal by card.\
-**Server:** No problem. Please tap your card here.\
-**Customer:** Done. Could I have a receipt, please?\
-**Server:** Certainly. Thank you, and have a nice evening!\
-**Customer:** Thank you. You too!
+Khác biệt:
 
-### Useful expressions
+* This is my phone.
 
--   If possible --- nếu có thể
--   Please follow me --- vui lòng đi theo tôi
--   Your server will be with you shortly --- nhân viên sẽ đến phục vụ
-    bạn ngay
--   What does it come with? --- món này ăn kèm với gì?
--   Let me check --- để tôi kiểm tra
--   Pay separately --- thanh toán riêng
--   Split the bill --- chia hóa đơn
+* This phone is mine.
 
-### Role-play
+`My` cần danh từ đi sau. `Mine` đứng độc lập, không cần danh từ.
 
-1.  Read the four dialogues aloud.
-2.  Change the number of people, dishes, drinks, and requests.
-3.  Practice both the customer and server roles.
-4.  Try to complete a restaurant visit without reading the script.
-5.  Add one unexpected situation, such as a wrong order or a long wait.
+### 5.3. Grammar exercises + answers
 
-------------------------------------------------------------------------
+Exercise A – Choose the correct answer
 
-## 8. Speaking practice
+* This is (my / mine) father.
 
-Use keywords, not a complete script. Speak aloud and record yourself.
+* That house is (our / ours).
 
-### Topic A: Making a reservation (about 1 minute)
+* She loves (her / hers) family.
 
-Answer:
+* This is (their / theirs) car.
 
-1.  How many people are going?
-2.  What day and time would you like?
-3.  Would you prefer inside or outside?
-4.  Would you like a table by the window?
-5.  What name is the reservation under?
+* That phone is (his / him).
 
-**Sample answer**
+* We visit (our / ours) parents every weekend.
 
-Hello, I'd like to make a reservation for two people for Friday evening
-at seven. If possible, we'd prefer a table by the window. Could you let
-me know if that's available? The reservation is under the name Alex.
-Thank you.
+Answer key
 
-### Topic B: Ordering a meal (about 1 minute)
+* my
 
-Answer:
+* ours
 
-1.  What would you like to order?
-2.  What would you like to drink?
-3.  Do you want any changes to the dish?
-4.  Would you like a starter or dessert?
-5.  How would you respond if the server recommended another dish?
+* her
 
-**Sample answer**
+* their
 
-I'd like to order the grilled chicken with rice, please. Could I have
-some vegetables on the side? For a drink, I'll have a glass of orange
-juice. I don't need a starter, but I might order dessert later. Thank
-you.
+* his
 
-### Topic C: Explain a food problem politely (about 1 minute)
+* our
 
-Situations:
+Explanation: My, her, their, our đứng trước danh từ. Mine, hers, theirs, ours đứng độc lập.
 
--   Your food is too salty.
--   You received the wrong dish.
--   Your drink hasn't arrived.
--   The food is cold.
--   You need to ask about an ingredient.
+Exercise B – Rewrite the sentences
 
-**Speaking framework**
+* This is my brother's car. (Use his)
 
-"Excuse me, I think there might be a small problem with my order. I
-ordered \_\_\_\_, but \_\_\_\_. Could you please check it for me? Thank
-you for your help."
+* This is our house. (Use ours)
 
-### Topic D: Give a restaurant review (about 1 minute)
+* That is her phone. (Use hers)
 
-Answer:
+* This is their dog. (Use theirs)
 
-1.  What restaurant did you visit?
-2.  What did you order?
-3.  How was the food?
-4.  How was the service?
-5.  Was it good value for money?
-6.  Would you recommend it?
+Suggested answers
 
-**Speaking framework**
+* This car is his.
 
-"I recently visited ***. I ordered ***. The food was ***. The service
-was ***. The prices were ***. Overall, I had a *** experience, and I'd
-recommend it to people who enjoy \_\_\_."
+* This house is ours.
 
-------------------------------------------------------------------------
+* This phone is hers.
 
-## 9. Exercises --- Questions with answers
+* This dog is theirs.
 
-Try to answer before checking the suggested answers. Read the sentences
-aloud.
+### 6\. Conversation Practice – 5 Real-life Dialogues
 
-### Exercise A: Choose the most polite and natural expression
+Luyện đọc hai vai. Sau mỗi đoạn, hãy thử thay thông tin bằng gia đình và cuộc sống thực tế của bạn.
 
-1.  (I want / I'd like) a table for two, please.
-2.  (Could I / I am) see the menu, please?
-3.  (Give me / Could I have) a glass of water, please?
-4.  (What recommend you / What would you recommend?)?
-5.  (Can we pay separately? / We pay separate?)
+### Conversation 1 – Talking about family
 
-**Answers**
+![Why Friends Are Important: 10 Science-Backed Reasons](https://images.openai.com/static-rsc-4/GFdXtEyI-NgRBspX0rUoraDsZUJdg8M7sLZ3LEiit7B047vyi0kjCfnLJdho9m_SJOHI3bk4UTO6lYBIbn0QVGLEfsMrqgr5aWEBDvu-mM7j_--IWdLFk0Nx6VqQXvRicDF34MNdY2DQV2ij8ffB4e-wAZAq6ZVvUPPf4cJVniTxtdCTo4OlcB1pOyypRpaQ?purpose=fullsize)
 
-1.  I'd like
-2.  Could I
-3.  Could I have
-4.  What would you recommend?
-5.  Can we pay separately?
+A: Do you have a big family?
 
-### Exercise B: Complete the restaurant conversation
+B: Not really. I come from a relatively small family.
 
-**Server:** Good evening. Are you ready to order?\
-**Customer:** Yes. I'd like the \_\_\_\_\_\_, please.\
-**Server:** Would you like something to drink?\
-**Customer:** Could I have a \_\_\_\_\_\_, please?\
-**Server:** Certainly. Anything else?\
-**Customer:** No, \_\_\_\_\_\_ for now. Thank you.
+A: How many people are there in your family?
 
-**Suggested answers:** grilled chicken / glass of water / that's all
+B: There are four of us: my parents, my younger sister, and me.
 
-Other answers are possible.
+A: Are you close to your family?
 
-### Exercise C: Translate into English
+B: Yes, we're very close. We always try to spend time together.
 
-1.  Tôi muốn đặt bàn cho hai người.
-2.  Cho tôi xem thực đơn được không?
-3.  Bạn có thể gợi ý món ăn nào không?
-4.  Món này có cay không?
-5.  Tôi muốn gọi món gà nướng.
-6.  Cho chúng tôi xin hóa đơn.
-7.  Chúng tôi có thể thanh toán riêng không?
+A: That's lovely!
 
-**Suggested answers**
+B: Yeah, family is really important to me.
 
-1.  I'd like to book a table for two.
-2.  Could I see the menu, please?
-3.  What would you recommend?
-4.  Is this dish spicy?
-5.  I'd like to order the grilled chicken.
-6.  Could we have the bill, please?
-7.  Can we pay separately?
+Useful expressions:
 
-### Exercise D: Respond to these situations
+* How many people are there in your family? – Gia đình bạn có bao nhiêu người?
 
-1.  The server asks: "Would you like something to drink?"
-2.  You want to know whether a dish contains seafood.
-3.  You want less salt in your food.
-4.  You received the wrong order.
-5.  You want to pay by card.
+* We're very close. – Chúng tôi rất thân thiết.
 
-**Suggested answers**
+* We try to spend time together. – Chúng tôi cố gắng dành thời gian bên nhau.
 
-1.  "Yes, could I have a glass of water, please?"
-2.  "Does this dish contain seafood?"
-3.  "Could you make it less salty, please?"
-4.  "Excuse me, I think this isn't what I ordered. Could you check it
-    for me?"
-5.  "Can I pay by card?"
+### Conversation 2 – Talking about parents
 
-------------------------------------------------------------------------
+A: What do your parents do?
 
-## 10. Common mistakes to avoid
+B: My father is a businessman, and my mother is a teacher.
 
-  -------------------------------------------------------------------------
-  Incorrect               Correct / Natural       Explanation
-  ----------------------- ----------------------- -------------------------
-  I want order chicken.   I'd like to order       Use
-                          chicken.                `would like to + verb`.
+A: What are they like?
 
-  Give me the menu.       Could I see the menu,   The second expression is
-                          please?                 more polite.
+B: My father is quite strict but very caring. My mother is patient and friendly.
 
-  What you recommend?     What would you          Use the correct question
-                          recommend?              structure.
+A: Who are you more like?
 
-  I want a table two      I'd like a table for    Use
-  people.                 two.                    `a table for + number`.
+B: I think I'm more like my father because we're both quite hardworking.
 
-  Give bill.              Could we have the bill, Use a polite request.
-                          please?                 
+A: That's interesting!
 
-  Can pay card?           Can I pay by card?      Include the subject and
-                                                  correct preposition.
-  -------------------------------------------------------------------------
+### Conversation 3 – Talking about siblings
 
-------------------------------------------------------------------------
+![Sister and brother laughing](https://images.openai.com/static-rsc-4/me6O8NFlWYBDU4FfLqo0O6tq_RE50oOxwXWqjoclXf6Nr7LHYOo7K2gJXW_1ny6mRu7bSM7Nt1_BEJXIz1tqy1SGH5qoFMW0NRbNoaHxO8_SwWaz_A3MfmKCGp3UrPg1Xk9pAtz2ZUoH0r7kNvHbde2aknGbicssID6ITprVeVbA3rf9Rtz10ke4S3s4o75o?purpose=fullsize)
 
-## 11. Final 12-minute review
+A: Do you have any brothers or sisters?
 
-### Minutes 1--4: Vocabulary
+B: Yes, I have an older brother.
 
-Review restaurant words and polite expressions. Say them aloud without
-looking at the Vietnamese meanings.
+A: Do you get along well?
 
-### Minutes 5--8: Speaking
+B: Most of the time, yes. We have different personalities, but we respect each other.
 
-Imagine you are at a restaurant. Practice:
+A: What do you usually do together?
 
--   Asking for a table.
--   Asking for a recommendation.
--   Ordering food and drinks.
--   Making one special request.
--   Asking for the bill.
+B: We sometimes go out for coffee, watch movies, or talk about work.
 
-### Minutes 9--12: Record and review
+A: That's nice. It's good to have someone you can talk to.
 
-Record a 1--2 minute restaurant role-play. Check:
+### Conversation 4 – Talking about friendship
 
--   Did I use polite expressions?
--   Did I pronounce the food names clearly?
--   Did I ask complete questions?
--   Could I respond without reading?
--   What phrase should I practice again?
+A: What do you value most in a friendship?
 
-------------------------------------------------------------------------
+B: I think honesty and trust are the most important things.
 
-## 12. Daily progress notes
+A: Do you have many close friends?
 
-Complete these after studying.
+B: I have a few close friends rather than a large group of friends.
 
--   **New restaurant words I can use without looking:**
--   **Three polite requests I can say naturally:**
--   **One question I can ask a server:**
--   **One difficult pronunciation point:**
--   **One situation I can now handle in English:**
--   **My speaking confidence today (1--5):**
+A: Why is that?
 
-------------------------------------------------------------------------
+B: Because I prefer meaningful relationships. I'd rather have a few people I can really trust.
 
-## 13. Key takeaway
+A: I totally agree with you.
 
-A good restaurant conversation uses clear questions, polite requests,
-and simple follow-up responses. You do not need complicated grammar to
-communicate well.
+### Conversation 5 – Family gatherings
 
-**Daily habit:** Practice ordering one complete meal aloud every day.
-Change the restaurant, food, drink, and special request each time.
+![Tết là khi người ta chịu ngồi lại với nhau](https://images.openai.com/static-rsc-4/rqGImNicerEvqCihPCONrRGoZUmrjRNKtiC8X2gg_Bi6PBf0QYe9BpEAWjuJ0GuJtDghp2aN4V5EZWBm0ylQUoH6D_LAEphEvxJPGEKyEpRrgI8Ek_3Lt34cSgGBIRH-3UE4IuvLG0uXU3Kmugw2Vxo93OnSC4ruqyB32W63-U37OWsStCYy1RdhqUOkxB2M?purpose=fullsize)
+
+A: How often does your family get together?
+
+B: We usually get together on weekends or special occasions.
+
+A: What do you usually do?
+
+B: We have dinner, share stories, and catch up with each other.
+
+A: That sounds wonderful!
+
+B: Yeah, I really enjoy those moments.
+
+A: Do you have any special family traditions?
+
+B: We usually celebrate birthdays and important holidays together.
+
+### 7\. Listening Practice – My Family (20 minutes)
+
+![Een Gezin Van Meerdere Generaties Dat Samen In Een Warme Woonkamer Met Plezier Naar Oude Foto's Kijkt En Herinneringen En Gelach Deelt, Generaties, Thuis, Binding Achtergrond Afbeelding Voor Gratis Download](https://images.openai.com/static-rsc-4/LkZXNqc3SkN5k8oGtncBBGwppJOl1C0f85y6n5xMqndxU4iA7R5JBm2Ib3-mDEVIlh3scg8lbzwh81Dmndh2tC7G5z2iFA4CbcpaonzeyBSpPZitfqrOFQn-ZsXKAk7Xu2FCVXMfGF6Ld9d4JomqOm_J4nyRxsP8n-Jlrp89mH4WtXcNXmCMefcj-tJ90thK?purpose=fullsize)
+
+Listening topic: The Importance of Family
+
+Đọc/nghe hai lần:
+
+* Lần 1: Hiểu nội dung tổng thể.
+
+* Lần 2: Chú ý từ vựng mô tả gia đình và các mối quan hệ.
+
+Listening transcript
+
+My Family
+
+I come from a small but close-knit family. There are five people in my family: my parents, my two younger sisters, and me.
+
+My father is a hardworking person. He is sometimes strict, but he always tries to support us. My mother is very caring and patient. She usually takes care of everyone in the family.
+
+My two sisters have different personalities. The older one is quite outgoing and friendly, while the younger one is a little shy.
+
+Although we all have busy schedules, we try to have dinner together whenever possible. During family gatherings, we usually share stories, laugh, and talk about our lives.
+
+I believe family is one of the most important things in life. They are the people who support you through good times and difficult times.
+
+### 7.1. Listening comprehension
+
+Trả lời 8 câu hỏi:
+
+* How many people are there in the speaker's family?
+
+* How many sisters does the speaker have?
+
+* How would the speaker describe his father?
+
+* What is his mother like?
+
+* How would he describe his older sister?
+
+* What does the family try to do despite their busy schedules?
+
+* What do they usually do during family gatherings?
+
+* Why does the speaker think family is important?
+
+Listening answer key
+
+* Five people.
+
+* Two younger sisters.
+
+* Hardworking and sometimes strict, but supportive.
+
+* Caring and patient.
+
+* Outgoing and friendly.
+
+* Have dinner together whenever possible.
+
+* Share stories, laugh, and talk about their lives.
+
+* Because family supports you through good and difficult times.
+
+### 7.2. Vocabulary from listening
+
+| Expression              | Meaning                        |
+| ----------------------- | ------------------------------ |
+| Close-knit family       | Gia đình gắn bó                |
+| Hardworking             | Chăm chỉ                       |
+| Strict                  | Nghiêm khắc                    |
+| Take care of            | Chăm sóc                       |
+| Outgoing                | Hướng ngoại                    |
+| Shy                     | Nhút nhát                      |
+| Whenever possible       | Bất cứ khi nào có thể          |
+| Through difficult times | Trong những thời điểm khó khăn |
+
+### 8\. Guided Speaking – 25 minutes
+
+Hãy luyện trả lời những câu hỏi dưới đây. Mỗi câu nên nói 3–5 câu tiếng Anh.
+
+### 8.1. Talking about family
+
+Question 1: Can you tell me about your family?
+
+Sample answer:
+
+"I come from a small family. We're quite close, and we always try to support each other. Although everyone has their own responsibilities, we make time for family gatherings."
+
+Question 2: How many people are there in your family?
+
+Sample answer:
+
+"There are four people in my family: my parents, my younger sister, and me. We all have different personalities, but we get along well."
+
+Question 3: Who are you closest to in your family?
+
+Sample answer:
+
+"I'm probably closest to my mother. She's very understanding, and I can talk to her about almost anything."
+
+### 8.2. Talking about family members
+
+Question 4: What is your father like?
+
+Sample answer:
+
+"My father is hardworking and responsible. He's sometimes strict, but I know he always wants the best for our family."
+
+Question 5: What is your mother like?
+
+Sample answer:
+
+"My mother is caring, patient, and supportive. She always gives me good advice when I have problems."
+
+Question 6: Do you have any siblings?
+
+Sample answer:
+
+"Yes, I have one younger brother. We have different interests, but we get along quite well."
+
+### 8.3. Talking about relationships
+
+Question 7: How often do you spend time with your family?
+
+Sample answer:
+
+"I try to spend time with my family whenever I'm free. We usually have dinner together or go out for coffee."
+
+Question 8: What do you value most in a friendship?
+
+Sample answer:
+
+"I value honesty, loyalty, and trust. I think a good friend should be someone you can rely on."
+
+Question 9: Who has influenced you the most in your life?
+
+Sample answer:
+
+"My parents have influenced me the most. They taught me to work hard, be responsible, and respect other people."
+
+Question 10: What does family mean to you?
+
+Sample answer:
+
+"To me, family means love, support, and belonging. They're the people who stay by your side even when things get difficult."
+
+### 8.4. Follow-up questions
+
+Khi nói chuyện, hãy hỏi thêm:
+
+* Who are you closest to?
+
+* What is he or she like?
+
+* How often do you see each other?
+
+* What do you usually do together?
+
+* Do you have anything in common?
+
+* What is the best thing about your relationship?
+
+* Has your relationship changed over time?
+
+### 9\. Free Speaking – 20 minutes
+
+![Mother and Son Reminiscing with Old Photos](https://images.openai.com/static-rsc-4/U-FcjTj6ii0jbUA3aIEemPnNmrPOJo9K1Rs_rAPJjZ5x16qfDFb9jF2YLpsfQ8-99BwI2mHv5a8TFmzD1rVAQhQPiEFiRSbnKwids_cRhovFmmoNhKo5qWxuuPl_bIA0NmZEYh1Y9vEwDXzeNzpz8a5NuBmIZq0Oe_gYRAZGPwmuf8Ff0GGY3fBcKC8kNzyZ?purpose=fullsize)
+
+Topic: My Family and the People I Love
+
+Nói liên tục trong 3–5 phút.
+
+Sử dụng dàn ý:
+
+| Section        | Content                      |
+| -------------- | ---------------------------- |
+| Introduction   | Introduce your family        |
+| Family members | Parents, siblings, relatives |
+| Personality    | Describe their personalities |
+| Relationships  | Who are you closest to?      |
+| Activities     | What do you do together?     |
+| Values         | What have they taught you?   |
+| Conclusion     | Why is family important?     |
+
+Sample speaking answer:
+
+"I'd like to tell you a little about my family. I come from Vietnam, and family is an important part of my life.
+
+My family is quite close. My parents have always supported me and encouraged me to work hard. They are caring and responsible people.
+
+In my free time, I enjoy spending time with my family. We sometimes have dinner together, talk about our daily lives, and share interesting stories.
+
+I think having a supportive family is very important because they give you encouragement when life gets difficult.
+
+I'm really grateful for everything my family has done for me."
+
+Speaking challenge:
+
+* Sử dụng ít nhất 10 từ vựng của Day 4.
+
+* Sử dụng ít nhất 5 collocations.
+
+* Sử dụng possessive adjectives và possessive pronouns.
+
+* Không đọc nguyên văn bài mẫu.
+
+### 10\. Exercises – Bài tập thực hành
+
+Tất cả bài tập đều có đáp án ngay bên dưới.
+
+### Exercise A – Vocabulary: Fill in the blanks
+
+Word bank:
+
+`supportive – siblings – relatives – caring – close-knit – strict – reliable – respect – generous – patient`
+
+* My parents are very ______. They always encourage me.
+
+* I have two ______: one brother and one sister.
+
+* My family is very ______. We always support each other.
+
+* My father is sometimes ______, but he is fair.
+
+* My mother is a very ______ person.
+
+* I have many ______ living in different cities.
+
+* My best friend is very ______. I can always count on him.
+
+* We should ______ each other's opinions.
+
+* My grandfather is very ______. He often helps other people.
+
+* You need to be ______ when dealing with children.
+
+Answer key
+
+* supportive
+
+* siblings
+
+* close-knit
+
+* strict
+
+* caring
+
+* relatives
+
+* reliable
+
+* respect
+
+* generous
+
+* patient
+
+### Exercise B – Grammar: Choose the correct answer
+
+1\. This is ______ mother.
+
+A. me
+
+B. my
+
+C. mine
+
+2\. This phone belongs to me. It's ______.
+
+A. my
+
+B. mine
+
+C. I
+
+3\. She loves ______ parents.
+
+A. her
+
+B. hers
+
+C. she
+
+4\. This house is ______.
+
+A. our
+
+B. ours
+
+C. we
+
+5\. They visit ______ grandparents every weekend.
+
+A. their
+
+B. theirs
+
+C. them
+
+6\. Is this ______ brother?
+
+A. you
+
+B. yours
+
+C. your
+
+7\. That car belongs to him. It's ______.
+
+A. his
+
+B. he
+
+C. him
+
+8\. This is not my bag. ______ is black.
+
+A. My
+
+B. Mine
+
+C. Me
+
+Answer key + explanations
+
+| #   | Answer    | Explanation             |
+| --- | --------- | ----------------------- |
+| 1   | B – my    | My + noun               |
+| 2   | B – mine  | Mine đứng độc lập       |
+| 3   | A – her   | Her + noun              |
+| 4   | B – ours  | Ours đứng độc lập       |
+| 5   | A – their | Their + noun            |
+| 6   | C – your  | Your + noun             |
+| 7   | A – his   | His có thể đứng độc lập |
+| 8   | B – Mine  | Mine = của tôi          |
+
+### Exercise C – Translate into English
+
+Dịch những câu sau:
+
+* Gia đình tôi rất thân thiết.
+
+* Bố mẹ tôi luôn ủng hộ tôi.
+
+* Tôi có một anh trai và một em gái.
+
+* Tôi rất thân với mẹ.
+
+* Bố tôi là người nghiêm khắc nhưng tốt bụng.
+
+* Chúng tôi thường dành thời gian bên nhau vào cuối tuần.
+
+* Tôi rất ngưỡng mộ anh trai mình.
+
+* Gia đình là điều quan trọng nhất đối với tôi.
+
+* Tôi luôn giữ liên lạc với những người thân của mình.
+
+* Chúng tôi luôn hỗ trợ lẫn nhau.
+
+Suggested answers
+
+* My family is very close-knit.
+
+* My parents always support me.
+
+* I have an older brother and a younger sister.
+
+* I'm very close to my mother.
+
+* My father is strict but kind.
+
+* We usually spend time together on weekends.
+
+* I really look up to my older brother.
+
+* Family is the most important thing to me.
+
+* I always keep in touch with my relatives.
+
+* We always support each other.
+
+### Exercise D – Correct the mistakes
+
+Tìm và sửa lỗi:
+
+* This is mine father.
+
+* She loves hers family.
+
+* This house is our.
+
+* He is very close with his family.
+
+* My parents always supports me.
+
+* I get along good with my brother.
+
+* They are very close-knit family.
+
+* I look up my father.
+
+Correct answers + explanations
+
+1\. This is my father.
+
+My + noun, không dùng mine trước danh từ.
+
+2\. She loves her family.
+
+Her + noun.
+
+3\. This house is ours.
+
+Ours đứng độc lập.
+
+4\. He is very close to his family.
+
+Close to someone = thân thiết với ai.
+
+5\. My parents always support me.
+
+Parents là chủ ngữ số nhiều nên dùng support.
+
+6\. I get along well with my brother.
+
+Get along well = hòa thuận.
+
+7\. They are a very close-knit family.
+
+Cần có mạo từ a trước danh từ đếm được số ít.
+
+8\. I look up to my father.
+
+Look up to = ngưỡng mộ.
+
+### 11\. Day 4 – Final Quiz
+
+10 questions · Vocabulary & Grammar
+
+Day 4 Assessment
+
+0/10 answered
+
+1. My parents always support ___.
+
+A. I
+
+B. me
+
+C. my
+
+2. This is ___ brother.
+
+A. mine
+
+B. my
+
+C. me
+
+3. This car is ___.
+
+A. her
+
+B. hers
+
+C. she
+
+4. I get along ___ with my sister.
+
+A. good
+
+B. well
+
+C. best
+
+5. My family is very ___. We always help each other.
+
+A. close-knit
+
+B. strictly
+
+C. reliable
+
+6. I really look ___ to my father.
+
+A. at
+
+B. up
+
+C. up to
+
+7. They visit ___ grandparents every weekend.
+
+A. theirs
+
+B. them
+
+C. their
+
+8. Which expression means 'giữ liên lạc'?
+
+A. Keep in touch
+
+B. Get along
+
+C. Take care
+
+9. My parents ___ very supportive.
+
+A. is
+
+B. are
+
+C. am
+
+10. This house belongs to us. It is ___.
+
+A. our
+
+B. ours
+
+C. us
+
+Submit answers
+
+### 12\. Homework – Speaking Assignment
+
+Daily speaking challenge
+
+Topic: My Family and My Relationships
+
+Viết đoạn văn 150–200 từ bằng tiếng Anh, sau đó đọc thành tiếng.
+
+Nội dung:
+
+* How many people are there in your family?
+
+* What do your parents do?
+
+* Do you have any brothers or sisters?
+
+* How would you describe their personalities?
+
+* Who are you closest to?
+
+* What do you usually do together?
+
+* What do you value most in a friendship?
+
+* Why is family important to you?
+
+Khi bạn gửi bài, tôi sẽ:
+
+* Chấm điểm trên thang 100.
+
+* Sửa từng lỗi ngữ pháp và từ vựng.
+
+* Giải thích bằng tiếng Việt.
+
+* Viết lại phiên bản tự nhiên hơn.
+
+* Đưa ra bài luyện nói dựa trên những lỗi bạn mắc phải.
+
+### 13\. Daily Progress Tracker
+
+DAY 04 CHECKLIST
+
+### 0/10
+
+Learned 20 family vocabulary words
+
+Practiced 12 collocations
+
+Practiced pronunciation and shadowing
+
+Understood possessive adjectives
+
+Understood possessive pronouns
+
+Completed 5 conversations
+
+Completed listening practice
+
+Practiced 10 speaking questions
+
+Completed exercises and checked answers
+
+Spoke about family for 3–5 minutes
+
+### 14\. Preview – Day 5
+
+![Prime Sentinel Insurance Solutions | Business & Transportation Insurance](https://images.openai.com/static-rsc-4/AIHHyT450V8O7VnecyegJcemkk4WOace5FY5_Tz8Y5gJKVJYjjKeZZUSSq6TYcmOszZMJEsfqMCCcjf4XKac3D_xabI2Va52J9PP9snyvhZaRA3Tz-2DpZTus1hkQ9eIju2p8wVFMK5iv8gjnLpWjzl-h1w8_pHbWHOhAYFVdw7I21fNaclZHqcJGPXu943-?purpose=fullsize)
+
+NEXT LESSON
+
+DAY 05 – Jobs, Careers & Workplace
+
+Nghề nghiệp, công việc, môi trường làm việc và định hướng sự nghiệp.
+
+Nội dung Day 5:
+
+* 20 job and career vocabulary words.
+
+* Describing your job and responsibilities.
+
+* Talking about salary, skills and experience.
+
+* Articles: a / an / the.
+
+* Talking about career goals.
+
+* 5 workplace conversations.
+
+* Listening, speaking and exercises with complete answers.
+
+Today's reminder:
+
+"Family is not just about where you come from. It's also about the people who support you and make you feel at home."
+
+Gia đình không chỉ là nơi bạn sinh ra, mà còn là những người luôn ủng hộ và khiến bạn cảm thấy được thuộc về.
+
+Keep going! One lesson every day, one step closer to speaking English naturally.
