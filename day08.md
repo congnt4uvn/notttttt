@@ -1,611 +1,884 @@
-# DAY 08 --- WORK & CAREER
+### DAY 8 — DAILY ACTIVITIES & LIFESTYLE
+
+Chủ đề: Hoạt động hằng ngày và phong cách sống — Daily Activities & Lifestyle.
+
+Hôm nay chúng ta sẽ học cách kể về một ngày của mình một cách tự nhiên, không chỉ liệt kê những việc làm mà còn biết giải thích lý do, cảm xúc và thói quen.
+
+Mục tiêu sau bài học:
 
-## Talking About Your Job (A2--B1)
+* Mô tả một ngày bình thường trong 3–5 phút.
 
-**Thời lượng:** 120 phút\
-**Mục tiêu:** Có thể giới thiệu công việc, mô tả nơi làm việc và nhiệm
-vụ hằng ngày, nói về kỹ năng, đồng nghiệp, khó khăn và mục tiêu nghề
-nghiệp; đồng thời hỏi người khác về công việc một cách tự nhiên.
+* Nói về thói quen, lịch trình và thời gian rảnh.
 
-------------------------------------------------------------------------
+* Sử dụng thành thạo How often, How long, How much time.
 
-## 1. Lịch học 120 phút
+* Phân biệt Present Simple và Present Continuous.
 
-  -----------------------------------------------------------------------
-  Thời gian               Nội dung                Mục tiêu
-  ----------------------- ----------------------- -----------------------
-  0--30 phút              Vocabulary &            Học từ vựng về nghề
-                          pronunciation           nghiệp và môi trường
-                                                  làm việc
+* Biết cách kể về một ngày bận rộn hoặc thư giãn.
 
-  30--60 phút             Grammar & sentence      Dùng đúng các cấu trúc
-                          patterns                mô tả công việc
+### 1\. Lịch học hôm nay
 
-  60--84 phút             Guided speaking         Luyện nói theo câu hỏi
-                                                  và chủ đề
+| Thời gian | Nội dung        |
+| --------- | --------------- |
+| 20 phút   | Vocabulary      |
+| 15 phút   | Pronunciation   |
+| 15 phút   | Grammar         |
+| 20 phút   | Listening       |
+| 25 phút   | Guided Speaking |
+| 20 phút   | Free Speaking   |
+| 5 phút    | Review          |
 
-  84--108 phút            Conversations &         Thực hành hội thoại
-                          role-play               thực tế
+### 2\. Vocabulary — Từ vựng hằng ngày (20 phút)
 
-  108--120 phút           Review & recording      Ôn tập, ghi âm và tự
-                                                  đánh giá
-  -----------------------------------------------------------------------
+### A. Morning Activities — Hoạt động buổi sáng
 
-**Cách học:** Đọc câu mẫu thành tiếng 2--3 lần, che phần tiếng Việt để
-tự nói, sau đó thay thông tin mẫu bằng thông tin thật của bạn.
+![Happy young caucasian woman sitting on bed typing on laptop while having morning coffee and eating breakfast.](https://images.openai.com/static-rsc-4/lwDrdZJqFTABqRy3b_3b3cUTlz1Ox_SCh1T2RHcubTWWRbmPhWxL_Ty8UQMOtT8VzC4emmZ9YR4Df8S8t_hM7rifK5hBqMrL6_33z4o7zCH-0eWCqwMd2CDqZEh_fX5-fdigcM-hKYPsqWDBEfYgrggOinAfDjg9tVco62lVQ3UQRZU6_6aqFLtwfz7SeC0U?purpose=fullsize)
 
-------------------------------------------------------------------------
+| Vocabulary     | IPA              | Nghĩa          |
+| -------------- | ---------------- | -------------- |
+| wake up        | /weɪk ʌp/        | thức dậy       |
+| get out of bed | /ɡet aʊt əv bed/ | ra khỏi giường |
+| make the bed   | /meɪk ðə bed/    | dọn giường     |
+| brush my teeth | /brʌʃ maɪ tiːθ/  | đánh răng      |
+| wash my face   | /wɒʃ maɪ feɪs/   | rửa mặt        |
+| take a shower  | /teɪk ə ˈʃaʊ.ər/ | tắm            |
+| get dressed    | /ɡet drest/      | mặc quần áo    |
+| have breakfast | /hæv ˈbrek.fəst/ | ăn sáng        |
 
-## 2. Vocabulary --- Từ vựng về công việc
+### B. Work & Study Activities — Làm việc và học tập
 
-  ------------------------------------------------------------------------------
-  Từ / Cụm từ       IPA                      Nghĩa             Ví dụ
-  ----------------- ------------------------ ----------------- -----------------
-  job               /dʒɑːb/                  công việc, nghề   I enjoy my job.
+| Vocabulary        | IPA                    | Nghĩa              |
+| ----------------- | ---------------------- | ------------------ |
+| start work        | /stɑːt wɜːk/           | bắt đầu làm việc   |
+| check emails      | /tʃek ˈiː.meɪlz/       | kiểm tra email     |
+| attend a meeting  | /əˈtend ə ˈmiː.tɪŋ/    | tham dự cuộc họp   |
+| work on a project | /wɜːk ɒn ə ˈprɒdʒ.ekt/ | làm dự án          |
+| take a break      | /teɪk ə breɪk/         | nghỉ giải lao      |
+| have lunch        | /hæv lʌntʃ/            | ăn trưa            |
+| finish work       | /ˈfɪn.ɪʃ wɜːk/         | kết thúc công việc |
+| get home          | /ɡet həʊm/             | về nhà             |
 
-  work              /wɝːk/                   công việc, làm    I have a lot of
-                                             việc              work today.
+### C. Evening Activities — Hoạt động buổi tối
 
-  career            /kəˈrɪr/                 sự nghiệp         I want to build
-                                                               my career.
+![Young Asian woman dinking tea while reading a book on the sofa in the evening.](https://images.openai.com/static-rsc-4/F8erIo9vAOYa0mtM26SI9a3JKhYd_5KUr3jF8voV6qUSIDp4MchS5gZdxP4nov1UO21jag0K1aOLBdk0Wvuj_FuggyuQ7p8x-JQyoeuzwOTz27sxq5rUucebMtEtBULt0S_4GSZHj3fky9U-wzLWtoBFbnwkxhz_jDjQLra2Y2N7Qcr441gQiyIsvXa78m_x?purpose=fullsize)
 
-  occupation        /ˌɑː.kjəˈpeɪ.ʃən/        nghề nghiệp       What is your
-                                                               occupation?
+| Vocabulary            | IPA                     | Nghĩa           |
+| --------------------- | ----------------------- | --------------- |
+| cook dinner           | /kʊk ˈdɪn.ər/           | nấu bữa tối     |
+| work out              | /wɜːk aʊt/              | tập thể dục     |
+| go to the gym         | /ɡəʊ tə ðə dʒɪm/        | đi tập gym      |
+| watch a movie         | /wɒtʃ ə ˈmuː.vi/        | xem phim        |
+| hang out with friends | /hæŋ aʊt wɪð frendz/    | đi chơi với bạn |
+| do household chores   | /duː ˈhaʊs.həʊld tʃɔːz/ | làm việc nhà    |
+| relax                 | /rɪˈlæks/               | thư giãn        |
+| go to bed             | /ɡəʊ tə bed/            | đi ngủ          |
 
-  employee          /ɪmˈplɔɪ.iː/             nhân viên         The company has
-                                                               200 employees.
+### D. Lifestyle Vocabulary — Từ vựng về lối sống
 
-  employer          /ɪmˈplɔɪ.ɚ/              người sử dụng lao My employer is
-                                             động              supportive.
+| Vocabulary        | IPA                   | Nghĩa                           |
+| ----------------- | --------------------- | ------------------------------- |
+| healthy lifestyle | /ˈhel.θi ˈlaɪf.staɪl/ | lối sống lành mạnh              |
+| busy schedule     | /ˈbɪz.i ˈʃed.juːl/    | lịch trình bận rộn              |
+| daily routine     | /ˈdeɪ.li ruːˈtiːn/    | thói quen hằng ngày             |
+| free time         | /friː taɪm/           | thời gian rảnh                  |
+| work-life balance | /ˌwɜːk.laɪf ˈbæl.əns/ | cân bằng công việc và cuộc sống |
+| productive        | /prəˈdʌk.tɪv/         | năng suất                       |
+| exhausted         | /ɪɡˈzɔː.stɪd/         | kiệt sức                        |
+| energetic         | /ˌen.əˈdʒet.ɪk/       | tràn đầy năng lượng             |
 
-  colleague         /ˈkɑː.liːɡ/              đồng nghiệp       I have friendly
-                                                               colleagues.
+### E. Collocations — Cụm từ nên học thuộc
 
-  manager           /ˈmæn.ɪ.dʒɚ/             quản lý           My manager is
-                                                               helpful.
+| Collocation                | Nghĩa                      | Example                              |
+| -------------------------- | -------------------------- | ------------------------------------ |
+| stick to a routine         | duy trì thói quen          | I try to stick to my routine.        |
+| get enough sleep           | ngủ đủ giấc                | I try to get enough sleep.           |
+| spend time doing something | dành thời gian làm gì      | I spend time learning English.       |
+| manage my time             | quản lý thời gian          | I need to manage my time better.     |
+| stay active                | duy trì vận động           | I exercise to stay active.           |
+| feel stressed out          | cảm thấy căng thẳng        | I sometimes feel stressed out.       |
+| have a balanced lifestyle  | có lối sống cân bằng       | I want to have a balanced lifestyle. |
+| make time for something    | dành thời gian cho việc gì | I make time for exercise.            |
 
-  team              /tiːm/                   đội, nhóm         I work with a
-                                                               small team.
+Vocabulary Speaking Practice
 
-  department        /dɪˈpɑːrt.mənt/          phòng ban         I work in the IT
-                                                               department.
+Đọc to các câu sau 3 lần:
 
-  responsibility    /rɪˌspɑːn.səˈbɪl.ə.t̬i/   trách nhiệm       My main
-                                                               responsibility is
-                                                               testing.
+* I usually wake up at seven in the morning.
 
-  task              /tæsk/                   nhiệm vụ          I have three
-                                                               tasks today.
+* I take a shower and have breakfast.
 
-  project           /ˈprɑː.dʒekt/            dự án             We are working on
-                                                               a new project.
+* I start work at around eight thirty.
 
-  deadline          /ˈded.laɪn/              hạn chót          The deadline is
-                                                               Friday.
+* I take a short break in the afternoon.
 
-  meeting           /ˈmiː.t̬ɪŋ/               cuộc họp          I have a meeting
-                                                               at 10.
+* After work, I usually go to the gym.
 
-  schedule          /ˈskedʒ.uːl/             lịch trình        My work schedule
-                                                               is flexible.
+* I spend about thirty minutes studying English.
 
-  full-time         /ˌfʊlˈtaɪm/              toàn thời gian    She has a
-                                                               full-time job.
+* I try to maintain a healthy lifestyle.
 
-  part-time         /ˌpɑːrtˈtaɪm/            bán thời gian     He works
-                                                               part-time.
+* I usually go to bed before eleven.
 
-  remote            /rɪˈmoʊt/                từ xa             I work remotely
-                                                               twice a week.
+### 3\. Pronunciation — Luyện phát âm (15 phút)
 
-  workplace         /ˈwɝːk.pleɪs/            nơi làm việc      My workplace is
-                                                               near my home.
+### A. Phân biệt âm /ɪ/ và /iː/
 
-  salary            /ˈsæl.ɚ.i/               lương             The salary is
-                                                               competitive.
+| /ɪ/ — âm ngắn | /iː/ — âm dài |
+| ------------- | ------------- |
+| live          | leave         |
+| sit           | seat          |
+| ship          | sheep         |
+| fill          | feel          |
+| bit           | beat          |
 
-  experience        /ɪkˈspɪr.i.əns/          kinh nghiệm       I have two years
-                                                               of experience.
+Lưu ý: /ɪ/ ngắn và thư giãn hơn; /iː/ kéo dài hơn.
 
-  skill             /skɪl/                   kỹ năng           Communication is
-                                                               an important
-                                                               skill.
+### B. Ending Sounds — Âm cuối
 
-  opportunity       /ˌɑː.pɚˈtuː.nə.t̬i/       cơ hội            This job offers
-                                                               good
-                                                               opportunities.
+Chú ý phát âm âm cuối để người nghe hiểu chính xác:
 
-  promotion         /prəˈmoʊ.ʃən/            sự thăng chức     She got a
-                                                               promotion last
-                                                               year.
+* works /wɜːks/
 
-  industry          /ˈɪn.də.stri/            ngành công        He works in the
-                                             nghiệp/lĩnh vực   technology
-                                                               industry.
+* gets /ɡets/
 
-  customer          /ˈkʌs.tə.mɚ/             khách hàng        I talk to
-                                                               customers every
-                                                               day.
+* wakes /weɪks/
 
-  client            /ˈklaɪ.ənt/              khách hàng (dịch  We have a meeting
-                                             vụ)               with a client.
+* watches /ˈwɒtʃ.ɪz/
 
-  solve problems    /sɑːlv ˈprɑː.bləmz/      giải quyết vấn đề I enjoy solving
-                                                               problems.
+* finishes /ˈfɪn.ɪʃ.ɪz/
 
-  deal with         /diːl wɪð/               xử lý, giải quyết I deal with
-                                                               customer
-                                                               requests.
-  ------------------------------------------------------------------------------
+### C. Shadowing Practice
 
-### Cụm từ thường dùng
+Đọc theo nhịp tự nhiên:
 
--   **work experience** --- kinh nghiệm làm việc
--   **work environment** --- môi trường làm việc
--   **career goals** --- mục tiêu nghề nghiệp
--   **daily tasks** --- nhiệm vụ hằng ngày
--   **meet a deadline** --- hoàn thành đúng hạn
--   **attend a meeting** --- tham dự cuộc họp
--   **work under pressure** --- làm việc dưới áp lực
--   **work independently** --- làm việc độc lập
--   **work as a team** --- làm việc theo nhóm
--   **learn new skills** --- học kỹ năng mới
--   **take responsibility for something** --- chịu trách nhiệm về việc
-    gì
--   **gain experience** --- tích lũy kinh nghiệm
+> I usually wake up at seven and get out of bed immediately.
 
-**Luyện phát âm:** Chọn 10 từ khó nhất. Đọc chậm, nhấn đúng trọng âm,
-rồi đặt mỗi từ vào một câu của riêng bạn.
+> After taking a shower, I get dressed and have breakfast.
 
-------------------------------------------------------------------------
+> I spend most of my day working on software projects.
 
-## 3. Grammar & useful structures
+> In the evening, I like going to the gym because it helps me relax.
 
-### 3.1. Phân biệt job, work và career
+> Before going to bed, I usually spend some time learning English.
 
-  -----------------------------------------------------------------------
-  Từ                      Cách dùng               Ví dụ
-  ----------------------- ----------------------- -----------------------
-  job                     Danh từ đếm được: một   I have a new job.
-                          công việc/vị trí        
+Cách luyện: Đọc chậm 2 lần, đọc tự nhiên 3 lần, sau đó không nhìn văn bản và nói lại.
 
-  work                    Danh từ không đếm được  I have a lot of work. /
-                          hoặc động từ            I work from home.
+### 4\. Grammar — Present Simple vs Present Continuous (15 phút)
 
-  career                  Quá trình phát triển    She wants a career in
-                          nghề nghiệp lâu dài     finance.
-  -----------------------------------------------------------------------
+### A. Present Simple — Thói quen
 
-Lưu ý: - Đúng: **I have a job.** - Đúng: **I have a lot of work.** -
-Không dùng: *I have many works* khi muốn nói "tôi có nhiều việc phải
-làm".
+Dùng để mô tả những việc bạn thường xuyên làm.
 
-### 3.2. Work as / work for / work in
+Cấu trúc:
 
--   **work as + nghề nghiệp:** I work as a software developer.\
-    Tôi làm lập trình viên.
--   **work for + công ty/người:** I work for a technology company.\
-    Tôi làm cho một công ty công nghệ.
--   **work in + lĩnh vực/phòng ban/địa điểm:** I work in IT. / I work in
-    the sales department.\
-    Tôi làm trong lĩnh vực CNTT/phòng kinh doanh.
+* I/You/We/They + V
 
-Bạn có thể kết hợp: \> I work as a developer for a software company. I
-work in the IT industry.
+* He/She/It + V-s/es
 
-### 3.3. Present Simple --- mô tả nhiệm vụ thường xuyên
+Examples:
 
-Dùng thì hiện tại đơn để nói về công việc và trách nhiệm thường ngày.
+* I wake up at 7 a.m.
 
-**Cấu trúc:** - I/You/We/They + động từ nguyên mẫu. - He/She + động từ
-thêm **-s/-es**.
+* I work from Monday to Friday.
 
-Ví dụ: - I write reports and attend meetings. - I help customers solve
-problems. - My manager checks our progress. - She manages a team of five
-people.
+* She goes to the gym every evening.
 
-### 3.4. Present Continuous --- nói về việc đang diễn ra
+Từ nhận biết:
 
-Dùng **am/is/are + V-ing** để nói về dự án hoặc nhiệm vụ đang thực hiện
-trong giai đoạn hiện tại.
+* always — luôn luôn
 
--   I'm working on a new project this week.
--   We're preparing a presentation.
--   My team is developing a new application.
+* usually — thường xuyên
 
-So sánh: - **I usually work with customers.** --- Công việc thường
-xuyên. - **I'm working with a new client this month.** --- Việc đang
-diễn ra trong giai đoạn này.
+* often — thường
 
-### 3.5. Be responsible for + danh từ / V-ing
+* sometimes — đôi khi
 
--   I'm responsible for customer support.
--   She's responsible for managing the team.
--   We're responsible for checking the reports.
+* rarely — hiếm khi
 
-Sau **for**, nếu dùng động từ thì thêm **-ing**.
+* never — không bao giờ
 
-### 3.6. Các cấu trúc hữu ích khác
+* every day — mỗi ngày
 
--   **deal with + danh từ:** I deal with technical problems.
--   **work on + dự án/nhiệm vụ:** I'm working on a new website.
--   **report to + người quản lý:** I report to the sales manager.
--   **be good at + danh từ/V-ing:** I'm good at communicating with
-    people.
--   **be interested in + danh từ/V-ing:** I'm interested in learning new
-    technologies.
--   **enjoy + V-ing:** I enjoy working with my team.
+### B. Present Continuous — Việc đang diễn ra
 
-------------------------------------------------------------------------
+Cấu trúc:
 
-## 4. Sentence patterns --- Mẫu câu giao tiếp
+Subject + am/is/are + V-ing.
 
-Hãy thay phần trong ngoặc bằng thông tin của bạn.
+Examples:
 
-### A. Giới thiệu công việc
+* I'm studying English right now.
 
-1.  I work as a **\[job\]**.
-2.  I work for **\[company\]**.
-3.  I work in **\[industry/department\]**.
-4.  I've been working in this field for **\[period of time\]**.
-5.  I'm currently looking for a new opportunity.
+* She's cooking dinner.
 
-### B. Mô tả nhiệm vụ
+* They're having a meeting.
 
-1.  My main responsibility is to **\[verb\]**.
-2.  I'm responsible for **\[noun / V-ing\]**.
-3.  I usually spend my day **\[V-ing\]**.
-4.  I work with **\[people/customers/tools\]**.
-5.  I also help my team with **\[task\]**.
+Dùng để nói về hành động đang diễn ra hoặc tình huống tạm thời.
 
-### C. Nói về môi trường làm việc
+### C. So sánh hai thì
 
-1.  I work in a **\[busy/friendly/professional\]** environment.
-2.  My workplace is **\[description\]**.
-3.  I work from home **\[frequency\]**.
-4.  My team is small, but we work well together.
+| Present Simple                  | Present Continuous                   |
+| ------------------------------- | ------------------------------------ |
+| I work every day.               | I'm working right now.               |
+| She usually cooks dinner.       | She's cooking dinner now.            |
+| I go to the gym on weekends.    | I'm going to the gym today.          |
+| He studies English every night. | He's studying English at the moment. |
 
-### D. Nói về điều thích và không thích
+### D. How often / How long / How much time
 
-1.  The best thing about my job is **\[reason\]**.
-2.  I enjoy **\[activity\]** because **\[reason\]**.
-3.  The most challenging part is **\[challenge\]**.
-4.  Sometimes I find it difficult to **\[verb\]**.
+Đây là ba cấu trúc rất hữu ích trong giao tiếp.
 
-### E. Nói về kỹ năng và mục tiêu
+1\. How often — Bao lâu một lần?
 
-1.  I'm good at **\[skill\]**.
-2.  I'm trying to improve my **\[skill\]**.
-3.  I'd like to gain more experience in **\[field\]**.
-4.  In the future, I hope to **\[goal\]**.
+* How often do you exercise?
 
-------------------------------------------------------------------------
+* I exercise three times a week.
 
-## 5. Natural conversation --- Hội thoại thực tế
+* How often do you study English?
 
-### Conversation 1: Meeting someone at an event
+* I study English every day.
 
-**A:** Hi, nice to meet you. What do you do?\
-**B:** Nice to meet you too. I work as a software developer.\
-**A:** That sounds interesting. What kind of software do you develop?\
-**B:** Mostly web applications. I work with a small development team.\
-**A:** Do you enjoy your job?\
-**B:** Yes, I do. I enjoy solving problems and learning new
-technologies. How about you?\
-**A:** I work in marketing. I mainly manage social media campaigns.\
-**B:** That sounds creative!
+2\. How long — Trong bao lâu?
 
-**Dịch ý:** - What do you do? --- Bạn làm nghề gì? - What kind of
-software do you develop? --- Bạn phát triển loại phần mềm nào? - Do you
-enjoy your job? --- Bạn có thích công việc của mình không?
+* How long do you work every day?
 
-**Thực hành:** Đọc cả hai vai. Sau đó đổi nghề nghiệp, lĩnh vực và nhiệm
-vụ thành thông tin của bạn.
+* I work for about eight hours.
 
-### Conversation 2: Talking about tasks and deadlines
+* How long have you been learning English?
 
-**A:** How's your work going today?\
-**B:** Pretty busy. I'm working on a new project.\
-**A:** When is the deadline?\
-**B:** We need to finish it by Friday.\
-**A:** Do you need any help?\
-**B:** Yes, could you check the report before the meeting?\
-**A:** Sure. I'll take a look this afternoon.\
-**B:** Thanks. I really appreciate it.
+* I've been learning English for some time.
 
-**Cụm từ cần nhớ:** - How's your work going? --- Công việc của bạn thế
-nào rồi? - finish it by Friday --- hoàn thành trước hoặc vào thứ Sáu -
-Could you...? --- Bạn có thể... không? - I'll take a look. --- Tôi sẽ
-xem qua.
+3\. How much time — Bao nhiêu thời gian?
 
-### Conversation 3: Talking about career goals
+* How much time do you spend studying English?
 
-**A:** What would you like to do in the future?\
-**B:** I'd like to become a team leader.\
-**A:** What skills do you need for that?\
-**B:** I need to improve my communication and leadership skills.\
-**A:** That's a good goal. Are you taking any courses?\
-**B:** Yes. I'm taking an online course and trying to practise every
-day.
+* I spend about one hour a day.
 
-**Thay thế thông tin:** team leader → manager / senior developer /
-business owner / designer / teacher.
+### E. Natural Sentence Patterns
 
-------------------------------------------------------------------------
+Học thuộc các mẫu câu này:
 
-## 6. Speaking practice --- Luyện nói
+| Pattern                        | Example                                   |
+| ------------------------------ | ----------------------------------------- |
+| I usually spend ... doing ...  | I usually spend an hour studying English. |
+| I try to ... every day.        | I try to exercise every day.              |
+| I'm currently ...              | I'm currently learning English.           |
+| I don't have much time to ...  | I don't have much time to relax.          |
+| It depends on ...              | It depends on my work schedule.           |
+| Whenever I have free time, ... | Whenever I have free time, I read books.  |
 
-### Topic 1: Describe your job (1--2 minutes)
+### 5\. Listening — A Busy Day (20 phút)
 
-Trả lời các câu hỏi sau bằng câu hoàn chỉnh:
+Listening 1
 
-1.  What do you do?
-2.  Where do you work?
-3.  What does your company do?
-4.  What are your main responsibilities?
-5.  Who do you work with?
-6.  What do you like most about your job?
-7.  What is the most challenging part?
+### A. Listening Script
 
-**Bài nói mẫu:**
+A Busy Day in My Life
 
-> I work as a software developer for a technology company. I work with a
-> small team of developers and designers. My main responsibility is to
-> build and maintain web applications. I usually write code, fix bugs,
-> and attend team meetings. I enjoy my job because I like solving
-> problems and learning new things. However, sometimes I have to work
-> under pressure when we have tight deadlines. In the future, I'd like
-> to improve my technical and communication skills.
+> My name is Michael, and I'm a software developer. My weekdays are usually quite busy.I normally wake up at 6:30 a.m. First, I brush my teeth, take a shower, and get dressed. Then I have breakfast and check my emails.I start working at 8:30 a.m. Most of the time, I work on software projects, attend meetings, and solve technical problems. I usually have lunch at noon.In the afternoon, I continue working until around 5:30 p.m. After work, I sometimes go to the gym. I enjoy exercising because it helps me stay healthy and reduce stress.When I get home, I have dinner and spend some time relaxing. I also try to study English for about thirty minutes every evening.I usually go to bed at around 10:30 p.m. Although my schedule is busy, I try to maintain a healthy work-life balance.
 
-Đây là bài mẫu để tham khảo. Hãy thay nghề nghiệp và chi tiết bằng thông
-tin đúng với bạn.
+### B. Bản dịch tiếng Việt
 
-### Topic 2: Describe your workplace (1 minute)
+Tên tôi là Michael và tôi là một lập trình viên. Những ngày trong tuần của tôi thường khá bận rộn.
 
-Gợi ý: - Is it an office, a shop, a factory, or somewhere else? - Where
-is it? - Is it large or small? - Who do you work with? - What is the
-atmosphere like?
+Tôi thường thức dậy lúc 6 giờ 30 sáng. Đầu tiên, tôi đánh răng, tắm và mặc quần áo. Sau đó, tôi ăn sáng và kiểm tra email.
 
-Mẫu mở đầu: \> I work in a modern office. It's located near the city
-centre. The office is quite comfortable, and my colleagues are friendly.
+Tôi bắt đầu làm việc lúc 8 giờ 30. Phần lớn thời gian, tôi làm các dự án phần mềm, tham gia các cuộc họp và giải quyết vấn đề kỹ thuật. Tôi thường ăn trưa vào buổi trưa.
 
-### Topic 3: Describe a typical workday (1--2 minutes)
+Buổi chiều, tôi tiếp tục làm việc đến khoảng 5 giờ 30. Sau giờ làm, đôi khi tôi đi tập gym. Tôi thích tập thể dục vì nó giúp tôi khỏe mạnh và giảm căng thẳng.
 
-Gợi ý: - What time do you start work? - What do you usually do in the
-morning? - Do you have meetings? - What do you do in the afternoon? -
-What time do you finish work?
+Khi về nhà, tôi ăn tối và dành thời gian thư giãn. Tôi cũng cố gắng học tiếng Anh khoảng 30 phút mỗi tối.
 
-Mẫu: \> I usually start work at 8:30 a.m. First, I check my emails and
-plan my tasks. Then I work on my main project. I sometimes attend
-meetings with my team. In the afternoon, I finish my tasks and prepare
-for the next day. I normally finish work at 5:30 p.m.
+Tôi thường đi ngủ lúc khoảng 10 giờ 30. Mặc dù lịch trình khá bận rộn, tôi vẫn cố gắng duy trì sự cân bằng giữa công việc và cuộc sống.
 
-### Topic 4: Talk about your ideal job (1--2 minutes)
+### C. Comprehension Questions
 
-Gợi ý: - What kind of job would you like? - What skills would you use? -
-Would you prefer working alone or in a team? - What kind of working
-environment do you prefer? - Why is this job suitable for you?
+* What does Michael do?
 
-Mẫu: \> My ideal job would be challenging but enjoyable. I'd like to
-work with a supportive team and have opportunities to learn new skills.
-I also want a healthy work-life balance.
+* What time does he wake up?
 
-### Topic 5: Talk about a difficult task or project
+* What does he do before breakfast?
 
-Gợi ý: - What was the task? - Why was it difficult? - What did you do? -
-Who helped you? - What did you learn?
+* What time does he start working?
 
-Mẫu: \> One challenging task I had was finishing an important project
-before a tight deadline. I divided the work into smaller tasks and
-discussed the problems with my team. We completed the project on time. I
-learned that communication and planning are very important.
+* What does he do after work?
 
-------------------------------------------------------------------------
+* How long does he study English every evening?
 
-## 7. Role-play --- Đóng vai
+* What time does he go to bed?
 
-### Situation A: Ask someone about their job
+Answer Key:
 
-Bạn gặp một người mới. Hãy hỏi: - What do you do? - Where do you work? -
-What are your main responsibilities? - How long have you worked there? -
-What do you like about your job?
+* He's a software developer.
 
-Sau đó đổi vai và trả lời.
+* At 6:30 a.m.
 
-### Situation B: Explain a task to a colleague
+* He brushes his teeth, takes a shower, and gets dressed.
 
-Bạn cần nhờ đồng nghiệp kiểm tra một tài liệu trước cuộc họp.
+* At 8:30 a.m.
 
-Cố gắng sử dụng: - I'm working on... - Could you help me with...? - The
-deadline is... - I need you to check... - Thanks for your help.
+* He sometimes goes to the gym.
 
-### Situation C: A simple job interview
+* About thirty minutes.
 
-Người phỏng vấn hỏi: 1. Can you tell me about yourself? 2. What do you
-do in your current job? 3. What are your strengths? 4. Why are you
-interested in this position? 5. What would you like to improve?
+* At around 10:30 p.m.
 
-Mẫu trả lời câu 3: \> I'm responsible, willing to learn, and good at
-solving problems. I can also work independently and communicate well
-with my team.
+### Listening 2 — Weekend Lifestyle
 
-------------------------------------------------------------------------
+> My weekends are very different from my weekdays. I don't usually wake up early. I like sleeping a little longer because I want to rest after a busy week.On Saturday morning, I sometimes go shopping or meet my friends for coffee. In the afternoon, I might go to the gym or watch a movie.On Sunday, I usually spend time with my family. Sometimes I cook something special or go out for dinner. I also prepare for the following week.I think weekends are important because they help me relax and recharge.
 
-## 8. Exercises --- Bài tập
+Questions:
 
-### Exercise 1: Choose job, work or career
+* Does the speaker wake up early on weekends?
 
-Điền từ thích hợp.
+* What does the speaker sometimes do on Saturday morning?
 
-1.  I have a full-time \_\_\_\_\_\_ at a bank.
-2.  I have a lot of \_\_\_\_\_\_ to do today.
-3.  She wants to build a successful \_\_\_\_\_\_ in business.
-4.  What kind of \_\_\_\_\_\_ do you do?
-5.  He is looking for a new \_\_\_\_\_\_.
+* What might the speaker do on Saturday afternoon?
 
-### Exercise 2: Complete the sentences
+* Who does the speaker spend time with on Sunday?
 
-Dùng dạng đúng của động từ trong ngoặc.
+* Why are weekends important?
 
-1.  I usually \_\_\_\_\_\_ (attend) a team meeting every Monday.
-2.  She \_\_\_\_\_\_ (manage) a team of six people.
-3.  We \_\_\_\_\_\_ (work) on a new project this week.
-4.  My main responsibility is \_\_\_\_\_\_ (help) customers.
-5.  He is responsible for \_\_\_\_\_\_ (prepare) monthly reports.
+Answers:
 
-### Exercise 3: Choose the correct preposition
+* No, the speaker doesn't usually wake up early.
 
-1.  I work \_\_\_\_\_\_ a software developer. (as / for / in)
-2.  She works \_\_\_\_\_\_ a large international company. (as / for /
-    in)
-3.  He works \_\_\_\_\_\_ the finance department. (as / for / in)
-4.  I'm responsible \_\_\_\_\_\_ checking the data. (for / to / with)
-5.  We are working \_\_\_\_\_\_ a new application. (at / on / by)
+* Go shopping or meet friends for coffee.
 
-### Exercise 4: Translate into English
+* Go to the gym or watch a movie.
 
-1.  Tôi làm việc cho một công ty công nghệ.
-2.  Tôi chịu trách nhiệm hỗ trợ khách hàng.
-3.  Tôi đang làm một dự án mới trong tuần này.
-4.  Tôi thường tham gia cuộc họp vào mỗi sáng thứ Hai.
-5.  Tôi muốn cải thiện kỹ năng giao tiếp.
-6.  Phần khó nhất trong công việc của tôi là xử lý các vấn đề bất ngờ.
+* Their family.
 
-### Exercise 5: Correct the mistakes
+* Because weekends help the speaker relax and recharge.
 
-1.  I have many works today.
-2.  I work in a software developer.
-3.  She responsible for manage the team.
-4.  I am work on a new project now.
-5.  He work for an international company.
+### 6\. Guided Speaking — Luyện nói có hướng dẫn (25 phút)
 
-### Exercise 6: Build a short paragraph
+### Topic 1: Describe your morning routine
 
-Viết 6--8 câu về công việc hoặc công việc bạn mong muốn. Cố gắng sử dụng
-ít nhất 6 từ/cụm từ trong bài.
+![Young woman pouring morning coffee in home kitchen with toast and peanut butter breakfast aroma joy](https://images.openai.com/static-rsc-4/FeG8FGk_qXY8MtSa1wZMrsb8o-lQx21GKHclZyR33zRSQpiLc61KgfhTVVREkWb4_N63Rza-1Shi_9DwkN3GXXDBNA0jnSIGUkKYfJs_NwXmqYx6Bp_pPmbZv4vZ-TNZh3IxQ6WJKN3J31FdfCXxdVUoWhE9VSqxrLZL4kasONLFxBmxPYTLvqntYnBNLWLe?purpose=fullsize)
 
-------------------------------------------------------------------------
+Questions:
 
-## 9. Answer key --- Đáp án
+* What time do you usually wake up?
 
-### Exercise 1
+* Do you take a shower in the morning?
 
-1.  job
-2.  work
-3.  career
-4.  work
-5.  job
+* What do you usually have for breakfast?
 
-### Exercise 2
+* What time do you start work?
 
-1.  attend
-2.  manages
-3.  are working
-4.  helping
-5.  preparing
+* Do you check your phone after waking up?
 
-Giải thích: Sau **is** trong cấu trúc "My responsibility is..." có thể
-dùng to + động từ hoặc V-ing. Cả "is to help customers" và "is helping
-customers" đều có thể đúng trong ngữ cảnh phù hợp. Với câu 4, đáp án tự
-nhiên hơn là **to help**; "helping" cũng có thể dùng.
+Sample Answer:
 
-### Exercise 3
+> I usually wake up at around seven in the morning. First, I get out of bed and brush my teeth. Then I take a shower and get dressed.After that, I have breakfast and drink a cup of coffee. I usually check my phone and messages before starting work.I normally start working at around eight thirty. I prefer having a simple morning routine because it helps me feel more organized and productive.
 
-1.  as
-2.  for
-3.  in
-4.  for
-5.  on
+### Topic 2: Describe your working day
 
-### Exercise 4 --- Gợi ý đáp án
+Sample Answer:
 
-1.  I work for a technology company.
-2.  I'm responsible for supporting customers.
-3.  I'm working on a new project this week.
-4.  I usually attend a meeting every Monday morning.
-5.  I want to improve my communication skills.
-6.  The most challenging part of my job is dealing with unexpected
-    problems.
+> My working day is usually quite busy. I start work in the morning and spend most of my time working on different tasks.As a software developer, I usually write code, attend meetings, and solve technical problems.I normally have lunch around noon. In the afternoon, I continue working until the end of the day.Sometimes I feel tired after work, especially when I have a lot of deadlines. However, I enjoy my job because I can learn something new every day.
 
-### Exercise 5
+### Topic 3: Describe your evening routine
 
-1.  I have a lot of work today.
-2.  I work as a software developer.
-3.  She is responsible for managing the team.
-4.  I am working on a new project now.
-5.  He works for an international company.
+![Young handsome man running  on a treadmill in the gym.](https://images.openai.com/static-rsc-4/iUj7Bh9__bFWG7xIem_Kaz8W8CgEgEZrwT8zczXAUkQCDBVWOuC5Pi1w35_9H1P2V9yfVrwY9rCNBAOtwRgXoVuN_eF8bCRHgrMhUXsb9k6OtImFML1Pis-jMXyx_Sc9RgOCeC0ba-G7_prqAkHhldVYY2QqZjt7zvPJycvA6z77PUvXoUcXaEDxvGDg0JLC?purpose=fullsize)
 
-### Exercise 6 --- Bài mẫu
+Sample Answer:
 
-> I work as a customer service assistant. I work for a small company. My
-> main responsibility is helping customers and answering their
-> questions. I usually work with a team of five people. I enjoy my job
-> because I can communicate with different people. Sometimes I have to
-> deal with difficult situations. In the future, I'd like to improve my
-> communication skills and get more experience.
+> After work, I usually go home and take a short break. Sometimes I go to the gym because I want to stay healthy and improve my fitness.After exercising, I have dinner and take a shower. In the evening, I usually watch videos, study English, or relax.Before going to bed, I sometimes read something or review what I've learned during the day.
 
-------------------------------------------------------------------------
+### Topic 4: Describe your weekend
 
-## 10. Common mistakes --- Lỗi thường gặp
+Sample Answer:
 
-  -----------------------------------------------------------------------
-  Sai                     Đúng                    Giải thích
-  ----------------------- ----------------------- -----------------------
-  I am a work.            I have a job. / I work. "Work" không dùng như
-                                                  danh từ đếm được trong
-                                                  nghĩa này.
+> My weekends are usually more relaxing than my weekdays.I don't have to follow a strict schedule, so I can wake up later and enjoy my free time.I usually go out with friends, exercise, watch movies, or spend time with my family.Sometimes I also study English because I want to improve my speaking skills.I think weekends are important because they help me recharge and prepare for a new week.
 
-  I work in a developer.  I work as a developer.  Dùng **as** trước nghề
-                                                  nghiệp.
+### Topic 5: Talk about your lifestyle
 
-  I work for IT.          I work in IT.           Dùng **in** cho lĩnh
-                                                  vực.
+Sample Answer:
 
-  I responsible for       I'm responsible for     Cần động từ "be".
-  sales.                  sales.                  
+> I would describe my lifestyle as quite active, although I sometimes have a busy schedule.I try to exercise regularly and eat healthy food. I also make time for learning new things, especially English and technology.However, I sometimes spend too much time using my phone or working.In the future, I'd like to improve my work-life balance, sleep better, and become more productive.
 
-  I responsible for       I'm responsible for     Sau "for" dùng danh từ
-  manage the team.        managing the team.      hoặc V-ing.
+### 7\. Real-life Conversations — 5 tình huống giao tiếp
 
-  I am work now.          I'm working now.        Hiện tại tiếp diễn:
-                                                  am/is/are + V-ing.
+### Conversation 1: Talking about daily routines
 
-  My manager work here.   My manager works here.  Chủ ngữ ngôi thứ ba số
-                                                  ít thêm -s.
-  -----------------------------------------------------------------------
+A: What time do you usually wake up?
 
-------------------------------------------------------------------------
+B: I usually wake up at around seven.
 
-## 11. Daily speaking challenge --- Thử thách hôm nay
+A: Do you have breakfast every morning?
 
-Hãy ghi âm một đoạn nói **90 giây đến 2 phút** với chủ đề:
+B: Yes, I do. I usually have eggs and coffee.
 
-**"My Job and My Career Goals"**
+A: What time do you start work?
 
-Bắt buộc sử dụng: - 5 từ vựng trong phần Vocabulary. - 2 câu với Present
-Simple. - 2 câu với Present Continuous hoặc cấu trúc trách nhiệm. - 1
-câu nói về điều bạn thích. - 1 câu nói về mục tiêu tương lai.
+B: At around eight thirty.
 
-### Checklist tự đánh giá
+A: That's quite early!
 
--   [ ] Tôi có thể giới thiệu nghề nghiệp trong 3--4 câu.
--   [ ] Tôi mô tả được ít nhất 3 nhiệm vụ.
--   [ ] Tôi phân biệt được job, work và career.
--   [ ] Tôi dùng đúng work as / work for / work in.
--   [ ] Tôi nói được về một kỹ năng và một mục tiêu nghề nghiệp.
--   [ ] Tôi có thể duy trì cuộc hội thoại khoảng 2 phút.
+B: Yeah, but I'm used to it.
 
-**Mẹo:** Đừng cố học thuộc toàn bộ bài mẫu. Hãy ghi nhớ ý chính và luyện
-nói bằng câu của chính bạn. Nếu quên một từ, hãy giải thích bằng từ đơn
-giản hơn thay vì dừng lại quá lâu.
+### Conversation 2: Talking about being busy
 
-------------------------------------------------------------------------
+A: How's your day going?
 
-## 12. Preview --- Day 09
+B: Pretty busy, actually. I have a lot of work to do.
 
-**DAY 09 --- TALKING ABOUT YOUR JOB IN DETAIL**
+A: What are you working on?
 
-Ngày tiếp theo sẽ tập trung sâu hơn vào: - Mô tả nhiệm vụ và quy trình
-làm việc. - Nói về kỹ năng, kinh nghiệm và thành tích. - Giải thích vấn
-đề và cách giải quyết. - Cập nhật tiến độ công việc với đồng nghiệp. -
-Luyện nói dài hơn, tự nhiên hơn trong môi trường làm việc.
+B: I'm working on a new project.
+
+A: I see. Do you think you'll finish it today?
+
+B: Hopefully. I'm trying to finish everything before the deadline.
+
+Useful expressions:
+
+* Pretty busy, actually.
+
+* I've got a lot on my plate.
+
+* I'm working on something important.
+
+* I'm running out of time.
+
+* I'm almost done.
+
+### Conversation 3: Talking about exercise
+
+![Two young men talking to each other in health club.](https://images.openai.com/static-rsc-4/l9hPdjicMNLYBNBdwQ5XtJWI49Qhjmy0612fpxnnSChf0-IA-A5XiKcdUjIhOXlf6OsM4dy4kCL2ZGUHLq_wYQmBi1hAwEFotzKFomPtEJN0ya3I5kAKLY5wRRH-JhidfSA2tUBFqdrPOvtlkTs9sMXoZtnEaWhMYIfaH80bYBD6FCqRjBTpDcMvFvn22xkQ?purpose=fullsize)
+
+A: Do you exercise regularly?
+
+B: Yes, I try to work out three or four times a week.
+
+A: What kind of exercise do you do?
+
+B: I usually do weight training and sometimes practice boxing.
+
+A: How long do you work out?
+
+B: Usually about an hour.
+
+A: That's great. I should start exercising too.
+
+B: You should! It really helps you feel better.
+
+### Conversation 4: Talking about free time
+
+A: What do you do when you have some free time?
+
+B: It depends. Sometimes I watch movies, play games, or study English.
+
+A: What kind of movies do you like?
+
+B: I enjoy action movies and thrillers.
+
+A: Do you prefer staying home or going out?
+
+B: It depends on my mood. I enjoy both.
+
+### Conversation 5: Making weekend plans
+
+A: Are you free this Saturday?
+
+B: I think so. Why?
+
+A: Do you want to grab a coffee?
+
+B: Sure! What time?
+
+A: How about 3 p.m.?
+
+B: Sounds good. See you then!
+
+A: See you!
+
+### 8\. Free Speaking — Tự luyện nói (20 phút)
+
+Đây là phần bạn nên dành nhiều sự tập trung nhất.
+
+### Exercise A — 1-minute challenge
+
+Topic: My Typical Morning
+
+Hãy nói trong 1 phút, không đọc bài mẫu.
+
+Gợi ý:
+
+* What time do you wake up?
+
+* What do you do first?
+
+* What do you eat for breakfast?
+
+* What time do you start work?
+
+* How do you feel in the morning?
+
+Sample Answer:
+
+> I usually wake up at seven in the morning. First, I get out of bed and brush my teeth. Then I take a shower and get dressed. After that, I have breakfast and drink some coffee. I usually start working at around eight thirty. I prefer waking up early because I feel more productive in the morning.
+
+### Exercise B — 2-minute challenge
+
+Topic: My Daily Lifestyle
+
+Hãy sử dụng các từ sau:
+
+`usually / sometimes / because / after that / however / in my free time / recently`
+
+Sample Answer:
+
+> I usually have a busy daily schedule. I wake up in the morning, get ready, and start working.During the day, I spend most of my time working and learning new things. Sometimes I have a lot of tasks to complete, so I need to manage my time carefully.After work, I usually exercise or relax at home. I also spend some time studying English because I want to improve my communication skills.Recently, I've been trying to build better habits. However, it's sometimes difficult to stay consistent.In my free time, I enjoy watching movies, going out with friends, and learning about technology.
+
+### Exercise C — Quick Response
+
+Trả lời mỗi câu trong vòng 5 giây:
+
+* What time do you wake up?
+
+* Do you drink coffee?
+
+* How often do you exercise?
+
+* What do you usually eat for breakfast?
+
+* How many hours do you work every day?
+
+* What do you do after work?
+
+* Do you prefer mornings or evenings?
+
+* What do you do on weekends?
+
+* How much time do you spend learning English?
+
+* Are you busy today?
+
+Sample responses:
+
+* I usually wake up at seven.
+
+* Yes, I drink coffee every morning.
+
+* I exercise three times a week.
+
+* I usually have eggs and bread.
+
+* I work for about eight hours.
+
+* I usually go to the gym or relax.
+
+* I prefer evenings because I feel more relaxed.
+
+* I usually meet friends or spend time with my family.
+
+* I spend about two hours a day.
+
+* Yes, I have quite a busy schedule today.
+
+### 9\. Exercises — Bài tập (có đáp án)
+
+### Exercise 1: Choose the correct answer
+
+1\. I usually ______ up at 7 a.m.
+
+* A. wake
+
+* B. wakes
+
+* C. waking
+
+2\. She ______ dinner right now.
+
+* A. cooks
+
+* B. is cooking
+
+* C. cook
+
+3\. How often ______ you exercise?
+
+* A. are
+
+* B. does
+
+* C. do
+
+4\. He ______ to the gym three times a week.
+
+* A. go
+
+* B. goes
+
+* C. going
+
+5\. I ______ English at the moment.
+
+* A. study
+
+* B. studies
+
+* C. am studying
+
+Answers and explanations:
+
+* A — Chủ ngữ I + động từ nguyên mẫu.
+
+* B — Right now là hành động đang diễn ra.
+
+* C — How often do you + động từ?
+
+* B — He + goes.
+
+* C — At the moment dùng Present Continuous.
+
+### Exercise 2: Fill in the blanks
+
+Use: `usually / sometimes / never / every day / right now`
+
+* I ______ wake up at 7 a.m.
+
+* She is working ______.
+
+* I study English ______.
+
+* I ______ drink alcohol. (0 lần)
+
+* I ______ go to the gym on weekends, but not every weekend.
+
+Answers:
+
+* usually
+
+* right now
+
+* every day
+
+* never
+
+* sometimes
+
+### Exercise 3: Translate into English
+
+* Tôi thường thức dậy lúc 7 giờ sáng.
+
+* Tôi đang học tiếng Anh ngay bây giờ.
+
+* Tôi tập gym ba lần một tuần.
+
+* Tôi dành khoảng 2 tiếng mỗi ngày để học.
+
+* Sau giờ làm, tôi thường đi tập thể dục.
+
+* Cuối tuần tôi thích dành thời gian cho gia đình.
+
+* Gần đây tôi đang cố gắng cải thiện thói quen hằng ngày.
+
+* Tôi muốn duy trì sự cân bằng giữa công việc và cuộc sống.
+
+Suggested answers:
+
+* I usually wake up at 7 a.m.
+
+* I'm studying English right now.
+
+* I go to the gym three times a week.
+
+* I spend about two hours a day studying.
+
+* After work, I usually exercise.
+
+* I like spending time with my family at weekends.
+
+* Recently, I've been trying to improve my daily habits.
+
+* I want to maintain a healthy work-life balance.
+
+### Exercise 4: Correct the mistakes
+
+* I wakes up at 7 a.m.
+
+* She working right now.
+
+* I am go to the gym every day.
+
+* He don't like coffee.
+
+* How often are you exercise?
+
+* I spend two hours study English.
+
+Answers:
+
+* I wake up at 7 a.m. — I không thêm s.
+
+* She is working right now. — Thiếu động từ to be.
+
+* I go to the gym every day. — Thói quen dùng Present Simple.
+
+* He doesn't like coffee. — He dùng doesn't.
+
+* How often do you exercise? — Câu hỏi Present Simple.
+
+* I spend two hours studying English. — Spend time + V-ing.
+
+### 10\. Final Speaking Quiz
+
+Day 8 Quiz
+
+0/5 answered
+
+1. How often do you exercise?
+
+A. Three times a week.
+
+B. At seven o'clock.
+
+C. For eight hours.
+
+2. She ___ breakfast every morning.
+
+A. have
+
+B. has
+
+C. having
+
+3. I'm ___ dinner right now.
+
+A. cook
+
+B. cooks
+
+C. cooking
+
+4. How long do you work every day?
+
+A. For about eight hours.
+
+B. Three times a week.
+
+C. At home.
+
+5. Which sentence is correct?
+
+A. I spend one hour study English.
+
+B. I spend one hour studying English.
+
+C. I spending one hour to study English.
+
+Submit answers
+
+### 11\. Homework — Bài tập về nhà
+
+Task 1 — Vocabulary
+
+Học lại 25 từ vựng quan trọng và đặt 10 câu với các cụm:
+
+* wake up
+
+* get dressed
+
+* have breakfast
+
+* start work
+
+* take a break
+
+* finish work
+
+* work out
+
+* hang out
+
+* relax
+
+* go to bed
+
+Task 2 — Speaking Recording
+
+Ghi âm bài nói 3 phút:
+
+"A Typical Day in My Life"
+
+Yêu cầu:
+
+* Mô tả buổi sáng.
+
+* Mô tả thời gian làm việc.
+
+* Mô tả buổi tối.
+
+* Nói về sở thích.
+
+* Nói về điều bạn muốn cải thiện.
+
+Task 3 — Real-life Practice
+
+Tự đóng vai hai người đang nói chuyện:
+
+Person A: What does your typical day look like?
+
+Person B: ...
+
+Tiếp tục hội thoại với ít nhất 10 lượt trao đổi.
+
+### 12\. Daily Checklist
+
+Day 8 Progress
+
+### 0%
+
+Học 25 từ vựng Daily Activities
+
+Học 8 collocations
+
+Luyện phát âm 15 phút
+
+Ôn Present Simple và Present Continuous
+
+Luyện How often / How long / How much time
+
+Hoàn thành 2 bài Listening
+
+Nói về Daily Routine trong 2–3 phút
+
+Hoàn thành bài tập và quiz
+
+Ghi âm bài nói 3 phút
+
+### 13\. Preview — Day 9
+
+![Wpływ aktywności fizycznej na zdrowie mózgu](https://images.openai.com/static-rsc-4/2LNSgCG4DkVBlmVjMvZPQswtzv9FotI1UAhPdHa98G1ogcV_X1hixk2asx-EcqIO6QnuZOxCD_gi0QdcNhi7nNkq--h1DBBIn8hr6cje9_asFU9y-ut82CVNo3kG1nsoVZNgfR2NWK7EvJOFn-KomFuQOSJCvW_MnnCbecpEpHIqpJAIKEkCaBHfI3UWczXH?purpose=fullsize)
+
+DAY 9 — HEALTH, FITNESS & EXERCISE
+
+New Topic
+
+Nói về sức khỏe, thể thao, tập luyện và thói quen sống lành mạnh.
+
+Nội dung Day 9:
+
+* 25 từ vựng về Health & Fitness.
+
+* Body parts và physical activities.
+
+* Cấu trúc should / shouldn't / have to / must.
+
+* Nói về sức khỏe và cảm giác cơ thể.
+
+* 5 hội thoại tại phòng gym.
+
+* Listening: My Fitness Journey.
+
+* Speaking: How do you stay healthy?
+
+* Exercises và answer keys.
+
+Mục tiêu: Có thể trò chuyện khoảng 3–5 phút về sức khỏe, chế độ tập luyện và lối sống.
+
+Khi sẵn sàng, hãy nói Continue để bắt đầu Day 9.
